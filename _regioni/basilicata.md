@@ -6,15 +6,15 @@ nav_order: 2
 
 # Guida di studio per la prova orale - Basilicata
 
-**Esame orale guida turistica nazionale italiana 2026**  
-**Volume regionale: Basilicata**  
+**Esame orale guida turistica nazionale italiana 2026**
+**Volume regionale: Basilicata**
 **Perimetro:** solo prova orale, con approfondimento extra per i siti che compaiono anche nella prova pratica.
 
 ---
 
-## 0. Uso del programma d'esame
+## 0. Perimetro della scheda
 
-Nel programma allegato, per la **Basilicata** nella **Sezione I** della prova orale compaiono quattro siti:
+Nella traccia d'esame per la **Basilicata** nella **Sezione I** della prova orale compaiono quattro siti:
 
 | Codice | Sito                                | Località                      | Provincia                | Presenza nella prova pratica |
 | -----: | ----------------------------------- | ----------------------------- | ------------------------ | ---------------------------- |
@@ -54,7 +54,7 @@ _Immagine: strada per Pietrapertosa vista da Castelmezzano, Wikimedia Commons._
 
 ### 1.2 Dove si trovano e perché la posizione è importante
 
-Le Dolomiti Lucane si trovano nel cuore della Basilicata interna, nell'Appennino lucano, intorno ai borghi di **Castelmezzano** e **Pietrapertosa**. Il programma d'esame le colloca correttamente in provincia di Potenza, ma è utile sapere che il sistema paesaggistico più ampio rientra nel **Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane**, che coinvolge anche comuni della provincia di Matera.
+Le Dolomiti Lucane si trovano nel cuore della Basilicata interna, nell'Appennino lucano, intorno ai borghi di **Castelmezzano** e **Pietrapertosa**. La traccia d'esame le colloca correttamente in provincia di Potenza, ma è utile sapere che il sistema paesaggistico più ampio rientra nel **Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane**, che coinvolge anche comuni della provincia di Matera.
 
 L'elemento da chiarire subito all'orale è che il nome "Dolomiti" non indica una continuità geologica diretta con le Dolomiti alpine. Qui il termine è soprattutto morfologico e percettivo: le rocce, modellate dall'erosione, assumono forme aguzze, guglie e pareti verticali che richiamano visivamente le montagne dolomitiche del Nord Italia. La pagina del Parco spiega che le Dolomiti Lucane di Pietrapertosa e Castelmezzano sono formate da **arenarie cementate**, sollevate dalle fasi tettoniche dell'Appennino meridionale e poi modellate dagli agenti erosivi.
 
@@ -118,16 +118,16 @@ Il Parco offre una rete di percorsi. Il **sentiero 710**, ad esempio, parte e ar
 
 ### 1.7 Domande probabili d'orale
 
-**Domanda:** Perché si chiamano Dolomiti Lucane?  
+**Domanda:** Perché si chiamano Dolomiti Lucane?
 **Risposta sintetica:** Per la somiglianza morfologica con le Dolomiti alpine: guglie, pareti e forme aguzze. Dal punto di vista geologico, però, l'area è formata da arenarie cementate modellate dall'erosione.
 
-**Domanda:** Quali sono i borghi principali da collegare al sito?  
+**Domanda:** Quali sono i borghi principali da collegare al sito?
 **Risposta sintetica:** Castelmezzano e Pietrapertosa, entrambi integrati nel paesaggio roccioso e legati al Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane.
 
-**Domanda:** Qual è il valore turistico-culturale del sito?  
+**Domanda:** Qual è il valore turistico-culturale del sito?
 **Risposta sintetica:** Il valore sta nel rapporto tra paesaggio naturale, geologia, borghi storici, percorsi escursionistici e valorizzazione turistica sostenibile.
 
-**Domanda:** Che cosa non bisogna dimenticare parlando di Pietrapertosa?  
+**Domanda:** Che cosa non bisogna dimenticare parlando di Pietrapertosa?
 **Risposta sintetica:** La Rabatana, la rupe, i resti del castello normanno-svevo e il rapporto tra abitato e difesa.
 
 ### 1.8 Errori da evitare
@@ -256,16 +256,16 @@ Una risposta forte deve tenere insieme questi livelli. Se si parla solo delle Ta
 
 ### 2.9 Domande probabili d'orale
 
-**Domanda:** Che cos'è Metaponto nel contesto della Magna Grecia?  
+**Domanda:** Che cos'è Metaponto nel contesto della Magna Grecia?
 **Risposta sintetica:** È una città greca dell'Italia meridionale, fondata dagli Achei nella seconda metà del VII secolo a.C., importante per l'urbanistica, i santuari e il controllo del territorio agricolo del Metapontino.
 
-**Domanda:** Che cosa sono le Tavole Palatine?  
+**Domanda:** Che cosa sono le Tavole Palatine?
 **Risposta sintetica:** Sono i resti di un tempio dorico extraurbano dedicato a Hera, situato presso il fiume Bradano, a circa 3 km dall'antica città.
 
-**Domanda:** Perché il complesso non va ridotto alle Tavole Palatine?  
+**Domanda:** Perché il complesso non va ridotto alle Tavole Palatine?
 **Risposta sintetica:** Perché comprende anche l'area urbana, l'agorà, i templi, la necropoli e il Museo Archeologico Nazionale, che insieme permettono di leggere la polis greca nel suo rapporto con il territorio.
 
-**Domanda:** Quali divinità sono associate ai templi dell'area urbana?  
+**Domanda:** Quali divinità sono associate ai templi dell'area urbana?
 **Risposta sintetica:** Atena per il Tempio C, Hera per il Tempio A, Apollo Licio per il Tempio B e Artemide per il Tempio D.
 
 ### 2.10 Errori da evitare
@@ -399,16 +399,16 @@ Il Parco va collegato ai centri abitati e alle tradizioni locali. La guida non a
 
 ### 3.10 Domande probabili d'orale
 
-**Domanda:** Perché il Pollino è importante nel sistema dei parchi italiani?  
+**Domanda:** Perché il Pollino è importante nel sistema dei parchi italiani?
 **Risposta sintetica:** È una delle più grandi aree protette italiane, si estende tra Basilicata e Calabria e conserva paesaggi montani, biodiversità, geodiversità e tradizioni locali.
 
-**Domanda:** Qual è il simbolo naturalistico del Parco?  
+**Domanda:** Qual è il simbolo naturalistico del Parco?
 **Risposta sintetica:** Il pino loricato, specie adattata agli ambienti freddi e aridi d'alta quota, riconoscibile per la corteccia simile a una corazza.
 
-**Domanda:** Che cosa significa che il Pollino è un UNESCO Global Geopark?  
+**Domanda:** Che cosa significa che il Pollino è un UNESCO Global Geopark?
 **Risposta sintetica:** Significa che il territorio è riconosciuto per il suo patrimonio geologico e per la valorizzazione sostenibile della geodiversità in rapporto alle comunità locali.
 
-**Domanda:** Il Pollino appartiene solo alla Basilicata?  
+**Domanda:** Il Pollino appartiene solo alla Basilicata?
 **Risposta sintetica:** No. È un parco interregionale tra Basilicata e Calabria; il programma lo colloca tra Potenza, Matera e Cosenza.
 
 ### 3.11 Errori da evitare
@@ -571,19 +571,19 @@ La visita non dovrebbe fermarsi alla città. Il paesaggio opposto della Murgia p
 
 ### 4.11 Domande probabili d'orale
 
-**Domanda:** Perché i Sassi di Matera sono patrimonio UNESCO?  
+**Domanda:** Perché i Sassi di Matera sono patrimonio UNESCO?
 **Risposta sintetica:** Perché costituiscono un esempio eccezionale di insediamento rupestre adattato al contesto geomorfologico, con continuità storica lunga e rapporto equilibrato tra comunità, architettura e ambiente.
 
-**Domanda:** Quali sono i due rioni principali dei Sassi?  
+**Domanda:** Quali sono i due rioni principali dei Sassi?
 **Risposta sintetica:** Sasso Barisano e Sasso Caveoso, a cui si collegano la Civita, il Piano e il Parco delle Chiese Rupestri.
 
-**Domanda:** Che cosa sono le case-grotta?  
+**Domanda:** Che cosa sono le case-grotta?
 **Risposta sintetica:** Sono abitazioni articolate tra ambienti scavati nella roccia e parti costruite, adattate alla pendenza, al clima, alla raccolta dell'acqua e alla vita comunitaria.
 
-**Domanda:** Che cosa accadde ai Sassi nel Novecento?  
+**Domanda:** Che cosa accadde ai Sassi nel Novecento?
 **Risposta sintetica:** A causa delle gravi condizioni igienico-sanitarie, gli abitanti furono trasferiti negli anni Cinquanta; dagli anni Ottanta è iniziato un processo di recupero e rifunzionalizzazione.
 
-**Domanda:** Perché bisogna citare anche il Parco delle Chiese Rupestri?  
+**Domanda:** Perché bisogna citare anche il Parco delle Chiese Rupestri?
 **Risposta sintetica:** Perché il sito UNESCO non comprende solo i rioni dei Sassi, ma anche il paesaggio rupestre della Murgia e le chiese scavate nella roccia.
 
 ### 4.12 Errori da evitare
@@ -652,13 +652,13 @@ Frase chiave da ricordare: **"I Sassi di Matera sono una città-paesaggio in cui
 
 ### 5.2 Domande trasversali possibili
 
-**Domanda:** Qual è il filo conduttore dei siti lucani del programma?  
+**Domanda:** Qual è il filo conduttore dei siti lucani del programma?
 **Risposta:** Il rapporto tra territorio e insediamento. Nelle Dolomiti Lucane la roccia modella i borghi; a Metaponto la pianura ionica sostiene la polis greca; nel Pollino la montagna è biodiversità e cultura; a Matera la Gravina e la Murgia generano una città rupestre.
 
-**Domanda:** Quale sito lucano è UNESCO?  
+**Domanda:** Quale sito lucano è UNESCO?
 **Risposta:** I Sassi e il Parco delle Chiese Rupestri di Matera sono patrimonio mondiale UNESCO dal 1993. Il Pollino è invece UNESCO Global Geopark, che è una categoria diversa.
 
-**Domanda:** Come collegheresti Metaponto e Matera?  
+**Domanda:** Come collegheresti Metaponto e Matera?
 **Risposta:** Sono due modi molto diversi di leggere la Basilicata: Metaponto racconta la Basilicata ionica e greca della Magna Grecia; Matera racconta il paesaggio rupestre, urbano e sociale della Murgia.
 
 ### 5.3 Priorità di studio

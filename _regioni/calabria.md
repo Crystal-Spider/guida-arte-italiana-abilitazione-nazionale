@@ -8,8 +8,8 @@ nav_order: 3
 
 # Calabria
 
-> Documento di studio dedicato alla **Calabria**, costruito per la preparazione della prova orale.  
-> La scheda sintetica regionale è stata rimossa come richiesto: il documento entra direttamente nei siti/musei del programma.  
+> Documento di studio dedicato alla **Calabria**, costruito per la preparazione della prova orale.
+> La scheda sintetica regionale è stata rimossa come richiesto: il documento entra direttamente nei siti/musei del programma.
 > Per i siti presenti anche nella prova tecnico-pratica sono aggiunti esempi di presentazione orale da circa 5 minuti.
 
 ---
@@ -802,12 +802,6 @@ In conclusione, Scolacium è un luogo ideale per raccontare la Calabria non solo
 ---
 
 # Fonti principali consultate
-
-## Programma d'esame
-
-- Programma d'esame allegato, Sezione I, Calabria: Centro storico di Gerace; Museo e Parco Archeologico di Locri Epizefiri; Cattolica di Stilo; Parco Archeologico di Sibari; Museo e Parco Archeologico Nazionale di Capo Colonna; Le Castella; Parco Nazionale della Sila.
-- Programma d'esame allegato, Sezione II, Calabria: Museo Archeologico Nazionale di Reggio Calabria; Bronzi di Riace; Sezione Preistorica; Sezione Romana.
-- Programma d'esame allegato, Sezione III, Calabria: Capo Colonna; Parco archeologico di Scolacium.
 
 ## Siti e musei
 

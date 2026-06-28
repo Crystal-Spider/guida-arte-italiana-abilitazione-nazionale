@@ -6,15 +6,15 @@ nav_order: 1
 
 # Guida di studio per la prova orale - Abruzzo
 
-**Esame orale guida turistica nazionale italiana 2026**  
-**Volume regionale aggiornato: Abruzzo**  
+**Esame orale guida turistica nazionale italiana 2026**
+**Volume regionale aggiornato: Abruzzo**
 **Perimetro:** solo prova orale, con approfondimento extra per i siti che compaiono anche nella prova pratica.
 
 ---
 
-## 0. Uso del programma d'esame
+## 0. Perimetro della scheda
 
-Nel programma allegato, per l'Abruzzo nella **Sezione I** della prova orale compaiono tre siti:
+Nella traccia d'esame per l'Abruzzo nella **Sezione I** della prova orale compaiono tre siti:
 
 | Codice | Sito                 | Località                  | Provincia                 | Presenza nella prova pratica |
 | -----: | -------------------- | ------------------------- | ------------------------- | ---------------------------- |
@@ -140,16 +140,16 @@ Una risposta efficace non deve partire subito dall'elenco dei monumenti. Convien
 
 ### 1.7 Possibili domande d'esame
 
-**Domanda:** Perché Alba Fucens fu fondata in quella posizione?  
+**Domanda:** Perché Alba Fucens fu fondata in quella posizione?
 **Risposta sintetica:** Perché la posizione era strategica per il controllo dell'Italia centrale e dei territori appenninici abitati dagli Equi e vicini ai Marsi. La colonia permetteva a Roma di presidiare un'area interna importante per le comunicazioni e per la stabilizzazione politica del territorio.
 
-**Domanda:** Quali sono gli edifici principali dell'area archeologica?  
+**Domanda:** Quali sono gli edifici principali dell'area archeologica?
 **Risposta sintetica:** Si conservano tratti della cinta muraria, porte urbiche, assi stradali, foro, basilica, diribitorium, macellum, terme, Santuario di Ercole, resti di domus, tempio di Apollo trasformato nella chiesa di San Pietro e l'anfiteatro del I secolo d.C.
 
-**Domanda:** Qual è l'interesse della chiesa di San Pietro in Albe?  
+**Domanda:** Qual è l'interesse della chiesa di San Pietro in Albe?
 **Risposta sintetica:** Sorge nell'area di un precedente tempio di Apollo, trasformato in chiesa cristiana nel VI secolo d.C. È quindi un esempio di continuità e trasformazione dei luoghi sacri dall'età romana al Medioevo.
 
-**Domanda:** Perché l'anfiteatro è importante?  
+**Domanda:** Perché l'anfiteatro è importante?
 **Risposta sintetica:** È il monumento più riconoscibile del sito e testimonia la fase imperiale della città. La sua costruzione nel I secolo d.C. mostra l'adozione dei modelli monumentali e spettacolari tipici della cultura romana.
 
 ### 1.8 Errori da evitare
@@ -209,7 +209,7 @@ _Immagine: Corno Grande visto da Campo Imperatore, Wikimedia Commons._
 | Voce                   | Contenuto                                                                                                                   |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Sito                   | Parco del Gran Sasso                                                                                                        |
-| Località               | Province di L'Aquila, Teramo e Pescara nel programma d'esame; il Parco si estende anche oltre i confini regionali abruzzesi |
+| Località               | Province di L'Aquila, Teramo e Pescara nella traccia d'esame; il Parco si estende anche oltre i confini regionali abruzzesi |
 | Tipologia              | Parco nazionale, paesaggio montano, area naturalistica e storico-culturale                                                  |
 | Istituzione            | Parco istituito nel 1991; Ente Parco istituito nel 1995; operativo dal 1996                                                 |
 | Elementi geografici    | Gran Sasso d'Italia, Monti della Laga, Monti Gemelli, Campo Imperatore, Corno Grande, Ghiacciaio del Calderone              |
@@ -293,13 +293,13 @@ Una risposta ordinata può seguire questa sequenza:
 
 ### 2.8 Possibili domande d'esame
 
-**Domanda:** Quali sono gli elementi geografici principali del Parco?  
+**Domanda:** Quali sono gli elementi geografici principali del Parco?
 **Risposta sintetica:** Il Parco comprende la catena del Gran Sasso, i Monti della Laga e i Monti Gemelli. Il Corno Grande, nel Gran Sasso, è la vetta più alta dell'Appennino; Campo Imperatore è uno dei paesaggi d'altopiano più noti.
 
-**Domanda:** Perché il Parco è importante dal punto di vista naturalistico?  
+**Domanda:** Perché il Parco è importante dal punto di vista naturalistico?
 **Risposta sintetica:** È un'area di grande biodiversità, dovuta alla varietà di quote, geologie e ambienti. Ospita specie vegetali endemiche e relitte, fauna appenninica di rilievo e habitat montani, forestali e carsici.
 
-**Domanda:** Come collegheresti natura e cultura nel Parco?  
+**Domanda:** Come collegheresti natura e cultura nel Parco?
 **Risposta sintetica:** Il Parco conserva non solo ambienti naturali, ma anche paesaggi storici modellati da pastorizia, transumanza, borghi, castelli, abbazie e vie di comunicazione. È quindi un paesaggio culturale oltre che naturalistico.
 
 ### 2.9 Errori da evitare
@@ -349,7 +349,7 @@ Per l'orale, il punto centrale è che la Costa dei Trabocchi non va raccontata s
 
 ### 3.3 Geografia del tratto costiero
 
-Nel programma d'esame la località è indicata come **Ortona-Vasto**, in provincia di Chieti. Si tratta di un tratto di litorale medio-adriatico caratterizzato da alternanza di:
+Nella traccia d'esame la località è indicata come **Ortona-Vasto**, in provincia di Chieti. Si tratta di un tratto di litorale medio-adriatico caratterizzato da alternanza di:
 
 - promontori;
 - calette;
@@ -421,16 +421,16 @@ Una risposta ordinata può seguire questa struttura:
 
 ### 3.9 Possibili domande d'esame
 
-**Domanda:** Che cosa sono i trabocchi?  
+**Domanda:** Che cosa sono i trabocchi?
 **Risposta sintetica:** Sono antiche macchine da pesca in legno, costruite su palafitte e collegate alla riva, che permettevano di pescare senza uscire in mare aperto. Oggi sono simboli identitari della costa chietina e del paesaggio marittimo abruzzese.
 
-**Domanda:** Perché la Costa dei Trabocchi è un paesaggio culturale?  
+**Domanda:** Perché la Costa dei Trabocchi è un paesaggio culturale?
 **Risposta sintetica:** Perché unisce ambiente naturale e intervento umano: i trabocchi sono manufatti legati al lavoro dei pescatori, i borghi costieri raccontano la storia del territorio, e la costa conserva anche valori letterari, religiosi, storici e turistici.
 
-**Domanda:** Quali località collegheresti alla Costa dei Trabocchi?  
+**Domanda:** Quali località collegheresti alla Costa dei Trabocchi?
 **Risposta sintetica:** Ortona, San Vito Chietino, Rocca San Giovanni, Fossacesia, Torino di Sangro, Punta Aderci e Vasto sono riferimenti utili per descrivere il tratto costiero e la varietà dei suoi paesaggi.
 
-**Domanda:** Che ruolo ha oggi la Via Verde?  
+**Domanda:** Che ruolo ha oggi la Via Verde?
 **Risposta sintetica:** La Via Verde favorisce una fruizione lenta e sostenibile della costa, collegando paesaggio marino, trabocchi, borghi e aree naturali attraverso un itinerario ciclopedonale.
 
 ### 3.10 Errori da evitare
@@ -468,16 +468,16 @@ Frase chiave: **"La Costa dei Trabocchi è un paesaggio culturale marittimo: i t
 
 ### 4.2 Domande trasversali
 
-1. **Come descriveresti l'identità turistica dell'Abruzzo partendo da questi tre siti?**  
+1. **Come descriveresti l'identità turistica dell'Abruzzo partendo da questi tre siti?**
    Risposta attesa: regione di forte varietà paesaggistica, dalla montagna appenninica al mare adriatico, con importanti testimonianze archeologiche romane e paesaggi culturali legati al lavoro umano.
 
-2. **Quale collegamento puoi fare tra Alba Fucens e il Gran Sasso?**  
+2. **Quale collegamento puoi fare tra Alba Fucens e il Gran Sasso?**
    Risposta attesa: entrambi sono legati all'Appennino centrale; Alba Fucens mostra il controllo romano dei territori interni, il Gran Sasso conserva il paesaggio montano, naturale e pastorale di quell'area.
 
-3. **Quale collegamento puoi fare tra Gran Sasso e Costa dei Trabocchi?**  
+3. **Quale collegamento puoi fare tra Gran Sasso e Costa dei Trabocchi?**
    Risposta attesa: mostrano la doppia anima dell'Abruzzo, montana e marittima; in entrambi i casi il paesaggio è il risultato di natura e cultura, non solo di bellezza naturale.
 
-4. **Qual è il sito abruzzese da preparare anche come esposizione pratica?**  
+4. **Qual è il sito abruzzese da preparare anche come esposizione pratica?**
    Risposta attesa: Alba Fucens, perché compare sia nella sezione orale sia nella sezione pratica del programma.
 
 ### 4.3 Ordine consigliato di studio
@@ -488,22 +488,18 @@ Frase chiave: **"La Costa dei Trabocchi è un paesaggio culturale marittimo: i t
 
 ### 4.4 Mini-simulazione orale
 
-**Traccia 1:** "Il candidato illustri Alba Fucens, con particolare attenzione alla fondazione romana e all'organizzazione urbana."  
+**Traccia 1:** "Il candidato illustri Alba Fucens, con particolare attenzione alla fondazione romana e all'organizzazione urbana."
 Risposta da costruire: localizzazione → colonia latina → mura → città pubblica → terme/mercato → religione → anfiteatro → stratificazione medievale.
 
-**Traccia 2:** "Il candidato presenti il Parco del Gran Sasso come risorsa naturalistica e culturale."  
+**Traccia 2:** "Il candidato presenti il Parco del Gran Sasso come risorsa naturalistica e culturale."
 Risposta da costruire: parco nazionale → sistemi montuosi → Corno Grande/Campo Imperatore → biodiversità → fauna → borghi/transumanza → turismo sostenibile.
 
-**Traccia 3:** "Il candidato descriva la Costa dei Trabocchi come paesaggio culturale."  
+**Traccia 3:** "Il candidato descriva la Costa dei Trabocchi come paesaggio culturale."
 Risposta da costruire: localizzazione Ortona-Vasto → trabocchi → pesca tradizionale → paesaggio costiero → borghi/riserve → Via Verde → turismo lento.
 
 ---
 
 ## 5. Fonti consultate
-
-### Programma d'esame
-
-- Programma d'esame allegato dall'utente, Sezione I, Sezione II e Sezione III.
 
 ### Fonti istituzionali e affidabili
 
