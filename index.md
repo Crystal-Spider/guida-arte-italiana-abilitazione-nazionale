@@ -5,7 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# GAIA Nazionale - Guida all'Arte Italiana per l'Abilitazione Nazionale
+# GAIA Nazionale
+
+Guida all'Arte Italiana per l'Abilitazione Nazionale
 
 Questo sito raccoglie le schede di studio regionali per la preparazione della prova orale.
 
