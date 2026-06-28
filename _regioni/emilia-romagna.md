@@ -4,56 +4,28 @@ layout: default
 nav_order: 5
 ---
 
-# Guida per la prova orale - Emilia-Romagna
+# Emilia-Romagna
 
 ## Perimetro e orientamento
-**Perimetro:** solo contenuti di regione/sito utili alla prova orale, secondo la traccia d'esame.
-**Aggiornamento:** 28 giugno 2026.
-**Impostazione:** schede approfondite, senza scheda sintetica regionale.
-**Nota pratica:** in appendice sono presenti esempi di presentazione da circa 5 minuti per i siti dell'Emilia-Romagna presenti anche nella prova tecnico-pratica o presenti solo nella Sezione III.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Emilia-Romagna. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
----
-
-
-#### Sezione I - siti per la prova orale
-
-| ID | Sito | Località | Provincia | Nota per lo studio |
+| N. | Voce | Tipologia | Area | Note |
 |---:|---|---|---|---|
-| 25 | Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra | Ravenna | Ravenna | Capitale tardoantica, mosaico, cristianesimo, Bisanzio, continuità romana |
-| 26 | Duomo e Battistero di Parma | Parma | Parma | Romanico, Antelami, Correggio, liturgia battesimale |
-| 27 | Complesso monumentale della Pilotta | Parma | Parma | Farnese, museo complesso, Teatro Farnese, Galleria Nazionale, Biblioteca Palatina |
-| 28 | Ferrara, Città del Rinascimento, Castello Estense e Delta del Po | Ferrara e area del Delta del Po | Ferrara | Este, città ideale, Addizione Erculea, paesaggio culturale, acqua e potere |
-| 29 | Duomo e Palazzo Ducale | Modena | Modena | Romanico UNESCO, Lanfranco e Wiligelmo, Estensi, Accademia Militare |
-| 30 | Torre degli Asinelli e Torre della Garisenda | Bologna | Bologna | città comunale, torri gentilizie, prestigio familiare, identità urbana |
+| 1 | Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 2 | Duomo e Battistero di Parma | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 3 | Complesso monumentale della Pilotta | Sito o tema | Vedi scheda | Scheda principale |
+| 4 | Ferrara, Città del Rinascimento, Castello Estense e Delta del Po | Sito storico-artistico | Castello Estense e Delta del Po | Scheda principale |
+| 5 | Duomo e Palazzo Ducale di Modena | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 6 | Torre degli Asinelli e Torre della Garisenda | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 7 | Museo Nazionale di Ravenna | Museo | Vedi scheda | Scheda principale |
 
-#### Sezione II - museo dell'Emilia-Romagna per la prova orale
-
-| ID | Museo | Sezioni richieste | Città |
-|---:|---|---|---|
-| 4 | Museo Nazionale di Ravenna | Mosaici; Oggetti paleocristiani; Codici miniati | Ravenna |
-
-#### Sezione III - siti dell'Emilia-Romagna per la prova tecnico-pratica
-
-Questi non sono oggetto di approfondimento completo nel documento orale, ma, secondo la regola richiesta, ricevono in appendice una **presentazione modello da circa 5 minuti**:
-
-| ID | Sito | Località | Provincia | Rapporto con il documento |
-|---:|---|---|---|---|
-| 7 | Area archeologica di Marzabotto | Marzabotto | Bologna | P-only, appendice pratica |
-| 8 | I Portici di Bologna | Bologna | Bologna | P-only, appendice pratica |
-| 9 | Monumenti Paleocristiani di Ravenna | Ravenna | Ravenna | anche nel sito orale ID 25; presentazione pratica inclusa |
-
----
-
-## 1. Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra
+## Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra
 
 ![Mosaico di Giustiniano nella Basilica di San Vitale](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg)
-
-*Immagine: mosaico di Giustiniano, Basilica di San Vitale, Ravenna. Fonte: Wikimedia Commons, file "Mosaic of Justinianus I - Basilica San Vitale (Ravenna).jpg".*
+*Mosaico di Giustiniano nella Basilica di San Vitale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg).*
 
 ![Domus dei tappeti di pietra](https://commons.wikimedia.org/wiki/Special:FilePath/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg)
-
-*Immagine: Domus dei tappeti di pietra. Fonte: Wikimedia Commons, file "DOMUS DEI TAPPETI DI PIETRA.jpg".*
-
+*Domus dei tappeti di pietra. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg).*
 ### Inquadramento
 
 Ravenna è uno dei casi più forti, in Italia, per spiegare il passaggio dall'antichità romana al mondo medievale. Non va presentata come "città dei mosaici" in modo generico, ma come una capitale tardoantica e altomedievale in cui si intrecciano tre grandi livelli storici: l'ultima fase dell'Impero romano d'Occidente, il regno ostrogoto di Teodorico e la presenza bizantina in Italia.
@@ -66,13 +38,13 @@ La Domus dei tappeti di pietra completa il quadro in modo diverso: non è un mon
 
 Dal 402 Ravenna diventa sede della corte imperiale d'Occidente, scelta da Onorio per ragioni strategiche: era protetta dalle acque e dalle paludi, collegata al porto di Classe e più difendibile rispetto a Milano. Nel V secolo la città assume un ruolo politico e simbolico di primissimo piano. Dopo la caduta dell'Impero romano d'Occidente, Ravenna diventa capitale del regno ostrogoto di Teodorico. Successivamente, dopo la riconquista giustinianea, diventa centro della presenza bizantina in Italia.
 
-Per l'orale è importante non separare la storia politica dalla storia artistica. I mosaici ravennati sono il linguaggio visivo del potere: rappresentano imperatori, santi, vescovi, cortei, immagini cristologiche e motivi paradisiaci. La città diventa il luogo in cui l'arte cristiana eredita strumenti romani - monumentalità, uso dell'oro, ordine compositivo, iconografia del potere - ma li trasforma in un sistema nuovo, orientato alla liturgia e alla rappresentazione del sacro.
+Per la spiegazione è importante non separare la storia politica dalla storia artistica. I mosaici ravennati sono il linguaggio visivo del potere: rappresentano imperatori, santi, vescovi, cortei, immagini cristologiche e motivi paradisiaci. La città diventa il luogo in cui l'arte cristiana eredita strumenti romani - monumentalità, uso dell'oro, ordine compositivo, iconografia del potere - ma li trasforma in un sistema nuovo, orientato alla liturgia e alla rappresentazione del sacro.
 
 ### Cosa vedere e come raccontarlo
 
 #### Mausoleo di Galla Placidia
 
-Il Mausoleo di Galla Placidia è uno degli edifici più noti per la forza suggestiva dell'interno. All'esterno è sobrio, quasi severo; all'interno si apre invece un universo blu e dorato, in cui il cielo stellato domina la percezione dello spazio. Il contrasto tra esterno semplice e interno prezioso è un tratto utile da evidenziare all'orale: il monumento funziona come passaggio simbolico dalla dimensione terrena a quella ultraterrena.
+Il Mausoleo di Galla Placidia è uno degli edifici più noti per la forza suggestiva dell'interno. All'esterno è sobrio, quasi severo; all'interno si apre invece un universo blu e dorato, in cui il cielo stellato domina la percezione dello spazio. Il contrasto tra esterno semplice e interno prezioso è un tratto utile da evidenziare nella spiegazione: il monumento funziona come passaggio simbolico dalla dimensione terrena a quella ultraterrena.
 
 Temi da ricordare:
 - la croce dorata nel cielo stellato;
@@ -98,7 +70,7 @@ Punti chiave:
 
 #### Battistero degli Ariani
 
-Il Battistero degli Ariani è utile per spiegare la compresenza di diverse confessioni cristiane nella Ravenna ostrogota. Anche qui il tema del Battesimo di Cristo è centrale, ma il contesto è quello della comunità ariana legata al potere goto. All'orale può essere efficace collegarlo al Battistero Neoniano: stesso tema sacramentale, ma diverso contesto dottrinale e politico.
+Il Battistero degli Ariani è utile per spiegare la compresenza di diverse confessioni cristiane nella Ravenna ostrogota. Anche qui il tema del Battesimo di Cristo è centrale, ma il contesto è quello della comunità ariana legata al potere goto. Nella spiegazione può essere efficace collegarlo al Battistero Neoniano: stesso tema sacramentale, ma diverso contesto dottrinale e politico.
 
 #### Cappella Arcivescovile
 
@@ -110,7 +82,7 @@ Il Mausoleo di Teodorico si distingue dagli altri monumenti per materiali, forme
 
 #### Basilica di San Vitale
 
-San Vitale è uno dei vertici dell'arte ravennate. La pianta centrale, il presbiterio riccamente mosaicato e i pannelli con Giustiniano e Teodora permettono di parlare del potere imperiale bizantino, della liturgia e del rapporto tra autorità politica e Chiesa. È importante evitare di descrivere soltanto "mosaici belli": all'esame devi dire perché sono importanti.
+San Vitale è uno dei vertici dell'arte ravennate. La pianta centrale, il presbiterio riccamente mosaicato e i pannelli con Giustiniano e Teodora permettono di parlare del potere imperiale bizantino, della liturgia e del rapporto tra autorità politica e Chiesa. È importante evitare di descrivere soltanto "mosaici belli": alla lettura del sito devi dire perché sono importanti.
 
 I pannelli di Giustiniano e Teodora mostrano due cortei imperiali che partecipano simbolicamente alla liturgia. Anche se gli imperatori non erano fisicamente presenti a Ravenna, la loro immagine li rende presenti nello spazio sacro. Il mosaico diventa così strumento di propaganda e teologia politica.
 
@@ -126,7 +98,7 @@ Sant'Apollinare in Classe collega Ravenna al suo porto. La basilica è celebre p
 
 La Domus dei tappeti di pietra si trova in un ambiente sotterraneo presso la chiesa di Sant'Eufemia. Il nome deriva dall'effetto decorativo delle pavimentazioni, veri "tappeti" di pietra formati da mosaici e intarsi marmorei. Il complesso permette di presentare Ravenna non solo attraverso i grandi monumenti ecclesiastici, ma anche attraverso la dimensione privata e urbana.
 
-In una risposta orale, la Domus può essere usata come contrappunto ai monumenti UNESCO: mentre San Vitale o Sant'Apollinare Nuovo mostrano la Ravenna del potere e della liturgia, la Domus mostra la qualità dell'abitare e la continuità della cultura musiva nella vita civile.
+In una risposta, la Domus può essere usata come contrappunto ai monumenti UNESCO: mentre San Vitale o Sant'Apollinare Nuovo mostrano la Ravenna del potere e della liturgia, la Domus mostra la qualità dell'abitare e la continuità della cultura musiva nella vita civile.
 
 Elementi da ricordare:
 - complesso di residenze stratificate;
@@ -142,7 +114,7 @@ Elementi da ricordare:
 - **Con Bologna:** i monumenti ravennati sono potere imperiale/ecclesiastico; le torri bolognesi sono potere comunale e familiare.
 - **Con Ferrara:** Ravenna capitale tardoantica; Ferrara capitale rinascimentale estense.
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché Ravenna è così importante per la storia dell'arte italiana?
 **Risposta modello:** Ravenna è fondamentale perché conserva un insieme eccezionale di monumenti paleocristiani del V e VI secolo, legati alla fase finale dell'Impero romano d'Occidente, al regno ostrogoto e alla presenza bizantina. Il suo valore principale sta nei mosaici, che mostrano il passaggio dall'arte romana all'arte cristiana e bizantina. Ravenna permette quindi di leggere insieme storia politica, liturgia, immagine del potere e trasformazione del linguaggio artistico.
@@ -167,21 +139,19 @@ Errore da evitare: confondere paleocristiano e bizantino come sinonimi. A Ravenn
 
 ---
 
-## 2. Duomo e Battistero di Parma
+## Duomo e Battistero di Parma
 
 ![Battistero di Parma](https://commons.wikimedia.org/wiki/Special:FilePath/Battistero_Parma.jpg)
-
-*Immagine: Battistero di Parma. Fonte: Wikimedia Commons, file "Battistero Parma.jpg".*
-
+*Battistero di Parma. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Battistero_Parma.jpg).*
 ### Inquadramento
 
-Il complesso del Duomo e del Battistero di Parma è uno dei nuclei più importanti dell'arte medievale emiliana. All'orale va presentato come una piazza sacra, non come due monumenti separati. La Cattedrale di Santa Maria Assunta e il Battistero di San Giovanni Battista formano infatti un insieme liturgico, urbanistico e artistico: la cattedrale è il luogo della comunità e della celebrazione episcopale; il battistero è il luogo dell'iniziazione cristiana.
+Il complesso del Duomo e del Battistero di Parma è uno dei nuclei più importanti dell'arte medievale emiliana. Nella spiegazione va presentato come una piazza sacra, non come due monumenti separati. La Cattedrale di Santa Maria Assunta e il Battistero di San Giovanni Battista formano infatti un insieme liturgico, urbanistico e artistico: la cattedrale è il luogo della comunità e della celebrazione episcopale; il battistero è il luogo dell'iniziazione cristiana.
 
 Il tema centrale è il passaggio dal romanico al primo gotico, con il ruolo decisivo di Benedetto Antelami. A Parma si possono collegare architettura, scultura e pittura: la solidità romanica della cattedrale, il linguaggio scultoreo di Antelami, la verticalità raffinata del Battistero e la stagione rinascimentale degli affreschi di Correggio nella cupola del Duomo.
 
 ### Il Duomo di Parma
 
-La Cattedrale di Santa Maria Assunta ha origini medievali e conserva un impianto romanico di grande forza. La facciata a capanna, il protiro, la scansione delle navate e la decorazione scultorea rimandano alla grande stagione del romanico padano. Per l'esame, i punti essenziali sono tre: la funzione della cattedrale nella città medievale, la presenza di Benedetto Antelami e il capolavoro pittorico della cupola di Correggio.
+La Cattedrale di Santa Maria Assunta ha origini medievali e conserva un impianto romanico di grande forza. La facciata a capanna, il protiro, la scansione delle navate e la decorazione scultorea rimandano alla grande stagione del romanico padano. Per la lettura del sito, i punti essenziali sono tre: la funzione della cattedrale nella città medievale, la presenza di Benedetto Antelami e il capolavoro pittorico della cupola di Correggio.
 
 La cattedrale è un edificio da leggere in verticale e in profondità. In verticale, perché l'interno conduce lo sguardo verso la cupola affrescata; in profondità, perché il monumento accumula secoli diversi: romanico, gotico, rinascimento, restauri e devozione cittadina.
 
@@ -189,7 +159,7 @@ La cattedrale è un edificio da leggere in verticale e in profondità. In vertic
 
 Il nome di Antelami è indispensabile. La sua **Deposizione** è uno dei momenti cardine della scultura medievale italiana. L'opera mostra una capacità narrativa, un ordine compositivo e una tensione espressiva che superano la semplice funzione decorativa. Antelami è importante perché rende la scultura un linguaggio autonomo, capace di raccontare la storia sacra con forza teatrale e chiarezza didattica.
 
-Nell'esposizione orale si può dire che Antelami rappresenta un punto di passaggio: conserva elementi romanici, ma introduce un senso più nuovo della figura, dello spazio e del racconto, anticipando sensibilità gotiche.
+Nell'esposizione si può dire che Antelami rappresenta un punto di passaggio: conserva elementi romanici, ma introduce un senso più nuovo della figura, dello spazio e del racconto, anticipando sensibilità gotiche.
 
 #### Correggio e la cupola
 
@@ -205,13 +175,13 @@ L'esterno, in marmo rosa di Verona, è organizzato in logge sovrapposte che alle
 
 I portali scolpiti non sono semplici ingressi. Sono dispositivi narrativi e teologici: introducono il fedele in uno spazio di trasformazione spirituale. Lo **zooforo**, con animali reali e fantastici, va interpretato nel contesto della simbologia medievale: il mondo naturale e immaginario diventa un repertorio morale, cosmologico e religioso.
 
-All'orale puoi collegare lo zooforo ai bestiari medievali, ma senza perderti in dettagli. Il punto è mostrare che nel Medioevo gli animali scolpiti non hanno una funzione puramente ornamentale: partecipano a una visione simbolica dell'universo.
+Nella spiegazione puoi collegare lo zooforo ai bestiari medievali, ma senza perderti in dettagli. Il punto è mostrare che nel Medioevo gli animali scolpiti non hanno una funzione puramente ornamentale: partecipano a una visione simbolica dell'universo.
 
 ### Come collegare Duomo e Battistero
 
 Il modo migliore per presentare il sito è partire dalla piazza. Il visitatore non vede due monumenti isolati: entra in un sistema urbano e liturgico. Il Duomo rappresenta la comunità raccolta attorno alla cattedra episcopale; il Battistero rappresenta l'ingresso del fedele nella comunità cristiana.
 
-La presenza di Antelami in entrambi i contesti consente di costruire un filo unitario. Il Battistero è il luogo in cui la scultura medievale diventa programma iconografico complesso; il Duomo è il luogo in cui il racconto scultoreo e pittorico dialoga con la funzione liturgica.
+La presenza di Antelami in entrambi i contesti consente di costruire un filo unitario. Il Battistero è il luogo in cui la scultura medievale diventa ciclo iconografico complesso; il Duomo è il luogo in cui il racconto scultoreo e pittorico dialoga con la funzione liturgica.
 
 ### Collegamenti utili
 
@@ -220,7 +190,7 @@ La presenza di Antelami in entrambi i contesti consente di costruire un filo uni
 - **Con la Pilotta:** Parma medievale e Parma ducale sono due volti della stessa città.
 - **Con Ferrara:** Parma e Ferrara mostrano due forme diverse di potere: episcopale/comunale e signorile/ducale.
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché il Battistero di Parma è considerato un monumento di transizione?
 **Risposta modello:** Perché conserva la solidità e la simbologia del romanico, ma introduce elementi di slancio verticale, raffinatezza formale e articolazione decorativa che anticipano il gotico. La forma ottagonale, il marmo rosa di Verona, i loggiati sovrapposti e i portali scolpiti da Benedetto Antelami ne fanno un edificio chiave tra XII e XIII secolo.
@@ -241,21 +211,19 @@ La risposta ideale deve essere ordinata così:
 4. Lettura iconografica: portali, zooforo, battesimo.
 5. Collegamento con Modena e con la scultura romanica padana.
 
-Errore da evitare: parlare solo del Battistero e dimenticare il Duomo. Il programma li indica insieme, quindi conviene sempre presentarli come complesso.
+Errore da evitare: parlare solo del Battistero e dimenticare il Duomo. Il percorso li indica insieme, quindi conviene sempre presentarli come complesso.
 
 ---
 
-## 3. Complesso monumentale della Pilotta
+## Complesso monumentale della Pilotta
 
 ![Palazzo della Pilotta](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_della_Pilotta_-_Parma.jpg)
-
-*Immagine: Palazzo della Pilotta. Fonte: Wikimedia Commons, file "Palazzo della Pilotta - Parma.jpg".*
-
+*Palazzo della Pilotta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_della_Pilotta_-_Parma.jpg).*
 ### Inquadramento
 
 Il Complesso monumentale della Pilotta è il grande polo culturale della Parma ducale. Se il Duomo e il Battistero raccontano la Parma medievale e religiosa, la Pilotta racconta la Parma del potere signorile, della corte e delle collezioni. È un edificio complesso, nato in relazione alla dinastia Farnese e poi trasformato in un contenitore museale di grande importanza.
 
-Il nome "Pilotta" è tradizionalmente collegato al gioco della pelota, praticato negli spazi cortilizi. Ma all'esame è più importante evidenziare la natura del complesso: non un palazzo unitario nel senso classico, ma una grande macchina architettonica e culturale, formata da corpi, cortili, passaggi e istituzioni diverse.
+Il nome "Pilotta" è tradizionalmente collegato al gioco della pelota, praticato negli spazi cortilizi. Ma alla lettura del sito è più importante evidenziare la natura del complesso: non un palazzo unitario nel senso classico, ma una grande macchina architettonica e culturale, formata da corpi, cortili, passaggi e istituzioni diverse.
 
 ### I Farnese e la costruzione del potere
 
@@ -271,7 +239,7 @@ A una guida turistica non basta dire che è "bello": bisogna spiegare che il tea
 
 ### La Galleria Nazionale
 
-La Galleria Nazionale di Parma conserva opere legate alla storia collezionistica della città e del ducato. Per una prova orale, è utile ricordare che la galleria non è un museo casuale: nasce da raccolte storiche e da una lunga sedimentazione di committenze, acquisizioni e trasformazioni istituzionali.
+La Galleria Nazionale di Parma conserva opere legate alla storia collezionistica della città e del ducato. Per una scheda, è utile ricordare che la galleria non è un museo casuale: nasce da raccolte storiche e da una lunga sedimentazione di committenze, acquisizioni e trasformazioni istituzionali.
 
 Nel presentarla, collega sempre le opere al territorio:
 - Correggio e Parmigianino per la scuola parmense;
@@ -283,9 +251,9 @@ Nel presentarla, collega sempre le opere al territorio:
 
 La Pilotta è anche un centro della cultura scritta e della memoria. La Biblioteca Palatina richiama la dimensione erudita e bibliografica della corte; il Museo Bodoniano è legato alla figura di Giambattista Bodoni, grande tipografo attivo a Parma; il Museo Archeologico conserva un patrimonio che consente di aprire il discorso alla storia antica del territorio.
 
-Questa pluralità è un punto di forza per l'esame: la Pilotta non è un monumento monofunzionale, ma un complesso in cui teatro, arti figurative, archeologia, libro e tipografia costruiscono una vera enciclopedia della cultura parmense.
+Questa pluralità è un punto di forza per la lettura del sito: la Pilotta non è un monumento monofunzionale, ma un complesso in cui teatro, arti figurative, archeologia, libro e tipografia costruiscono una vera enciclopedia della cultura parmense.
 
-### Come presentarla all'orale
+### Come presentarla nella spiegazione
 
 Una buona esposizione può seguire questa sequenza:
 
@@ -296,7 +264,7 @@ Una buona esposizione può seguire questa sequenza:
 5. Biblioteca, Bodoniano e Archeologico come ampliamento del concetto di museo.
 6. Conclusione: la Pilotta è un complesso, non un singolo museo.
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché la Pilotta è importante per Parma?
 **Risposta modello:** Perché rappresenta il volto ducale e culturale della città. È un complesso legato alla dinastia Farnese e oggi riunisce funzioni museali diverse: Teatro Farnese, Galleria Nazionale, Biblioteca Palatina, Museo Bodoniano e Museo Archeologico. È quindi un luogo in cui potere politico, collezionismo, spettacolo e cultura scritta si intrecciano.
@@ -317,15 +285,13 @@ Questa frase ti consente di tenere insieme edificio, storia, funzioni e collezio
 
 ---
 
-## 4. Ferrara, Città del Rinascimento, Castello Estense e Delta del Po
+## Ferrara, Città del Rinascimento, Castello Estense e Delta del Po
 
 ![Castello Estense di Ferrara](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Estense,_Ferrara_2014_148.jpg)
-
-*Immagine: Castello Estense, Ferrara. Fonte: Wikimedia Commons, file "Castello Estense, Ferrara 2014 148.jpg".*
-
+*Castello Estense di Ferrara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Estense,_Ferrara_2014_148.jpg).*
 ### Inquadramento
 
-Ferrara è uno dei casi più importanti per parlare di città rinascimentale. Il programma unisce tre elementi che devono essere presentati insieme: la città del Rinascimento, il Castello Estense e il Delta del Po. Non sono tre argomenti separati: costituiscono un unico paesaggio culturale, in cui potere signorile, urbanistica e gestione del territorio si intrecciano.
+Ferrara è uno dei casi più importanti per parlare di città rinascimentale. Il percorso unisce tre elementi che devono essere presentati insieme: la città del Rinascimento, il Castello Estense e il Delta del Po. Non sono tre argomenti separati: costituiscono un unico paesaggio culturale, in cui potere signorile, urbanistica e gestione del territorio si intrecciano.
 
 Il sito UNESCO "Ferrara, città del Rinascimento, e il suo Delta del Po" riconosce proprio questa relazione: Ferrara come centro urbano pianificato e il Delta come territorio modellato, controllato e rappresentato dal potere estense.
 
@@ -333,7 +299,7 @@ Il sito UNESCO "Ferrara, città del Rinascimento, e il suo Delta del Po" riconos
 
 Gli Este trasformano Ferrara in una capitale di corte. Nel Quattrocento e nel Cinquecento la città diventa un centro artistico, letterario e politico. Qui la cultura umanistica, la committenza dinastica e l'urbanistica rinascimentale producono un modello di città moderna.
 
-Per l'orale è fondamentale citare l'**Addizione Erculea**, promossa da Ercole I d'Este e progettata da Biagio Rossetti a partire dal 1492. Non si tratta di un semplice ampliamento urbano, ma di una nuova concezione della città: strade ampie, prospettive regolari, relazione tra palazzi, mura e spazi aperti. Ferrara diventa così uno dei primi esempi di pianificazione urbana rinascimentale.
+Per la spiegazione è fondamentale citare l'**Addizione Erculea**, promossa da Ercole I d'Este e progettata da Biagio Rossetti a partire dal 1492. Non si tratta di un semplice ampliamento urbano, ma di una nuova concezione della città: strade ampie, prospettive regolari, relazione tra palazzi, mura e spazi aperti. Ferrara diventa così uno dei primi esempi di pianificazione urbana rinascimentale.
 
 ### Castello Estense
 
@@ -349,7 +315,7 @@ Questa doppia natura rende il Castello Estense un luogo molto efficace da presen
 
 Ferrara non va raccontata solo attraverso il castello. La sua importanza sta anche nella struttura urbana. L'Addizione Erculea amplia la città verso nord e introduce una logica prospettica moderna. Il punto simbolico è il **Quadrivio degli Angeli**, dove si incontrano assi viari e palazzi nobiliari.
 
-Il nome di Biagio Rossetti è indispensabile. Va presentato come architetto e urbanista capace di trasformare la città in un progetto coerente. All'orale puoi dire che Ferrara anticipa l'idea moderna di urbanistica perché non si limita a crescere per addizione casuale, ma progetta spazi e relazioni.
+Il nome di Biagio Rossetti è indispensabile. Va presentato come architetto e urbanista capace di trasformare la città in un progetto coerente. Nella spiegazione puoi dire che Ferrara anticipa l'idea moderna di urbanistica perché non si limita a crescere per addizione casuale, ma progetta spazi e relazioni.
 
 ### Il Delta del Po
 
@@ -369,7 +335,7 @@ Per una guida turistica, il Delta va spiegato come:
 - **Con Modena:** Ferrara e Modena condividono il filo estense.
 - **Con il Delta veneto:** utile per confronti sul paesaggio adriatico, acque, lagune e bonifiche.
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché Ferrara è definita città del Rinascimento?
 **Risposta modello:** Perché nel Quattrocento e nel Cinquecento, sotto gli Este, Ferrara diventa un centro politico e culturale di primo piano e soprattutto un modello di urbanistica rinascimentale. L'Addizione Erculea, progettata da Biagio Rossetti, amplia e organizza la città secondo principi prospettici e razionali, facendo di Ferrara uno dei primi esempi di città moderna.
@@ -390,21 +356,19 @@ Usa questa struttura:
 4. Delta del Po: paesaggio culturale e gestione territoriale.
 5. Conclusione sull'idea di Rinascimento come progetto politico dello spazio.
 
-Errore da evitare: parlare solo del Castello Estense. Il programma chiede esplicitamente Ferrara, Castello e Delta; quindi il cuore della risposta deve essere il rapporto tra città e territorio.
+Errore da evitare: parlare solo del Castello Estense. Il percorso chiede esplicitamente Ferrara, Castello e Delta; quindi il cuore della risposta deve essere il rapporto tra città e territorio.
 
 ---
 
-## 5. Duomo e Palazzo Ducale di Modena
+## Duomo e Palazzo Ducale di Modena
 
 ![Duomo di Modena](https://commons.wikimedia.org/wiki/Special:FilePath/Modena_Cathedral_Duomo_Exterior.jpg)
-
-*Immagine: Duomo di Modena. Fonte: Wikimedia Commons, file "Modena Cathedral Duomo Exterior.jpg".*
-
+*Duomo di Modena. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Modena_Cathedral_Duomo_Exterior.jpg).*
 ### Inquadramento
 
 Il sito modenese mette insieme due grandi polarità: il **Duomo**, capolavoro del romanico europeo, e il **Palazzo Ducale**, simbolo della Modena estense e moderna. Anche qui conviene non trattare i due monumenti come argomenti scollegati. Il Duomo racconta la città medievale, la fede civica e la nascita di un linguaggio romanico maturo; il Palazzo Ducale racconta la città capitale del ducato estense.
 
-Il Duomo di Modena, con la Torre Civica e Piazza Grande, è sito UNESCO. Il programma menziona "Duomo e Palazzo Ducale"; tuttavia, per completezza, quando parli del Duomo è utile richiamare anche la Ghirlandina e Piazza Grande, perché il valore UNESCO riguarda il complesso urbano e civico-religioso.
+Il Duomo di Modena, con la Torre Civica e Piazza Grande, è sito UNESCO. Il percorso menziona "Duomo e Palazzo Ducale"; tuttavia, per completezza, quando parli del Duomo è utile richiamare anche la Ghirlandina e Piazza Grande, perché il valore UNESCO riguarda il complesso urbano e civico-religioso.
 
 ### Il Duomo di Modena
 
@@ -418,15 +382,15 @@ Lanfranco è l'architetto del cantiere. La sua importanza sta nella chiarezza de
 
 #### Wiligelmo
 
-Wiligelmo è lo scultore che dà voce narrativa alla facciata. I rilievi con le storie della Genesi sono fondamentali: creazione, peccato, fatica dell'uomo, salvezza. All'orale puoi dire che Wiligelmo trasforma la pietra in racconto, usando figure potenti, espressive e leggibili.
+Wiligelmo è lo scultore che dà voce narrativa alla facciata. I rilievi con le storie della Genesi sono fondamentali: creazione, peccato, fatica dell'uomo, salvezza. Nella spiegazione puoi dire che Wiligelmo trasforma la pietra in racconto, usando figure potenti, espressive e leggibili.
 
 La scultura romanica non mira alla bellezza naturalistica classica, ma alla chiarezza comunicativa e alla forza simbolica. Questo è un punto importante per evitare descrizioni superficiali.
 
 ### Ghirlandina e Piazza Grande
 
-Anche se non esplicitamente citate nel nome del sito del programma, Ghirlandina e Piazza Grande sono parte essenziale del contesto del Duomo. La Torre Civica non è solo campanile, ma segno urbano e civico. Piazza Grande è lo spazio della comunità, dove si incontrano religione, potere civile e vita pubblica.
+Anche se non esplicitamente citate nel nome del sito del percorso, Ghirlandina e Piazza Grande sono parte essenziale del contesto del Duomo. La Torre Civica non è solo campanile, ma segno urbano e civico. Piazza Grande è lo spazio della comunità, dove si incontrano religione, potere civile e vita pubblica.
 
-Per l'esame puoi dire che il complesso modenese è significativo perché unisce valori religiosi e civici: la cattedrale custodisce il culto del patrono, la torre domina la città, la piazza organizza la vita collettiva.
+Per la lettura del sito puoi dire che il complesso modenese è significativo perché unisce valori religiosi e civici: la cattedrale custodisce il culto del patrono, la torre domina la città, la piazza organizza la vita collettiva.
 
 ### Il Palazzo Ducale
 
@@ -434,7 +398,7 @@ Il Palazzo Ducale di Modena è legato alla storia degli Este dopo il trasferimen
 
 Il passaggio da Ferrara a Modena è un collegamento essenziale: gli Este perdono Ferrara ma ricostruiscono la propria identità politica a Modena. Il Palazzo Ducale diventa quindi il simbolo della continuità dinastica.
 
-Dal punto di vista architettonico, è un grande palazzo di rappresentanza. La facciata monumentale e l'organizzazione degli spazi comunicano ordine, autorità e prestigio. Per la prova orale, il Palazzo va collegato non solo alla storia dell'arte, ma anche alla storia politica della città.
+Dal punto di vista architettonico, è un grande palazzo di rappresentanza. La facciata monumentale e l'organizzazione degli spazi comunicano ordine, autorità e prestigio. Per la scheda, il Palazzo va collegato non solo alla storia dell'arte, ma anche alla storia politica della città.
 
 ### Collegamenti utili
 
@@ -443,7 +407,7 @@ Dal punto di vista architettonico, è un grande palazzo di rappresentanza. La fa
 - **Con Bologna:** Modena mostra il sistema cattedrale-piazza-torre; Bologna il sistema torri-comune-città mercantile.
 - **Con Ravenna:** Ravenna mosaico tardoantico; Modena scultura romanica.
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché il Duomo di Modena è importante per il romanico?
 **Risposta modello:** Perché è uno dei massimi esempi del romanico europeo e mostra un rapporto eccezionale tra architettura e scultura. Il cantiere è legato all'architetto Lanfranco e allo scultore Wiligelmo. La struttura architettonica e i rilievi della facciata costruiscono un racconto religioso e civico, legato al culto di San Geminiano e all'identità della città.
@@ -468,12 +432,10 @@ Errore da evitare: dimenticare il Palazzo Ducale o trattarlo come semplice "pala
 
 ---
 
-## 6. Torre degli Asinelli e Torre della Garisenda
+## Torre degli Asinelli e Torre della Garisenda
 
 ![Torri degli Asinelli e della Garisenda](https://commons.wikimedia.org/wiki/Special:FilePath/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg)
-
-*Immagine: Torri degli Asinelli e della Garisenda, Bologna. Fonte: Wikimedia Commons, file "Asinelli Tower and Garisenda Tower Bologna Italy.jpg".*
-
+*Torri degli Asinelli e della Garisenda. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg).*
 ### Inquadramento
 
 Le Due Torri sono il simbolo più riconoscibile di Bologna. La Torre degli Asinelli e la Torre della Garisenda non vanno però presentate solo come "monumenti panoramici": sono una chiave per leggere la Bologna medievale, comunale, mercantile e familiare.
@@ -484,13 +446,13 @@ Nel Medioevo le torri erano strumenti di difesa, controllo, prestigio sociale e 
 
 La Torre degli Asinelli fu costruita tra il 1109 e il 1119 dalla famiglia Asinelli e passò al Comune già nel secolo successivo. È alta circa 97 metri e ha una scala interna di 498 gradini. La sua altezza la rende un segno dominante nello skyline bolognese.
 
-Per l'esame, i dati numerici servono, ma non bastano. Il punto interpretativo è che la torre passa da simbolo familiare a simbolo civico. Quando il Comune acquisisce o controlla questi edifici, li inserisce nella propria autorità urbana. La torre diventa quindi un segno della città, non solo della famiglia che la costruì.
+Per la lettura del sito, i dati numerici servono, ma non bastano. Il punto interpretativo è che la torre passa da simbolo familiare a simbolo civico. Quando il Comune acquisisce o controlla questi edifici, li inserisce nella propria autorità urbana. La torre diventa quindi un segno della città, non solo della famiglia che la costruì.
 
 ### Torre della Garisenda
 
 La Garisenda è più bassa ma altrettanto significativa, soprattutto per la sua forte pendenza. Fu costruita anch'essa nel XII secolo dalla famiglia Garisendi. La sua inclinazione, già nota nel Medioevo, la rese celebre anche nella memoria letteraria: Dante la cita nella Divina Commedia.
 
-La Garisenda permette di parlare anche della fragilità del patrimonio monumentale. Le torri medievali non sono oggetti statici: sono strutture vive, soggette a problemi di stabilità, restauri, monitoraggi e limitazioni di accesso. Per l'esame, tuttavia, è meglio non entrare troppo nei cantieri contemporanei, a meno che la commissione non chieda aggiornamenti: il cuore della risposta resta storico-urbanistico.
+La Garisenda permette di parlare anche della fragilità del patrimonio monumentale. Le torri medievali non sono oggetti statici: sono strutture vive, soggette a problemi di stabilità, restauri, monitoraggi e limitazioni di accesso. Per la lettura del sito, tuttavia, è meglio non entrare troppo nei cantieri contemporanei, a meno di voler richiamare aggiornamenti recenti: il cuore della lettura resta storico-urbanistico.
 
 ### Bologna medievale e città delle torri
 
@@ -505,13 +467,13 @@ La presenza delle torri presso l'incrocio di strade importanti rafforza la loro 
 
 ### Collegamento con i Portici di Bologna
 
-Anche se i Portici sono in Sezione III, conviene saper fare un collegamento. Torri e portici raccontano due forme diverse della Bologna storica:
+Anche se i Portici sono in percorso integrativo, conviene saper fare un collegamento. Torri e portici raccontano due forme diverse della Bologna storica:
 - le torri sono verticalità, competizione, potere familiare;
 - i portici sono orizzontalità, continuità urbana, uso pubblico dello spazio privato.
 
-Questa opposizione è molto efficace all'orale: Bologna si capisce come città che costruisce identità attraverso lo spazio pubblico, sia in altezza sia lungo le strade.
+Questa opposizione è molto efficace nella spiegazione: Bologna si capisce come città che costruisce identità attraverso lo spazio pubblico, sia in altezza sia lungo le strade.
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Qual era la funzione delle torri bolognesi?
 **Risposta modello:** Le torri avevano più funzioni. Erano strumenti di difesa e controllo, ma soprattutto simboli di prestigio delle famiglie che le costruivano. Nella Bologna medievale la verticalità indicava potere, ricchezza e visibilità. Le Due Torri, Asinelli e Garisenda, sono quindi la memoria monumentale di una città comunale caratterizzata dalla competizione tra lignaggi.
@@ -532,23 +494,23 @@ Schema consigliato:
 4. Garisenda: pendenza, memoria letteraria.
 5. Collegamento con portici e identità urbana.
 
-Errore da evitare: trasformare la risposta in una descrizione turistica "salire sulla torre, vedere il panorama". La commissione vuole capire se sai leggere il monumento storicamente.
+Errore da evitare: trasformare la risposta in una descrizione turistica "salire sulla torre, vedere il panorama". Il punto è leggere il monumento storicamente.
 
 ---
 
-## 7. Museo Nazionale di Ravenna
+## Museo Nazionale di Ravenna
 
 ### Inquadramento
 
-Il Museo Nazionale di Ravenna è l'unico museo dell'Emilia-Romagna indicato nella Sezione II del programma. Le sezioni richieste sono: **Mosaici**, **Oggetti paleocristiani** e **Codici miniati**. Il museo ha sede nell'ex monastero di San Vitale, quindi in un contesto urbano e monumentale strettamente legato ai grandi siti paleocristiani ravennati.
+Il Museo Nazionale di Ravenna è l'unico museo dell'Emilia-Romagna indicato nel percorso principale del percorso. Le sezioni richieste sono: **Mosaici**, **Oggetti paleocristiani** e **Codici miniati**. Il museo ha sede nell'ex monastero di San Vitale, quindi in un contesto urbano e monumentale strettamente legato ai grandi siti paleocristiani ravennati.
 
-La chiave per presentarlo all'orale è questa: il Museo Nazionale non va studiato come un museo isolato, ma come completamento dei monumenti ravennati. Le sue collezioni permettono di vedere frammenti, oggetti, arredi, materiali liturgici, sculture e testimonianze che aiutano a ricostruire la cultura materiale e artistica della Ravenna antica, paleocristiana, bizantina e medievale.
+La chiave per presentarlo nella spiegazione è questa: il Museo Nazionale non va studiato come un museo isolato, ma come completamento dei monumenti ravennati. Le sue collezioni permettono di vedere frammenti, oggetti, arredi, materiali liturgici, sculture e testimonianze che aiutano a ricostruire la cultura materiale e artistica della Ravenna antica, paleocristiana, bizantina e medievale.
 
 ### Mosaici
 
 La sezione dei mosaici va collegata immediatamente alla tradizione ravennate. Ravenna è famosa per i mosaici parietali monumentali; il museo permette invece di osservare materiali e frammenti che mostrano tecniche, motivi decorativi e contesti diversi.
 
-All'orale è utile spiegare la differenza tra:
+Nella spiegazione è utile spiegare la differenza tra:
 - mosaico parietale monumentale, legato allo spazio sacro e alla rappresentazione del potere;
 - mosaico pavimentale o frammentario, legato a contesti domestici, funerari, liturgici o decorativi.
 
@@ -568,7 +530,7 @@ L'importanza di questi oggetti sta nel fatto che documentano:
 
 I codici miniati sono una sezione particolarmente utile per dimostrare competenza. Spostano il discorso dal monumento al libro, dalla parete alla pagina. Il codice miniato è un oggetto di lusso, di cultura e di trasmissione del sapere. Nella miniatura convivono testo, immagine, decorazione, committenza e funzione religiosa o culturale.
 
-Per l'esame puoi dire che i codici miniati mostrano come l'immagine cristiana non viva solo nello spazio architettonico, ma anche nel supporto librario. Sono strumenti di memoria, studio, liturgia e prestigio.
+Per la lettura del sito puoi dire che i codici miniati mostrano come l'immagine cristiana non viva solo nello spazio architettonico, ma anche nel supporto librario. Sono strumenti di memoria, studio, liturgia e prestigio.
 
 ### Come collegarlo ai monumenti
 
@@ -579,9 +541,9 @@ La risposta migliore collega il Museo Nazionale ai monumenti UNESCO:
 - con la Domus: mosaico e cultura materiale;
 - con la storia di Ravenna: continuità tra tardoantico, medioevo e collezionismo moderno.
 
-### Domande probabili
+### Domande guida
 
-**Domanda:** Perché il Museo Nazionale di Ravenna è importante nel programma?
+**Domanda:** Perché il Museo Nazionale di Ravenna è importante nel percorso?
 **Risposta modello:** Perché completa la conoscenza dei monumenti paleocristiani ravennati. Conserva materiali che aiutano a capire la cultura artistica e materiale della città: mosaici, oggetti paleocristiani e codici miniati. È quindi un museo che permette di passare dai grandi edifici alla vita degli oggetti, dalla monumentalità alla cultura materiale.
 
 **Domanda:** Come presenteresti la sezione dei codici miniati?
@@ -598,22 +560,15 @@ Non trasformare il museo in una lista di collezioni. Usa invece questa formula:
 
 ---
 
-## Presentazioni orali da circa 5 minuti
-### 8. Appendice - Presentazioni orali da circa 5 minuti per siti presenti nella prova pratica
-
-Questa appendice segue il criterio richiesto: esempi di presentazione solo per i siti dell'Emilia-Romagna presenti nella Sezione III della prova tecnico-pratica. Sono inclusi:
-- Area archeologica di Marzabotto;
-- Portici di Bologna;
-- Monumenti Paleocristiani di Ravenna.
+## Percorsi narrativi brevi
+### Percorso narrativo breve
 
 ---
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 ![Area archeologica di Marzabotto](https://commons.wikimedia.org/wiki/Special:FilePath/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg)
-
-*Immagine: area archeologica di Marzabotto, fondazioni di una casa. Fonte: Wikimedia Commons, file "Marzabotto città etrusca casa nr 6.jpg".*
-
+*Area archeologica di Marzabotto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg).*
 > Buongiorno, iniziamo la nostra visita all'area archeologica di Marzabotto, identificata con l'antica città etrusca di Kainua. Siamo nell'Appennino bolognese, lungo la valle del Reno, in una posizione strategica che nell'antichità collegava l'Etruria tirrenica con la Pianura Padana e con l'area adriatica. Proprio questa posizione spiega la fortuna del sito: Kainua era un centro urbano inserito in una rete di traffici, scambi e relazioni culturali.
 >
 > La particolarità di Marzabotto è che non ci troviamo davanti a pochi resti isolati, ma a una città etrusca pianificata. Questo è l'aspetto più importante da cogliere: l'area archeologica permette di leggere strade, isolati, case, aree sacre, officine e necropoli. È quindi una testimonianza eccezionale dell'urbanistica etrusca. Spesso immaginiamo gli Etruschi attraverso necropoli o corredi funerari; qui invece possiamo osservare l'organizzazione concreta di una città.
@@ -628,12 +583,10 @@ Questa appendice segue il criterio richiesto: esempi di presentazione solo per i
 
 ---
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 ![Portici di Bologna](https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_portici_via_indipendenza.jpg)
-
-*Immagine: portici di via Indipendenza, Bologna. Fonte: Wikimedia Commons, file "Bologna portici via indipendenza.jpg".*
-
+*Portici di Bologna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_portici_via_indipendenza.jpg).*
 > Buongiorno, oggi presentiamo uno degli elementi più caratteristici dell'identità urbana di Bologna: i suoi portici. I portici bolognesi sono stati riconosciuti patrimonio mondiale UNESCO nel 2021 come sito seriale, composto da diversi tratti rappresentativi della città. La loro importanza non è solo architettonica: sono un modo di abitare, attraversare e condividere lo spazio urbano.
 >
 > Il primo punto da capire è che il portico è uno spazio intermedio. Non è completamente privato, perché viene usato dai cittadini; non è completamente pubblico, perché appartiene spesso agli edifici che lo sostengono. È stato definito infatti come proprietà privata a uso pubblico. Questa caratteristica spiega bene lo spirito urbano di Bologna: una città in cui la vita sociale si svolge lungo percorsi coperti, continui e accessibili.
@@ -650,7 +603,7 @@ Questa appendice segue il criterio richiesto: esempi di presentazione solo per i
 
 ---
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 > Buongiorno, iniziamo la visita ai Monumenti Paleocristiani di Ravenna, uno dei patrimoni più importanti dell'Italia tardoantica e bizantina. Ravenna è una città fondamentale perché tra V e VI secolo fu centro politico di primaria importanza: sede della corte imperiale d'Occidente, capitale del regno ostrogoto e poi centro della presenza bizantina in Italia. Questa storia complessa si riflette nei suoi monumenti e soprattutto nei suoi mosaici.
 >
@@ -668,8 +621,8 @@ Questa appendice segue il criterio richiesto: esempi di presentazione solo per i
 
 ---
 
-## Ripasso finale
-### 9. Ripasso finale per l'Emilia-Romagna
+## Sintesi finale
+### Ripasso finale per l'Emilia-Romagna
 
 ### Parole chiave per sito
 
@@ -705,7 +658,6 @@ I monumenti mostrano il patrimonio in situ; il museo consente di studiare oggett
 ---
 
 ## Fonti principali consultate
-### Ravenna
 - [UNESCO World Heritage Centre, "Early Christian Monuments of Ravenna"](https://whc.unesco.org/en/list/788/)
 - [Ministero della Cultura / UNESCO Italia, "Early Christian Monuments of Ravenna"](https://unesco.cultura.gov.it/en/projects/early-christian-monuments-of-ravenna/)
 - [Turismo Ravenna, "Domus of the Stone Carpets"](https://www.turismo.ra.it/en/culture-and-history/archaeology/domus-stone-carpets/)
@@ -713,34 +665,26 @@ I monumenti mostrano il patrimonio in situ; il museo consente di studiare oggett
 - [Musei nazionali di Ravenna / MiC](https://museiravenna.cultura.gov.it/)
 - [Museo Nazionale di Ravenna / MiC](https://cultura.gov.it/luogo/museo-nazionale-di-ravenna)
 
-### Parma
 - [Piazza Duomo Parma, "Cattedrale di Santa Maria Assunta"](https://www.piazzaduomoparma.com/la-piazza/cattedrale/)
 - [Piazza Duomo Parma, "Battistero di San Giovanni Battista"](https://www.piazzaduomoparma.com/la-piazza/battistero/)
 - [Complesso Monumentale della Pilotta](https://complessopilotta.it/)
 - [Complesso Monumentale della Pilotta / MiC](https://cultura.gov.it/luogo/complesso-monumentale-della-pilotta-1)
 - [Galleria Nazionale, Complesso della Pilotta](https://complessopilotta.it/galleria-nazionale/)
 
-### Ferrara e Delta del Po
 - [UNESCO World Heritage Centre, "Ferrara, City of the Renaissance, and its Po Delta"](https://whc.unesco.org/en/list/733/)
 - [Ministero della Cultura, "Castello Estense"](https://cultura.gov.it/luogo/castello-estense)
 - [Castello Estense](https://www.castelloestense.it/)
 - [Ferrara/Delta del Po Patrimonio Mondiale](https://ferraradeltapo-patrimoniomondiale.it/)
 
-### Modena
 - [UNESCO World Heritage Centre, "Cathedral, Torre Civica and Piazza Grande, Modena"](https://whc.unesco.org/en/list/827/)
 - [Patrimonio Mondiale Modena, "The history of Modena Cathedral"](https://patrimoniomondiale.modena.it/en/visit/monumental-complex/cathedral/)
 - [Visit Modena, "Cattedrale - Duomo di Modena"](https://www.visitmodena.it/it/scopri-modena/arte-e-cultura/chiese-ed-edifici-religiosi/modena/cattedrale-duomo-di-modena)
 - [Visit Modena, "Palazzo Ducale - Accademia Militare"](https://www.visitmodena.it/it/scopri-modena/arte-e-cultura/palazzi-storici-e-castelli/palazzo-ducale-accademia-militare)
 
-### Bologna
 - [Bologna Welcome, "Le Due Torri: Garisenda e degli Asinelli"](https://www.bolognawelcome.com/it/luoghi/torri-edifici-storici/le-due-torri-garisenda-e-degli-asinelli)
 - [UNESCO World Heritage Centre, "The Porticoes of Bologna"](https://whc.unesco.org/en/list/1650/)
 - [Comune di Bologna, "The Porticoes of Bologna - A World Heritage Property"](https://portici.comune.bologna.it/en/home)
 
-### Marzabotto / Kainua
 - [Musei Emilia-Romagna / MiC, "Museo Nazionale Etrusco 'Pompeo Aria' e area archeologica di Kainua"](https://musei.emiliaromagna.beniculturali.it/musei/museo-nazionale-etrusco-pompeo-aria-e-area-archeologica-di-kainua)
 - [Ministero della Cultura, "Museo nazionale etrusco 'Pompeo Aria'"](https://cultura.gov.it/luogo/museo-nazionale-etrusco-pompeo-aria)
 - [Bologna Welcome, "Museo Nazionale Etrusco Pompeo Aria e l'antica città di Marzabotto"](https://www.bolognawelcome.com/it/luoghi/siti-archeologici/museo-nazionale-etrusco-pompeo-aria-e-lantica-citta-di-marzabotto)
-
-### Immagini
-- Wikimedia Commons, file indicati nelle didascalie delle singole immagini.

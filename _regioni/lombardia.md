@@ -4,59 +4,37 @@ layout: default
 nav_order: 9
 ---
 
-# Guida per la prova orale - Lombardia
+# Lombardia
 
 ## Perimetro e orientamento
-**Formato**: schede approfondite, senza scheda sintetica regionale.
-**Nota sulle presentazioni da 5 minuti**: per la Lombardia, la Sezione III della prova pratica indica **Arte rupestre della Val Camonica** e **Grotte di Catullo**. Poiché questi siti non coincidono esattamente con i siti della Sezione I orale, sono inseriti in **appendice separata** con solo modello di presentazione orale da 5 minuti, senza trasformare il documento in una guida alla prova pratica.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Lombardia. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
----
+| N. | Voce | Tipologia | Area | Note |
+|---:|---|---|---|---|
+| 1 | Piazza Vecchia e Santa Maria Maggiore - Bergamo | Sito o tema | Bergamo | Scheda principale |
+| 2 | Duomo di Milano | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 3 | Certosa e Castello Visconteo di Pavia | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 4 | Castello Scaligero - Sirmione | Sito storico-artistico | Sirmione | Scheda principale |
+| 5 | Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 6 | Teatro alla Scala - Milano | Sito storico-artistico | Milano | Scheda principale |
+| 7 | Parco Archeologico di Santa Giulia - Brixia, Brescia | Paesaggio o area archeologica | Brixia, Brescia | Scheda principale |
+| 8 | Lago di Como, Lago d'Iseo e Franciacorta | Sito o tema | Lago d'Iseo e Franciacorta | Scheda principale |
+| 9 | Pinacoteca di Brera - Milano | Museo | Milano | Scheda principale |
+| 10 | Cenacolo Vinciano - Milano | Sito o tema | Milano | Scheda principale |
 
-
-#### Sezione I - Siti della prova orale
-
-| ID | Sito | Località | Provincia |
-|---:|---|---|---|
-| 51 | Piazza Vecchia e Santa Maria Maggiore | Bergamo | Bergamo |
-| 52 | Duomo di Milano | Milano | Milano |
-| 53 | La Certosa e Castello Visconteo di Pavia | Pavia | Pavia |
-| 54 | Castello Scaligero | Sirmione | Brescia |
-| 55 | Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale | Mantova, Sabbioneta | Mantova |
-| 56 | Teatro alla Scala | Milano | Milano |
-| 57 | Parco Archeologico di Santa Giulia-Brixia | Brescia | Brescia |
-| 58 | Lago di Como, Lago d'Iseo e Franciacorta | Como, Lecco, Iseo, area della Franciacorta | Como, Lecco, Brescia |
-
-#### Sezione II - Musei della prova orale
-
-| ID | Museo | Sezioni richieste | Città |
-|---:|---|---|---|
-| 14 | Pinacoteca di Brera | Galleria degli affreschi; pittura gotica e tardogotica; pittura veneta del Quattro e Cinquecento; pittura lombarda del Quattro e Cinquecento; Piero della Francesca, Bramante, Raffaello | Milano |
-| 15 | Cenacolo Vinciano | - | Milano |
-
-#### Presentazione orale da circa 5 minuti
-
-| ID | Sito | Località | Provincia |
-|---:|---|---|---|
-| 17 | Arte rupestre della Val Camonica | Capo di Ponte | Brescia |
-| 18 | Grotte di Catullo | Sirmione | Brescia |
-
----
-
-## 51. Piazza Vecchia e Santa Maria Maggiore - Bergamo
+## Piazza Vecchia e Santa Maria Maggiore - Bergamo
 
 ![Piazza Vecchia, Bergamo](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_Vecchia_Bergamo.jpg)
-
-*Immagine: Piazza Vecchia, Bergamo. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Piazza Vecchia Bergamo".*
-
+*Piazza Vecchia, Bergamo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_Vecchia_Bergamo.jpg).*
 ### Dati essenziali
 
-Il sito da preparare non coincide con un singolo monumento isolato, ma con il nucleo monumentale di **Bergamo Alta**, in particolare **Piazza Vecchia** e la vicina **Basilica di Santa Maria Maggiore**. È importante non confondere i due spazi: Piazza Vecchia è il centro civile e politico della città storica; Santa Maria Maggiore appartiene invece al sistema religioso di **Piazza Duomo**, immediatamente adiacente. Per l'orale conviene presentarli insieme come due poli complementari: il potere civico e il potere religioso nella città medievale e rinascimentale.
+Il sito da preparare non coincide con un singolo monumento isolato, ma con il nucleo monumentale di **Bergamo Alta**, in particolare **Piazza Vecchia** e la vicina **Basilica di Santa Maria Maggiore**. È importante non confondere i due spazi: Piazza Vecchia è il centro civile e politico della città storica; Santa Maria Maggiore appartiene invece al sistema religioso di **Piazza Duomo**, immediatamente adiacente. Per la spiegazione conviene presentarli insieme come due poli complementari: il potere civico e il potere religioso nella città medievale e rinascimentale.
 
 Bergamo Alta sorge su un'altura che domina la pianura lombarda. Questa posizione spiega la continuità insediativa della città e la forte dimensione difensiva del centro storico. Piazza Vecchia è il salotto urbano della Città Alta: spazio di rappresentanza, luogo di incontro, punto di raccordo tra edifici pubblici, torri, palazzi e accessi verso il complesso religioso.
 
 ### Contesto storico
 
-Bergamo ha una storia lunga, con fasi romana, comunale, viscontea e veneziana. Nell'esposizione orale non è necessario ricostruirla tutta, ma bisogna collocare Piazza Vecchia nella città medievale e nella successiva trasformazione rinascimentale. La piazza diventa il fulcro dell'identità civica, organizzata attorno a edifici come il **Palazzo della Ragione**, la **Torre Civica** o Campanone, la **Fontana Contarini** e il **Palazzo Nuovo**, oggi sede della Biblioteca Civica Angelo Mai.
+Bergamo ha una storia lunga, con fasi romana, comunale, viscontea e veneziana. Nell'esposizione non è necessario ricostruirla tutta, ma bisogna collocare Piazza Vecchia nella città medievale e nella successiva trasformazione rinascimentale. La piazza diventa il fulcro dell'identità civica, organizzata attorno a edifici come il **Palazzo della Ragione**, la **Torre Civica** o Campanone, la **Fontana Contarini** e il **Palazzo Nuovo**, oggi sede della Biblioteca Civica Angelo Mai.
 
 La Basilica di Santa Maria Maggiore viene tradizionalmente collegata a un voto dei bergamaschi alla Vergine durante una pestilenza. Secondo la Fondazione MIA, la prima pietra fu benedetta nel 1137 dal vescovo Gregorio, sul sito di una precedente chiesa dedicata alla Vergine. Questo dato è utile perché permette di presentare la basilica non solo come monumento artistico, ma come espressione di una devozione civica: una chiesa voluta dalla città, profondamente legata alla comunità.
 
@@ -66,15 +44,15 @@ In Piazza Vecchia bisogna orientare il discorso su tre elementi: spazio, funzion
 
 La Basilica di Santa Maria Maggiore richiede invece una lettura per contrasti. L'esterno conserva un'impostazione romanico-lombarda, severa e compatta, priva di una facciata tradizionale nel senso più comune del termine. L'accesso avviene tramite portali laterali, tra cui quelli detti dei **leoni rossi** e dei **leoni bianchi**, legati alla scultura dei maestri campionesi. L'interno, invece, sorprende per la ricchezza decorativa, con interventi barocchi, arazzi, stucchi, tarsie lignee e il monumento funebre di **Gaetano Donizetti**.
 
-Uno dei punti più forti per l'orale è il coro ligneo con le tarsie disegnate da **Lorenzo Lotto** e realizzate da **Giovan Francesco Capoferri**. È un dettaglio perfetto per dimostrare padronanza: non limitarsi a dire che la basilica è romanica, ma spiegare come nel tempo il monumento si sia arricchito di stratificazioni artistiche.
+Uno dei punti più forti per la spiegazione è il coro ligneo con le tarsie disegnate da **Lorenzo Lotto** e realizzate da **Giovan Francesco Capoferri**. È un dettaglio perfetto per dimostrare padronanza: non limitarsi a dire che la basilica è romanica, ma spiegare come nel tempo il monumento si sia arricchito di stratificazioni artistiche.
 
 ### Perche' e' importante
 
-La commissione potrebbe chiedere questo sito per verificare la capacità di collegare urbanistica, architettura e storia civica. Una buona risposta deve evitare l'elenco disordinato dei monumenti. L'ordine più efficace è: Bergamo Alta → Piazza Vecchia come centro civile → passaggio a Piazza Duomo → Santa Maria Maggiore come centro religioso e artistico → elementi di pregio interni.
+Il sito permette di collegare urbanistica, architettura e storia civica. Una buona lettura evita l'elenco disordinato dei monumenti. L'ordine più efficace è: Bergamo Alta → Piazza Vecchia come centro civile → passaggio a Piazza Duomo → Santa Maria Maggiore come centro religioso e artistico → elementi di pregio interni.
 
-È utile citare anche il rapporto tra città alta, mura e paesaggio, senza però spostare troppo il discorso sulle Mura veneziane se non richiesto. Le mura sono un collegamento utile, ma il programma indica specificamente Piazza Vecchia e Santa Maria Maggiore.
+È utile citare anche il rapporto tra città alta, mura e paesaggio, senza però spostare troppo il discorso sulle Mura veneziane se non richiesto. Le mura sono un collegamento utile, ma il percorso indica specificamente Piazza Vecchia e Santa Maria Maggiore.
 
-### Domande probabili
+### Domande guida
 
 - Perché Piazza Vecchia è il cuore di Bergamo Alta?
 - Quali edifici caratterizzano Piazza Vecchia?
@@ -83,7 +61,7 @@ La commissione potrebbe chiedere questo sito per verificare la capacità di coll
 - Che ruolo hanno le tarsie di Lorenzo Lotto?
 - Come imposteresti una visita guidata tra Piazza Vecchia e Santa Maria Maggiore?
 
-### Risposta modello
+### Sintesi narrativa
 
 Piazza Vecchia e Santa Maria Maggiore rappresentano i due poli fondamentali di Bergamo Alta: quello civile e quello religioso. Piazza Vecchia è il centro monumentale della città storica, con il Palazzo della Ragione, il Campanone, la Fontana Contarini e il Palazzo Nuovo. Subito accanto, in Piazza Duomo, la Basilica di Santa Maria Maggiore testimonia la devozione civica medievale: secondo la tradizione fu costruita a partire dal 1137 come voto alla Vergine. All'esterno conserva un'impronta romanico-lombarda, mentre l'interno presenta una ricca decorazione successiva, con stucchi, arazzi, tarsie lignee disegnate da Lorenzo Lotto e il monumento a Gaetano Donizetti.
 
@@ -93,12 +71,10 @@ Apri con l'immagine della città alta sul colle. Poi fai muovere idealmente l'as
 
 ---
 
-## 52. Duomo di Milano
+## Duomo di Milano
 
 ![Duomo di Milano](https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cathedral_from_Piazza_del_Duomo.jpg)
-
-*Immagine: Duomo di Milano dalla piazza. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Milan Cathedral".*
-
+*Duomo di Milano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cathedral_from_Piazza_del_Duomo.jpg).*
 ### Dati essenziali
 
 Il **Duomo di Milano**, dedicato a **Santa Maria Nascente**, è il principale monumento religioso della città e uno dei simboli più riconoscibili dell'Italia. Si trova nel cuore del centro storico, in Piazza del Duomo, e costituisce il fulcro visivo, urbanistico e identitario di Milano. Per una guida turistica, non basta presentarlo come grande cattedrale gotica: bisogna spiegare come il Duomo sia il risultato di una costruzione plurisecolare, di un cantiere continuo e di una forte relazione tra potere religioso, potere politico e identità cittadina.
@@ -107,23 +83,23 @@ Il **Duomo di Milano**, dedicato a **Santa Maria Nascente**, è il principale mo
 
 Secondo il sito ufficiale del Duomo, i lavori iniziarono nel **1386**, in una fase in cui il gotico delle grandi cattedrali europee aveva raggiunto la sua maturità. La cattedrale fu fondata nell'area dove sorgevano le antiche basiliche di **Santa Maria Maggiore** e **Santa Tecla**; resti di queste strutture, insieme al Battistero di San Giovanni alle Fonti, sono visibili nell'area archeologica. Nel 1387 Gian Galeazzo Visconti istituì la **Veneranda Fabbrica del Duomo**, l'ente incaricato della progettazione, della costruzione, della manutenzione e della valorizzazione della cattedrale.
 
-Questi dati sono fondamentali per l'orale: il Duomo non è solo un edificio religioso, ma un "organismo storico" mantenuto nel tempo da un'istituzione specifica. Il cantiere coinvolse maestranze italiane e transalpine e introdusse a Milano un linguaggio gotico internazionale, rielaborato in rapporto al materiale locale, il **marmo di Candoglia**.
+Questi dati sono fondamentali per la spiegazione: il Duomo non è solo un edificio religioso, ma un "organismo storico" mantenuto nel tempo da un'istituzione specifica. Il cantiere coinvolse maestranze italiane e transalpine e introdusse a Milano un linguaggio gotico internazionale, rielaborato in rapporto al materiale locale, il **marmo di Candoglia**.
 
 ### Architettura e lettura dell'edificio
 
 Il Duomo si distingue per lo sviluppo verticale, la fitta selva di guglie, pinnacoli, archi rampanti e decorazioni scultoree. L'esterno comunica immediatamente l'idea di complessità e slancio. La facciata, tuttavia, non va letta come un prodotto unitario medievale: è il risultato di una lunga storia di interventi, completamenti e restauri. Questa stratificazione è uno dei punti chiave da spiegare.
 
-L'interno presenta cinque navate, poderosi pilastri, vetrate monumentali e un forte effetto di profondità. Il visitatore percepisce un ambiente vasto, solenne, scandito dalla luce filtrata dalle vetrate. Nella narrazione orale conviene sottolineare il rapporto tra struttura e luce: il gotico non è solo decorazione, ma una tecnica spaziale che porta lo sguardo verso l'alto e produce un'esperienza religiosa e scenografica.
+L'interno presenta cinque navate, poderosi pilastri, vetrate monumentali e un forte effetto di profondità. Il visitatore percepisce un ambiente vasto, solenne, scandito dalla luce filtrata dalle vetrate. Nella narrazione conviene sottolineare il rapporto tra struttura e luce: il gotico non è solo decorazione, ma una tecnica spaziale che porta lo sguardo verso l'alto e produce un'esperienza religiosa e scenografica.
 
 Elementi da citare: il presbiterio, le grandi vetrate, il pavimento, la statua di **San Bartolomeo scorticato** di Marco d'Agrate, la cripta e lo scurolo di San Carlo, l'area archeologica sottostante, le terrazze con la vista sulla città e la **Madonnina**, collocata sulla guglia maggiore e divenuta simbolo di Milano.
 
 ### Perché è importante
 
-Il Duomo è una sintesi di storia urbana milanese. Racconta la Milano viscontea, la lunga durata del cantiere, il ruolo della Fabbrica, la religiosità ambrosiana, la trasformazione del centro urbano e l'immagine moderna della città. Per l'esame, è un sito ad altissima probabilità: bisogna essere in grado di parlarne sia come monumento architettonico, sia come luogo di visita.
+Il Duomo è una sintesi di storia urbana milanese. Racconta la Milano viscontea, la lunga durata del cantiere, il ruolo della Fabbrica, la religiosità ambrosiana, la trasformazione del centro urbano e l'immagine moderna della città. Per la lettura del sito, è un sito ad altissima probabilità: bisogna essere in grado di parlarne sia come monumento architettonico, sia come luogo di visita.
 
 Un errore comune è ridurre il Duomo a "gotico fiammeggiante". Meglio dire: il Duomo è una cattedrale gotica iniziata nel 1386, ma caratterizzata da una costruzione e da una decorazione protratte nei secoli; proprio questa lunga durata ne fa un monumento stratificato.
 
-### Domande probabili
+### Domande guida
 
 - Quando inizia la costruzione del Duomo di Milano?
 - Quale ruolo ha la Veneranda Fabbrica del Duomo?
@@ -132,7 +108,7 @@ Un errore comune è ridurre il Duomo a "gotico fiammeggiante". Meglio dire: il D
 - Perché la Madonnina è così importante per Milano?
 - Come organizzeresti una visita guidata al Duomo?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Duomo di Milano, dedicato a Santa Maria Nascente, è la cattedrale della città e uno dei maggiori monumenti gotici italiani. La costruzione iniziò nel 1386 nell'area delle antiche basiliche di Santa Maria Maggiore e Santa Tecla. Nel 1387 Gian Galeazzo Visconti istituì la Veneranda Fabbrica del Duomo, ancora oggi legata alla conservazione e valorizzazione del monumento. L'edificio si caratterizza per la ricchezza di guglie, pinnacoli, sculture, grandi vetrate e per l'uso del marmo di Candoglia. È un monumento fondamentale perché unisce storia religiosa, identità civica e sviluppo urbano di Milano.
 
@@ -142,15 +118,13 @@ Inizia sempre dalla piazza: "Siamo nel centro simbolico di Milano". Poi passa al
 
 ---
 
-## 53. Certosa e Castello Visconteo di Pavia
+## Certosa e Castello Visconteo di Pavia
 
 ![Certosa di Pavia](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa_di_Pavia_facade.jpg)
-
-*Immagine: facciata della Certosa di Pavia. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Certosa di Pavia".*
-
+*Certosa di Pavia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa_di_Pavia_facade.jpg).*
 ### Dati essenziali
 
-Il sito del programma unisce due luoghi diversi ma collegati dalla storia viscontea e dalla centralità di Pavia nel sistema politico e culturale lombardo: la **Certosa di Pavia**, poco fuori dalla città, e il **Castello Visconteo**, nel centro urbano. Per l'orale conviene costruire una risposta doppia ma coerente: la Certosa come grande complesso monastico-dinastico e il Castello come residenza signorile e sede di potere dei Visconti.
+Il sito del percorso unisce due luoghi diversi ma collegati dalla storia viscontea e dalla centralità di Pavia nel sistema politico e culturale lombardo: la **Certosa di Pavia**, poco fuori dalla città, e il **Castello Visconteo**, nel centro urbano. Per la spiegazione conviene costruire una risposta doppia ma coerente: la Certosa come grande complesso monastico-dinastico e il Castello come residenza signorile e sede di potere dei Visconti.
 
 ### Certosa di Pavia: contesto e funzione
 
@@ -162,19 +136,19 @@ La posa della prima pietra viene tradizionalmente collegata al 1396. Il compless
 
 La facciata è uno degli elementi più noti: ricchissima, decorata, costruita come una grande macchina iconografica. Essa combina elementi tardo-gotici e rinascimentali, con un apparato scultoreo e decorativo pensato per stupire e istruire. L'interno presenta navata, cappelle laterali, transetto, presbiterio, decorazioni pittoriche e scultoree. Importanti sono anche i chiostri, che restituiscono la dimensione monastica del complesso.
 
-Nell'esposizione orale bisogna evitare di dire solo "capolavoro rinascimentale". La Certosa è un monumento di transizione e stratificazione: nasce in ambito tardo-gotico, si arricchisce di linguaggi rinascimentali e mantiene una forte funzione religiosa e dinastica.
+Nell'esposizione bisogna evitare di dire solo "capolavoro rinascimentale". La Certosa è un monumento di transizione e stratificazione: nasce in ambito tardo-gotico, si arricchisce di linguaggi rinascimentali e mantiene una forte funzione religiosa e dinastica.
 
 ### Castello Visconteo di Pavia
 
 Il Castello Visconteo fu costruito per volontà di **Galeazzo II Visconti** tra il 1360 e il 1365. Secondo i Musei Civici di Pavia, dal secondo dopoguerra è sede dei Musei Civici. Il castello era una residenza signorile, non una semplice fortezza militare. Questa distinzione è importante: le forme castellane esprimono difesa e prestigio, ma l'edificio era anche centro di corte, cultura, amministrazione e rappresentanza.
 
-Oggi i Musei Civici ospitano collezioni archeologiche, artistiche e storiche. Per la prova orale, il castello va presentato come testimonianza del potere visconteo a Pavia e come esempio della trasformazione di una residenza signorile in contenitore museale.
+Oggi i Musei Civici ospitano collezioni archeologiche, artistiche e storiche. Per la scheda, il castello va presentato come testimonianza del potere visconteo a Pavia e come esempio della trasformazione di una residenza signorile in contenitore museale.
 
 ### Collegamento tra Certosa e Castello
 
 Il collegamento più efficace è la dinastia viscontea. Il Castello rappresenta il potere politico e residenziale; la Certosa rappresenta la proiezione religiosa, dinastica e celebrativa. Entrambi aiutano a leggere il ruolo di Pavia nella Lombardia tra Medioevo e Rinascimento.
 
-### Domande probabili
+### Domande guida
 
 - Chi volle la costruzione della Certosa di Pavia?
 - Quali funzioni aveva la Certosa?
@@ -183,7 +157,7 @@ Il collegamento più efficace è la dinastia viscontea. Il Castello rappresenta 
 - Perché il Castello Visconteo non è solo una fortezza?
 - Come collegheresti Certosa e Castello in una visita guidata?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Certosa e il Castello Visconteo di Pavia sono due monumenti fondamentali per comprendere il potere dei Visconti in Lombardia. Il Castello Visconteo fu costruito da Galeazzo II Visconti tra il 1360 e il 1365 come residenza signorile e oggi ospita i Musei Civici. La Certosa, voluta da Gian Galeazzo Visconti e avviata alla fine del XIV secolo, unisce funzione monastica, devozione e celebrazione dinastica. La sua facciata riccamente decorata e la stratificazione tra gotico e Rinascimento ne fanno uno dei grandi complessi monumentali lombardi.
 
@@ -193,17 +167,15 @@ Non trattare i due luoghi come schede separate senza legame. Usa sempre una fras
 
 ---
 
-## 54. Castello Scaligero - Sirmione
+## Castello Scaligero - Sirmione
 
 ![Castello Scaligero di Sirmione](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Scaligero_Sirmione.jpg)
-
-*Immagine: Castello Scaligero di Sirmione. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Castello Scaligero Sirmione".*
-
+*Castello Scaligero di Sirmione. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Scaligero_Sirmione.jpg).*
 ### Dati essenziali
 
 Il **Castello Scaligero di Sirmione** si trova all'ingresso del centro storico di Sirmione, sulla penisola che si protende nel basso Lago di Garda. È uno dei monumenti più riconoscibili della Lombardia lacustre e un esempio particolarmente efficace di fortificazione medievale inserita in un paesaggio d'acqua.
 
-Per l'orale, la prima cosa da chiarire è la funzione strategica del sito. Il castello controllava l'accesso alla penisola e si integrava con il sistema difensivo del territorio gardesano. La sua posizione è parte del monumento: acqua, mura, darsena e torri costruiscono un'immagine di difesa e controllo.
+Per la spiegazione, la prima cosa da chiarire è la funzione strategica del sito. Il castello controllava l'accesso alla penisola e si integrava con il sistema difensivo del territorio gardesano. La sua posizione è parte del monumento: acqua, mura, darsena e torri costruiscono un'immagine di difesa e controllo.
 
 ### Contesto storico
 
@@ -221,9 +193,9 @@ Durante una visita guidata, conviene leggere il monumento dall'esterno verso l'i
 
 Il Castello Scaligero è anche una soglia urbana: chi entra nel centro storico di Sirmione attraversa un'immagine medievale fortissima. Oggi il monumento è inserito in un contesto turistico, ma la guida deve saper riportare il visitatore alla funzione originaria: presidio, controllo, difesa e rappresentazione del potere scaligero.
 
-Un collegamento utile, ma da non confondere, è quello con le **Grotte di Catullo**. Entrambi si trovano a Sirmione, ma appartengono a epoche e funzioni diverse: il castello è medievale e difensivo; le Grotte di Catullo sono un complesso residenziale romano di età augustea. La distinzione è importante perché la Sezione III del programma pratico indica le Grotte di Catullo, non il Castello Scaligero.
+Un collegamento utile, ma da non confondere, è quello con le **Grotte di Catullo**. Entrambi si trovano a Sirmione, ma appartengono a epoche e funzioni diverse: il castello è medievale e difensivo; le Grotte di Catullo sono un complesso residenziale romano di età augustea. La distinzione è importante perché la percorso integrativo del percorso pratico indica le Grotte di Catullo, non il Castello Scaligero.
 
-### Domande probabili
+### Domande guida
 
 - A quale famiglia deve il nome il Castello Scaligero?
 - Qual era la funzione del castello?
@@ -232,7 +204,7 @@ Un collegamento utile, ma da non confondere, è quello con le **Grotte di Catull
 - Come distingueresti il Castello Scaligero dalle Grotte di Catullo?
 - Come imposteresti una visita guidata al castello?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Castello Scaligero di Sirmione è una fortificazione medievale costruita dopo la metà del Trecento e legata alla famiglia Della Scala, signori di Verona. Sorge all'ingresso della penisola di Sirmione e controllava un punto strategico del basso Lago di Garda. Il monumento è caratterizzato da mura merlate, torri, mastio, camminamenti e da una rara darsena fortificata, che mostra il rapporto diretto tra funzione difensiva e ambiente lacustre. Oggi è uno dei simboli di Sirmione, ma va letto prima di tutto come presidio militare e politico del territorio gardesano.
 
@@ -242,23 +214,21 @@ La risposta deve partire dal paesaggio. Non dire subito "castello medievale", ma
 
 ---
 
-## 55. Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale
+## Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale
 
 ![Mantova, Palazzo Ducale](https://commons.wikimedia.org/wiki/Special:FilePath/Mantova_Palazzo_Ducale.jpg)
-
-*Immagine: Palazzo Ducale di Mantova. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Palazzo Ducale Mantova".*
-
+*Mantova, Palazzo Ducale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mantova_Palazzo_Ducale.jpg).*
 ### Dati essenziali
 
-Il sito del programma comprende due città: **Mantova** e **Sabbioneta**, entrambe legate alla dinastia dei **Gonzaga** e iscritte nella Lista del Patrimonio Mondiale UNESCO. Per l'orale bisogna evitare di parlare solo di Mantova o solo di Palazzo Ducale: il titolo del programma chiede di tenere insieme **Palazzo Ducale** e **città ideale rinascimentale**. Il tema centrale è quindi il Rinascimento urbano e di corte.
+Il sito del percorso comprende due città: **Mantova** e **Sabbioneta**, entrambe legate alla dinastia dei **Gonzaga** e iscritte nella Lista del Patrimonio Mondiale UNESCO. Per la spiegazione bisogna evitare di parlare solo di Mantova o solo di Palazzo Ducale: il titolo del percorso chiede di tenere insieme **Palazzo Ducale** e **città ideale rinascimentale**. Il tema centrale è quindi il Rinascimento urbano e di corte.
 
-Secondo UNESCO Italia, Mantova e Sabbioneta rappresentano due forme urbanistiche del Rinascimento: la trasformazione di una città esistente e la città di nuova fondazione basata sul concetto di città ideale. Questa frase è perfetta come apertura di una risposta d'esame.
+Secondo UNESCO Italia, Mantova e Sabbioneta rappresentano due forme urbanistiche del Rinascimento: la trasformazione di una città esistente e la città di nuova fondazione basata sul concetto di città ideale. Questa frase è perfetta come apertura di una risposta di riferimento.
 
 ### Mantova e Palazzo Ducale
 
 Mantova è una città d'acqua e di corte. Il suo sviluppo è legato ai Gonzaga, che la trasformarono in un centro politico e artistico di primo piano. Il **Palazzo Ducale** è in realtà una "città-palazzo": secondo il sito Mantova Sabbioneta UNESCO si estende per circa 34.000 metri quadrati tra Piazza Sordello e il Lago di Mezzo e fu abitato e ampliato dai Gonzaga per circa tre secoli.
 
-Il complesso comprende cortili, giardini, sale, appartamenti e ambienti di rappresentanza. L'elemento più celebre è la **Camera degli Sposi** di Andrea Mantegna, nel Castello di San Giorgio, anche se non è nominata esplicitamente nel programma: citarla è utile perché è uno dei vertici della pittura rinascimentale di corte. Bisogna però inserirla nel discorso generale sul palazzo come macchina dinastica e rappresentativa.
+Il complesso comprende cortili, giardini, sale, appartamenti e ambienti di rappresentanza. L'elemento più celebre è la **Camera degli Sposi** di Andrea Mantegna, nel Castello di San Giorgio, anche se non è nominata esplicitamente nel percorso: citarla è utile perché è uno dei vertici della pittura rinascimentale di corte. Bisogna però inserirla nel discorso generale sul palazzo come macchina dinastica e rappresentativa.
 
 ### Sabbioneta e la città ideale
 
@@ -268,9 +238,9 @@ Nella visita guidata bisogna spiegare che l'ideale rinascimentale della città r
 
 ### Perché il sito è importante
 
-Mantova e Sabbioneta permettono di parlare di uno dei temi più importanti dell'arte italiana: il rapporto tra potere, arte e città nel Rinascimento. Mantova mostra la trasformazione progressiva di una capitale dinastica; Sabbioneta mostra la costruzione programmata di una città ideale. La commissione potrebbe chiedere proprio questo confronto.
+Mantova e Sabbioneta permettono di parlare di uno dei temi più importanti dell'arte italiana: il rapporto tra potere, arte e città nel Rinascimento. Mantova mostra la trasformazione progressiva di una capitale dinastica; Sabbioneta mostra la costruzione progettata di una città ideale. Questo confronto chiarisce bene il valore dei due centri.
 
-### Domande probabili
+### Domande guida
 
 - Perché Mantova e Sabbioneta sono UNESCO?
 - Qual è il ruolo dei Gonzaga?
@@ -279,7 +249,7 @@ Mantova e Sabbioneta permettono di parlare di uno dei temi più importanti dell'
 - Come confronteresti Mantova e Sabbioneta?
 - Quali luoghi citeresti in una visita guidata?
 
-### Risposta modello
+### Sintesi narrativa
 
 Mantova e Sabbioneta sono due città gonzaghesche fondamentali per comprendere il Rinascimento urbano. Mantova rappresenta la trasformazione di una città esistente in capitale di corte: il Palazzo Ducale, ampliato per secoli dai Gonzaga, è una vera città-palazzo, con sale, cortili, giardini e ambienti di rappresentanza. Sabbioneta, voluta da Vespasiano Gonzaga Colonna, rappresenta invece la città ideale rinascimentale, progettata secondo criteri di ordine, proporzione e controllo dello spazio. Insieme mostrano il rapporto tra potere dinastico, architettura e pianificazione urbana.
 
@@ -289,15 +259,13 @@ Usa il confronto come struttura: "Mantova è la città trasformata; Sabbioneta �
 
 ---
 
-## 56. Teatro alla Scala - Milano
+## Teatro alla Scala - Milano
 
 ![Teatro alla Scala](https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_alla_Scala_Milan.jpg)
-
-*Immagine: Teatro alla Scala, Milano. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Teatro alla Scala".*
-
+*Teatro alla Scala. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_alla_Scala_Milan.jpg).*
 ### Dati essenziali
 
-Il **Teatro alla Scala** è uno dei luoghi simbolo della musica, dell'opera e della cultura teatrale italiana. Si trova nel centro di Milano, in Piazza della Scala, in dialogo urbano con Palazzo Marino e con il sistema monumentale che collega la piazza alla Galleria Vittorio Emanuele II e al Duomo. Per l'orale va presentato non solo come edificio, ma come istituzione culturale.
+Il **Teatro alla Scala** è uno dei luoghi simbolo della musica, dell'opera e della cultura teatrale italiana. Si trova nel centro di Milano, in Piazza della Scala, in dialogo urbano con Palazzo Marino e con il sistema monumentale che collega la piazza alla Galleria Vittorio Emanuele II e al Duomo. Per la spiegazione va presentato non solo come edificio, ma come istituzione culturale.
 
 ### Contesto storico
 
@@ -313,13 +281,13 @@ Il teatro non è solo un contenitore architettonico. È un'istituzione legata al
 
 ### Museo Teatrale alla Scala
 
-Il Museo Teatrale alla Scala conserva documenti, strumenti, costumi, ritratti e memorie legate alla storia del teatro. Secondo il portale regionale dei musei lombardi, il museo trae origine dalla collezione dell'antiquario Jules Sambon, acquistata nel 1911. Questo dato è utile se la commissione chiede il rapporto tra teatro e museo.
+Il Museo Teatrale alla Scala conserva documenti, strumenti, costumi, ritratti e memorie legate alla storia del teatro. Secondo il portale regionale dei musei lombardi, il museo trae origine dalla collezione dell'antiquario Jules Sambon, acquistata nel 1911. Questo dato chiarisce il rapporto tra teatro e museo.
 
 ### Seconda guerra mondiale e ricostruzione
 
-Un punto forte per l'orale è la ricostruzione dopo i bombardamenti del 1943. Il teatro fu gravemente danneggiato e riaprì l'11 maggio 1946 con un concerto diretto da **Arturo Toscanini**. Questo episodio permette di presentare la Scala come simbolo della rinascita culturale italiana dopo la guerra.
+Un punto forte per la spiegazione è la ricostruzione dopo i bombardamenti del 1943. Il teatro fu gravemente danneggiato e riaprì l'11 maggio 1946 con un concerto diretto da **Arturo Toscanini**. Questo episodio permette di presentare la Scala come simbolo della rinascita culturale italiana dopo la guerra.
 
-### Domande probabili
+### Domande guida
 
 - Quando fu costruito e inaugurato il Teatro alla Scala?
 - Chi progettò la Scala?
@@ -328,27 +296,25 @@ Un punto forte per l'orale è la ricostruzione dopo i bombardamenti del 1943. Il
 - Perché la Scala è importante per la storia dell'opera?
 - Che cosa conserva il Museo Teatrale?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Teatro alla Scala di Milano fu costruito a partire dal 1776 per volontà di Maria Teresa d'Austria, su progetto di Giuseppe Piermarini, e inaugurato nel 1778 con *Europa riconosciuta* di Antonio Salieri. Il nome deriva dalla chiesa di Santa Maria alla Scala, sul cui sito fu edificato. È uno dei teatri d'opera più importanti al mondo e un simbolo della cultura musicale italiana. La sua storia è legata ai grandi protagonisti dell'opera, al Museo Teatrale e alla ricostruzione dopo i bombardamenti del 1943, culminata nella riapertura del 1946 diretta da Arturo Toscanini.
 
 ### Suggerimenti di esposizione
 
-Evita di parlare solo della stagione lirica. La commissione vuole un sito: quindi unisci architettura, storia, funzione urbana, istituzione culturale e memoria musicale.
+Evita di parlare solo della stagione lirica. Il sito va letto unendo architettura, storia, funzione urbana, istituzione culturale e memoria musicale.
 
 ---
 
-## 57. Parco Archeologico di Santa Giulia - Brixia, Brescia
+## Parco Archeologico di Santa Giulia - Brixia, Brescia
 
 ![Capitolium di Brescia](https://commons.wikimedia.org/wiki/Special:FilePath/Brescia_Capitolium.jpg)
-
-*Immagine: Capitolium di Brescia. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Brixia Capitolium Brescia".*
-
+*Capitolium di Brescia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Brescia_Capitolium.jpg).*
 ### Dati essenziali
 
-Il sito del programma indica **Parco Archeologico di Santa Giulia-Brixia**, cioè il sistema archeologico e museale che racconta Brescia romana e la lunga continuità storica della città. Il nucleo principale è **Brixia. Parco archeologico di Brescia romana**, con Capitolium, santuario repubblicano, teatro romano e collegamento con il complesso di Santa Giulia.
+Il sito del percorso indica **Parco Archeologico di Santa Giulia-Brixia**, cioè il sistema archeologico e museale che racconta Brescia romana e la lunga continuità storica della città. Il nucleo principale è **Brixia. Parco archeologico di Brescia romana**, con Capitolium, santuario repubblicano, teatro romano e collegamento con il complesso di Santa Giulia.
 
-Per l'orale è fondamentale chiarire il termine **Brixia**: è il nome latino di Brescia. Il sito permette quindi di leggere la città contemporanea attraverso la sua struttura antica.
+Per la spiegazione è fondamentale chiarire il termine **Brixia**: è il nome latino di Brescia. Il sito permette quindi di leggere la città contemporanea attraverso la sua struttura antica.
 
 ### Contesto storico
 
@@ -373,9 +339,9 @@ Secondo il Comune di Brescia, il parco comprende Capitolium, santuario repubblic
 
 Questo sito è ideale per dimostrare capacità diacronica. Non bisogna limitarsi a "qui ci sono resti romani", ma spiegare come Brescia conservi livelli storici sovrapposti: città romana, memoria longobarda, museo moderno, valorizzazione contemporanea.
 
-La commissione potrebbe chiedere anche Santa Giulia: va presentata come museo della città e complesso monastico, non come semplice contenitore di reperti.
+Santa Giulia va presentata come museo della città e complesso monastico, non come semplice contenitore di reperti.
 
-### Domande probabili
+### Domande guida
 
 - Che cosa significa Brixia?
 - Quali sono i monumenti principali del parco archeologico?
@@ -384,31 +350,29 @@ La commissione potrebbe chiedere anche Santa Giulia: va presentata come museo de
 - Qual è il rapporto tra Brixia e Santa Giulia?
 - Come spiegheresti la continuità storica di Brescia?
 
-### Risposta modello
+### Sintesi narrativa
 
 Brixia è il nome romano di Brescia. Il Parco archeologico di Brescia romana conserva alcuni dei principali resti della città antica: santuario repubblicano, Capitolium, teatro romano e area del foro. Il Capitolium era il tempio principale, legato alla religione pubblica romana. Il percorso è oggi collegato al Museo di Santa Giulia, che permette di leggere la storia della città dalla preistoria all'età contemporanea. Il sito è importante perché mostra la continuità storica di Brescia e il rapporto tra archeologia, museo e valorizzazione urbana.
 
 ### Suggerimenti di esposizione
 
-Usa la parola "continuità" come filo conduttore: dalla città romana alla città-museo contemporanea. È una chiave molto forte per l'orale.
+Usa la parola "continuità" come filo conduttore: dalla città romana alla città-museo contemporanea. È una chiave molto forte per la spiegazione.
 
 ---
 
-## 58. Lago di Como, Lago d'Iseo e Franciacorta
+## Lago di Como, Lago d'Iseo e Franciacorta
 
 ![Lago di Como](https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Varenna.jpg)
-
-*Immagine: Lago di Como. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Lake Como Varenna".*
-
+*Lago di Como. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Varenna.jpg).*
 ### Dati essenziali
 
-Questo sito è diverso dagli altri perché non riguarda un singolo monumento, ma un sistema paesaggistico e turistico: **Lago di Como**, **Lago d'Iseo** e **Franciacorta**. Per l'orale bisogna evitare una descrizione da dépliant e costruire invece una lettura culturale del paesaggio lombardo: acqua, montagne, borghi, ville, mobilità, turismo storico, viticoltura e identità territoriale.
+Questo sito è diverso dagli altri perché non riguarda un singolo monumento, ma un sistema paesaggistico e turistico: **Lago di Como**, **Lago d'Iseo** e **Franciacorta**. Per la spiegazione bisogna evitare una descrizione da dépliant e costruire invece una lettura culturale del paesaggio lombardo: acqua, montagne, borghi, ville, mobilità, turismo storico, viticoltura e identità territoriale.
 
 ### Lago di Como
 
 Il Lago di Como, o Lario, è uno dei paesaggi lacustri più celebri d'Italia. Si caratterizza per la forma ramificata, il rapporto stretto con le Prealpi, i borghi rivieraschi, le ville storiche e i giardini. Il turismo sul Lago di Como è legato a più livelli: paesaggio romantico, aristocrazia europea, ville di delizia, navigazione, letteratura e turismo contemporaneo internazionale.
 
-Per una guida, i punti da citare sono: Como e il suo centro storico, il Duomo di Como come possibile collegamento, Bellagio per la posizione tra i rami del lago, Varenna, Menaggio, le ville storiche come Villa Carlotta, Villa del Balbianello e Villa Melzi. Anche se non tutte sono nel programma, servono per dare sostanza al racconto del lago.
+Per una guida, i punti da citare sono: Como e il suo centro storico, il Duomo di Como come possibile collegamento, Bellagio per la posizione tra i rami del lago, Varenna, Menaggio, le ville storiche come Villa Carlotta, Villa del Balbianello e Villa Melzi. Anche se non tutte sono nel percorso, servono per dare sostanza al racconto del lago.
 
 ### Lago d'Iseo
 
@@ -416,13 +380,13 @@ Il Lago d'Iseo si trova tra le province di Brescia e Bergamo. Il portale ufficia
 
 ### Franciacorta
 
-La Franciacorta è l'area collinare a sud del Lago d'Iseo, in provincia di Brescia. Secondo in-Lombardia, è un'area verde e collinare compresa tra Brescia e la sponda meridionale del Lago d'Iseo, nota per natura, borghi storici, percorsi ciclabili e vini rinomati. Per l'orale, è importante presentarla come paesaggio culturale: non solo vino, ma trasformazione storica del territorio, viticoltura, turismo enogastronomico, abbazie, pievi, castelli e percorsi tra lago e colline.
+La Franciacorta è l'area collinare a sud del Lago d'Iseo, in provincia di Brescia. Secondo in-Lombardia, è un'area verde e collinare compresa tra Brescia e la sponda meridionale del Lago d'Iseo, nota per natura, borghi storici, percorsi ciclabili e vini rinomati. Per la spiegazione, è importante presentarla come paesaggio culturale: non solo vino, ma trasformazione storica del territorio, viticoltura, turismo enogastronomico, abbazie, pievi, castelli e percorsi tra lago e colline.
 
 ### Chiave interpretativa
 
 Il tema comune è il rapporto tra natura e cultura. I laghi lombardi non sono solo scenari naturali: sono paesaggi costruiti dall'uomo, attraversati da vie di comunicazione, ville, borghi, coltivazioni e pratiche turistiche. Il Lago di Como rappresenta il turismo aristocratico e internazionale; il Lago d'Iseo un paesaggio più raccolto e identitario; la Franciacorta un modello di paesaggio vitivinicolo e turismo esperienziale.
 
-### Domande probabili
+### Domande guida
 
 - Come presenteresti il Lago di Como a un gruppo turistico?
 - Quali differenze ci sono tra Lago di Como e Lago d'Iseo?
@@ -430,7 +394,7 @@ Il tema comune è il rapporto tra natura e cultura. I laghi lombardi non sono so
 - Quali collegamenti faresti tra laghi, ville e turismo?
 - Come eviteresti una descrizione puramente naturalistica?
 
-### Risposta modello
+### Sintesi narrativa
 
 Lago di Como, Lago d'Iseo e Franciacorta rappresentano tre volti del paesaggio lombardo. Il Lago di Como è celebre per la relazione tra acqua, montagne, borghi e ville storiche, ed è legato a un turismo aristocratico e internazionale. Il Lago d'Iseo, tra Bergamo e Brescia, offre un paesaggio più raccolto, con borghi rivieraschi e Monte Isola. La Franciacorta, a sud del Lago d'Iseo, è un'area collinare nota per il paesaggio vitivinicolo, i borghi, i percorsi ciclabili e il turismo enogastronomico. Insieme mostrano il rapporto tra natura, insediamento umano e valorizzazione turistica.
 
@@ -440,21 +404,19 @@ Non elencare località a caso. Usa tre parole chiave: **ville** per Como, **isol
 
 ---
 
-## 14. Pinacoteca di Brera - Milano
+## Pinacoteca di Brera - Milano
 
 ![Pinacoteca di Brera](https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca_di_Brera,_Milan.jpg)
-
-*Immagine: Pinacoteca di Brera. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Pinacoteca di Brera".*
-
+*Pinacoteca di Brera. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca_di_Brera,_Milan.jpg).*
 ### Dati essenziali
 
 La **Pinacoteca di Brera** si trova a Milano, all'interno di Palazzo Brera. È uno dei principali musei d'arte italiani e un luogo fondamentale per comprendere la pittura italiana dal Medioevo all'età moderna. Secondo il sito ufficiale, la Pinacoteca fu aperta al pubblico nel 1809 e si trova in un palazzo che ospita anche altre istituzioni culturali, tra cui Biblioteca Braidense, Osservatorio Astronomico, Orto Botanico e Accademia di Belle Arti.
 
-Per l'orale bisogna presentare Brera come museo nato in rapporto alla storia culturale e politica di Milano, soprattutto in età napoleonica, e come raccolta ordinata per scuole, aree e periodi.
+Per la spiegazione bisogna presentare Brera come museo nato in rapporto alla storia culturale e politica di Milano, soprattutto in età napoleonica, e come raccolta ordinata per scuole, aree e periodi.
 
-### Sezioni richieste dal programma
+### Sezioni richieste dalil percorso
 
-Il programma chiede attenzione a:
+Il percorso chiede attenzione a:
 
 - Galleria degli affreschi;
 - pittura gotica e tardogotica;
@@ -462,7 +424,7 @@ Il programma chiede attenzione a:
 - pittura lombarda del Quattro e Cinquecento;
 - Piero della Francesca, Bramante, Raffaello.
 
-Questa lista deve guidare lo studio. Non basta conoscere i capolavori più famosi: bisogna saper spiegare le scuole pittoriche.
+Questa lista organizza la lettura. Non basta conoscere i capolavori più famosi: bisogna saper spiegare le scuole pittoriche.
 
 ### Galleria degli affreschi
 
@@ -474,7 +436,7 @@ Questa sezione è utile per introdurre il passaggio dalla pittura medievale alla
 
 ### Pittura veneta del Quattro e Cinquecento
 
-La pittura veneta è uno dei punti forti di Brera. Qui il discorso deve concentrarsi sul colore, sulla luce, sul paesaggio e sulla diversa sensibilità rispetto alla pittura fiorentina più disegnativa. Nomi utili: Giovanni Bellini, Gentile Bellini, Carpaccio, Lotto, Veronese, Tintoretto. Per l'orale, è efficace spiegare che la pittura veneta costruisce lo spazio e l'emozione attraverso luce e colore.
+La pittura veneta è uno dei punti forti di Brera. Qui il discorso deve concentrarsi sul colore, sulla luce, sul paesaggio e sulla diversa sensibilità rispetto alla pittura fiorentina più disegnativa. Nomi utili: Giovanni Bellini, Gentile Bellini, Carpaccio, Lotto, Veronese, Tintoretto. Per la spiegazione, è efficace spiegare che la pittura veneta costruisce lo spazio e l'emozione attraverso luce e colore.
 
 ### Pittura lombarda del Quattro e Cinquecento
 
@@ -488,36 +450,34 @@ Tre nomi fondamentali:
 - **Bramante**: importante per comprendere il rapporto tra pittura prospettica, architettura dipinta e cultura rinascimentale lombarda;
 - **Raffaello**: lo *Sposalizio della Vergine*, datato 1504, è uno dei capolavori della Pinacoteca. Secondo il sito ufficiale di Brera, l'opera giunse al museo nel 1805 e mostra Raffaello in dialogo con il modello di Perugino, ma con un risultato di straordinaria perfezione compositiva.
 
-### Domande probabili
+### Domande guida
 
 - Quando fu aperta la Pinacoteca di Brera?
 - Perché Brera è importante nella storia culturale di Milano?
-- Quali sezioni sono richieste dal programma?
+- Quali sezioni sono richieste dalil percorso?
 - Che differenza c'è tra pittura veneta e pittura lombarda?
 - Quali opere citeresti di Piero della Francesca e Raffaello?
 - Come spiegheresti la funzione di una pinacoteca a un visitatore?
 
-### Risposta modello
+### Sintesi narrativa
 
-La Pinacoteca di Brera è uno dei principali musei d'arte italiani, aperto al pubblico nel 1809 all'interno di Palazzo Brera a Milano. Il programma richiede in particolare la galleria degli affreschi, la pittura gotica e tardogotica, la pittura veneta e lombarda del Quattro e Cinquecento e i nuclei legati a Piero della Francesca, Bramante e Raffaello. Tra i capolavori più importanti si possono citare la Pala di Brera di Piero della Francesca e lo Sposalizio della Vergine di Raffaello. Brera è fondamentale perché permette di leggere scuole, periodi e linguaggi diversi della pittura italiana.
+La Pinacoteca di Brera è uno dei principali musei d'arte italiani, aperto al pubblico nel 1809 all'interno di Palazzo Brera a Milano. Il percorso richiede in particolare la galleria degli affreschi, la pittura gotica e tardogotica, la pittura veneta e lombarda del Quattro e Cinquecento e i nuclei legati a Piero della Francesca, Bramante e Raffaello. Tra i capolavori più importanti si possono citare la Pala di Brera di Piero della Francesca e lo Sposalizio della Vergine di Raffaello. Brera è fondamentale perché permette di leggere scuole, periodi e linguaggi diversi della pittura italiana.
 
 ### Suggerimenti di esposizione
 
-Per Brera, non impostare la risposta come lista di quadri. Usa le sezioni richieste dal programma come struttura e inserisci 2-3 capolavori come esempi.
+Per Brera, non impostare la risposta come lista di quadri. Usa le sezioni richieste dalil percorso come struttura e inserisci 2-3 capolavori come esempi.
 
 ---
 
-## 15. Cenacolo Vinciano - Milano
+## Cenacolo Vinciano - Milano
 
 ![Cenacolo Vinciano](https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg)
-
-*Immagine: Leonardo da Vinci, Ultima Cena. Fonte suggerita: Wikimedia Commons / immagini libere correlate a "Leonardo Last Supper".*
-
+*Cenacolo Vinciano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg).*
 ### Dati essenziali
 
 Il **Cenacolo Vinciano** è il museo che conserva l'**Ultima Cena** di Leonardo da Vinci, dipinta sulla parete del refettorio del convento domenicano di **Santa Maria delle Grazie** a Milano. È uno dei capolavori più celebri del Rinascimento e fa parte del sito UNESCO "Chiesa e convento domenicano di Santa Maria delle Grazie con l'Ultima Cena di Leonardo da Vinci".
 
-Per l'orale bisogna evitare un errore frequente: chiamarla semplicemente "affresco". L'opera non è un affresco tradizionale. Leonardo utilizzò una tecnica sperimentale a secco su muro, che gli permise effetti pittorici più vicini alla pittura su tavola, ma rese l'opera estremamente fragile.
+Per la spiegazione bisogna evitare un errore frequente: chiamarla semplicemente "affresco". L'opera non è un affresco tradizionale. Leonardo utilizzò una tecnica sperimentale a secco su muro, che gli permise effetti pittorici più vicini alla pittura su tavola, ma rese l'opera estremamente fragile.
 
 ### Contesto storico
 
@@ -537,7 +497,7 @@ La tecnica sperimentale causò problemi conservativi già pochi anni dopo l'esec
 
 Per una guida turistica, questo aspetto è importante perché spiega perché la visita dura poco e perché le regole di accesso sono rigide. La conservazione diventa parte del racconto.
 
-### Domande probabili
+### Domande guida
 
 - Dove si trova il Cenacolo Vinciano?
 - Chi commissionò l'opera?
@@ -546,7 +506,7 @@ Per una guida turistica, questo aspetto è importante perché spiega perché la 
 - Qual è il ruolo della prospettiva?
 - Perché la visita è contingentata?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Cenacolo Vinciano conserva l'Ultima Cena di Leonardo da Vinci, realizzata tra il 1495 e il 1498 nel refettorio del convento domenicano di Santa Maria delle Grazie a Milano, nel contesto della committenza di Ludovico il Moro. L'opera rappresenta il momento in cui Cristo annuncia il tradimento di uno degli apostoli. La composizione è costruita con una prospettiva centrata sulla figura di Cristo e con una straordinaria resa psicologica delle reazioni degli apostoli. Non è un affresco tradizionale, ma una pittura murale eseguita con tecnica sperimentale, molto fragile; per questo oggi la visita è contingentata e regolata da rigorose condizioni conservative.
 
@@ -556,8 +516,8 @@ La frase chiave è: "Il Cenacolo non va spiegato solo come immagine, ma come esp
 
 ---
 
-## Presentazioni orali da circa 5 minuti
-### Arte rupestre della Val Camonica - presentazione orale da circa 5 minuti
+## Percorsi narrativi brevi
+### Percorso narrativo breve
 Buongiorno, oggi vi presento uno dei siti più importanti per la preistoria europea e per il patrimonio culturale italiano: l'**Arte rupestre della Val Camonica**, in provincia di Brescia.
 
 La Val Camonica è una valle alpina della Lombardia orientale, attraversata dal fiume Oglio e posta a nord del Lago d'Iseo. È conosciuta a livello mondiale per l'enorme quantità di incisioni rupestri conservate sulle superfici rocciose. Il sito è particolarmente importante perché nel 1979 è stato il **primo sito italiano iscritto nella Lista del Patrimonio Mondiale UNESCO**.
@@ -576,7 +536,7 @@ Concludendo, l'Arte rupestre della Val Camonica è fondamentale perché ci perme
 
 ---
 
-### Grotte di Catullo - presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 Buongiorno, oggi vi accompagno alla scoperta delle **Grotte di Catullo**, uno dei siti archeologici più importanti del Lago di Garda e dell'Italia settentrionale romana.
 
 Il sito si trova a **Sirmione**, in provincia di Brescia, all'estremità della penisola che si protende nel basso Lago di Garda. La posizione è spettacolare: i resti della villa dominano il lago dall'alto e permettono di capire immediatamente perché questo luogo fosse privilegiato già in età romana.
@@ -596,11 +556,10 @@ Un buon modo per spiegare le Grotte di Catullo è partire da tre parole: **villa
 Concludendo, le Grotte di Catullo sono un sito fondamentale perché uniscono archeologia romana e paesaggio gardesano. La loro forza non sta solo nei resti murari, ma nella capacità di far percepire al visitatore come l'élite romana costruisse luoghi di vita, prestigio e contemplazione in dialogo con la natura.
 
 ---
-Questa appendice segue la richiesta di aggiungere un modello di presentazione da circa 5 minuti per i siti lombardi presenti nella Sezione III. Non sostituisce la preparazione pratica, ma aiuta ad avere una traccia orale già pronta.
 
 ---
 
-## Ripasso finale
+## Sintesi finale
 ### Parole chiave per sito
 
 | Sito | 5 parole chiave |
@@ -623,60 +582,50 @@ Questa appendice segue la richiesta di aggiungere un modello di presentazione da
 - Presentare il Castello Scaligero e le Grotte di Catullo come lo stesso sito.
 - Parlare di Mantova senza Sabbioneta, o viceversa.
 - Ridurre la Franciacorta al vino senza parlare di paesaggio culturale.
-- Elencare quadri di Brera senza spiegare le sezioni richieste dal programma.
+- Elencare quadri di Brera senza spiegare le sezioni richieste dalil percorso.
 
 ---
 
 ## Fonti principali consultate
-### Bergamo
 - [Fondazione MIA, Basilica di Santa Maria Maggiore - Storia](https://www.fondazionemia.it/it/basilica/storia)
 - [Visit Bergamo, Piazza Vecchia](https://www.visitbergamo.net/oggetto/piazza-vecchia/)
 - [Visit Bergamo, Basilica di Santa Maria Maggiore](https://www.visitbergamo.net/en/oggetto/santa-maria-maggiore-basilica/)
 
-### Milano - Duomo
 - [Duomo di Milano, sito ufficiale](https://www.duomomilano.it/)
 - [Duomo di Milano, La Cattedrale](https://www.duomomilano.it/cultura-e-arte/la-cattedrale/)
 - [Veneranda Fabbrica del Duomo](https://www.duomomilano.it/scopri-chi-siamo/la-veneranda-fabbrica-del-duomo-di-milano/)
 
-### Pavia
 - [Direzione regionale Musei Lombardia, Museo della Certosa di Pavia](https://museilombardia.cultura.gov.it/musei/museo-della-certosa-di-pavia/)
 - [Certosa di Pavia, storia](https://www.certosadipavia.it/storia/)
 - [Musei Civici di Pavia, Castello Visconteo](https://museicivici.comune.pavia.it/esplora-il-museo/castello-visconteo)
 
-### Sirmione
 - [Direzione regionale Musei Lombardia, Castello Scaligero](https://museilombardia.cultura.gov.it/musei/castello-scaligero-di-sirmione/)
 - [Visit Sirmione, Castello Scaligero](https://visitsirmione.com/scopri/arte-storia-e-monumenti/castello-scaligero/)
 - [Direzione regionale Musei Lombardia, Grotte di Catullo](https://museilombardia.cultura.gov.it/musei/grotte-di-catullo-e-museo-archeologico-di-sirmione/)
 
-### Mantova e Sabbioneta
 - [UNESCO Italia, Mantova e Sabbioneta](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/mantova-e-sabbioneta/)
 - [Mantova Sabbioneta UNESCO](https://mantovasabbioneta-unesco.it/)
 - [Palazzo Ducale, Mantova e Sabbioneta UNESCO](https://mantovasabbioneta-unesco.it/poi/mantova/)
 - [Sabbioneta città ideale](https://www.sabbioneta.org/)
 
-### Teatro alla Scala
 - [Teatro alla Scala, Storia](https://www.teatroallascala.org/it/il-teatro/storia.html)
 - [Museo Teatrale alla Scala](https://www.museoscala.org/it/index.html)
 - [Regione Lombardia, Museo Teatrale alla Scala](https://www.musei.regione.lombardia.it/)
 
-### Brescia
 - [Brescia Musei, Brixia Parco archeologico](https://www.bresciamusei.com/musei-e-luoghi/parco-archeologico/)
 - [Ministero della Cultura, Brixia](https://cultura.gov.it/luogo/brixia-parco-archeologico-di-brescia-romana)
 - [Comune di Brescia, Brixia Parco archeologico](https://www.comune.brescia.it/it/vivere/brixia-parco-archeologico-di-brescia-romana)
 
-### Laghi e Franciacorta
 - [in-Lombardia, sito ufficiale turismo Lombardia](https://www.in-lombardia.it/)
 - [Visit Lake Iseo, portale ufficiale](https://visitlakeiseo.info/)
 - [in-Lombardia, Franciacorta](https://www.in-lombardia.it/turismo-in-lombardia/lago-di-iseo-franciacorta-turismo/franciacorta)
 
-### Brera e Cenacolo
 - [Pinacoteca di Brera, sito ufficiale](https://pinacotecabrera.org/)
 - [Pinacoteca di Brera, capolavori](https://pinacotecabrera.org/collezioni/capolavori/)
 - [Pinacoteca di Brera, Sposalizio della Vergine](https://pinacotecabrera.org/collezioni/collezione-on-line/sposalizio-della-vergine/)
 - [Museo del Cenacolo Vinciano, sito ufficiale](https://cenacolovinciano.org/)
 - [UNESCO World Heritage Centre, Santa Maria delle Grazie e Ultima Cena](https://whc.unesco.org/en/list/93/)
 
-### Val Camonica
 - [Valcamonica UNESCO, sito ufficiale](https://www.vallecamonicaunesco.it/)
 - [UNESCO Italia, Arte rupestre della Valcamonica](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/arte-rupestre-della-valcamonica/)
 - [UNESCO World Heritage Centre, Rock Drawings in Valcamonica](https://whc.unesco.org/en/list/94/)

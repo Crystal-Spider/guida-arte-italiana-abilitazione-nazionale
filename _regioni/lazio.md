@@ -4,54 +4,45 @@ layout: default
 nav_order: 7
 ---
 
-# Guida per la prova orale - Lazio
+# Lazio
 
 ## Perimetro e orientamento
-**Esame guida turistica nazionale italiana 2026 - preparazione orale**
-**Ambito:** Lazio, siti della Sezione I e musei/complessi museali della Sezione II.
-**Criterio seguito:** nessuna scheda sintetica regionale; ogni voce è trattata come scheda di esposizione orale.
-**Nota sulle presentazioni da 5 minuti:** sono aggiunte per le voci del Lazio che risultano presenti anche nella prova tecnico-pratica o solo nella prova pratica nella traccia d'esame: Castel Sant'Angelo, Domus Aurea, Villa Adriana, Villa d'Este, Villa dei Quintili e Santa Maria Nova. Le voci solo pratiche sono raccolte in appendice, senza trasformare il documento in un manuale completo della prova pratica.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Lazio. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
----
+| N. | Voce | Tipologia | Area | Note |
+|---:|---|---|---|---|
+| 1 | Basilica di San Giovanni in Laterano | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 2 | Cattedrale di Anagni | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 3 | Circo Massimo e Terme di Caracalla | Sito o tema | Vedi scheda | Scheda principale |
+| 4 | Civita di Bagnoregio | Sito o tema | Vedi scheda | Scheda principale |
+| 5 | Parco Archeologico del Colosseo | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 6 | Necropoli di Tarquinia | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 7 | Necropoli di Cerveteri | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 8 | Parco Archeologico di Ostia Antica | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 9 | Pantheon | Sito o tema | Vedi scheda | Scheda principale |
+| 10 | Fori Imperiali | Sito o tema | Vedi scheda | Scheda principale |
+| 11 | Basilica di San Pietro | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 12 | Parco Archeologico dell'Appia Antica | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 13 | Roma barocca monumentale: Fontana di Trevi, Piazza Navona, Vittoriano e Piazza Venezia | Sito storico-artistico | Vittoriano e Piazza Venezia | Scheda principale |
+| 14 | Musei Vaticani | Museo | Vedi scheda | Scheda principale |
+| 15 | Galleria Borghese | Museo | Vedi scheda | Scheda principale |
+| 16 | Castel Sant'Angelo | Sito o tema | Vedi scheda | Scheda principale |
+| 17 | Galleria Nazionale d'Arte Moderna e Contemporanea | Museo | Vedi scheda | Scheda principale |
+| 18 | Museo Nazionale Romano | Museo | Vedi scheda | Scheda principale |
+| 19 | Museo Nazionale Etrusco di Villa Giulia | Museo | Vedi scheda | Scheda principale |
+| 20 | Musei Capitolini | Museo | Vedi scheda | Scheda principale |
+| 21 | Palazzo Barberini e Palazzo Corsini - Gallerie Nazionali d'Arte Antica | Sito storico-artistico | Gallerie Nazionali d'Arte Antica | Scheda principale |
 
-### Tabella di orientamento
-
-| Area | Voce del programma | Località | Tipo | Priorità orale |
-|---|---|---:|---|---:|
-| Sezione I | Basilica di San Giovanni in Laterano | Roma | basilica papale / architettura paleocristiana-barocca | Alta |
-| Sezione I | Cattedrale di Anagni | Anagni | romanico-laziale / cripta affrescata | Alta |
-| Sezione I | Circo Massimo e Terme di Caracalla | Roma | archeologia romana / spettacolo e terme imperiali | Alta |
-| Sezione I | Civita di Bagnoregio | Bagnoregio | borgo storico / paesaggio fragile | Media-Alta |
-| Sezione I | Parco Archeologico del Colosseo | Roma | archeologia romana monumentale | Altissima |
-| Sezione I | Necropoli di Tarquinia | Tarquinia | civiltà etrusca / pittura funeraria | Alta |
-| Sezione I | Necropoli di Cerveteri | Cerveteri | civiltà etrusca / tombe a tumulo | Alta |
-| Sezione I | Parco Archeologico di Ostia Antica | Ostia | città romana portuale | Alta |
-| Sezione I | Pantheon | Roma | architettura romana / continuità d'uso | Altissima |
-| Sezione I | Fori Imperiali | Roma | urbanistica e propaganda imperiale | Altissima |
-| Sezione I | Basilica di San Pietro | Roma | basilica vaticana / Rinascimento e Barocco | Altissima |
-| Sezione I | Parco Archeologico dell'Appia Antica | Roma | paesaggio archeologico / via consolare | Alta |
-| Sezione I | Roma barocca monumentale: Fontana di Trevi, Piazza Navona, Vittoriano e Piazza Venezia | Roma | barocco urbano + monumentalità nazionale | Alta |
-| Sezione II | Musei Vaticani | Città del Vaticano | museo pontificio / Rinascimento | Altissima |
-| Sezione II | Galleria Borghese | Roma | collezione cardinalizia / Barocco | Altissima |
-| Sezione II | Castel Sant'Angelo | Roma | mausoleo, fortezza, museo | Alta + 5 minuti |
-| Sezione II | Galleria Nazionale d'Arte Moderna e Contemporanea | Roma | arte XIX-XXI secolo | Media-Alta |
-| Sezione II | Museo Nazionale Romano | Roma | archeologia romana / sedi multiple | Alta |
-| Sezione II | Museo Nazionale Etrusco di Villa Giulia | Roma | civiltà etrusca e falisca | Alta |
-| Sezione II | Musei Capitolini | Roma | museo civico storico / antichità e pinacoteca | Alta |
-| Sezione II | Palazzo Barberini e Palazzo Corsini | Roma | Gallerie Nazionali d'Arte Antica | Alta |
-
----
-
-## 1. Basilica di San Giovanni in Laterano
+## Basilica di San Giovanni in Laterano
 
 ![San Giovanni in Laterano - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/San_Giovanni_in_Laterano_-_Rome.jpg)
-
+*San Giovanni in Laterano - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/San_Giovanni_in_Laterano_-_Rome.jpg).*
 **Immagine consigliata:** facciata principale, interno con navata borrominiana, chiostro cosmatesco, battistero lateranense.
 **Fonti principali:** sito ufficiale della Basilica di San Giovanni in Laterano; portale del Giubileo; schede storico-artistiche del Vaticano.
 
 ### Inquadramento
 
-San Giovanni in Laterano è la cattedrale di Roma, dunque la chiesa del vescovo di Roma, cioè del papa. Questo punto è essenziale per l'esame: non bisogna presentarla semplicemente come "una delle grandi basiliche romane", ma come la **mater et caput** delle chiese di Roma e del mondo cattolico. La sua importanza non dipende solo dalla monumentalità architettonica, ma dal ruolo istituzionale, liturgico e storico che svolge fin dall'età costantiniana.
+San Giovanni in Laterano è la cattedrale di Roma, dunque la chiesa del vescovo di Roma, cioè del papa. Questo punto è essenziale per la lettura del sito: non bisogna presentarla semplicemente come "una delle grandi basiliche romane", ma come la **mater et caput** delle chiese di Roma e del mondo cattolico. La sua importanza non dipende solo dalla monumentalità architettonica, ma dal ruolo istituzionale, liturgico e storico che svolge fin dall'età costantiniana.
 
 La basilica nasce nel IV secolo nell'area dei Laterani, famiglia aristocratica romana i cui possedimenti passarono al patrimonio imperiale. Con Costantino, dopo la pace religiosa e la progressiva legittimazione del cristianesimo, l'area viene destinata alla nuova basilica episcopale. Questo la rende un monumento fondamentale per comprendere il passaggio dalla Roma pagana alla Roma cristiana.
 
@@ -65,7 +56,7 @@ Elementi da non dimenticare: la grande navata con le nicchie degli apostoli, il 
 
 Apri dicendo che San Giovanni in Laterano è la cattedrale di Roma. Poi procedi per fasi: origine costantiniana, ruolo papale, trasformazioni medievali e barocche, principali elementi artistici. Evita di cominciare dalla facciata, perché sarebbe una descrizione turistica superficiale; la facciata va spiegata dopo aver chiarito il ruolo della basilica.
 
-### Domande probabili
+### Domande guida
 
 - Perché San Giovanni in Laterano è più importante di quanto sembri rispetto ad altre basiliche romane?
 - Qual è il rapporto tra Costantino e la nascita della basilica?
@@ -73,16 +64,16 @@ Apri dicendo che San Giovanni in Laterano è la cattedrale di Roma. Poi procedi 
 - Quali sono gli elementi medievali ancora rilevanti?
 - Come spiegheresti a un gruppo di visitatori il titolo di "cattedrale di Roma"?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Basilica di San Giovanni in Laterano è la cattedrale di Roma e quindi la sede ecclesiastica del papa come vescovo della città. Fondata in età costantiniana, rappresenta uno dei monumenti chiave del passaggio dalla Roma imperiale pagana alla Roma cristiana. L'edificio conserva una stratificazione complessa: origine paleocristiana, elementi medievali come il chiostro e il ciborio, rinnovamento barocco dell'interno da parte di Borromini e facciata settecentesca di Alessandro Galilei. Per una guida turistica è importante presentarla non solo come monumento artistico, ma come luogo istituzionale della Chiesa romana.
 
 ---
 
-## 2. Cattedrale di Anagni
+## Cattedrale di Anagni
 
 ![Cattedrale di Anagni - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Anagni_Cathedral.jpg)
-
+*Cattedrale di Anagni - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Anagni_Cathedral.jpg).*
 **Immagine consigliata:** facciata e campanile, interno romanico, cripta di San Magno, pavimento cosmatesco.
 **Fonti principali:** Cattedrale e Museo di Anagni; MuCA - Museo della Cattedrale di Anagni.
 
@@ -90,48 +81,48 @@ La Basilica di San Giovanni in Laterano è la cattedrale di Roma e quindi la sed
 
 La Cattedrale di Anagni è uno dei monumenti fondamentali del Lazio meridionale. L'errore da evitare è trattarla come una "semplice cattedrale romanica": è invece il centro monumentale di una città profondamente legata alla storia del papato medievale. Anagni è nota come "città dei papi", sia per i pontefici nati o legati alla città sia per il celebre episodio dello schiaffo di Anagni del 1303, che segna simbolicamente la crisi dell'universalismo papale medievale.
 
-La cattedrale, dedicata a Santa Maria Annunziata, ha un'origine romanica e conserva uno dei cicli pittorici più importanti del Medioevo italiano nella **cripta di San Magno**. Quest'ultima è il nucleo più rilevante per l'esame: va spiegata come spazio teologico, iconografico e liturgico, non solo come ambiente decorato.
+La cattedrale, dedicata a Santa Maria Annunziata, ha un'origine romanica e conserva uno dei cicli pittorici più importanti del Medioevo italiano nella **cripta di San Magno**. Quest'ultima è il nucleo più rilevante per la lettura del sito: va spiegata come spazio teologico, iconografico e liturgico, non solo come ambiente decorato.
 
 ### Cosa vedere e come raccontarlo
 
 La costruzione della cattedrale si colloca tra XI e XII secolo. L'esterno è sobrio, con campanile isolato e una forte impronta romanica. L'interno presenta tre navate e conserva elementi cosmateschi, tra cui il pavimento. Il punto culminante della visita è la cripta, spesso definita "Cappella Sistina del Medioevo" per l'estensione e la qualità degli affreschi.
 
-Gli affreschi della cripta non vanno ricordati solo per il colore o per l'effetto visivo. Il loro valore sta nel programma iconografico: scene bibliche, figure di santi, immagini cosmologiche, temi medici e filosofici che riflettono la cultura teologica e scientifica del Medioevo. La cripta è un esempio perfetto di come arte, fede, sapere e liturgia si integrino in un sistema unitario.
+Gli affreschi della cripta non vanno ricordati solo per il colore o per l'effetto visivo. Il loro valore sta nel ciclo iconografico: scene bibliche, figure di santi, immagini cosmologiche, temi medici e filosofici che riflettono la cultura teologica e scientifica del Medioevo. La cripta è un esempio perfetto di come arte, fede, sapere e liturgia si integrino in un sistema unitario.
 
 ### Suggerimenti di esposizione
 
 Inizia localizzando Anagni nel Lazio meridionale, poi collega la cattedrale alla storia papale. Dopo il contesto, passa all'architettura romanica e concentra il discorso sulla cripta. Una buona chiusura consiste nel dire che la Cattedrale di Anagni consente di raccontare il Medioevo laziale fuori da Roma, mostrando che il Lazio non è solo classicità romana ma anche potere ecclesiastico, arte romanica e cultura figurativa medievale.
 
-### Domande probabili
+### Domande guida
 
 - Perché Anagni è chiamata città dei papi?
 - Quali sono le caratteristiche romaniche della cattedrale?
 - Perché la cripta di San Magno è così importante?
-- Come si interpreta il programma iconografico della cripta?
+- Come si interpreta la ciclo iconografico della cripta?
 - Che collegamenti si possono fare con Roma medievale e con il papato?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Cattedrale di Anagni è uno dei più importanti monumenti medievali del Lazio. Collocata nella città detta "dei papi", testimonia il ruolo politico e religioso di Anagni nel Medioevo. L'edificio conserva una struttura romanica e un notevole pavimento cosmatesco, ma il suo elemento più celebre è la cripta di San Magno, decorata da un vastissimo ciclo di affreschi medievali. La cripta è importante perché unisce arte, teologia, liturgia e cultura scientifica del tempo, offrendo una sintesi della visione medievale del mondo.
 
 ---
 
-## 3. Circo Massimo e Terme di Caracalla
+## Circo Massimo e Terme di Caracalla
 
 ![Circo Massimo - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Circus_Maximus_Rome.jpg)
-
+*Circo Massimo - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Circus_Maximus_Rome.jpg).*
 **Immagini consigliate:** veduta del Circo Massimo dal Palatino; rovine delle Terme di Caracalla; mosaici e ambienti termali.
 **Fonti principali:** Sovrintendenza Capitolina per il Circo Massimo; Ministero della Cultura e Soprintendenza Speciale Roma per le Terme di Caracalla.
 
 ### Inquadramento
 
-Questa voce del programma unisce due grandi categorie della vita pubblica romana: lo **spettacolo** e il **benessere collettivo**. Il Circo Massimo rappresenta il più grande edificio per spettacoli dell'antichità, specializzato nelle corse dei carri; le Terme di Caracalla rappresentano invece uno dei massimi esempi di architettura termale imperiale. Presentarli insieme è utile perché entrambi mostrano la capacità romana di organizzare grandi masse, gestire infrastrutture urbane e trasformare l'architettura in strumento di consenso.
+Questa voce del percorso unisce due grandi categorie della vita pubblica romana: lo **spettacolo** e il **benessere collettivo**. Il Circo Massimo rappresenta il più grande edificio per spettacoli dell'antichità, specializzato nelle corse dei carri; le Terme di Caracalla rappresentano invece uno dei massimi esempi di architettura termale imperiale. Presentarli insieme è utile perché entrambi mostrano la capacità romana di organizzare grandi masse, gestire infrastrutture urbane e trasformare l'architettura in strumento di consenso.
 
 ### Circo Massimo
 
 Il Circo Massimo occupa la valle tra Palatino e Aventino. Secondo la tradizione, il luogo è connesso alle origini mitiche di Roma e all'episodio del ratto delle Sabine. In età storica diventa lo spazio principale per i ludi circenses. La sua forma allungata risponde alla funzione: pista per le corse, spina centrale, carceres di partenza, gradinate per il pubblico. La Sovrintendenza Capitolina lo descrive come il più grande edificio per spettacolo dell'antichità, con dimensioni eccezionali.
 
-Nel racconto orale conviene evitare di dire solo "oggi è un grande prato". Proprio il contrasto tra aspetto attuale e monumentalità antica è un punto forte: bisogna aiutare il visitatore a ricostruire mentalmente lo spazio. Il Circo Massimo va spiegato come teatro della competizione, della ritualità pubblica, della passione popolare e della propaganda politica.
+Nel racconto conviene evitare di dire solo "oggi è un grande prato". Proprio il contrasto tra aspetto attuale e monumentalità antica è un punto forte: bisogna aiutare il visitatore a ricostruire mentalmente lo spazio. Il Circo Massimo va spiegato come teatro della competizione, della ritualità pubblica, della passione popolare e della propaganda politica.
 
 ### Terme di Caracalla
 
@@ -143,7 +134,7 @@ Le terme romane non erano solo luoghi per lavarsi. Erano spazi di socialità, ig
 
 La chiave è il confronto: Circo Massimo = spettacolo e massa; Terme di Caracalla = vita quotidiana monumentale e welfare urbano imperiale. Puoi concludere dicendo che entrambi mostrano la grandezza tecnica romana e la dimensione politica dell'intrattenimento e dei servizi pubblici.
 
-### Domande probabili
+### Domande guida
 
 - Qual era la funzione del Circo Massimo?
 - Come si svolgevano le corse dei carri?
@@ -151,16 +142,16 @@ La chiave è il confronto: Circo Massimo = spettacolo e massa; Terme di Caracall
 - Perché le terme erano importanti nella società romana?
 - Che cosa accomuna Circo Massimo e Terme di Caracalla?
 
-### Risposta modello
+### Sintesi narrativa
 
 Circo Massimo e Terme di Caracalla rappresentano due aspetti centrali della vita pubblica romana. Il Circo Massimo, nella valle tra Palatino e Aventino, era il grande spazio delle corse dei carri e degli spettacoli di massa. Le Terme di Caracalla, costruite nel III secolo d.C., erano un enorme complesso termale con ambienti per il bagno, palestre, biblioteche e spazi di socialità. Entrambi i monumenti mostrano come l'architettura romana fosse capace di organizzare grandi flussi di persone e di trasformare spettacolo e benessere in strumenti di coesione e consenso politico.
 
 ---
 
-## 4. Civita di Bagnoregio
+## Civita di Bagnoregio
 
 ![Civita di Bagnoregio - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Civita_di_Bagnoregio.jpg)
-
+*Civita di Bagnoregio - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Civita_di_Bagnoregio.jpg).*
 **Immagine consigliata:** veduta della rupe tufacea e del ponte pedonale; scorci del borgo; paesaggio dei calanchi.
 **Fonti principali:** Direzione regionale Musei/Lazio cultura; materiali ufficiali sul paesaggio culturale di Civita.
 
@@ -176,9 +167,9 @@ La visita si costruisce su tre livelli: il paesaggio dei calanchi, la struttura 
 
 ### Suggerimenti di esposizione
 
-Per Civita funziona un'esposizione narrativa: "prima di entrare nel borgo, il visitatore deve leggere il paesaggio". Spiega la rupe, poi il borgo, poi il problema della conservazione. Non ridurre Civita a luogo instagrammabile: all'esame devi mostrare che sai interpretarla come paesaggio culturale.
+Per Civita funziona un'esposizione narrativa: "prima di entrare nel borgo, il visitatore deve leggere il paesaggio". Spiega la rupe, poi il borgo, poi il problema della conservazione. Non ridurre Civita a luogo instagrammabile: alla lettura del sito devi mostrare che sai interpretarla come paesaggio culturale.
 
-### Domande probabili
+### Domande guida
 
 - Quali sono le cause della fragilità di Civita?
 - Perché si parla di paesaggio culturale?
@@ -186,22 +177,22 @@ Per Civita funziona un'esposizione narrativa: "prima di entrare nel borgo, il vi
 - Come imposteresti una visita guidata senza banalizzare il luogo?
 - Che rapporto c'è tra geologia e storia urbana?
 
-### Risposta modello
+### Sintesi narrativa
 
 Civita di Bagnoregio è un borgo storico del Viterbese posto su una rupe tufacea circondata dai calanchi. La sua importanza non è solo architettonica ma paesaggistica: il sito mostra il rapporto tra insediamento umano e fragilità geologica. Di origine antica, con radici etrusche e medievali, Civita ha subito nei secoli il progressivo arretramento della rupe per erosione e frane. Una guida deve presentarla come paesaggio culturale fragile, evitando di limitarsi alla formula della "città che muore".
 
 ---
 
-## 5. Parco Archeologico del Colosseo
+## Parco Archeologico del Colosseo
 
 ![Colosseo - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum_in_Rome,_Italy_-_April_2007.jpg)
-
+*Colosseo - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum_in_Rome,_Italy_-_April_2007.jpg).*
 **Immagini consigliate:** Colosseo esterno; arena e ipogei; Foro Romano; Palatino; Arco di Costantino.
 **Fonti principali:** Parco archeologico del Colosseo; Ministero della Cultura.
 
 ### Inquadramento
 
-Il Parco Archeologico del Colosseo è il cuore della Roma antica monumentale. Include l'Anfiteatro Flavio, il Foro Romano, il Palatino, la Domus Aurea, l'Arco di Costantino e altre aree. Per l'esame non va trattato come sinonimo di "Colosseo": il Colosseo è l'elemento più noto, ma il Parco è un sistema complesso che racconta potere, spettacolo, religione, politica, residenza imperiale e memoria urbana.
+Il Parco Archeologico del Colosseo è il cuore della Roma antica monumentale. Include l'Anfiteatro Flavio, il Foro Romano, il Palatino, la Domus Aurea, l'Arco di Costantino e altre aree. Per la lettura del sito non va trattato come sinonimo di "Colosseo": il Colosseo è l'elemento più noto, ma il Parco è un sistema complesso che racconta potere, spettacolo, religione, politica, residenza imperiale e memoria urbana.
 
 ### Colosseo
 
@@ -217,7 +208,7 @@ Il Foro Romano fu per secoli il centro della vita pubblica: politica, giustizia,
 
 Comincia dal concetto di Parco come sistema archeologico. Poi scegli tre assi: spettacolo nel Colosseo, vita pubblica nel Foro, potere imperiale sul Palatino. Questa struttura evita un elenco dispersivo di monumenti.
 
-### Domande probabili
+### Domande guida
 
 - Perché il Colosseo è detto Anfiteatro Flavio?
 - Qual è il significato politico della sua costruzione?
@@ -225,16 +216,16 @@ Comincia dal concetto di Parco come sistema archeologico. Poi scegli tre assi: s
 - Perché il Palatino è importante?
 - Come organizzeresti una visita guidata al Parco?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Parco Archeologico del Colosseo non comprende solo l'Anfiteatro Flavio, ma un sistema di aree fondamentali della Roma antica: Colosseo, Foro Romano, Palatino, Domus Aurea e altri monumenti. Il Colosseo, costruito dai Flavi, è un capolavoro dell'architettura per spettacoli e ha anche un significato politico, perché trasforma un'area legata a Nerone in uno spazio pubblico. Il Foro Romano racconta la vita politica e religiosa della città, mentre il Palatino mostra la dimensione del potere imperiale.
 
 ---
 
-## 6. Necropoli di Tarquinia
+## Necropoli di Tarquinia
 
 ![Tarquinia - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Tarquinia_Tomba_dei_Leopardi.jpg)
-
+*Tarquinia - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Tarquinia_Tomba_dei_Leopardi.jpg).*
 **Immagine consigliata:** Tomba dei Leopardi, Tomba della Caccia e Pesca, Tomba degli Auguri, camera funeraria dipinta.
 **Fonti principali:** UNESCO - Necropoli etrusche di Cerveteri e Tarquinia; Parco archeologico / MiC.
 
@@ -250,9 +241,9 @@ Tra le tombe più note: la Tomba dei Leopardi, con scena di banchetto e danzator
 
 ### Suggerimenti di esposizione
 
-Imposta il discorso sul confronto: Tarquinia = pittura funeraria; Cerveteri = architettura funeraria. Questo è uno dei collegamenti più probabili all'esame. Per Tarquinia sottolinea il valore documentario delle immagini e la loro importanza per una civiltà di cui non possediamo una letteratura estesa come quella greca o latina.
+Imposta il discorso sul confronto: Tarquinia = pittura funeraria; Cerveteri = architettura funeraria. Questo è uno dei collegamenti più probabili alla lettura del sito. Per Tarquinia sottolinea il valore documentario delle immagini e la loro importanza per una civiltà di cui non possediamo una letteratura estesa come quella greca o latina.
 
-### Domande probabili
+### Domande guida
 
 - Perché Tarquinia è così importante per l'arte etrusca?
 - Che cosa rappresentano le tombe dipinte?
@@ -260,16 +251,16 @@ Imposta il discorso sul confronto: Tarquinia = pittura funeraria; Cerveteri = ar
 - Perché il sito è UNESCO?
 - Come spiegheresti il banchetto funerario a un gruppo?
 
-### Risposta modello
+### Sintesi narrativa
 
 La necropoli di Tarquinia è uno dei principali siti etruschi del Lazio e, con Cerveteri, è patrimonio UNESCO. Il suo valore principale è la presenza di tombe dipinte, che documentano rituali funerari, banchetti, danze, musica e aspetti della vita aristocratica etrusca. Le pitture non sono semplici decorazioni, ma immagini simboliche legate alla memoria del defunto e alla concezione dell'aldilà. Tarquinia è quindi fondamentale perché permette di conoscere la società etrusca attraverso un patrimonio figurativo eccezionale.
 
 ---
 
-## 7. Necropoli di Cerveteri
+## Necropoli di Cerveteri
 
 ![Cerveteri - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Cerveteri_Banditaccia.jpg)
-
+*Cerveteri - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cerveteri_Banditaccia.jpg).*
 **Immagine consigliata:** tumuli della Banditaccia, interno di una tomba, via sepolcrale.
 **Fonti principali:** UNESCO; Ministero della Cultura; Parco archeologico di Cerveteri e Tarquinia.
 
@@ -287,7 +278,7 @@ La necropoli si sviluppa per secoli e mostra l'evoluzione della società etrusca
 
 Parti dall'immagine della città dei morti, poi spiega come le tombe riproducano la casa. Il collegamento immediato è con Tarquinia; il secondo collegamento è con Roma arcaica e con i rapporti culturali tra Etruschi, Greci e Latini.
 
-### Domande probabili
+### Domande guida
 
 - Che cosa significa "città dei morti"?
 - Perché le tombe di Cerveteri sono importanti per conoscere la casa etrusca?
@@ -295,16 +286,16 @@ Parti dall'immagine della città dei morti, poi spiega come le tombe riproducano
 - Perché Cerveteri è UNESCO insieme a Tarquinia?
 - Quali aspetti sociali emergono dalla necropoli?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Necropoli della Banditaccia di Cerveteri è uno dei più importanti siti funerari etruschi. È spesso descritta come una città dei morti perché presenta un'organizzazione spaziale articolata, con vie e tombe monumentali. Molte tombe riproducono ambienti domestici, con letti, pilastri e arredi scolpiti nella roccia, offrendo informazioni preziose sulla casa etrusca e sulla società aristocratica. Insieme a Tarquinia, Cerveteri è patrimonio UNESCO perché testimonia in modo eccezionale la civiltà etrusca.
 
 ---
 
-## 8. Parco Archeologico di Ostia Antica
+## Parco Archeologico di Ostia Antica
 
 ![Ostia Antica - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Ostia_antica_theatre.jpg)
-
+*Ostia Antica - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Ostia_antica_theatre.jpg).*
 **Immagini consigliate:** teatro, piazzale delle Corporazioni, Decumano massimo, terme, mosaici, insulae.
 **Fonti principali:** Parco archeologico di Ostia Antica; Ministero della Cultura.
 
@@ -324,7 +315,7 @@ Ostia permette di spiegare la Roma non monumentale ma quotidiana: abitazioni, co
 
 Non presentare Ostia come "Pompei vicino Roma". Meglio dire: Ostia è la città portuale della capitale, una fonte eccezionale sulla vita economica e sociale dell'impero. Struttura l'esposizione in tre parti: origine militare, sviluppo portuale, vita quotidiana.
 
-### Domande probabili
+### Domande guida
 
 - Qual era la funzione di Ostia?
 - Che cos'è il castrum repubblicano?
@@ -332,22 +323,22 @@ Non presentare Ostia come "Pompei vicino Roma". Meglio dire: Ostia è la città 
 - Che cosa racconta il Piazzale delle Corporazioni?
 - Che differenza c'è tra Ostia e Pompei come esperienza di visita?
 
-### Risposta modello
+### Sintesi narrativa
 
 Ostia Antica fu la città portuale di Roma e uno dei principali centri commerciali dell'impero. Il nucleo più antico è un castrum repubblicano del IV secolo a.C.; in età imperiale la città si sviluppò grazie ai traffici del Tevere e ai porti di Claudio e Traiano. Il sito conserva strade, case, botteghe, terme, teatro e spazi associativi. È fondamentale perché permette di raccontare non solo la Roma del potere, ma anche la vita quotidiana, economica e multiculturale della società romana.
 
 ---
 
-## 9. Pantheon
+## Pantheon
 
 ![Pantheon - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon_Rome_2005.jpg)
-
+*Pantheon - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon_Rome_2005.jpg).*
 **Immagini consigliate:** facciata con pronao, interno della cupola, oculus, pavimento e altari cristiani.
 **Fonti principali:** Direzione Musei nazionali della città di Roma - Pantheon e Castel Sant'Angelo; Ministero della Cultura.
 
 ### Inquadramento
 
-Il Pantheon è uno dei monumenti più importanti dell'architettura romana e uno dei meglio conservati dell'antichità. La sua conservazione è legata alla trasformazione in chiesa cristiana, Santa Maria ad Martyres, avvenuta nel 609. Per l'esame è fondamentale ricordare che l'edificio attuale risale soprattutto all'età di Adriano, anche se l'iscrizione sulla facciata cita Agrippa.
+Il Pantheon è uno dei monumenti più importanti dell'architettura romana e uno dei meglio conservati dell'antichità. La sua conservazione è legata alla trasformazione in chiesa cristiana, Santa Maria ad Martyres, avvenuta nel 609. Per la lettura del sito è fondamentale ricordare che l'edificio attuale risale soprattutto all'età di Adriano, anche se l'iscrizione sulla facciata cita Agrippa.
 
 ### Cosa vedere e come raccontarlo
 
@@ -359,9 +350,9 @@ Dopo la conversione cristiana, l'edificio assume una nuova funzione e diventa an
 
 ### Suggerimenti di esposizione
 
-La sequenza migliore: Agrippa e Adriano; struttura architettonica; cupola e oculus; trasformazione cristiana; fortuna del modello nel Rinascimento e oltre. Non limitarti alla frase "tempio di tutti gli dèi": è una definizione tradizionale, ma all'orale serve mostrare consapevolezza storica e architettonica.
+La sequenza migliore: Agrippa e Adriano; struttura architettonica; cupola e oculus; trasformazione cristiana; fortuna del modello nel Rinascimento e oltre. Non limitarti alla frase "tempio di tutti gli dèi": è una definizione tradizionale, ma nella spiegazione serve mostrare consapevolezza storica e architettonica.
 
-### Domande probabili
+### Domande guida
 
 - Perché l'iscrizione cita Agrippa se l'edificio è adrianeo?
 - Qual è l'innovazione architettonica del Pantheon?
@@ -369,16 +360,16 @@ La sequenza migliore: Agrippa e Adriano; struttura architettonica; cupola e ocul
 - Che funzione ha l'oculus?
 - Quale influenza ha avuto sull'architettura successiva?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Pantheon è uno dei massimi capolavori dell'architettura romana. Il primo edificio fu costruito da Agrippa, ma le forme attuali risalgono soprattutto alla ricostruzione adrianea del II secolo d.C. L'edificio combina un pronao classico con un grande corpo cilindrico coperto da una cupola emisferica aperta dall'oculus. La sua conservazione è dovuta anche alla trasformazione in chiesa cristiana nel 609. Il Pantheon è importante per la perfezione dello spazio interno, per l'uso della luce e per l'enorme influenza esercitata sull'architettura occidentale.
 
 ---
 
-## 10. Fori Imperiali
+## Fori Imperiali
 
 ![Fori Imperiali - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Fori_Imperiali_Rome.jpg)
-
+*Fori Imperiali - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Fori_Imperiali_Rome.jpg).*
 **Immagini consigliate:** Foro di Traiano e Colonna Traiana; Foro di Augusto; Mercati di Traiano; veduta da via dei Fori Imperiali.
 **Fonti principali:** Sovrintendenza Capitolina; Turismo Roma; Mercati di Traiano.
 
@@ -396,7 +387,7 @@ La chiave interpretativa è la propaganda: ogni foro è architettura del potere,
 
 Apri chiarendo la differenza tra Foro Romano e Fori Imperiali. Poi fai una progressione cronologica da Cesare a Traiano. Concludi sulla funzione propagandistica: le piazze celebrano la grandezza del potere e la trasformano in spazio urbano.
 
-### Domande probabili
+### Domande guida
 
 - Che differenza c'è tra Foro Romano e Fori Imperiali?
 - Quale fu il primo Foro Imperiale?
@@ -404,22 +395,22 @@ Apri chiarendo la differenza tra Foro Romano e Fori Imperiali. Poi fai una progr
 - Che cosa rappresenta la Colonna Traiana?
 - In che senso i Fori sono architettura di propaganda?
 
-### Risposta modello
+### Sintesi narrativa
 
 I Fori Imperiali sono una serie di piazze monumentali realizzate tra la fine della Repubblica e l'età imperiale, da Cesare a Traiano. A differenza del Foro Romano, centro civico più antico, i Fori Imperiali sono spazi progettati per funzioni politiche, giudiziarie, religiose e propagandistiche. Ogni complesso celebra un protagonista del potere romano. Il Foro di Traiano, con la Basilica Ulpia e la Colonna Traiana, rappresenta l'apice di questo sistema monumentale.
 
 ---
 
-## 11. Basilica di San Pietro
+## Basilica di San Pietro
 
 ![Basilica di San Pietro - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/St_Peter%27s_Basilica_facade,_Rome,_Italy.jpg)
-
+*Basilica di San Pietro - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/St_Peter%27s_Basilica_facade,_Rome,_Italy.jpg).*
 **Immagini consigliate:** piazza e colonnato berniniano, facciata, cupola michelangiolesca, Pietà, baldacchino, Cattedra di San Pietro.
 **Fonti principali:** sito ufficiale della Basilica di San Pietro; Vatican.va.
 
 ### Inquadramento
 
-San Pietro è il cuore monumentale della cristianità cattolica e uno dei cantieri più importanti della storia dell'arte europea. La basilica attuale sorge sul luogo della basilica costantiniana, edificata presso la tomba dell'apostolo Pietro. Per l'esame va presentata come sintesi di fede, potere papale, architettura rinascimentale e teatralità barocca.
+San Pietro è il cuore monumentale della cristianità cattolica e uno dei cantieri più importanti della storia dell'arte europea. La basilica attuale sorge sul luogo della basilica costantiniana, edificata presso la tomba dell'apostolo Pietro. Per la lettura del sito va presentata come sintesi di fede, potere papale, architettura rinascimentale e teatralità barocca.
 
 ### Cosa vedere e come raccontarlo
 
@@ -431,9 +422,9 @@ Opere chiave: la Pietà di Michelangelo, il Baldacchino di Bernini sopra l'altar
 
 ### Suggerimenti di esposizione
 
-Struttura il discorso in quattro livelli: luogo della tomba di Pietro; basilica costantiniana; cantiere rinascimentale; completamento barocco. Ricorda che San Pietro è nella Città del Vaticano, ma il programma la colloca tra i siti del Lazio/Roma per la preparazione turistica.
+Struttura il discorso in quattro livelli: luogo della tomba di Pietro; basilica costantiniana; cantiere rinascimentale; completamento barocco. Ricorda che San Pietro è nella Città del Vaticano, ma il percorso la colloca tra i siti del Lazio/Roma per la lettura turistica.
 
-### Domande probabili
+### Domande guida
 
 - Qual è il rapporto tra San Pietro e la tomba dell'apostolo?
 - Quali artisti lavorarono alla basilica?
@@ -441,16 +432,16 @@ Struttura il discorso in quattro livelli: luogo della tomba di Pietro; basilica 
 - Che cosa aggiunge Bernini alla percezione del complesso?
 - Come spiegheresti Piazza San Pietro a un gruppo?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Basilica di San Pietro è uno dei principali monumenti della cristianità e della storia dell'arte europea. Sorge sul luogo legato alla tomba dell'apostolo Pietro e sostituisce la basilica costantiniana del IV secolo. Il cantiere rinascimentale e barocco coinvolse Bramante, Michelangelo, Maderno e Bernini. La cupola, la Pietà, il Baldacchino e il colonnato di Piazza San Pietro permettono di raccontare il rapporto tra fede, arte, potere papale e scenografia urbana.
 
 ---
 
-## 12. Parco Archeologico dell'Appia Antica
+## Parco Archeologico dell'Appia Antica
 
 ![Appia Antica - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Appian_Way_Rome.jpg)
-
+*Appia Antica - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Appian_Way_Rome.jpg).*
 **Immagini consigliate:** basolato dell'Appia Antica, Mausoleo di Cecilia Metella, Villa dei Quintili, complesso di Capo di Bove, catacombe.
 **Fonti principali:** Parco Archeologico dell'Appia Antica.
 
@@ -462,13 +453,13 @@ Il Parco Archeologico dell'Appia Antica è un paesaggio archeologico lineare, co
 
 L'Appia Antica è un caso perfetto di stratificazione. In età romana è asse di comunicazione, potere e memoria funeraria. Le grandi tombe lungo la strada, come il Mausoleo di Cecilia Metella, mostrano la visibilità sociale delle famiglie aristocratiche. In età cristiana e tardoantica il paesaggio si arricchisce di catacombe e luoghi di culto. In età medievale e moderna molte strutture antiche vengono riutilizzate o integrate in nuovi insediamenti.
 
-Il Parco comprende siti come Villa dei Quintili e Santa Maria Nova, il complesso di Capo di Bove, Cecilia Metella, Villa di Massenzio, aree funerarie, catacombe e tratti di strada antica. Per l'esame conviene non elencarli tutti, ma usare esempi rappresentativi.
+Il Parco comprende siti come Villa dei Quintili e Santa Maria Nova, il complesso di Capo di Bove, Cecilia Metella, Villa di Massenzio, aree funerarie, catacombe e tratti di strada antica. Per la lettura del sito conviene non elencarli tutti, ma usare esempi rappresentativi.
 
 ### Suggerimenti di esposizione
 
-La parola chiave è "paesaggio stratificato". Spiega che non si visita un monumento isolato, ma un corridoio storico dove strada, tombe, ville e campagna romana dialogano tra loro. Il collegamento più forte è con Villa dei Quintili, che nel programma compare anche nella parte pratica.
+La parola chiave è "paesaggio stratificato". Spiega che non si visita un monumento isolato, ma un corridoio storico dove strada, tombe, ville e campagna romana dialogano tra loro. Il collegamento più forte è con Villa dei Quintili, che nel percorso compare anche nella parte pratica.
 
-### Domande probabili
+### Domande guida
 
 - Perché l'Appia è detta "regina viarum"?
 - Qual era la funzione delle vie consolari?
@@ -476,22 +467,22 @@ La parola chiave è "paesaggio stratificato". Spiega che non si visita un monume
 - Che cosa significa paesaggio archeologico?
 - Come collegheresti l'Appia a Villa dei Quintili?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Parco Archeologico dell'Appia Antica conserva uno dei paesaggi storici più importanti di Roma. La Via Appia, avviata nel 312 a.C., fu una grande arteria di collegamento con l'Italia meridionale. Lungo il suo percorso si conservano sepolcri, ville, catacombe, acquedotti e strutture medievali. Il valore del sito sta nella stratificazione: non è un singolo monumento, ma un paesaggio archeologico in cui strada, memoria funeraria, residenza aristocratica e campagna romana si integrano.
 
 ---
 
-## 13. Roma barocca monumentale: Fontana di Trevi, Piazza Navona, Vittoriano e Piazza Venezia
+## Roma barocca monumentale: Fontana di Trevi, Piazza Navona, Vittoriano e Piazza Venezia
 
 ![Fontana di Trevi - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg)
-
+*Fontana di Trevi - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg).*
 **Immagini consigliate:** Fontana di Trevi; Fontana dei Quattro Fiumi a Piazza Navona; Vittoriano; Palazzo Venezia e asse urbano di Piazza Venezia.
 **Fonti principali:** Turismo Roma; VIVE - Vittoriano e Palazzo Venezia; Sovrintendenza Capitolina.
 
 ### Inquadramento
 
-Questa voce del programma è composita: unisce la Roma barocca delle fontane e delle piazze con la Roma monumentale nazionale del Vittoriano e di Piazza Venezia. La chiave è presentare Roma come città scenografica, dove lo spazio urbano diventa narrazione politica, religiosa e identitaria.
+Questa voce del percorso è composita: unisce la Roma barocca delle fontane e delle piazze con la Roma monumentale nazionale del Vittoriano e di Piazza Venezia. La chiave è presentare Roma come città scenografica, dove lo spazio urbano diventa narrazione politica, religiosa e identitaria.
 
 ### Fontana di Trevi
 
@@ -509,7 +500,7 @@ Il Vittoriano, monumento a Vittorio Emanuele II, è un simbolo dell'Italia unita
 
 Dividi la voce in due parti: Roma barocca = acqua, piazze, teatralità; Roma nazionale = Vittoriano, Piazza Venezia, memoria politica. Evita di fare un elenco turistico: costruisci un discorso sullo spazio urbano come comunicazione.
 
-### Domande probabili
+### Domande guida
 
 - Che cosa significa "Roma barocca"?
 - Qual è il valore scenografico di Fontana di Trevi?
@@ -517,22 +508,22 @@ Dividi la voce in due parti: Roma barocca = acqua, piazze, teatralità; Roma naz
 - Che cosa rappresenta il Vittoriano?
 - Come collegheresti Piazza Venezia ai Fori Imperiali?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Roma barocca monumentale si esprime attraverso piazze e fontane che trasformano lo spazio urbano in scena. Fontana di Trevi è la mostra terminale dell'Acqua Vergine e costruisce una grande composizione teatrale settecentesca. Piazza Navona conserva la forma dello Stadio di Domiziano, ma in età barocca diventa uno dei luoghi simbolo della città grazie alla Fontana dei Quattro Fiumi. Il Vittoriano e Piazza Venezia introducono invece la dimensione nazionale: memoria del Risorgimento, identità dello Stato unitario e centralità urbana moderna.
 
 ---
 
-## 14. Musei Vaticani
+## Musei Vaticani
 
 ![Musei Vaticani - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Sistine_Chapel_ceiling.jpg)
-
-**Sezioni richieste dal programma:** Cappella Sistina, Stanze di Raffaello, Galleria delle Carte Geografiche, Museo Pio-Clementino.
+*Musei Vaticani - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sistine_Chapel_ceiling.jpg).*
+**Sezioni richieste dalil percorso:** Cappella Sistina, Stanze di Raffaello, Galleria delle Carte Geografiche, Museo Pio-Clementino.
 **Fonti principali:** sito ufficiale dei Musei Vaticani.
 
 ### Inquadramento
 
-I Musei Vaticani custodiscono le collezioni raccolte dai pontefici a partire dal XVI secolo e costituiscono uno dei maggiori complessi museali al mondo. Per l'orale non serve raccontare "tutti i Musei Vaticani", ma concentrarsi sulle sezioni indicate dal programma.
+I Musei Vaticani custodiscono le collezioni raccolte dai pontefici a partire dal XVI secolo e costituiscono uno dei maggiori complessi museali al mondo. Per la spiegazione non serve raccontare "tutti i Musei Vaticani", ma concentrarsi sulle sezioni indicate dalil percorso.
 
 ### Cappella Sistina
 
@@ -550,7 +541,7 @@ La Galleria delle Carte Geografiche è lunga circa 120 metri e presenta rapprese
 
 Il Museo Pio-Clementino è dedicato soprattutto alla scultura antica. Tra le opere simbolo da ricordare: Laocoonte, Apollo del Belvedere, Torso del Belvedere. È fondamentale per il rapporto tra collezionismo papale, antiquaria e fortuna dell'arte classica.
 
-### Domande probabili
+### Domande guida
 
 - Perché la Cappella Sistina è importante oltre al valore artistico?
 - Qual è il significato della Scuola di Atene?
@@ -558,17 +549,17 @@ Il Museo Pio-Clementino è dedicato soprattutto alla scultura antica. Tra le ope
 - Quali opere chiave conserva il Pio-Clementino?
 - Come imposteresti una visita selettiva ai Musei Vaticani?
 
-### Risposta modello
+### Sintesi narrativa
 
-I Musei Vaticani sono il grande complesso museale nato dalle collezioni pontificie. Per il programma sono centrali la Cappella Sistina, con i cicli quattrocenteschi e gli affreschi di Michelangelo; le Stanze di Raffaello, in particolare la Stanza della Segnatura; la Galleria delle Carte Geografiche, che unisce arte e conoscenza del territorio; e il Museo Pio-Clementino, fondamentale per la scultura antica. Sono un luogo chiave per comprendere il rapporto tra papato, arte, collezionismo e cultura europea.
+I Musei Vaticani sono il grande complesso museale nato dalle collezioni pontificie. Per il percorso sono centrali la Cappella Sistina, con i cicli quattrocenteschi e gli affreschi di Michelangelo; le Stanze di Raffaello, in particolare la Stanza della Segnatura; la Galleria delle Carte Geografiche, che unisce arte e conoscenza del territorio; e il Museo Pio-Clementino, fondamentale per la scultura antica. Sono un luogo chiave per comprendere il rapporto tra papato, arte, collezionismo e cultura europea.
 
 ---
 
-## 15. Galleria Borghese
+## Galleria Borghese
 
 ![Galleria Borghese - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Borghese,_Rome.jpg)
-
-**Sezioni richieste dal programma:** opere di Bernini, Caravaggio, Raffaello e Canova.
+*Galleria Borghese - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Borghese,_Rome.jpg).*
+**Sezioni richieste dalil percorso:** opere di Bernini, Caravaggio, Raffaello e Canova.
 **Fonti principali:** Galleria Borghese - sito ufficiale; catalogo digitale della collezione.
 
 ### Inquadramento
@@ -585,7 +576,7 @@ Per Bernini sono essenziali Apollo e Dafne, il Ratto di Proserpina, David ed Ene
 
 Organizza per artisti, non per sale. Apri con Scipione Borghese, poi passa a Bernini e Caravaggio come cuore barocco, quindi Raffaello e Canova come due poli cronologici e stilistici.
 
-### Domande probabili
+### Domande guida
 
 - Chi era Scipione Borghese?
 - Quali opere di Bernini sono fondamentali?
@@ -593,18 +584,17 @@ Organizza per artisti, non per sale. Apri con Scipione Borghese, poi passa a Ber
 - Perché Paolina Borghese è importante?
 - Come si collega la villa al collezionismo aristocratico?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Galleria Borghese nasce dal collezionismo del cardinale Scipione Borghese e conserva capolavori fondamentali del Rinascimento, del Barocco e del Neoclassicismo. Le sculture di Bernini mostrano movimento e teatralità barocca; i dipinti di Caravaggio esprimono il naturalismo drammatico del primo Seicento; Raffaello rappresenta la perfezione rinascimentale; Canova, con Paolina Borghese, introduce il linguaggio neoclassico. Il museo va letto come espressione del gusto e del potere culturale dell'aristocrazia romana.
 
 ---
 
-## 16. Castel Sant'Angelo
+## Castel Sant'Angelo
 
 ![Castel Sant'Angelo - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Castel_Sant%27Angelo,_Rome,_Italy_-_April_2007.jpg)
-
-**Sezioni richieste dal programma:** Mausoleo di Adriano, Appartamenti Papali, Cortile dell'Angelo, Prigioni Storiche, Passetto di Borgo.
-**Nota:** voce presente anche nella prova pratica: segue presentazione orale da 5 minuti.
+*Castel Sant'Angelo - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castel_Sant%27Angelo,_Rome,_Italy_-_April_2007.jpg).*
+**Sezioni richieste dalil percorso:** Mausoleo di Adriano, Appartamenti Papali, Cortile dell'Angelo, Prigioni Storiche, Passetto di Borgo.
 **Fonti principali:** Museo Nazionale di Castel Sant'Angelo; Direzione Musei nazionali della città di Roma; sito ufficiale Castel Sant'Angelo.
 
 ### Inquadramento
@@ -621,7 +611,7 @@ Gli Appartamenti Papali testimoniano la fase residenziale e rappresentativa; il 
 
 La parola chiave è "metamorfosi". Presenta Castel Sant'Angelo come monumento che cambia funzione senza perdere centralità: sepolcro imperiale, fortezza, palazzo, carcere, museo.
 
-### Domande probabili
+### Domande guida
 
 - Qual era la funzione originaria di Castel Sant'Angelo?
 - Perché si chiama così?
@@ -629,11 +619,11 @@ La parola chiave è "metamorfosi". Presenta Castel Sant'Angelo come monumento ch
 - Quali sono le principali fasi storiche del monumento?
 - Perché è un esempio di stratificazione urbana?
 
-### Risposta modello
+### Sintesi narrativa
 
 Castel Sant'Angelo nasce nel II secolo d.C. come Mausoleo di Adriano, destinato alla sepoltura dell'imperatore e della dinastia. Nel corso dei secoli viene trasformato in fortezza, residenza papale, carcere e infine museo. Il Passetto di Borgo lo collega al Vaticano e ne mostra il ruolo strategico nella difesa del papato. Gli Appartamenti Papali, le prigioni, il Cortile dell'Angelo e le terrazze raccontano la lunga metamorfosi del monumento.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 Buongiorno, oggi vi accompagno alla scoperta di Castel Sant'Angelo, uno dei monumenti più complessi e affascinanti di Roma. La sua importanza nasce proprio dalla stratificazione: non siamo davanti a un edificio con una sola funzione, ma a un monumento che nei secoli ha cambiato identità, adattandosi alla storia della città.
 
@@ -651,16 +641,16 @@ In conclusione, Castel Sant'Angelo è un monumento chiave perché permette di ra
 
 ---
 
-## 17. Galleria Nazionale d'Arte Moderna e Contemporanea
+## Galleria Nazionale d'Arte Moderna e Contemporanea
 
 ![GNAM - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Nazionale_d%27Arte_Moderna_Roma.jpg)
-
-**Sezioni richieste dal programma:** XIX secolo, XX secolo, collezione d'arte contemporanea.
+*GNAM - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Nazionale_d%27Arte_Moderna_Roma.jpg).*
+**Sezioni richieste dalil percorso:** XIX secolo, XX secolo, collezione d'arte contemporanea.
 **Fonti principali:** sito ufficiale della Galleria Nazionale d'Arte Moderna e Contemporanea.
 
 ### Inquadramento
 
-La Galleria Nazionale d'Arte Moderna e Contemporanea, spesso indicata come GNAM o La Galleria Nazionale, è il principale museo statale italiano dedicato all'arte moderna e contemporanea. Per l'esame è importante perché rompe la sequenza antica-medievale-rinascimentale dominante nel Lazio e introduce il tema dell'arte italiana ed europea dall'Ottocento al presente.
+La Galleria Nazionale d'Arte Moderna e Contemporanea, spesso indicata come GNAM o La Galleria Nazionale, è il principale museo statale italiano dedicato all'arte moderna e contemporanea. Per la lettura del sito è importante perché rompe la sequenza antica-medievale-rinascimentale dominante nel Lazio e introduce il tema dell'arte italiana ed europea dall'Ottocento al presente.
 
 ### Cosa vedere e come raccontarlo
 
@@ -672,30 +662,30 @@ Artisti da ricordare in modo orientativo: Canova e Hayez come soglie dell'Ottoce
 
 Non tentare di elencare tutto. Presenta la Galleria come museo della modernità artistica italiana, poi organizza per tre blocchi: Ottocento, Avanguardie/Novecento, contemporaneo.
 
-### Domande probabili
+### Domande guida
 
-- Che cosa distingue la GNAM dagli altri musei romani del programma?
+- Che cosa distingue la GNAM dagli altri musei romani del percorso?
 - Quali movimenti dell'Ottocento e del Novecento sono rappresentati?
 - Che ruolo ha il Futurismo?
 - Come si presenta l'arte contemporanea a un pubblico non specialista?
 - Perché Roma è importante anche per l'arte moderna?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Galleria Nazionale d'Arte Moderna e Contemporanea è il principale museo statale italiano dedicato all'arte moderna e contemporanea. Conserva opere dall'Ottocento al presente e permette di seguire il passaggio dal linguaggio accademico e romantico alle avanguardie, al Futurismo, alla Metafisica, all'Informale e alle ricerche contemporanee. Per una guida è importante presentarla come il museo che racconta la modernità artistica italiana in dialogo con l'Europa.
 
 ---
 
-## 18. Museo Nazionale Romano
+## Museo Nazionale Romano
 
 ![Museo Nazionale Romano - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Massimo_alle_Terme_Rome.jpg)
-
-**Sezioni richieste dal programma:** Palazzo Massimo, Terme di Diocleziano, Crypta Balbi, Palazzo Altemps.
+*Museo Nazionale Romano - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Massimo_alle_Terme_Rome.jpg).*
+**Sezioni richieste dalil percorso:** Palazzo Massimo, Terme di Diocleziano, Crypta Balbi, Palazzo Altemps.
 **Fonti principali:** Museo Nazionale Romano; Turismo Roma; Ministero della Cultura.
 
 ### Inquadramento
 
-Il Museo Nazionale Romano è il grande museo archeologico della città di Roma. Fu istituito nel 1889 e oggi è articolato in più sedi, ciascuna con una specifica identità. Per l'orale è fondamentale non confondere le sedi e saperle presentare come parti di un unico sistema.
+Il Museo Nazionale Romano è il grande museo archeologico della città di Roma. Fu istituito nel 1889 e oggi è articolato in più sedi, ciascuna con una specifica identità. Per la spiegazione è fondamentale non confondere le sedi e saperle presentare come parti di un unico sistema.
 
 ### Palazzo Massimo
 
@@ -713,7 +703,7 @@ La Crypta Balbi è fondamentale per la continuità urbana. Non mostra solo reper
 
 Palazzo Altemps ospita importanti collezioni di scultura antica provenienti dal collezionismo aristocratico, come le raccolte Ludovisi e Altemps. È ideale per parlare della fortuna dell'antico nel Rinascimento e nell'età moderna.
 
-### Domande probabili
+### Domande guida
 
 - Quali sono le sedi del Museo Nazionale Romano?
 - Che cosa si vede a Palazzo Massimo?
@@ -721,16 +711,16 @@ Palazzo Altemps ospita importanti collezioni di scultura antica provenienti dal 
 - Che rapporto c'è tra Terme di Diocleziano e museo?
 - Che cosa racconta Palazzo Altemps sul collezionismo?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Museo Nazionale Romano è il principale museo archeologico dedicato alla storia e all'arte di Roma antica. È articolato in più sedi: Palazzo Massimo, con sculture, affreschi e mosaici; Terme di Diocleziano, legate al grande complesso termale e all'epigrafia; Crypta Balbi, fondamentale per la stratigrafia urbana; Palazzo Altemps, dedicato alle collezioni di scultura antica. Il museo permette di raccontare Roma attraverso opere, contesti e trasformazioni urbane.
 
 ---
 
-## 19. Museo Nazionale Etrusco di Villa Giulia
+## Museo Nazionale Etrusco di Villa Giulia
 
 ![Villa Giulia - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Giulia_Roma.jpg)
-
+*Villa Giulia - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Giulia_Roma.jpg).*
 **Fonti principali:** ETRU - Museo Nazionale Etrusco di Villa Giulia.
 
 ### Inquadramento
@@ -747,7 +737,7 @@ Il Sarcofago degli Sposi è centrale perché comunica un'immagine della società
 
 Collega sempre il museo al territorio: Cerveteri, Veio, Pyrgi, Falerii. Villa Giulia non è solo un contenitore di oggetti, ma il luogo in cui si ricompone la civiltà etrusca del Lazio.
 
-### Domande probabili
+### Domande guida
 
 - Quali civiltà documenta Villa Giulia?
 - Quali sono le opere più importanti?
@@ -755,17 +745,17 @@ Collega sempre il museo al territorio: Cerveteri, Veio, Pyrgi, Falerii. Villa Gi
 - Che cosa sono le lamine di Pyrgi?
 - Come collegheresti Villa Giulia a Tarquinia e Cerveteri?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Museo Nazionale Etrusco di Villa Giulia è il principale museo italiano dedicato alla civiltà etrusca e falisca. Ospitato nella villa rinascimentale di papa Giulio III, conserva materiali provenienti dall'Etruria meridionale e dal Lazio. Tra i capolavori ci sono il Sarcofago degli Sposi, l'Apollo di Veio e le lamine di Pyrgi. Il museo è fondamentale perché permette di collegare reperti, necropoli, santuari e città etrusche in un quadro unitario.
 
 ---
 
-## 20. Musei Capitolini
+## Musei Capitolini
 
 ![Musei Capitolini - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_del_Campidoglio_Rome.jpg)
-
-**Sezioni richieste dal programma:** Palazzo dei Conservatori, Palazzo Nuovo, Pinacoteca Capitolina, Tabularium.
+*Musei Capitolini - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_del_Campidoglio_Rome.jpg).*
+**Sezioni richieste dalil percorso:** Palazzo dei Conservatori, Palazzo Nuovo, Pinacoteca Capitolina, Tabularium.
 **Fonti principali:** Musei Capitolini - sito ufficiale.
 
 ### Inquadramento
@@ -782,13 +772,13 @@ Accoglie molte sculture antiche, tra cui il Galata morente, la Venere Capitolina
 
 ### Pinacoteca Capitolina
 
-La Pinacoteca conserva opere di pittura dal Medioevo al Settecento, con autori come Caravaggio, Guercino, Rubens, Tiziano e altri. All'orale puoi citarla per mostrare che i Capitolini non sono solo archeologia.
+La Pinacoteca conserva opere di pittura dal Medioevo al Settecento, con autori come Caravaggio, Guercino, Rubens, Tiziano e altri. Nella spiegazione puoi citarla per mostrare che i Capitolini non sono solo archeologia.
 
 ### Tabularium
 
 Il Tabularium, affacciato sul Foro Romano, era l'archivio pubblico della Roma antica. Il percorso museale permette una delle più significative visioni del Foro.
 
-### Domande probabili
+### Domande guida
 
 - Perché i Musei Capitolini sono detti il museo pubblico più antico?
 - Quali opere sono fondamentali nel Palazzo dei Conservatori?
@@ -796,22 +786,22 @@ Il Tabularium, affacciato sul Foro Romano, era l'archivio pubblico della Roma an
 - Qual è la funzione del Tabularium?
 - Che rapporto c'è tra museo e Campidoglio?
 
-### Risposta modello
+### Sintesi narrativa
 
 I Musei Capitolini sono il grande museo civico di Roma e hanno origine nella donazione dei bronzi lateranensi fatta da Sisto IV nel 1471. Si articolano principalmente tra Palazzo dei Conservatori, Palazzo Nuovo, Pinacoteca Capitolina e Tabularium. Conservano capolavori come la Lupa Capitolina, il Marco Aurelio, il Galata morente e importanti dipinti. Il loro valore sta nel rapporto tra collezione, Campidoglio e memoria civica della città.
 
 ---
 
-## 21. Palazzo Barberini e Palazzo Corsini - Gallerie Nazionali d'Arte Antica
+## Palazzo Barberini e Palazzo Corsini - Gallerie Nazionali d'Arte Antica
 
 ![Palazzo Barberini - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Barberini_Roma.jpg)
-
-**Sezione richiesta dal programma:** Gallerie Nazionali d'Arte Antica.
+*Palazzo Barberini - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Barberini_Roma.jpg).*
+**Nucleo trattato:** Gallerie Nazionali d'Arte Antica.
 **Fonti principali:** Gallerie Nazionali Barberini Corsini - sito ufficiale.
 
 ### Inquadramento
 
-Palazzo Barberini e Palazzo Corsini costituiscono le due sedi delle Gallerie Nazionali d'Arte Antica a Roma. Il programma li considera insieme: è quindi importante presentarli come istituzione unica con due sedi e due identità.
+Palazzo Barberini e Palazzo Corsini costituiscono le due sedi delle Gallerie Nazionali d'Arte Antica a Roma. Il percorso li considera insieme: è quindi importante presentarli come istituzione unica con due sedi e due identità.
 
 ### Palazzo Barberini
 
@@ -827,7 +817,7 @@ Palazzo Corsini, alla Lungara, conserva una collezione storica con opere dal Rin
 
 Apri dicendo che sono le due sedi delle Gallerie Nazionali d'Arte Antica. Poi contrappone Palazzo Barberini come grande scenario barocco e Galleria Corsini come collezione storica aristocratica.
 
-### Domande probabili
+### Domande guida
 
 - Che cosa sono le Gallerie Nazionali d'Arte Antica?
 - Perché Palazzo Barberini è importante per il Barocco romano?
@@ -835,14 +825,14 @@ Apri dicendo che sono le due sedi delle Gallerie Nazionali d'Arte Antica. Poi co
 - Che ruolo ha Pietro da Cortona?
 - Che differenza c'è tra Barberini e Corsini?
 
-### Risposta modello
+### Sintesi narrativa
 
 Palazzo Barberini e Palazzo Corsini sono le due sedi delle Gallerie Nazionali d'Arte Antica di Roma. Palazzo Barberini è uno dei grandi palazzi del Barocco romano, legato alla famiglia Barberini e a Urbano VIII, con l'affresco del Trionfo della Divina Provvidenza di Pietro da Cortona e opere di Raffaello e Caravaggio. Palazzo Corsini conserva una storica collezione aristocratica alla Lungara. Insieme permettono di raccontare il collezionismo, la pittura e la cultura figurativa tra Rinascimento e Barocco.
 
 ---
 
-## Presentazioni orali da circa 5 minuti
-### Domus Aurea - presentazione da circa 5 minuti
+## Percorsi narrativi brevi
+### Percorso narrativo breve
 Buongiorno, oggi vi introduco alla Domus Aurea, uno dei luoghi più straordinari e controversi della Roma imperiale. La Domus Aurea fu la grande residenza che Nerone fece costruire dopo l'incendio del 64 d.C., in un'area vastissima del centro di Roma. Il nome significa "casa d'oro" e richiama il lusso eccezionale dell'edificio, celebre per decorazioni, marmi, stucchi, pitture e soluzioni architettoniche innovative.
 
 Per comprendere la Domus Aurea bisogna partire dal suo significato politico. Nerone non costruì semplicemente una villa urbana: trasformò una grande parte della città in un palazzo imperiale con giardini, padiglioni, ambienti di rappresentanza e persino un lago artificiale. Questo gesto fu percepito come appropriazione privata dello spazio pubblico, e infatti dopo la morte di Nerone gli imperatori Flavi vollero cancellare o riassorbire la memoria del complesso. Proprio nell'area del lago neroniano fu costruito il Colosseo, interpretato come restituzione simbolica dello spazio al popolo romano.
@@ -855,7 +845,7 @@ In conclusione, la Domus Aurea è un sito fondamentale perché permette di racco
 
 ---
 
-### Villa Adriana - presentazione da circa 5 minuti
+### Percorso narrativo breve
 Buongiorno, oggi vi accompagno idealmente a Villa Adriana, a Tivoli, uno dei complessi più importanti dell'architettura romana imperiale e patrimonio mondiale UNESCO. La villa fu costruita dall'imperatore Adriano tra il 118 e il 138 d.C. e non va intesa come una semplice residenza di campagna: era una vera città-palazzo, un luogo di governo, rappresentanza, cultura e sperimentazione architettonica.
 
 Adriano fu un imperatore colto e viaggiatore, profondamente interessato alla cultura greca e alle province dell'impero. Villa Adriana riflette proprio questa dimensione cosmopolita: molti ambienti evocano luoghi e modelli del mondo mediterraneo, rielaborati in forme originali. La villa non copia semplicemente monumenti greci o orientali, ma costruisce un paesaggio simbolico del potere imperiale.
@@ -870,7 +860,7 @@ In conclusione, Villa Adriana è importante perché rappresenta l'apice della vi
 
 ---
 
-### Villa d'Este - presentazione da circa 5 minuti
+### Percorso narrativo breve
 Buongiorno, oggi visitiamo Villa d'Este a Tivoli, uno dei capolavori del giardino rinascimentale italiano e patrimonio mondiale UNESCO. La villa fu voluta dal cardinale Ippolito II d'Este nel XVI secolo, dopo la sua nomina a governatore di Tivoli. Il progetto trasformò un'area conventuale in una residenza principesca con un giardino scenografico fondato sull'acqua, sulla prospettiva e sul controllo della natura.
 
 Villa d'Este è importante perché rappresenta un modello europeo di giardino all'italiana. Il percorso non è casuale: terrazze, assi prospettici, fontane, grotte, ninfei e giochi d'acqua costruiscono una vera regia dello stupore. L'acqua è l'elemento dominante: non è solo decorazione, ma materia architettonica e simbolica.
@@ -885,7 +875,7 @@ In conclusione, Villa d'Este è fondamentale perché unisce architettura, idraul
 
 ---
 
-### Villa dei Quintili e Santa Maria Nova - presentazione da circa 5 minuti
+### Percorso narrativo breve
 Buongiorno, oggi vi presento Villa dei Quintili e Santa Maria Nova, uno dei complessi più importanti del Parco Archeologico dell'Appia Antica. La villa si trova al V miglio della Via Appia ed è considerata il più grande complesso residenziale del suburbio romano.
 
 Il nome della villa deriva dai fratelli Sesto Quintilio Condiano e Sesto Quintilio Valerio Massimo, consoli nel 151 d.C. L'attribuzione è confermata dal ritrovamento di una tubatura in piombo con il loro nome. I Quintili appartenevano all'aristocrazia senatoria, ma la loro enorme ricchezza attirò l'attenzione dell'imperatore Commodo, che li fece condannare e confiscò la proprietà. Da quel momento la villa entrò nel patrimonio imperiale.
@@ -899,7 +889,6 @@ Santa Maria Nova aggiunge una fase successiva alla storia del complesso. Il sito
 In conclusione, Villa dei Quintili e Santa Maria Nova sono un esempio perfetto di stratificazione storica: villa aristocratica, proprietà imperiale, riusi successivi e paesaggio archeologico. È un sito ideale per collegare la storia sociale romana, la Via Appia e il concetto di villa suburbana.
 
 ---
-Questa appendice rispetta la richiesta di avere esempi di presentazione per le voci **O+P** o **P** del programma. Non sostituisce la preparazione completa alla prova pratica: serve come allenamento orale strutturato.
 
 ---
 
@@ -922,4 +911,4 @@ Questa appendice rispetta la richiesta di avere esempi di presentazione per le v
 - [Musei Capitolini](https://www.museicapitolini.org/)
 - [Gallerie Nazionali Barberini Corsini](https://barberinicorsini.org/)
 - [Villa Adriana e Villa d'Este - VILLAE](https://villae.cultura.gov.it/)
-- Wikimedia Commons per le immagini libere/riutilizzabili.
+

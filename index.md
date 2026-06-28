@@ -26,3 +26,7 @@ Questo sito raccoglie le schede di studio regionali per la preparazione della pr
    - domande probabili;
    - errori da evitare;
    - collegamenti con altri siti.
+
+## Nota sulle immagini
+
+Le immagini sono usate come supporto visivo allo studio e rimandano alla rispettiva fonte nella didascalia. Prima di riutilizzarle fuori da questo sito, verifica sempre condizioni d'uso e attribuzione nella pagina originale.

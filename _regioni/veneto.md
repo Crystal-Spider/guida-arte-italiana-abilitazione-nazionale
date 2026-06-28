@@ -4,62 +4,39 @@ layout: default
 nav_order: 20
 ---
 
-# Guida per la prova orale - Veneto
+# Veneto
 
 ## Perimetro e orientamento
-**Versione:** Veneto - formato approfondito, senza scheda sintetica regionale
-**Uso previsto:** studio per la prova orale, con integrazione mirata dei siti che compaiono anche nella prova tecnico-pratica.
-**Criterio seguito:** sono trattati i siti veneti della Sezione I e il museo veneto della Sezione II del programma. Per i siti presenti anche nella Sezione III/pratica sono aggiunte presentazioni orali modello da circa 5 minuti.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Veneto. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
----
-
-
-#### Siti della Sezione I - Veneto
-
-| ID | Sito | Località | Provincia | Uso nello studio |
+| N. | Voce | Tipologia | Area | Note |
 |---:|---|---|---|---|
-| 118 | Duomo, Criptoportico di Vicenza e Basilica Palladiana | Vicenza | Vicenza | orale |
-| 119 | Arena, Basilica di San Zeno e Arche Scaligere | Verona | Verona | orale; collegare al centro storico di Verona |
-| 120 | Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni | Padova | Padova | orale |
-| 121 | Sistema monumentale di Piazza San Marco: Basilica di San Marco e Palazzo Ducale | Venezia | Venezia | orale |
-| 122 | Laguna di Venezia, Canal Grande, Murano, Burano e Torcello | Venezia | Venezia | orale; collegare al Ponte di Rialto |
-| 123 | Colline del Prosecco di Conegliano e Valdobbiadene | Conegliano, Valdobbiadene e area collinare del Prosecco | Treviso | orale |
-| 124 | Ville palladiane del Veneto | Vicenza / Veneto | Vicenza e altre province venete | orale |
+| 1 | Duomo, Criptoportico di Vicenza e Basilica Palladiana | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 2 | Arena, Basilica di San Zeno e Arche Scaligere - Verona | Sito storico-artistico | Verona | Scheda principale |
+| 3 | Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni - Padova | Paesaggio o area archeologica | Padova | Scheda principale |
+| 4 | Sistema monumentale di Piazza San Marco - Basilica di San Marco e Palazzo Ducale | Sito storico-artistico | Basilica di San Marco e Palazzo Ducale | Scheda principale |
+| 5 | Laguna di Venezia, Canal Grande, Murano, Burano e Torcello | Paesaggio o area archeologica | Burano e Torcello | Scheda principale |
+| 6 | Colline del Prosecco di Conegliano e Valdobbiadene | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 7 | Ville palladiane del Veneto | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 8 | Gallerie dell'Accademia di Venezia - Pittura del Cinquecento; pittura del Seicento e Settecento | Sito o tema | Pittura del Cinquecento; pittura del Seicento e Settecento | Scheda principale |
 
-#### Museo della Sezione II - Veneto
-
-| ID | Museo | Sezioni richieste | Città |
-|---:|---|---|---|
-| 24 | Gallerie dell'Accademia | Pittura del Cinquecento; Pittura del Seicento e Settecento | Venezia |
-
-#### Siti veneti della Sezione III/pratica da collegare
-
-Nel programma della prova tecnico-pratica compaiono per il Veneto: **Centro storico di Verona**, **Ponte di Rialto** e **Dolomiti**. Per coerenza con la preparazione orale, in questo documento:
-- la presentazione da 5 minuti del **Centro storico di Verona** è inserita nella scheda "Arena, Basilica di San Zeno e Arche Scaligere";
-- la presentazione da 5 minuti del **Ponte di Rialto** è inserita dopo la scheda "Laguna di Venezia, Canal Grande, Murano, Burano e Torcello";
-- la presentazione da 5 minuti delle **Dolomiti venete** è inserita in appendice, perché nel programma orale regionale veneto non compare come scheda autonoma della Sezione I.
-
----
-
-## 2. Duomo, Criptoportico di Vicenza e Basilica Palladiana
+## Duomo, Criptoportico di Vicenza e Basilica Palladiana
 
 ![Basilica Palladiana, Vicenza](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Palladiana%20Vicenza.jpg)
-
-*Immagine: Basilica Palladiana di Vicenza, Wikimedia Commons.*
-
+*Basilica Palladiana, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Palladiana%20Vicenza.jpg).*
 ### Inquadramento
 
-Questa scheda va preparata come un piccolo itinerario nel centro storico di Vicenza, costruito intorno a tre livelli cronologici: la città romana, la città medievale e comunale, e la città rinascimentale trasformata da Andrea Palladio. Il programma accosta infatti tre elementi che non sono casuali: il **Duomo**, il **Criptoportico romano** e la **Basilica Palladiana**. In sede orale conviene presentarli come tre strati sovrapposti della storia urbana.
+Questa scheda può essere letta come un piccolo itinerario nel centro storico di Vicenza, costruito intorno a tre livelli cronologici: la città romana, la città medievale e comunale, e la città rinascimentale trasformata da Andrea Palladio. Il percorso accosta infatti tre elementi che non sono casuali: il **Duomo**, il **Criptoportico romano** e la **Basilica Palladiana**. Nella descrizione conviene presentarli come tre strati sovrapposti della storia urbana.
 
 Vicenza è uno dei grandi casi italiani in cui la lettura del centro storico passa attraverso il rapporto tra preesistenze antiche, tessuto medievale e intervento rinascimentale. L'identità monumentale della città è oggi fortemente legata a Palladio, ma per non ridurre la risposta a una sola fase bisogna mostrare che il classicismo palladiano nasce dentro una città più antica. Il criptoportico rimanda alla Vicetia romana; la cattedrale alla continuità religiosa e urbana; la Basilica Palladiana alla reinterpretazione cinquecentesca del centro civico.
 
-Vicenza e le Ville del Palladio nel Veneto sono Patrimonio Mondiale UNESCO: il sito comprende la città e le ville palladiane, con iscrizione originaria nel 1994 ed estensione nel 1996.[^vicenza-unesco] L'importanza non è solo locale: Palladio costruisce un linguaggio architettonico fondato sullo studio dell'antico, sulla proporzione, sull'ordine e sulla trasformazione della tradizione classica in un modello esportabile.
+Vicenza e le Ville del Palladio nel Veneto sono Patrimonio Mondiale UNESCO: il sito comprende la città e le ville palladiane, con iscrizione originaria nel 1994 ed estensione nel 1996. L'importanza non è solo locale: Palladio costruisce un linguaggio architettonico fondato sullo studio dell'antico, sulla proporzione, sull'ordine e sulla trasformazione della tradizione classica in un modello esportabile.
 
 ### Il Criptoportico romano
 
 Il criptoportico di Vicenza si trova nell'area di Piazza Duomo. È una struttura sotterranea di età romana, legata probabilmente a una domus privata di alto livello. La parola "criptoportico" indica un corridoio coperto, spesso seminterrato o sotterraneo, utilizzato in contesti romani con funzioni di sostegno, percorrenza, servizio o regolazione climatica. Nel caso vicentino, è importante perché rende percepibile la città romana sotto il centro attuale.
 
-Per l'orale devi ricordare tre aspetti. Primo: il criptoportico non va presentato come monumento isolato, ma come traccia archeologica della città romana. Secondo: il suo valore sta nel rapporto con il tessuto urbano successivo, perché si trova sotto un'area che resterà centrale anche nella città cristiana e medievale. Terzo: il sito permette di parlare di continuità urbana, un tema molto utile nelle risposte su città italiane stratificate.
+Per la spiegazione devi ricordare tre aspetti. Primo: il criptoportico non va presentato come monumento isolato, ma come traccia archeologica della città romana. Secondo: il suo valore sta nel rapporto con il tessuto urbano successivo, perché si trova sotto un'area che resterà centrale anche nella città cristiana e medievale. Terzo: il sito permette di parlare di continuità urbana, un tema molto utile nelle risposte su città italiane stratificate.
 
 Una frase efficace può essere: "Il criptoportico consente di leggere Vicenza non solo come città palladiana, ma come città di lunga durata, nella quale il Rinascimento rielabora una tradizione urbana che affonda le radici nell'età romana".
 
@@ -73,13 +50,13 @@ Quando descrivi il Duomo, evita un elenco dispersivo di restauri e fasi. Concent
 
 ### La Basilica Palladiana
 
-La Basilica Palladiana è il monumento chiave della scheda. Si affaccia su Piazza dei Signori ed è in realtà la trasformazione rinascimentale del preesistente Palazzo della Ragione. Palladio non costruisce da zero, ma riveste e riorganizza un edificio civico medievale attraverso un sistema di logge. Questo punto è fondamentale per l'orale: la grandezza dell'intervento sta nel trasformare una struttura preesistente in un organismo architettonico coerente, classico e monumentale.
+La Basilica Palladiana è il monumento chiave della scheda. Si affaccia su Piazza dei Signori ed è in realtà la trasformazione rinascimentale del preesistente Palazzo della Ragione. Palladio non costruisce da zero, ma riveste e riorganizza un edificio civico medievale attraverso un sistema di logge. Questo punto è fondamentale per la spiegazione: la grandezza dell'intervento sta nel trasformare una struttura preesistente in un organismo architettonico coerente, classico e monumentale.
 
-Il nome "basilica" non indica una chiesa. Palladio utilizza il termine in senso antico, riferendosi alla basilica civile romana, luogo di riunione e di attività pubbliche. Questo è uno dei dettagli che fanno la differenza in una risposta d'esame: chiarisce subito che il candidato sa distinguere funzione, nome e modello culturale.
+Il nome "basilica" non indica una chiesa. Palladio utilizza il termine in senso antico, riferendosi alla basilica civile romana, luogo di riunione e di attività pubbliche. Questo è uno dei dettagli che fanno la differenza in una risposta di riferimento: chiarisce subito che il candidato sa distinguere funzione, nome e modello culturale.
 
 L'elemento architettonico più riconoscibile è la **serliana**, cioè un'apertura tripartita con arco centrale e due aperture laterali architravate. L'uso ripetuto della serliana consente a Palladio di regolarizzare una facciata complessa e di creare un ritmo visivo ordinato. La Basilica diventa così un manifesto del classicismo palladiano: proporzione, modularità, rapporto tra antico e moderno, equilibrio tra funzionalità e immagine urbana.
 
-### Cosa dire all'orale
+### Cosa vedere e come raccontarlo
 
 Una buona risposta può essere costruita in questo ordine:
 
@@ -89,7 +66,7 @@ Una buona risposta può essere costruita in questo ordine:
 4. Basilica Palladiana come centro civico e capolavoro di Palladio.
 5. UNESCO e valore universale del palladianesimo.
 
-### Domande probabili
+### Domande guida
 
 **Perché la Basilica Palladiana si chiama "basilica" se non è una chiesa?**
 Perché Palladio riprende il termine dall'antichità romana, dove la basilica era un edificio civile destinato ad attività pubbliche, giudiziarie e commerciali. Nel caso vicentino indica il valore civico dell'edificio, non una funzione liturgica.
@@ -106,17 +83,15 @@ Non iniziare subito da Palladio. Parti da Vicenza come città stratificata: cos�
 
 ---
 
-## 3. Arena, Basilica di San Zeno e Arche Scaligere - Verona
+## Arena, Basilica di San Zeno e Arche Scaligere - Verona
 
 ![Arena di Verona](https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20%28Arena%20di%20Verona%29.jpg)
-
-*Immagine: Arena di Verona, Wikimedia Commons.*
-
+*Arena di Verona. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20%28Arena%20di%20Verona%29.jpg).*
 ### Inquadramento
 
-Questa scheda richiede una lettura di Verona attraverso tre grandi fasi: la Verona romana, la Verona romanica e comunale, e la Verona scaligera. I tre monumenti indicati dal programma - Arena, Basilica di San Zeno e Arche Scaligere - permettono di costruire una risposta molto solida perché coprono funzioni diverse: spettacolo pubblico, culto religioso, memoria dinastica.
+Questa scheda richiede una lettura di Verona attraverso tre grandi fasi: la Verona romana, la Verona romanica e comunale, e la Verona scaligera. I tre monumenti indicati dalil percorso - Arena, Basilica di San Zeno e Arche Scaligere - permettono di costruire una risposta molto solida perché coprono funzioni diverse: spettacolo pubblico, culto religioso, memoria dinastica.
 
-Verona è iscritta nella Lista del Patrimonio Mondiale UNESCO come città storica di eccezionale valore per la continuità del suo sviluppo urbano e per la conservazione di monumenti di epoche diverse.[^verona-unesco] Una risposta efficace deve quindi evitare di trattare Arena, San Zeno e Arche come tre tappe separate; bisogna presentarli come parti di un unico racconto urbano.
+Verona è iscritta nella Lista del Patrimonio Mondiale UNESCO come città storica di eccezionale valore per la continuità del suo sviluppo urbano e per la conservazione di monumenti di epoche diverse. Una risposta efficace deve quindi evitare di trattare Arena, San Zeno e Arche come tre tappe separate; bisogna presentarli come parti di un unico racconto urbano.
 
 ### L'Arena di Verona
 
@@ -128,7 +103,7 @@ Il punto più interessante per una guida turistica è la trasformazione d'uso: d
 
 ### Basilica di San Zeno
 
-La Basilica di San Zeno è uno dei capolavori del romanico veronese e dell'Italia settentrionale. È dedicata a San Zeno, vescovo e patrono di Verona. Nell'orale è importante sottolineare almeno quattro aspetti: la facciata, il protiro, il rosone, il portale bronzeo e il rapporto con la pittura e la scultura medievale.
+La Basilica di San Zeno è uno dei capolavori del romanico veronese e dell'Italia settentrionale. È dedicata a San Zeno, vescovo e patrono di Verona. Nella descrizione è importante sottolineare almeno quattro aspetti: la facciata, il protiro, il rosone, il portale bronzeo e il rapporto con la pittura e la scultura medievale.
 
 La facciata esprime un equilibrio tipico del romanico padano: uso della pietra, scansione chiara delle superfici, presenza del protiro e del grande rosone. Il rosone, spesso chiamato "Ruota della Fortuna", ha valore sia decorativo sia simbolico. Il portale bronzeo è uno degli elementi più importanti: le formelle costituiscono un racconto per immagini, con episodi biblici e agiografici, utile per spiegare la funzione didattica dell'arte medievale.
 
@@ -138,7 +113,7 @@ All'interno, San Zeno permette di parlare dello spazio basilicale romanico, dell
 
 Le Arche Scaligere sono il complesso funerario monumentale della famiglia della Scala, signori di Verona tra XIII e XIV secolo. Si trovano presso Santa Maria Antica, nel cuore del centro storico. Sono un esempio molto importante di gotico funerario e di autorappresentazione dinastica.
 
-Per l'orale bisogna insistere sul significato politico delle Arche. Non sono solo tombe: sono monumenti di memoria e legittimazione del potere. Attraverso la posizione urbana, l'altezza, la ricchezza decorativa e la forma monumentale, gli Scaligeri trasformano il sepolcro in un'immagine pubblica della signoria.
+Per la spiegazione bisogna insistere sul significato politico delle Arche. Non sono solo tombe: sono monumenti di memoria e legittimazione del potere. Attraverso la posizione urbana, l'altezza, la ricchezza decorativa e la forma monumentale, gli Scaligeri trasformano il sepolcro in un'immagine pubblica della signoria.
 
 Le arche più note sono quelle di Cangrande I, Mastino II e Cansignorio. Cangrande è figura particolarmente importante anche per il legame con Dante. Questo consente un collegamento letterario, utile se l'esaminatore chiede rimandi culturali.
 
@@ -146,7 +121,7 @@ Le arche più note sono quelle di Cangrande I, Mastino II e Cansignorio. Cangran
 
 Il filo logico migliore è: **Arena = romanità pubblica; San Zeno = cristianità medievale; Arche Scaligere = potere signorile gotico**. Con questa triade, Verona diventa un laboratorio di continuità urbana.
 
-### Domande probabili
+### Domande guida
 
 **Perché l'Arena è importante oltre al suo valore archeologico?**
 Perché è un monumento romano ancora vivo nella città contemporanea. La continuità d'uso culturale la rende un simbolo della capacità italiana di reintegrare il patrimonio antico nella vita moderna.
@@ -157,7 +132,7 @@ Sono tombe monumentali, ma soprattutto strumenti di celebrazione dinastica. Most
 **Come si riconosce il romanico in San Zeno?**
 Dalla facciata scandita, dal protiro, dal rosone, dal portale istoriato, dalla struttura basilicale e dalla forte integrazione tra architettura, scultura e funzione liturgica.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 "Il centro storico di Verona è un esempio particolarmente efficace di città italiana stratificata, perché conserva in modo leggibile le tracce della città romana, medievale, comunale e signorile. La sua importanza è riconosciuta anche dall'iscrizione UNESCO, che valorizza proprio la continuità dello sviluppo urbano e la qualità dei monumenti conservati.
 
@@ -171,17 +146,15 @@ Questi tre monumenti consentono di leggere Verona come una città di lunga durat
 
 ---
 
-## 4. Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni - Padova
+## Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni - Padova
 
 ![Cappella degli Scrovegni, Padova](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20degli%20Scrovegni.jpg)
-
-*Immagine: Cappella degli Scrovegni, Wikimedia Commons.*
-
+*Cappella degli Scrovegni, Padova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20degli%20Scrovegni.jpg).*
 ### Inquadramento
 
 La scheda su Padova va costruita intorno a tre poli: fede, spazio urbano e pittura del Trecento. La Basilica di Sant'Antonio rappresenta il grande centro devozionale; Prato della Valle rappresenta la dimensione urbana e monumentale della piazza; la Cappella degli Scrovegni rappresenta uno dei vertici della pittura occidentale.
 
-Padova è una città particolarmente ricca per l'orale perché permette collegamenti con Medioevo, università, ordini religiosi, pellegrinaggio, arte del Trecento e patrimonio UNESCO. La Cappella degli Scrovegni fa parte del sito UNESCO "I cicli affrescati del XIV secolo di Padova", iscritto nel 2021, che riconosce l'eccezionale valore dei cicli pittorici trecenteschi conservati in città.[^padova-unesco]
+Padova è una città particolarmente ricca per la spiegazione perché permette collegamenti con Medioevo, università, ordini religiosi, pellegrinaggio, arte del Trecento e patrimonio UNESCO. La Cappella degli Scrovegni fa parte del sito UNESCO "I cicli affrescati del XIV secolo di Padova", iscritto nel 2021, che riconosce l'eccezionale valore dei cicli pittorici trecenteschi conservati in città.
 
 ### Basilica di Sant'Antonio
 
@@ -189,7 +162,7 @@ La Basilica del Santo è uno dei principali luoghi di pellegrinaggio in Italia. 
 
 Dal punto di vista architettonico, è un edificio complesso, perché fonde elementi romanici, gotici e bizantineggianti. Le cupole rimandano a modelli veneziani e orientali; la struttura basilicale e le cappelle mostrano una lunga stratificazione di interventi. Questo è importante: non devi cercare di ridurre la basilica a un solo stile. È più corretto presentarla come grande santuario medievale e moderno, cresciuto nel tempo intorno alla tomba del santo.
 
-All'interno, un punto fondamentale è l'altare maggiore con opere di Donatello, che consente di collegare Padova al Rinascimento. Donatello lavora a Padova nel Quattrocento e lascia un segno decisivo nella scultura dell'Italia settentrionale. Tuttavia, nell'orale conviene non perdersi in un catalogo di opere: il nucleo è il rapporto tra culto antoniano, architettura santuariale e arte.
+All'interno, un punto fondamentale è l'altare maggiore con opere di Donatello, che consente di collegare Padova al Rinascimento. Donatello lavora a Padova nel Quattrocento e lascia un segno decisivo nella scultura dell'Italia settentrionale. Tuttavia, nella spiegazione conviene non perdersi in un catalogo di opere: il nucleo è il rapporto tra culto antoniano, architettura santuariale e arte.
 
 ### Prato della Valle
 
@@ -197,13 +170,13 @@ Prato della Valle è una delle piazze più celebri e riconoscibili d'Italia. La 
 
 Il nome "Prato" ricorda una funzione storica diversa da quella di una piazza pavimentata: per lungo tempo l'area ebbe caratteri di spazio aperto, mercato, luogo di fiere e manifestazioni. L'attuale sistemazione monumentale risale soprattutto al Settecento e organizza lo spazio in modo scenografico. L'isola centrale è detta Isola Memmia, dal nome di Andrea Memmo, figura chiave della trasformazione settecentesca.
 
-Per l'orale, Prato della Valle è utile perché non è soltanto "una bella piazza": è un esempio di urbanistica illuminista e di trasformazione funzionale dello spazio urbano. La guida deve far capire che si tratta di uno spazio progettato per essere attraversato, osservato e vissuto.
+Per la spiegazione, Prato della Valle è utile perché non è soltanto "una bella piazza": è un esempio di urbanistica illuminista e di trasformazione funzionale dello spazio urbano. La guida deve far capire che si tratta di uno spazio progettato per essere attraversato, osservato e vissuto.
 
 ### Cappella degli Scrovegni
 
-La Cappella degli Scrovegni è il punto più importante della scheda. Fu commissionata da Enrico Scrovegni ed è dedicata a Santa Maria della Carità. La decorazione ad affresco di Giotto fu realizzata in tempi molto brevi, tra 1303 e 1305 secondo la ricostruzione dei Musei Civici di Padova.[^scrovegni-storia]
+La Cappella degli Scrovegni è il punto più importante della scheda. Fu commissionata da Enrico Scrovegni ed è dedicata a Santa Maria della Carità. La decorazione ad affresco di Giotto fu realizzata in tempi molto brevi, tra 1303 e 1305 secondo la ricostruzione dei Musei Civici di Padova.
 
-Il ciclo di Giotto rappresenta una svolta nella pittura occidentale. Non è importante solo per la bellezza delle scene, ma perché introduce una narrazione più umana, spaziale e drammatica. Le figure hanno peso, emozione, gesti credibili; gli spazi architettonici costruiscono ambienti riconoscibili; la narrazione segue un programma teologico coerente.
+Il ciclo di Giotto rappresenta una svolta nella pittura occidentale. Non è importante solo per la bellezza delle scene, ma perché introduce una narrazione più umana, spaziale e drammatica. Le figure hanno peso, emozione, gesti credibili; gli spazi architettonici costruiscono ambienti riconoscibili; la narrazione segue un impianto teologico coerente.
 
 La cappella presenta scene della vita di Gioacchino e Anna, della Vergine e di Cristo, fino al Giudizio Universale. Uno degli elementi più celebri è il blu intenso della volta stellata, che contribuisce alla percezione unitaria dello spazio. L'intero ambiente è concepito come un racconto visivo della salvezza.
 
@@ -216,7 +189,7 @@ Per una risposta da guida turistica, è utile dire che la Cappella non si visita
 - Con Venezia: influssi bizantini e rapporti artistici nel Nord-Est.
 - Con l'UNESCO: Padova Urbs picta e i cicli affrescati del XIV secolo.
 
-### Domande probabili
+### Domande guida
 
 **Perché la Cappella degli Scrovegni è così importante?**
 Perché il ciclo di Giotto introduce una nuova capacità narrativa, spaziale ed emotiva. È un passaggio decisivo dalla pittura medievale a una rappresentazione più naturale e umana.
@@ -233,17 +206,15 @@ Costruisci la risposta su tre parole: **santuario, piazza, affresco**. Così evi
 
 ---
 
-## 5. Sistema monumentale di Piazza San Marco - Basilica di San Marco e Palazzo Ducale
+## Sistema monumentale di Piazza San Marco - Basilica di San Marco e Palazzo Ducale
 
 ![Piazza San Marco](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20San%20Marco%20in%20Venice.jpg)
-
-*Immagine: Piazza San Marco, Wikimedia Commons.*
-
+*Piazza San Marco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20San%20Marco%20in%20Venice.jpg).*
 ### Inquadramento
 
-Piazza San Marco è il cuore politico, religioso e simbolico di Venezia. La scheda deve essere preparata come un racconto del potere veneziano: da un lato la Basilica di San Marco, legata alla religione, alla memoria dell'evangelista e all'identità spirituale della Repubblica; dall'altro Palazzo Ducale, sede del doge e delle istituzioni politiche.
+Piazza San Marco è il cuore politico, religioso e simbolico di Venezia. La scheda può essere letta come un racconto del potere veneziano: da un lato la Basilica di San Marco, legata alla religione, alla memoria dell'evangelista e all'identità spirituale della Repubblica; dall'altro Palazzo Ducale, sede del doge e delle istituzioni politiche.
 
-Venezia e la sua Laguna sono Patrimonio Mondiale UNESCO. Il sito comprende non solo la città storica, ma l'intero sistema lagunare, riconoscendo il valore eccezionale del rapporto tra ambiente, architettura, arte e storia marittima.[^venice-unesco] Piazza San Marco è uno dei luoghi in cui questa complessità si concentra in modo più evidente.
+Venezia e la sua Laguna sono Patrimonio Mondiale UNESCO. Il sito comprende non solo la città storica, ma l'intero sistema lagunare, riconoscendo il valore eccezionale del rapporto tra ambiente, architettura, arte e storia marittima. Piazza San Marco è uno dei luoghi in cui questa complessità si concentra in modo più evidente.
 
 ### Basilica di San Marco
 
@@ -255,7 +226,7 @@ La facciata è un grande palinsesto di marmi, colonne, sculture e spolia. L'uso 
 
 ### Palazzo Ducale
 
-Palazzo Ducale è l'altra metà del sistema marciano. Fu sede del doge e delle principali magistrature della Repubblica. Il sito ufficiale dei Musei Civici di Venezia ricorda che le origini del palazzo risalgono al IX secolo, con successive trasformazioni, ampliamenti e ricostruzioni.[^doge-history]
+Palazzo Ducale è l'altra metà del sistema marciano. Fu sede del doge e delle principali magistrature della Repubblica. Il sito ufficiale dei Musei Civici di Venezia ricorda che le origini del palazzo risalgono al IX secolo, con successive trasformazioni, ampliamenti e ricostruzioni.
 
 Dal punto di vista architettonico, il palazzo è un capolavoro del gotico veneziano. La leggerezza del loggiato inferiore e superiore contrasta con la massa muraria superiore, creando un effetto quasi rovesciato rispetto alla logica costruttiva tradizionale. Questo paradosso visivo è uno dei tratti più affascinanti del palazzo.
 
@@ -267,7 +238,7 @@ La forza della scheda sta nel parlare di "sistema monumentale". Basilica e Palaz
 
 Da guida, è utile condurre idealmente il visitatore da ovest verso est, facendo emergere progressivamente il rapporto tra la piazza, la basilica, il campanile, la Piazzetta, il Palazzo Ducale e il bacino di San Marco.
 
-### Domande probabili
+### Domande guida
 
 **Perché San Marco ha un aspetto bizantino?**
 Perché Venezia costruisce la propria identità in dialogo con l'Oriente mediterraneo e con Bisanzio. Pianta, cupole, mosaici e decorazione riflettono questa vocazione.
@@ -284,17 +255,15 @@ Non limitarti alla descrizione artistica. Usa le parole **Repubblica, Oriente, p
 
 ---
 
-## 6. Laguna di Venezia, Canal Grande, Murano, Burano e Torcello
+## Laguna di Venezia, Canal Grande, Murano, Burano e Torcello
 
 ![Canal Grande, Venezia](https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20Grande%20Venezia.jpg)
-
-*Immagine: Canal Grande, Venezia, Wikimedia Commons.*
-
+*Canal Grande, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20Grande%20Venezia.jpg).*
 ### Inquadramento
 
 Questa scheda è molto diversa dalle altre perché non riguarda un singolo monumento, ma un paesaggio storico, urbano e ambientale. La Laguna di Venezia è il contesto fisico che ha reso possibile la nascita della città. Senza la laguna non si capisce Venezia: la città non è semplicemente "costruita sull'acqua", ma nasce da un rapporto complesso tra insediamento umano, difesa, commercio, idraulica, navigazione e fragilità ambientale.
 
-L'UNESCO riconosce Venezia e la sua Laguna come un unico bene, sottolineando l'eccezionale concentrazione di arte, architettura e relazioni con l'ambiente lagunare.[^venice-unesco] Per l'orale è importante mostrare questa unità: Venezia non è solo Piazza San Marco, e la laguna non è solo sfondo panoramico.
+L'UNESCO riconosce Venezia e la sua Laguna come un unico bene, sottolineando l'eccezionale concentrazione di arte, architettura e relazioni con l'ambiente lagunare. Per la spiegazione è importante mostrare questa unità: Venezia non è solo Piazza San Marco, e la laguna non è solo sfondo panoramico.
 
 ### La Laguna
 
@@ -306,7 +275,7 @@ Parlare della laguna significa anche introdurre temi contemporanei: subsidenza, 
 
 Il Canal Grande è l'asse principale della città storica. Ha una forma sinuosa a "S" rovesciata e attraversa Venezia collegando il bacino di San Marco all'area della stazione e di Piazzale Roma. Lungo il suo percorso si affacciano palazzi gotici, rinascimentali, barocchi e settecenteschi. È una sorta di "strada d'acqua" monumentale.
 
-Per l'orale è efficace definirlo "la facciata rappresentativa della città". Le famiglie patrizie veneziane costruivano i propri palazzi lungo il Canal Grande perché lì passavano merci, ambasciatori, processioni e sguardi. Ogni palazzo era insieme residenza, fondaco, segno di prestigio e parte del paesaggio urbano.
+Per la spiegazione è efficace definirlo "la facciata rappresentativa della città". Le famiglie patrizie veneziane costruivano i propri palazzi lungo il Canal Grande perché lì passavano merci, ambasciatori, processioni e sguardi. Ogni palazzo era insieme residenza, fondaco, segno di prestigio e parte del paesaggio urbano.
 
 Il Canal Grande permette anche di parlare dei ponti: Rialto è il più celebre, ma il punto fondamentale è che a Venezia il ponte non è solo infrastruttura; è forma urbana, nodo commerciale e punto panoramico.
 
@@ -320,13 +289,13 @@ Da guida, è utile spiegare che Murano non è solo "l'isola dei negozi di vetro"
 
 Burano è nota per le case colorate e per la tradizione del merletto. Il colore delle case, spesso spiegato in relazione alla riconoscibilità per i pescatori, è oggi uno degli elementi identitari più forti dell'isola. La tradizione del merletto permette di parlare del lavoro femminile, della trasmissione artigianale e della dimensione domestica della produzione.
 
-All'orale conviene evitare una descrizione folkloristica. Burano va presentata come comunità lagunare con economia, tecniche e paesaggio riconoscibili. Le case colorate sono un'immagine potente, ma devono essere collegate alla vita dell'isola.
+Nella spiegazione conviene evitare una descrizione folkloristica. Burano va presentata come comunità lagunare con economia, tecniche e paesaggio riconoscibili. Le case colorate sono un'immagine potente, ma devono essere collegate alla vita dell'isola.
 
 ### Torcello
 
 Torcello è fondamentale perché permette di parlare delle origini della civiltà veneziana. Prima dell'affermazione di Venezia come centro dominante, Torcello fu uno degli insediamenti più importanti della laguna. La Cattedrale di Santa Maria Assunta conserva mosaici di grande importanza, tra cui il Giudizio Universale. Torcello rappresenta una Venezia prima di Venezia: più rarefatta, archeologica, legata alle origini religiose e insediative della laguna.
 
-### Domande probabili
+### Domande guida
 
 **Perché la laguna è parte del patrimonio di Venezia?**
 Perché non è solo un ambiente naturale, ma il contesto che ha reso possibile la forma urbana, economica e politica di Venezia.
@@ -337,7 +306,7 @@ Perché non è solo un ambiente naturale, ma il contesto che ha reso possibile l
 **Come presenteresti Murano, Burano e Torcello in modo non turistico-superficiale?**
 Murano come isola della manifattura del vetro; Burano come comunità lagunare legata a colore, pesca e merletto; Torcello come luogo delle origini storiche e religiose della laguna.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 "Il Ponte di Rialto è uno dei simboli più riconoscibili di Venezia e, allo stesso tempo, uno dei migliori punti da cui spiegare la città come organismo commerciale e urbano. Non va visto soltanto come un ponte monumentale, ma come il segno fisico del rapporto tra acqua, mercato e potere economico.
 
@@ -351,15 +320,13 @@ Un buon modo per concludere è sottolineare che il Ponte di Rialto unisce due di
 
 ---
 
-## 7. Colline del Prosecco di Conegliano e Valdobbiadene
+## Colline del Prosecco di Conegliano e Valdobbiadene
 
 ![Colline del Prosecco](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg)
-
-*Immagine: Colline di Valdobbiadene, Wikimedia Commons.*
-
+*Colline del Prosecco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg).*
 ### Inquadramento
 
-Le Colline del Prosecco di Conegliano e Valdobbiadene sono un paesaggio culturale. Questa definizione è centrale: non si tratta semplicemente di un'area agricola o di una zona di produzione vinicola, ma di un territorio plasmato nel tempo dall'interazione tra uomo e natura. Il sito è stato iscritto nella Lista UNESCO nel 2019.[^prosecco-unesco]
+Le Colline del Prosecco di Conegliano e Valdobbiadene sono un paesaggio culturale. Questa definizione è centrale: non si tratta semplicemente di un'area agricola o di una zona di produzione vinicola, ma di un territorio plasmato nel tempo dall'interazione tra uomo e natura. Il sito è stato iscritto nella Lista UNESCO nel 2019.
 
 L'area si trova nella provincia di Treviso, tra Conegliano e Valdobbiadene, e comprende un sistema collinare caratterizzato da forti pendenze, vigneti, piccoli borghi, boschi, ciglioni e un mosaico agricolo molto riconoscibile.
 
@@ -367,13 +334,13 @@ L'area si trova nella provincia di Treviso, tra Conegliano e Valdobbiadene, e co
 
 L'elemento morfologico più caratteristico è la successione di rilievi stretti e ripidi, spesso descritti come colline "a dorsale" o hogback. Queste forme hanno imposto una viticoltura difficile, adattata a pendii ripidi e lavorazioni manuali. I ciglioni, cioè terrazzi erbosi usati per sostenere i filari, sono uno degli elementi più importanti del paesaggio.
 
-Per l'orale è fondamentale spiegare che il valore UNESCO non dipende dal vino in sé, ma dal paesaggio storico della viticoltura. Il Prosecco è il prodotto più noto, ma l'oggetto della tutela è la forma del territorio: colline, vigneti, borghi, strade, boschi, rapporto tra lavoro umano e ambiente.
+Per la spiegazione è fondamentale spiegare che il valore UNESCO non dipende dal vino in sé, ma dal paesaggio storico della viticoltura. Il Prosecco è il prodotto più noto, ma l'oggetto della tutela è la forma del territorio: colline, vigneti, borghi, strade, boschi, rapporto tra lavoro umano e ambiente.
 
 ### Conegliano e Valdobbiadene
 
 Conegliano e Valdobbiadene rappresentano due poli complementari. Conegliano è spesso associata alla dimensione culturale, storica e formativa, anche per la tradizione degli studi enologici; Valdobbiadene è associata alla produzione e al paesaggio viticolo più riconoscibile. Tra i due centri si sviluppa una rete di borghi, pievi, cantine e percorsi panoramici.
 
-Questa scheda è utile anche per mostrare competenza sul turismo enogastronomico. Tuttavia, bisogna evitare una risposta da degustazione. Il focus d'esame è culturale: paesaggio, lavoro, trasformazione storica, identità territoriale e sostenibilità.
+Questa scheda è utile anche per mostrare competenza sul turismo enogastronomico. Tuttavia, bisogna evitare una risposta da degustazione. Il focus di riferimento è culturale: paesaggio, lavoro, trasformazione storica, identità territoriale e sostenibilità.
 
 ### Temi di valorizzazione
 
@@ -387,7 +354,7 @@ Le Colline del Prosecco permettono di parlare di:
 
 Un buon candidato deve saper dire che un sito come questo non si visita come un monumento chiuso. Si interpreta attraverso punti panoramici, itinerari, borghi, pievi, strade del vino e racconto delle pratiche agricole.
 
-### Domande probabili
+### Domande guida
 
 **Perché le Colline del Prosecco sono UNESCO?**
 Perché costituiscono un paesaggio culturale modellato nei secoli dall'interazione tra uomo e natura, in particolare attraverso la viticoltura su pendii complessi.
@@ -404,15 +371,13 @@ Usa l'espressione **paesaggio culturale** entro i primi 20 secondi. È la chiave
 
 ---
 
-## 8. Ville palladiane del Veneto
+## Ville palladiane del Veneto
 
 ![Villa La Rotonda, Vicenza](https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Rotonda%20%28Vicenza%29.jpg)
-
-*Immagine: Villa La Rotonda, Wikimedia Commons.*
-
+*Villa La Rotonda, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Rotonda%20%28Vicenza%29.jpg).*
 ### Inquadramento
 
-Le Ville palladiane del Veneto sono parte del sito UNESCO "Città di Vicenza e le Ville del Palladio nel Veneto". Il riconoscimento riguarda non solo alcuni edifici urbani di Vicenza, ma anche un sistema di ville distribuite nel territorio veneto.[^vicenza-unesco] La fonte italiana UNESCO ricorda che il sito comprende 23 palazzi a Vicenza e 24 ville nel territorio circostante.[^vicenza-unesco-it]
+Le Ville palladiane del Veneto sono parte del sito UNESCO "Città di Vicenza e le Ville del Palladio nel Veneto". Il riconoscimento riguarda non solo alcuni edifici urbani di Vicenza, ma anche un sistema di ville distribuite nel territorio veneto. La fonte italiana UNESCO ricorda che il sito comprende 23 palazzi a Vicenza e 24 ville nel territorio circostante.
 
 Il tema centrale è il rapporto tra architettura, campagna e società aristocratica veneziana. La villa palladiana non è soltanto residenza di piacere: è centro amministrativo, agricolo, economico e simbolico. Palladio crea un modello in cui la casa di campagna assume dignità monumentale attraverso il linguaggio dell'architettura classica.
 
@@ -420,23 +385,23 @@ Il tema centrale è il rapporto tra architettura, campagna e società aristocrat
 
 Andrea Palladio studia l'architettura romana e la rielabora in forme moderne. Le ville mostrano fronti templari, proporzioni armoniche, logge, sale centrali, simmetrie e rapporto misurato con il paesaggio. Il classicismo palladiano non è imitazione meccanica dell'antico: è un sistema progettuale capace di adattarsi a funzioni moderne.
 
-Questo è un punto importante per l'orale. Bisogna evitare di dire solo "Palladio si ispira ai templi antichi". Più correttamente: Palladio trasforma il linguaggio del tempio e dell'architettura romana in un modello per la residenza e la gestione del territorio.
+Questo è un punto importante per la spiegazione. Bisogna evitare di dire solo "Palladio si ispira ai templi antichi". Più correttamente: Palladio trasforma il linguaggio del tempio e dell'architettura romana in un modello per la residenza e la gestione del territorio.
 
 ### Funzione della villa
 
 La villa veneta nasce nel contesto dell'espansione degli interessi veneziani verso la terraferma. Le famiglie patrizie investono nella campagna, nell'agricoltura e nella gestione fondiaria. La villa diventa quindi centro di controllo economico e segno di prestigio.
 
-Spesso il complesso comprende corpo padronale, barchesse, spazi agricoli, giardini, cortili e annessi. Le barchesse sono fondamentali: ricordano che la villa non è solo dimora estetica, ma macchina produttiva. In una presentazione orale, questo dettaglio dimostra che sai leggere l'architettura nella sua funzione sociale.
+Spesso il complesso comprende corpo padronale, barchesse, spazi agricoli, giardini, cortili e annessi. Le barchesse sono fondamentali: ricordano che la villa non è solo dimora estetica, ma macchina produttiva. In una presentazione, questo dettaglio dimostra che sai leggere l'architettura nella sua funzione sociale.
 
 ### Esempi da citare
 
-**Villa Almerico Capra detta La Rotonda** è probabilmente la più celebre. Il sito ufficiale la definisce una delle opere palladiane più note e parte del patrimonio UNESCO insieme alla città di Vicenza e alle altre ville palladiane.[^rotonda] La sua pianta centrale, i quattro fronti con pronao e la cupola creano un'immagine quasi ideale, in cui la villa diventa tempio laico della campagna.
+**Villa Almerico Capra detta La Rotonda** è probabilmente la più celebre. Il sito ufficiale la definisce una delle opere palladiane più note e parte del patrimonio UNESCO insieme alla città di Vicenza e alle altre ville palladiane. La sua pianta centrale, i quattro fronti con pronao e la cupola creano un'immagine quasi ideale, in cui la villa diventa tempio laico della campagna.
 
 **Villa Barbaro a Maser** può essere ricordata per il rapporto tra architettura e decorazione pittorica, in particolare gli affreschi di Paolo Veronese. È utile per mostrare come la villa sia un'opera totale, in cui architettura, pittura e paesaggio dialogano.
 
 **Villa Emo** e **Villa Pisani** possono essere usate come esempi di rapporto tra corpo dominicale e barchesse, cioè tra rappresentanza e funzione agricola.
 
-### Domande probabili
+### Domande guida
 
 **Che cosa distingue una villa palladiana da una semplice villa di campagna?**
 La fusione tra funzione agricola, residenza aristocratica e linguaggio classico. Palladio dà dignità monumentale alla villa, trasformandola in modello architettonico.
@@ -453,21 +418,19 @@ La parola chiave è **terraferma**. Le ville palladiane vanno spiegate come arch
 
 ---
 
-## 9. Gallerie dell'Accademia di Venezia - Pittura del Cinquecento; pittura del Seicento e Settecento
+## Gallerie dell'Accademia di Venezia - Pittura del Cinquecento; pittura del Seicento e Settecento
 
 ![Gallerie dell'Accademia, Venezia](https://commons.wikimedia.org/wiki/Special:FilePath/Gallerie%20dell%27Accademia%20%28Venice%29.jpg)
-
-*Immagine: Gallerie dell'Accademia di Venezia, Wikimedia Commons.*
-
+*Gallerie dell'Accademia, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gallerie%20dell%27Accademia%20%28Venice%29.jpg).*
 ### Inquadramento
 
-Le Gallerie dell'Accademia conservano una delle più importanti raccolte di pittura veneziana e veneta. Il sito ufficiale le presenta come la più importante collezione di pittura veneziana e veneta al mondo.[^accademia] Per l'esame, il programma chiede due sezioni: **pittura del Cinquecento** e **pittura del Seicento e Settecento**.
+Le Gallerie dell'Accademia conservano una delle più importanti raccolte di pittura veneziana e veneta. Il sito ufficiale le presenta come la più importante collezione di pittura veneziana e veneta al mondo. Per la lettura del sito, il percorso chiede due sezioni: **pittura del Cinquecento** e **pittura del Seicento e Settecento**.
 
-La preparazione deve quindi essere organizzata per secoli, artisti, temi e caratteristiche della scuola veneziana. Non serve memorizzare tutte le opere, ma bisogna saper spiegare cosa distingue la pittura veneziana: centralità del colore, luce, atmosfera, sensualità della materia pittorica, rapporto con committenza religiosa e civile, celebrazione della Repubblica.
+La lettura deve quindi essere organizzata per secoli, artisti, temi e caratteristiche della scuola veneziana. Non serve memorizzare tutte le opere, ma bisogna saper spiegare cosa distingue la pittura veneziana: centralità del colore, luce, atmosfera, sensualità della materia pittorica, rapporto con committenza religiosa e civile, celebrazione della Repubblica.
 
 ### Pittura veneziana del Cinquecento
 
-Il Cinquecento è il secolo d'oro della pittura veneziana. Gli artisti chiave sono Giovanni Bellini come figura di passaggio, Giorgione, Tiziano, Tintoretto e Veronese. In una risposta d'esame, questi nomi devono essere ordinati, non elencati.
+Il Cinquecento è il secolo d'oro della pittura veneziana. Gli artisti chiave sono Giovanni Bellini come figura di passaggio, Giorgione, Tiziano, Tintoretto e Veronese. In una risposta di riferimento, questi nomi devono essere ordinati, non elencati.
 
 **Giorgione** rappresenta la svolta poetica e atmosferica. La sua pittura è spesso enigmatica, fondata su paesaggio, tonalismo e fusione tra figura e ambiente.
 
@@ -494,17 +457,17 @@ Il Settecento è invece un nuovo momento di grande riconoscibilità, con artisti
 
 ### Come visitare idealmente il museo
 
-Per l'orale, puoi immaginare un percorso in tre passaggi:
+Per la spiegazione, puoi immaginare un percorso in tre passaggi:
 1. Origini e maturazione della scuola veneziana.
 2. Culmine cinquecentesco con Giorgione, Tiziano, Tintoretto e Veronese.
 3. Trasformazione barocca e settecentesca con vedutismo e Tiepolo.
 
 Questo ti permette di evitare un elenco di sale e di costruire un racconto storico.
 
-### Domande probabili
+### Domande guida
 
 **Che cosa distingue la pittura veneziana da quella fiorentina?**
-In modo schematico: Firenze privilegia disegno, struttura e costruzione prospettica; Venezia privilegia colore, luce, atmosfera e materia pittorica. La distinzione è semplificata, ma utile all'orale.
+In modo schematico: Firenze privilegia disegno, struttura e costruzione prospettica; Venezia privilegia colore, luce, atmosfera e materia pittorica. La distinzione è semplificata, ma utile nella spiegazione.
 
 **Perché il Cinquecento veneziano è così importante?**
 Perché rappresenta il massimo sviluppo della scuola veneziana, con artisti capaci di influenzare profondamente la pittura europea: Tiziano, Tintoretto, Veronese.
@@ -518,14 +481,12 @@ Prepara una risposta su tre coppie: **Tiziano/colore**, **Tintoretto/dramma**, *
 
 ---
 
-## Presentazioni orali da circa 5 minuti
-### 10. Appendice - Dolomiti venete, presentazione da circa 5 minuti
+## Percorsi narrativi brevi
+### Percorso narrativo breve
 
 ![Dolomiti](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Tofana%20di%20Rozes.jpg)
-
-*Immagine: Dolomiti, Wikimedia Commons.*
-
-"Le Dolomiti venete, con riferimento all'area di Cortina e al Bellunese, fanno parte di uno dei paesaggi montani più celebri d'Europa. Anche se nel programma orale veneto non compaiono come scheda autonoma della Sezione I, sono presenti nella prova tecnico-pratica e vanno quindi preparate almeno come presentazione.
+*Dolomiti. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Tofana%20di%20Rozes.jpg).*
+"Le Dolomiti venete, con riferimento all'area di Cortina e al Bellunese, fanno parte di uno dei paesaggi montani più celebri d'Europa. Anche se nel percorso principale veneto non compaiono come scheda autonoma, ma sono presenti nel percorso narrativo e vanno quindi considerate almeno come presentazione.
 
 Il primo elemento da spiegare è il valore paesaggistico e geologico. Le Dolomiti prendono il nome dalla dolomia, roccia carbonatica studiata da Déodat de Dolomieu. Le pareti chiare, le torri, i massicci isolati e il fenomeno dell'enrosadira, cioè la colorazione rosata delle cime al tramonto e all'alba, rendono il paesaggio dolomitico immediatamente riconoscibile.
 
@@ -539,8 +500,8 @@ Concluderei dicendo che le Dolomiti venete vanno raccontate come paesaggio total
 
 ---
 
-## Ripasso finale
-### 11. Domande miste per simulazione orale
+## Sintesi finale
+### Domande guida
 
 1. Spiega Vicenza come città stratificata tra età romana, Medioevo e Rinascimento palladiano.
 2. Perché la Basilica Palladiana non è una basilica religiosa?
@@ -560,7 +521,7 @@ Concluderei dicendo che le Dolomiti venete vanno raccontate come paesaggio total
 
 ---
 
-### 12. Ripasso rapido: parole chiave
+### Ripasso rapido: parole chiave
 
 | Sito | 5 parole chiave |
 |---|---|
@@ -576,18 +537,18 @@ Concluderei dicendo che le Dolomiti venete vanno raccontate come paesaggio total
 ---
 
 ## Fonti principali consultate
-[^vicenza-unesco]: [UNESCO World Heritage Centre, *City of Vicenza and the Palladian Villas of the Veneto*](https://whc.unesco.org/en/list/712/)
-[^vicenza-unesco-it]: [Commissione Nazionale Italiana per l'UNESCO, *Città di Vicenza e le Ville del Palladio nel Veneto*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-vicenza-e-le-ville-del-palladio-nel-veneto/)
-[^criptoportico]: [Ministero della Cultura, *Criptoportico romano di Vicenza*](https://cultura.gov.it/luogo/criptoportico-romano-di-vicenza)
-[^verona-unesco]: [Commissione Nazionale Italiana per l'UNESCO, *Città di Verona*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-verona/)
-[^arche-scaligere]: [Visit Verona, *Arche Scaligere*](https://www.visitverona.it/it/luoghi/arche-scaligere)
-[^padova-unesco]: [UNESCO World Heritage Centre, *Padua's fourteenth-century fresco cycles*](https://whc.unesco.org/en/list/1623/)
-[^scrovegni-storia]: [Cappella degli Scrovegni / Musei Civici di Padova, *La storia*](https://cappellascrovegni.padovamusei.it/it/cappella-giotto/storia)
-[^santantonio]: [Basilica di Sant'Antonio di Padova](https://www.santantonio.org/it/basilica)
-[^venice-unesco]: [UNESCO World Heritage Centre, *Venice and its Lagoon*](https://whc.unesco.org/en/list/394/)
-[^doge-history]: [Palazzo Ducale / Fondazione Musei Civici di Venezia, *Building and history*](https://palazzoducale.visitmuve.it/en/building-and-history/)
-[^venezia-isole]: [Venezia Unica, *Le isole veneziane da scoprire*](https://www.veneziaunica.it/it/cosa-fare-a-venezia/il-territorio-di-venezia/isole)
-[^prosecco-unesco]: [UNESCO World Heritage Centre, *The Prosecco Hills of Conegliano and Valdobbiadene*](https://whc.unesco.org/en/list/1571/)
-[^prosecco-site]: [Sito ufficiale Colline del Prosecco Conegliano e Valdobbiadene](https://collineconeglianovaldobbiadene.it/)
-[^rotonda]: [Villa La Rotonda, *Patrimonio UNESCO*](https://www.villalarotonda.it/)
-[^accademia]: [Gallerie dell'Accademia di Venezia](https://www.gallerieaccademia.it/)
+- [UNESCO World Heritage Centre, *City of Vicenza and the Palladian Villas of the Veneto*](https://whc.unesco.org/en/list/712/)
+- [Commissione Nazionale Italiana per l'UNESCO, *Città di Vicenza e le Ville del Palladio nel Veneto*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-vicenza-e-le-ville-del-palladio-nel-veneto/)
+- [Ministero della Cultura, *Criptoportico romano di Vicenza*](https://cultura.gov.it/luogo/criptoportico-romano-di-vicenza)
+- [Commissione Nazionale Italiana per l'UNESCO, *Città di Verona*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-verona/)
+- [Visit Verona, *Arche Scaligere*](https://www.visitverona.it/it/luoghi/arche-scaligere)
+- [UNESCO World Heritage Centre, *Padua's fourteenth-century fresco cycles*](https://whc.unesco.org/en/list/1623/)
+- [Cappella degli Scrovegni / Musei Civici di Padova, *La storia*](https://cappellascrovegni.padovamusei.it/it/cappella-giotto/storia)
+- [Basilica di Sant'Antonio di Padova](https://www.santantonio.org/it/basilica)
+- [UNESCO World Heritage Centre, *Venice and its Lagoon*](https://whc.unesco.org/en/list/394/)
+- [Palazzo Ducale / Fondazione Musei Civici di Venezia, *Building and history*](https://palazzoducale.visitmuve.it/en/building-and-history/)
+- [Venezia Unica, *Le isole veneziane da scoprire*](https://www.veneziaunica.it/it/cosa-fare-a-venezia/il-territorio-di-venezia/isole)
+- [UNESCO World Heritage Centre, *The Prosecco Hills of Conegliano and Valdobbiadene*](https://whc.unesco.org/en/list/1571/)
+- [Sito ufficiale Colline del Prosecco Conegliano e Valdobbiadene](https://collineconeglianovaldobbiadene.it/)
+- [Villa La Rotonda, *Patrimonio UNESCO*](https://www.villalarotonda.it/)
+- [Gallerie dell'Accademia di Venezia](https://www.gallerieaccademia.it/)

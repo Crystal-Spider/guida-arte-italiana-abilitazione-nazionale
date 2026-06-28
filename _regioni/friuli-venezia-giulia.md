@@ -4,43 +4,29 @@ layout: default
 nav_order: 6
 ---
 
-# Guida per la prova orale - Friuli-Venezia Giulia
+# Friuli-Venezia Giulia
 
 ## Perimetro e orientamento
-Questa pagina raccoglie i contenuti regionali per la preparazione della prova orale.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Friuli-Venezia Giulia. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-**Ambito:** solo prova orale, con riferimento ai siti della Sezione I della traccia d'esame.
-**Formato:** schede di studio approfondite per sito, senza scheda sintetica regionale.
-**Nota prova pratica:** tra i siti del Friuli-Venezia Giulia, **Aquileia** compare anche nella Sezione III come "Area Archeologica di Aquileia"; per questo motivo la relativa scheda include anche una **presentazione orale da circa 5 minuti**.
-
----
-
-### Siti da preparare
-
-| ID programma | Sito | Località | Provincia | Collegamento con prova pratica |
+| N. | Voce | Tipologia | Area | Note |
 |---:|---|---|---|---|
-| 31 | Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale | Cividale del Friuli | Udine | No |
-| 32 | Aquileia e Museo Archeologico Nazionale | Aquileia | Udine | Sì: Area Archeologica di Aquileia |
-| 33 | Sacrario di Redipuglia | Fogliano Redipuglia | Gorizia | No |
-| 34 | Castello di Miramare | Trieste | Trieste | No |
+| 1 | Cividale del Friuli: Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale | Sito storico-artistico | Tempietto Longobardo e Complesso Episcopale | Scheda principale |
+| 2 | Aquileia e Museo Archeologico Nazionale | Museo | Vedi scheda | Scheda principale |
+| 3 | Sacrario di Redipuglia | Sito o tema | Vedi scheda | Scheda principale |
+| 4 | Castello di Miramare | Sito storico-artistico | Vedi scheda | Scheda principale |
 
----
-
-## 1. Cividale del Friuli: Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale
+## Cividale del Friuli: Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale
 
 ![Ponte del Diavolo a Cividale del Friuli](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20del%20Diavolo%20in%20Cividale%20del%20Friuli.jpg?width=1000)
-
-*Ponte del Diavolo a Cividale del Friuli. Fonte immagine: Wikimedia Commons, file "Ponte del Diavolo in Cividale del Friuli.jpg".*
-
+*Ponte del Diavolo a Cividale del Friuli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20del%20Diavolo%20in%20Cividale%20del%20Friuli.jpg?width=1000).*
 ![Tempietto Longobardo](https://commons.wikimedia.org/wiki/Special:FilePath/Cividale%200904%20Tempietto%20Longobardo.jpg?width=1000)
-
-*Tempietto Longobardo, Oratorio di Santa Maria in Valle. Fonte immagine: Wikimedia Commons, file "Cividale 0904 Tempietto Longobardo.jpg".*
-
+*Tempietto Longobardo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cividale%200904%20Tempietto%20Longobardo.jpg?width=1000).*
 ### Inquadramento
 
 Cividale del Friuli è uno dei luoghi chiave per comprendere la storia altomedievale dell'Italia nord-orientale. La città, fondata in età romana con il nome di **Forum Iulii**, divenne nel 568 capitale del primo ducato longobardo in Italia, dopo l'ingresso dei Longobardi guidati da Alboino. Da questo ruolo politico deriva anche l'importanza culturale e religiosa del sito: Cividale fu un punto di cerniera tra mondo romano, cultura longobarda, tradizione cristiana e successiva organizzazione carolingia.
 
-La traccia d'esame riunisce tre elementi: il **Ponte del Diavolo**, il **Tempietto Longobardo** e il **Complesso Episcopale**. Per l'orale è utile trattarli non come tre monumenti isolati, ma come tre livelli di lettura della città: il paesaggio urbano e fluviale, il potere aristocratico longobardo e il potere religioso.
+La voce di riferimento riunisce tre elementi: il **Ponte del Diavolo**, il **Tempietto Longobardo** e il **Complesso Episcopale**. Per la spiegazione è utile trattarli non come tre monumenti isolati, ma come tre livelli di lettura della città: il paesaggio urbano e fluviale, il potere aristocratico longobardo e il potere religioso.
 
 Il Tempietto Longobardo e il Complesso Episcopale fanno parte del sito seriale UNESCO **"I Longobardi in Italia. I luoghi del potere (568-774 d.C.)"**, iscritto nel 2011. La componente cividalese del sito UNESCO comprende l'area della **Gastaldaga**, con il Tempietto Longobardo e il Monastero di Santa Maria in Valle, e i resti del Complesso Episcopale, legati alla città longobarda e patriarcale.
 
@@ -50,9 +36,9 @@ Il Ponte del Diavolo attraversa il fiume **Natisone** e costituisce uno dei simb
 
 Il ponte collega le due sponde della città in corrispondenza di una forra profonda e scenografica. Il Natisone non è solo elemento naturale: ha condizionato la forma urbana, le difese, i percorsi e l'immagine stessa di Cividale. Dal ponte si percepisce bene la posizione della città su un nodo di passaggio tra pianura friulana, valli orientali e mondo alpino-balcanico.
 
-La denominazione "Ponte del Diavolo" rimanda a una leggenda molto diffusa in Europa: la costruzione di un ponte difficile viene attribuita all'intervento del diavolo, che chiede in cambio l'anima del primo essere vivente che lo attraverserà. Nelle versioni locali, gli abitanti lo ingannano facendo passare un animale. Per l'esame non è necessario indugiare troppo sulla leggenda, ma è utile citarla come esempio di stratificazione tra infrastruttura, immaginario popolare e identità cittadina.
+La denominazione "Ponte del Diavolo" rimanda a una leggenda molto diffusa in Europa: la costruzione di un ponte difficile viene attribuita all'intervento del diavolo, che chiede in cambio l'anima del primo essere vivente che lo attraverserà. Nelle versioni locali, gli abitanti lo ingannano facendo passare un animale. Per la lettura del sito non è necessario indugiare troppo sulla leggenda, ma è utile citarla come esempio di stratificazione tra infrastruttura, immaginario popolare e identità cittadina.
 
-#### Cosa dire all'orale
+#### Cosa vedere e come raccontarlo
 
 Il Ponte del Diavolo va presentato come apertura scenografica: "Prima ancora di entrare nel cuore longobardo di Cividale, il visitatore incontra il rapporto tra la città e il Natisone". Questa frase permette di evitare una descrizione puramente fotografica e di dare subito un taglio da guida.
 
@@ -78,7 +64,7 @@ L'elemento più celebre è la decorazione interna, in particolare le figure femm
 
 Il Complesso Episcopale completa la lettura della Cividale longobarda. Se la Gastaldaga rappresenta il potere politico-aristocratico, il complesso episcopale rappresenta il potere religioso. La città longobarda non è solo sede militare o amministrativa, ma anche centro di autorità ecclesiastica.
 
-La tradizione lega il rinnovamento del complesso al patriarca **Callisto**, figura fondamentale per lo sviluppo religioso della città. I resti del complesso cultuale e del palazzo patriarcale sono oggi conservati e leggibili attraverso il Museo Cristiano e Tesoro del Duomo e il Museo Archeologico Nazionale. Per l'orale è utile sottolineare che non si tratta di un complesso "integro" come può essere una chiesa ancora in uso, ma di un sistema di resti, materiali e testimonianze che ricostruiscono il ruolo di Cividale come centro ecclesiastico.
+La tradizione lega il rinnovamento del complesso al patriarca **Callisto**, figura fondamentale per lo sviluppo religioso della città. I resti del complesso cultuale e del palazzo patriarcale sono oggi conservati e leggibili attraverso il Museo Cristiano e Tesoro del Duomo e il Museo Archeologico Nazionale. Per la spiegazione è utile sottolineare che non si tratta di un complesso "integro" come può essere una chiesa ancora in uso, ma di un sistema di resti, materiali e testimonianze che ricostruiscono il ruolo di Cividale come centro ecclesiastico.
 
 Il Complesso Episcopale permette di spiegare bene il rapporto tra i Longobardi e la Chiesa. La conversione e l'integrazione delle élite longobarde nel mondo cristiano furono elementi decisivi per la costruzione del potere nel regno. Cividale mostra in scala urbana questa relazione: il centro politico e quello religioso coesistono e si rafforzano.
 
@@ -91,7 +77,7 @@ Cividale si collega bene a:
 - **Ravenna**, per il confronto tra tarda antichità, arte cristiana e primi secoli medievali.
 - **Roma altomedievale**, per il rapporto tra potere politico e Chiesa.
 
-### Domande probabili
+### Domande guida
 
 1. Perché Cividale è importante nella storia longobarda?
 2. Che cos'è il Tempietto Longobardo e quale funzione aveva?
@@ -100,7 +86,7 @@ Cividale si collega bene a:
 5. Perché Cividale è inclusa nel sito UNESCO dei Longobardi?
 6. Come presenteresti il Ponte del Diavolo a un gruppo turistico?
 
-### Risposta modello
+### Sintesi narrativa
 
 Cividale del Friuli è fondamentale perché fu capitale del primo ducato longobardo in Italia, fondato dopo l'arrivo dei Longobardi nel 568. Il sito permette di leggere la città come centro politico, religioso e culturale dell'alto Medioevo. Il Tempietto Longobardo, nell'area della Gastaldaga e del Monastero di Santa Maria in Valle, è una delle più importanti testimonianze dell'arte longobarda: conserva decorazioni in stucco e affreschi che mostrano il passaggio tra tradizione classica, cristiana e medievale. Il Complesso Episcopale, legato al ruolo del patriarca e della Chiesa, completa il quadro del potere cittadino. Il Ponte del Diavolo, sul Natisone, offre invece una lettura paesaggistica e simbolica della città, unendo morfologia urbana e tradizione popolare.
 
@@ -116,21 +102,18 @@ Una buona frase di chiusura può essere: "Cividale è uno dei luoghi in cui il M
 
 ---
 
-## 2. Aquileia e Museo Archeologico Nazionale
+## Aquileia e Museo Archeologico Nazionale
 
 ![Basilica Patriarcale di Aquileia](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000)
-
-*Mosaico della Basilica Patriarcale di Aquileia, ciclo di Giona. Fonte immagine: Wikimedia Commons.*
+*Basilica Patriarcale di Aquileia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000).*
 
 ![Mosaico paleocristiano di Aquileia](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20Basilica%20-%20Ausgrabungen%20Mosaik%209.jpg?width=1000)
-
-*Mosaico paleocristiano della Basilica Patriarcale. Fonte immagine: Wikimedia Commons, file "Aquileia Basilica - Ausgrabungen Mosaik 9.jpg".*
-
+*Mosaico paleocristiano di Aquileia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20Basilica%20-%20Ausgrabungen%20Mosaik%209.jpg?width=1000).*
 ### Inquadramento
 
 Aquileia è uno dei siti più importanti dell'Italia settentrionale per estensione, profondità storica e valore archeologico. Fondata come colonia latina nel **181 a.C.**, divenne un centro strategico per il controllo dell'alto Adriatico, delle vie verso l'Istria, i Balcani e il mondo danubiano. La sua storia è dunque legata sia alla dimensione militare e coloniale romana, sia al commercio, sia alla diffusione del cristianesimo nell'Europa centro-orientale.
 
-La traccia d'esame la presenta come **"Aquileia e Museo Archeologico Nazionale"**. La prova pratica, invece, indica **"Area Archeologica di Aquileia"**. Per l'orale occorre quindi studiare insieme tre livelli:
+La voce di riferimento la presenta come **"Aquileia e Museo Archeologico Nazionale"**. Il percorso narrativo, invece, indica **"Area Archeologica di Aquileia"**. Per la spiegazione occorre quindi studiare insieme tre livelli:
 
 1. la città romana e la sua area archeologica;
 2. la Basilica Patriarcale e il patrimonio paleocristiano;
@@ -144,7 +127,7 @@ Aquileia nasce nel 181 a.C. come colonia latina in un'area di importanza strateg
 
 La struttura urbana originaria rispondeva al modello romano: assi viari principali, organizzazione per isolati, aree pubbliche, spazi commerciali, porto fluviale e infrastrutture. La città crebbe fino a diventare uno dei maggiori centri dell'Impero. In età tardoantica, soprattutto tra III e IV secolo, Aquileia fu un polo politico, militare, economico e religioso di primo piano.
 
-Un punto importante per l'esame è non ridurre Aquileia a "scavi romani": il suo valore è quello di una città di lunga durata, che attraversa età repubblicana, imperiale, tardoantica, cristiana e medievale.
+Un punto importante per la lettura del sito è non ridurre Aquileia a "scavi romani": il suo valore è quello di una città di lunga durata, che attraversa età repubblicana, imperiale, tardoantica, cristiana e medievale.
 
 ### L'area archeologica
 
@@ -158,7 +141,7 @@ Tra gli elementi più rilevanti:
 - **Domus e complessi residenziali**: mostrano il livello di ricchezza raggiunto dalla città, attraverso mosaici, ambienti domestici e apparati decorativi.
 - **Mura e strutture tardoantiche**: attestano le trasformazioni della città nel periodo di crisi e riorganizzazione dell'Impero.
 
-Per l'esame conviene sempre collegare il porto fluviale al concetto di **Aquileia città-frontiera**: frontiera non solo militare, ma anche economica e culturale.
+Per la lettura del sito conviene sempre collegare il porto fluviale al concetto di **Aquileia città-frontiera**: frontiera non solo militare, ma anche economica e culturale.
 
 ### La Basilica Patriarcale
 
@@ -174,7 +157,7 @@ Il mosaico pavimentale è importante per vari motivi:
 - collega arte, liturgia e catechesi visiva;
 - permette di parlare della diffusione del cristianesimo verso Istria, Balcani e area danubiana.
 
-All'orale è utile citare il ciclo di **Giona**, perché è uno dei temi più rappresentativi dell'iconografia paleocristiana: Giona rimanda alla salvezza, alla morte e resurrezione, ed è un tema fortemente adatto a una comunità cristiana antica.
+Nella spiegazione è utile citare il ciclo di **Giona**, perché è uno dei temi più rappresentativi dell'iconografia paleocristiana: Giona rimanda alla salvezza, alla morte e resurrezione, ed è un tema fortemente adatto a una comunità cristiana antica.
 
 ### Il Museo Archeologico Nazionale di Aquileia
 
@@ -188,7 +171,7 @@ Tra i nuclei più importanti da ricordare:
 - **vetri e oggetti di uso quotidiano**, che raccontano commerci, artigianato e vita materiale;
 - **gallerie lapidarie esterne**, rilevanti per la quantità e qualità del patrimonio epigrafico.
 
-Dal 2024 risultano visitabili anche nuovi depositi del museo, con migliaia di reperti, ma per l'esame conviene non puntare su dati organizzativi aggiornabili; è più utile ricordare il ruolo scientifico del museo nel racconto della città romana.
+Dal 2024 risultano visitabili anche nuovi depositi del museo, con migliaia di reperti, ma per la lettura del sito conviene non puntare su dati organizzativi aggiornabili; è più utile ricordare il ruolo scientifico del museo nel racconto della città romana.
 
 ### Perché Aquileia è importante
 
@@ -210,7 +193,7 @@ Aquileia si collega bene a:
 - **Roma paleocristiana**, per l'uso dell'immagine e la nascita degli spazi di culto cristiani.
 - **Trieste e Miramare**, per il tema dell'alto Adriatico come spazio di contatti.
 
-### Domande probabili
+### Domande guida
 
 1. Quando e perché nasce Aquileia?
 2. Perché Aquileia è considerata una città strategica?
@@ -223,11 +206,11 @@ Aquileia si collega bene a:
 9. Come collegheresti Aquileia a Cividale?
 10. Come imposteresti una visita guidata dell'area archeologica?
 
-### Risposta modello
+### Sintesi narrativa
 
 Aquileia fu fondata dai Romani nel 181 a.C. come colonia latina in posizione strategica nell'alto Adriatico, al crocevia tra penisola italiana, mondo danubiano, Balcani e Istria. Divenne una delle grandi città dell'Impero grazie alla sua funzione militare, amministrativa e commerciale, ben rappresentata dal porto fluviale. L'area archeologica conserva resti del foro, delle vie, delle necropoli, delle domus e delle strutture portuali, ma gran parte della città antica è ancora sepolta. La Basilica Patriarcale testimonia invece il ruolo di Aquileia nella diffusione del cristianesimo, soprattutto grazie al grande mosaico pavimentale paleocristiano. Il Museo Archeologico Nazionale completa il racconto con iscrizioni, sculture, mosaici e oggetti della vita quotidiana. Aquileia è quindi un sito fondamentale per comprendere la romanizzazione, la città tardoantica e la nascita del cristianesimo europeo.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 > Oggi presentiamo Aquileia, uno dei siti più importanti dell'Italia settentrionale e dell'intero alto Adriatico. Aquileia non è soltanto un'area archeologica romana, ma un luogo in cui si possono leggere quasi duemila anni di storia: la colonizzazione romana, la crescita economica e commerciale, la trasformazione tardoantica, la diffusione del cristianesimo e la continuità del paesaggio storico fino al Medioevo.
 >
@@ -260,17 +243,15 @@ Errore da evitare: parlare solo della Basilica o solo del Museo. Aquileia va spi
 
 ---
 
-## 3. Sacrario di Redipuglia
+## Sacrario di Redipuglia
 
 ![Sacrario militare di Redipuglia](https://commons.wikimedia.org/wiki/Special:FilePath/Sacrario%20militare%20di%20Redipuglia%20agosto%202014.JPG?width=1000)
-
-*Sacrario militare di Redipuglia. Fonte immagine: Wikimedia Commons, file "Sacrario militare di Redipuglia agosto 2014.JPG".*
-
+*Sacrario militare di Redipuglia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sacrario%20militare%20di%20Redipuglia%20agosto%202014.JPG?width=1000).*
 ### Inquadramento
 
 Il Sacrario di Redipuglia, nel comune di **Fogliano Redipuglia** in provincia di Gorizia, è il più grande sacrario militare italiano. Si trova sul versante occidentale del **Monte Sei Busi**, nell'area del Carso goriziano, uno dei principali teatri della Prima guerra mondiale sul fronte italiano.
 
-Per l'esame orale, Redipuglia richiede un approccio diverso rispetto ad Aquileia o Cividale. Non è un sito antico o medievale, ma un luogo della memoria contemporanea. Va quindi presentato combinando tre piani:
+Per la lettura del sito, Redipuglia richiede un approccio diverso rispetto ad Aquileia o Cividale. Non è un sito antico o medievale, ma un luogo della memoria contemporanea. Va quindi presentato combinando tre piani:
 
 1. il contesto storico della Grande Guerra;
 2. l'architettura monumentale e celebrativa;
@@ -296,7 +277,7 @@ Il sacrario custodisce le spoglie di oltre centomila soldati italiani caduti nel
 
 Redipuglia non è solo un cimitero militare. È un luogo costruito negli anni Trenta, in un preciso contesto politico e culturale, e inaugurato nel 1938. Questo significa che il sito deve essere letto anche come espressione della monumentalizzazione fascista della memoria della Grande Guerra.
 
-All'orale è utile mantenere equilibrio: bisogna riconoscere la funzione di pietà e commemorazione verso i caduti, ma anche saper leggere criticamente il linguaggio architettonico e simbolico del monumento. Il sacrario parla della memoria della guerra, ma anche del modo in cui uno Stato costruisce una memoria pubblica.
+Nella spiegazione è utile mantenere equilibrio: bisogna riconoscere la funzione di pietà e commemorazione verso i caduti, ma anche saper leggere criticamente il linguaggio architettonico e simbolico del monumento. Il sacrario parla della memoria della guerra, ma anche del modo in cui uno Stato costruisce una memoria pubblica.
 
 Oggi Redipuglia è un luogo di commemorazione nazionale, ma può essere interpretato anche in chiave europea: visitarlo significa riflettere sul costo umano della guerra, sulla fragilità dei confini e sulla trasformazione dei luoghi di conflitto in luoghi di memoria.
 
@@ -323,7 +304,7 @@ Redipuglia si collega bene a:
 - **Sacrari militari europei**, per il confronto tra memoriali italiani, francesi, britannici e tedeschi.
 - **Musei della Grande Guerra**, per approfondire il contesto storico.
 
-### Domande probabili
+### Domande guida
 
 1. Dove si trova il Sacrario di Redipuglia e perché proprio lì?
 2. Che rapporto ha il sito con la Prima guerra mondiale?
@@ -333,7 +314,7 @@ Redipuglia si collega bene a:
 6. Come presenteresti Redipuglia a un pubblico internazionale?
 7. Quali cautele deve avere una guida nel presentare un luogo di memoria?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Sacrario di Redipuglia si trova a Fogliano Redipuglia, in provincia di Gorizia, sul versante occidentale del Monte Sei Busi, area duramente contesa durante la Prima guerra mondiale. È il più grande sacrario militare italiano e custodisce le spoglie di oltre centomila caduti. La sua architettura monumentale a gradoni crea un percorso ascensionale e solenne, culminando in una forte dimensione collettiva della memoria. La ripetizione della parola "Presente" rende simbolicamente vivi i caduti nella memoria nazionale. Redipuglia è quindi un luogo storico, memoriale e civile: racconta la guerra sul Carso, ma anche il modo in cui l'Italia ha costruito la memoria pubblica della Grande Guerra.
 
@@ -354,21 +335,17 @@ Frase utile: "Redipuglia non va visitata solo come monumento, ma come paesaggio 
 
 ---
 
-## 4. Castello di Miramare
+## Castello di Miramare
 
 ![Castello di Miramare](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Miramare%20-%20Trieste.jpg?width=1000)
-
-*Castello di Miramare presso Trieste. Fonte immagine: Wikimedia Commons, file "Castello di Miramare - Trieste.jpg".*
-
+*Castello di Miramare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Miramare%20-%20Trieste.jpg?width=1000).*
 ![Castello di Miramare, veduta dal mare](https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20miramare.jpg?width=1000)
-
-*Castello di Miramare, veduta sul mare. Fonte immagine: Wikimedia Commons, file "Schloss miramare.jpg".*
-
+*Castello di Miramare, veduta dal mare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20miramare.jpg?width=1000).*
 ### Inquadramento
 
 Il Castello di Miramare si trova sul promontorio di **Grignano**, pochi chilometri a nord di Trieste, affacciato sul mare Adriatico. È uno dei luoghi più rappresentativi della cultura ottocentesca dell'area triestina e asburgica. Fu costruito tra il **1856 e il 1860** per volontà dell'arciduca **Massimiliano d'Asburgo** e della consorte **Carlotta del Belgio**.
 
-Per l'orale, Miramare deve essere presentato come un sito in cui architettura, paesaggio e biografia si intrecciano. Non è un castello medievale: è una residenza aristocratica ottocentesca in stile eclettico, progettata per esprimere gusto, rango, aspirazioni politiche e rapporto romantico con il mare.
+Per la spiegazione, Miramare deve essere presentato come un sito in cui architettura, paesaggio e biografia si intrecciano. Non è un castello medievale: è una residenza aristocratica ottocentesca in stile eclettico, progettata per esprimere gusto, rango, aspirazioni politiche e rapporto romantico con il mare.
 
 ### Massimiliano d'Asburgo e il progetto di Miramare
 
@@ -376,7 +353,7 @@ Massimiliano d'Asburgo, fratello dell'imperatore Francesco Giuseppe, fu figura c
 
 Miramare nasce come dimora privata, ma è anche un manifesto identitario. La posizione affacciata sul mare richiama la vocazione marittima di Trieste, allora porto fondamentale dell'Impero asburgico. Il castello guarda l'Adriatico e simbolicamente apre la residenza verso il Mediterraneo e il mondo.
 
-La vicenda di Massimiliano assume poi una dimensione tragica: accettò la corona del Messico e morì fucilato nel 1867 a Querétaro. Anche se l'esame non richiede una biografia dettagliata, questo episodio è utile per dare profondità narrativa alla visita: Miramare è spesso percepito come luogo sospeso tra sogno, potere e destino tragico.
+La vicenda di Massimiliano assume poi una dimensione tragica: accettò la corona del Messico e morì fucilato nel 1867 a Querétaro. Anche se la lettura del sito non richiede una biografia dettagliata, questo episodio è utile per dare profondità narrativa alla visita: Miramare è spesso percepito come luogo sospeso tra sogno, potere e destino tragico.
 
 ### Architettura: eclettismo e pietra d'Istria
 
@@ -425,7 +402,7 @@ Miramare si collega bene a:
 - **Redipuglia**, per il tema del confine orientale e della memoria nazionale.
 - **Aquileia**, per il tema dell'alto Adriatico come spazio storico di passaggio.
 
-### Domande probabili
+### Domande guida
 
 1. Dove si trova il Castello di Miramare?
 2. Chi lo fece costruire e in quale periodo?
@@ -435,7 +412,7 @@ Miramare si collega bene a:
 6. Come si collega Miramare alla storia di Trieste?
 7. Come distingueresti Miramare da un castello medievale?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Castello di Miramare si trova sul promontorio di Grignano, vicino a Trieste, affacciato sul mare Adriatico. Fu costruito tra il 1856 e il 1860 per volontà dell'arciduca Massimiliano d'Asburgo e della moglie Carlotta del Belgio. Non è un castello medievale, ma una residenza aristocratica ottocentesca in stile eclettico, realizzata in pietra d'Istria su progetto di Carl Junker. La sua importanza sta nel rapporto tra architettura, paesaggio e identità asburgica: il castello guarda il mare e richiama la vocazione marittima di Trieste, allora porto dell'Impero. Il parco, esteso e progettato, completa il sito come paesaggio romantico e residenziale. Miramare è quindi un luogo chiave per comprendere Trieste ottocentesca, la cultura asburgica e il rapporto tra potere, mare e paesaggio.
 
@@ -453,7 +430,7 @@ Frase utile: "Miramare è un castello solo nel nome e nell'immaginario: in realt
 
 ---
 
-## Ripasso finale
+## Sintesi finale
 ### Confronti trasversali utili
 - **Aquileia vs Cividale**: Aquileia rappresenta la grande città romana e paleocristiana; Cividale rappresenta la trasformazione longobarda e altomedievale.
 - **Redipuglia vs Miramare**: entrambi parlano del confine orientale, ma Redipuglia lo fa attraverso la memoria della guerra, Miramare attraverso la cultura asburgica e marittima.
@@ -468,7 +445,7 @@ Frase utile: "Miramare è un castello solo nel nome e nell'immaginario: in realt
 | Redipuglia | Prima guerra mondiale, Carso, Monte Sei Busi, sacrario, caduti, memoria pubblica, "Presente" |
 | Miramare | Trieste, Grignano, Massimiliano, Carlotta, Asburgo, eclettismo, pietra d'Istria, parco, mare |
 
-### Mini-simulazione d'esame
+### Domande guida
 
 1. "Mi parli di Aquileia e del suo valore UNESCO."
 2. "Che cosa rende il Tempietto Longobardo un monumento eccezionale?"
@@ -480,24 +457,16 @@ Frase utile: "Miramare è un castello solo nel nome e nell'immaginario: in realt
 ---
 
 ## Fonti principali consultate
-### Cividale del Friuli
 - [Italia Langobardorum, "Cividale del Friuli e i monumenti UNESCO"](https://longobardinitalia.it/scopri/cividale-del-friuli/)
 - [Tempietto Longobardo, "Cividale Longobarda"](https://www.tempiettolongobardo.it/it/cividale_longobarda)
 - [UNESCO Italia, "I Longobardi in Italia. I luoghi del potere"](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/i-longobardi-in-italia-i-luoghi-del-potere/)
-- Wikimedia Commons, immagini di Cividale, Ponte del Diavolo e Tempietto Longobardo.
 
-### Aquileia
 - [Fondazione Aquileia, "Aquileia Patrimonio UNESCO"](https://www.fondazioneaquileia.it/it/visita-aquileia/aquileia-patrimonio-unesco)
 - [UNESCO / Ministero della Cultura, "Area Archeologica di Aquileia e la Basilica Patriarcale"](https://unesco.cultura.gov.it/projects/archaeological-area-and-the-patriarchal-basilica-of-aquileia/)
 - [Ministero della Cultura, "Museo Archeologico Nazionale di Aquileia"](https://cultura.gov.it/luogo/museo-archeologico-nazionale-di-aquileia)
-- Wikimedia Commons, immagini della Basilica e dei mosaici di Aquileia.
 
-### Sacrario di Redipuglia
 - [Ministero della Difesa, "Fogliano Redipuglia (GO) - Sacrario Militare di Redipuglia"](https://www.difesa.it/il-ministro/ufficio-per-la-tutela-della-cultura-e-della-memoria-della-difesa/friuli-venezia-giulia/fogliano-redipuglia-go-sacrario-militare-di-redipuglia/49650.html)
 - [Sacrario di Redipuglia, sito informativo](https://sacrarioredipuglia.it/)
-- Wikimedia Commons, immagini del Sacrario di Redipuglia.
 
-### Castello di Miramare
 - [Museo Storico e Parco del Castello di Miramare, "Il Castello"](https://miramare.cultura.gov.it/il-castello/)
 - [Museo Storico e Parco del Castello di Miramare, "Massimiliano d'Asburgo"](https://miramare.cultura.gov.it/massimiliano-d-asburgo/)
-- Wikimedia Commons, immagini del Castello di Miramare.

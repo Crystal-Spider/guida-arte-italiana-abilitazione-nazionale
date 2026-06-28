@@ -4,52 +4,29 @@ layout: default
 nav_order: 3
 ---
 
-# Guida per la prova orale - Calabria
+# Calabria
 
 ## Perimetro e orientamento
-> Documento di studio dedicato alla **Calabria**, costruito per la preparazione della prova orale.
-> La scheda sintetica regionale è stata rimossa come richiesto: il documento entra direttamente nei siti/musei del programma.
-> Per i siti presenti anche nella prova tecnico-pratica sono aggiunti esempi di presentazione orale da circa 5 minuti.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Calabria. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
----
+| N. | Voce | Tipologia | Area | Note |
+|---:|---|---|---|---|
+| 1 | Centro storico di Gerace | Sito o tema | Vedi scheda | Scheda principale |
+| 2 | Museo e Parco Archeologico di Locri Epizefiri | Museo | Vedi scheda | Scheda principale |
+| 3 | Cattolica di Stilo | Sito o tema | Vedi scheda | Scheda principale |
+| 4 | Parco Archeologico di Sibari | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 5 | Museo e Parco Archeologico Nazionale di Capo Colonna | Museo | Vedi scheda | Scheda principale |
+| 6 | Le Castella, Isola di Capo Rizzuto | Sito o tema | Isola di Capo Rizzuto | Scheda principale |
+| 7 | Parco Nazionale della Sila | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 8 | Museo Archeologico Nazionale di Reggio Calabria | Museo | Vedi scheda | Scheda principale |
 
-
-#### Siti della Sezione I - Calabria
-
-|  ID | Sito                                                 | Località                        | Provincia                   | Trattamento nel documento                    |
-| --: | ---------------------------------------------------- | ------------------------------- | --------------------------- | -------------------------------------------- |
-|   8 | Centro storico di Gerace                             | Gerace                          | Reggio Calabria             | Scheda approfondita                          |
-|   9 | Museo e Parco Archeologico di Locri Epizefiri        | Locri                           | Reggio Calabria             | Scheda approfondita                          |
-|  10 | Cattolica di Stilo                                   | Stilo                           | Reggio Calabria             | Scheda approfondita                          |
-|  11 | Parco Archeologico di Sibari                         | Cassano all'Ionio, fraz. Sibari | Cosenza                     | Scheda approfondita                          |
-|  12 | Museo e Parco Archeologico Nazionale di Capo Colonna | Crotone                         | Crotone                     | Scheda approfondita + presentazione 5 minuti |
-|  13 | Le Castella, Isola di Capo Rizzuto                   | Isola di Capo Rizzuto           | Crotone                     | Scheda approfondita                          |
-|  14 | Parco Nazionale della Sila                           | Cosenza, Catanzaro, Crotone     | Cosenza, Catanzaro, Crotone | Scheda approfondita                          |
-
-#### Museo della Sezione II - Calabria
-
-|  ID | Museo                                           | Città           | Sezioni richieste                                    |
-| --: | ----------------------------------------------- | --------------- | ---------------------------------------------------- |
-|   1 | Museo Archeologico Nazionale di Reggio Calabria | Reggio Calabria | Bronzi di Riace; Sezione Preistorica; Sezione Romana |
-
-#### Siti della Sezione III da non ignorare per la presentazione pratica
-
-|  ID | Sito                            | Località | Provincia | Rapporto con questo documento                                                |
-| --: | ------------------------------- | -------- | --------- | ---------------------------------------------------------------------------- |
-|   3 | Capo Colonna                    | Crotone  | Crotone   | Presente anche in Sezione I: scheda + presentazione 5 minuti                 |
-|   4 | Parco archeologico di Scolacium | Borgia   | Catanzaro | Non è nella Sezione I orale, ma è P-only: appendice + presentazione 5 minuti |
-
----
-
-## 8. Centro storico di Gerace
+## Centro storico di Gerace
 
 ![Cattedrale di Gerace](https://commons.wikimedia.org/wiki/Special:FilePath/Gerace_Cattedrale.jpg)
-
-_Immagine: Cattedrale di Gerace. Fonte: Wikimedia Commons._
-
+*Cattedrale di Gerace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gerace_Cattedrale.jpg).*
 ### Inquadramento
 
-Gerace si trova nella città metropolitana di Reggio Calabria, in posizione dominante rispetto alla Locride ionica e all'area di Locri. È un centro storico d'altura: questa caratteristica è fondamentale per capirne la storia, perché la posizione interna e rialzata risponde a esigenze difensive, di controllo del territorio e di protezione rispetto alla costa. Per l'esame conviene presentarla non solo come "borgo medievale", ma come il risultato di una lunga continuità tra mondo greco, bizantino, normanno, svevo, angioino e aragonese.
+Gerace si trova nella città metropolitana di Reggio Calabria, in posizione dominante rispetto alla Locride ionica e all'area di Locri. È un centro storico d'altura: questa caratteristica è fondamentale per capirne la storia, perché la posizione interna e rialzata risponde a esigenze difensive, di controllo del territorio e di protezione rispetto alla costa. Per la lettura del sito conviene presentarla non solo come "borgo medievale", ma come il risultato di una lunga continuità tra mondo greco, bizantino, normanno, svevo, angioino e aragonese.
 
 Il centro storico è strutturato in nuclei urbani distinti. Le fonti comunali descrivono Gerace come città articolata tra Borgo Maggiore, Borgo Minore e Città Alta: questa tripartizione aiuta a costruire una risposta ordinata, perché permette di spiegare come la città si sviluppi lungo il rilievo e non secondo un impianto pianeggiante regolare. Gerace era inoltre cinta da mura e porte urbiche, da leggere come elementi funzionali al controllo degli accessi e come segni materiali della città fortificata.
 
@@ -63,7 +40,7 @@ Nel Medioevo la città assume un ruolo religioso e politico rilevante. La fase n
 
 #### La Cattedrale di Santa Maria Assunta
 
-La Cattedrale è l'elemento più importante da citare. È uno dei monumenti religiosi più rappresentativi della Calabria medievale e domina la città dal punto di vista simbolico e urbano. Per l'esame va presentata come centro della vita ecclesiastica, come segno della monumentalità normanna e come punto di sintesi tra architettura, liturgia e potere.
+La Cattedrale è l'elemento più importante da citare. È uno dei monumenti religiosi più rappresentativi della Calabria medievale e domina la città dal punto di vista simbolico e urbano. Per la lettura del sito va presentata come centro della vita ecclesiastica, come segno della monumentalità normanna e come punto di sintesi tra architettura, liturgia e potere.
 
 Da ricordare:
 
@@ -73,7 +50,7 @@ Da ricordare:
 - l'uso di elementi architettonici che rimandano al linguaggio romanico-normanno;
 - la cripta, utile per parlare della stratificazione sacra e della continuità d'uso.
 
-Durante l'orale evita di limitarti a dire "è una cattedrale medievale": devi spiegare perché è importante nel contesto calabrese. Una buona frase è: "La Cattedrale di Gerace è uno dei punti in cui la Calabria medievale mostra più chiaramente la sovrapposizione tra eredità bizantina, riorganizzazione normanna e centralità ecclesiastica del territorio".
+Durante la descrizione evita di limitarti a dire "è una cattedrale medievale": devi spiegare perché è importante nel contesto calabrese. Una buona frase è: "La Cattedrale di Gerace è uno dei punti in cui la Calabria medievale mostra più chiaramente la sovrapposizione tra eredità bizantina, riorganizzazione normanna e centralità ecclesiastica del territorio".
 
 #### Il castello e la città fortificata
 
@@ -98,7 +75,7 @@ Gerace è spesso ricordata per la densità di edifici religiosi. Le chiese minor
 - **Le Castella**: confronto tra città fortificata interna e fortezza costiera.
 - **Museo di Reggio Calabria**: collegamento più ampio con Magna Grecia, identità calabrese e stratificazione archeologica.
 
-### Domande probabili
+### Domande guida
 
 1. Perché Gerace è importante nel panorama storico-artistico della Calabria?
 2. Quali sono gli elementi principali del centro storico?
@@ -106,11 +83,11 @@ Gerace è spesso ricordata per la densità di edifici religiosi. Le chiese minor
 4. Che ruolo ha la Cattedrale nel sistema urbano?
 5. Come descriveresti Gerace a un gruppo di visitatori in pochi minuti?
 
-### Risposta modello
+### Sintesi narrativa
 
 Gerace è uno dei centri storici più significativi della Calabria meridionale. Sorge in posizione elevata nella Locride e conserva un impianto medievale articolato in più nuclei urbani, con resti di mura, porte, castello e numerose architetture religiose. Il monumento principale è la Cattedrale di Santa Maria Assunta, legata alla fase normanna e alla centralità ecclesiastica della città. La sua importanza sta nella capacità di riassumere la storia della Calabria tra eredità greco-bizantina, fortificazione medievale e organizzazione religiosa del territorio.
 
-### Risposta modello
+### Sintesi narrativa
 
 Gerace va letta come città d'altura della Locride, in rapporto con la costa ionica e con l'antica Locri Epizefiri. La sua posizione elevata non è casuale: risponde a esigenze difensive e di controllo del territorio, soprattutto in età tardoantica e medievale. Il centro storico conserva una struttura articolata in nuclei urbani, con Città Alta, Borgo Maggiore e Borgo Minore, e mostra ancora il carattere di città fortificata attraverso porte, resti murari e il castello.
 
@@ -126,23 +103,21 @@ Il monumento centrale è la Cattedrale di Santa Maria Assunta, che esprime la fa
 
 ---
 
-## 9. Museo e Parco Archeologico di Locri Epizefiri
+## Museo e Parco Archeologico di Locri Epizefiri
 
 ![Scavi di Locri Epizefiri](https://commons.wikimedia.org/wiki/Special:FilePath/Scavi_di_locri_epizefiri%2C_03.jpg)
-
-_Immagine: area archeologica di Locri Epizefiri. Fonte: Wikimedia Commons._
-
+*Scavi di Locri Epizefiri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Scavi_di_locri_epizefiri%2C_03.jpg).*
 ### Inquadramento
 
 Il Museo e Parco Archeologico di Locri Epizefiri si trova a Locri, lungo la costa ionica reggina, in contrada Marasà. È uno dei siti fondamentali per comprendere la Magna Grecia in Calabria. Va presentato come sistema integrato: non solo museo e non solo area archeologica, ma insieme di spazi urbani, santuari, necropoli, reperti e testimonianze della vita quotidiana dell'antica polis.
 
-Locri Epizefiri fu una delle più importanti città greche dell'Italia meridionale. Il suo interesse per l'esame sta nel fatto che consente di parlare di colonizzazione greca, organizzazione urbana, religione, società, produzioni artigianali e rapporto tra reperti e contesto di provenienza. Il museo conserva materiali provenienti dalla città e dal territorio, mentre il parco permette di leggere direttamente i resti dell'abitato e dei luoghi sacri.
+Locri Epizefiri fu una delle più importanti città greche dell'Italia meridionale. Il suo interesse per la lettura del sito sta nel fatto che consente di parlare di colonizzazione greca, organizzazione urbana, religione, società, produzioni artigianali e rapporto tra reperti e contesto di provenienza. Il museo conserva materiali provenienti dalla città e dal territorio, mentre il parco permette di leggere direttamente i resti dell'abitato e dei luoghi sacri.
 
 ### Contesto storico
 
 La fondazione di Locri Epizefiri risale alla fase della colonizzazione greca dell'Italia meridionale, tra VIII e VII secolo a.C. La città si sviluppa in posizione strategica sulla costa ionica e diventa una polis importante per ricchezza, organizzazione politica e vita religiosa. Nel mondo greco d'Occidente Locri è ricordata anche per la tradizione legislativa legata a Zaleuco, figura associata a una delle più antiche legislazioni scritte del mondo greco.
 
-La polis conserva una forte identità culturale. Le testimonianze archeologiche mostrano un sistema complesso di aree sacre, spazi abitativi e necropoli. Il sito è particolarmente importante per i materiali votivi, per i pinakes, per i resti di santuari e per il rapporto tra culti femminili, religiosità civica e vita sociale. Per l'esame è utile sottolineare che Locri non va ridotta a "città greca": è un laboratorio per comprendere la società magnogreca nella sua dimensione religiosa, urbana e artigianale.
+La polis conserva una forte identità culturale. Le testimonianze archeologiche mostrano un sistema complesso di aree sacre, spazi abitativi e necropoli. Il sito è particolarmente importante per i materiali votivi, per i pinakes, per i resti di santuari e per il rapporto tra culti femminili, religiosità civica e vita sociale. Per la lettura del sito è utile sottolineare che Locri non va ridotta a "città greca": è un laboratorio per comprendere la società magnogreca nella sua dimensione religiosa, urbana e artigianale.
 
 ### Il parco archeologico
 
@@ -156,7 +131,7 @@ Il tempio di Marasà è uno dei riferimenti principali da ricordare. È legato a
 
 #### Santuario di Demetra Thesmophoros
 
-Il santuario di Demetra Thesmophoros è particolarmente utile per l'orale perché permette di parlare di religiosità femminile, fertilità, cicli agricoli e ruolo delle donne nella polis. Locri è infatti importante per la quantità e qualità delle testimonianze legate al mondo femminile e ai culti connessi alla sfera della fertilità, del matrimonio e della vita familiare.
+Il santuario di Demetra Thesmophoros è particolarmente utile per la spiegazione perché permette di parlare di religiosità femminile, fertilità, cicli agricoli e ruolo delle donne nella polis. Locri è infatti importante per la quantità e qualità delle testimonianze legate al mondo femminile e ai culti connessi alla sfera della fertilità, del matrimonio e della vita familiare.
 
 #### Testimonianze romane
 
@@ -177,7 +152,7 @@ Una buona esposizione deve sempre collegare museo e parco: il museo dà leggibil
 
 ### Cosa dire sui pinakes
 
-I pinakes sono tavolette votive fittili decorate, spesso associate ai santuari e alla religiosità locrese. Per l'esame sono importanti perché permettono di mostrare il rapporto tra arte, religione e società. Non serve trasformare la risposta in un catalogo iconografico; è più utile spiegare che i pinakes sono documenti visivi del culto e della vita simbolica della comunità.
+I pinakes sono tavolette votive fittili decorate, spesso associate ai santuari e alla religiosità locrese. Per la lettura del sito sono importanti perché permettono di mostrare il rapporto tra arte, religione e società. Non serve trasformare la risposta in un catalogo iconografico; è più utile spiegare che i pinakes sono documenti visivi del culto e della vita simbolica della comunità.
 
 ### Collegamenti utili
 
@@ -186,7 +161,7 @@ I pinakes sono tavolette votive fittili decorate, spesso associate ai santuari e
 - **Sibari e Capo Colonna**: confronto tra grandi centri/santuari della Magna Grecia calabrese.
 - **Cattolica di Stilo**: passaggio dalla Calabria greca alla Calabria bizantina.
 
-### Domande probabili
+### Domande guida
 
 1. Perché Locri Epizefiri è importante nella Magna Grecia?
 2. Quali sono le principali aree del parco archeologico?
@@ -194,11 +169,11 @@ I pinakes sono tavolette votive fittili decorate, spesso associate ai santuari e
 4. Cosa sono i pinakes e perché sono importanti?
 5. Come si inserisce Locri nella storia della Calabria ionica?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Museo e Parco Archeologico di Locri Epizefiri documenta una delle principali poleis della Magna Grecia calabrese. Il parco conserva resti dell'abitato, dei santuari, delle mura e di testimonianze romane, mentre il museo espone reperti provenienti dalla città, tra cui materiali votivi, ceramiche, elementi architettonici e oggetti della vita quotidiana. Locri è particolarmente importante per la religiosità, i culti femminili e i pinakes, che permettono di ricostruire aspetti centrali della società magnogreca.
 
-### Risposta modello
+### Sintesi narrativa
 
 Locri Epizefiri è una delle città più importanti della Magna Grecia in Calabria. Fondata nell'ambito della colonizzazione greca, si sviluppò lungo la costa ionica reggina e divenne un centro rilevante per organizzazione politica, vita religiosa e produzione culturale. Il parco archeologico consente di leggere diversi aspetti della polis: l'abitato in località Centocamere, il tempio di Marasà, il santuario di Demetra Thesmophoros, le mura e le testimonianze di età romana.
 
@@ -214,17 +189,15 @@ Il museo completa la lettura del sito conservando reperti provenienti dagli scav
 
 ---
 
-## 10. Cattolica di Stilo
+## Cattolica di Stilo
 
 ![Cattolica di Stilo](https://commons.wikimedia.org/wiki/Special:FilePath/Cattolica-di-Stilo.jpg)
-
-_Immagine: Cattolica di Stilo. Fonte: Wikimedia Commons._
-
+*Cattolica di Stilo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattolica-di-Stilo.jpg).*
 ### Inquadramento
 
-La Cattolica di Stilo si trova a Stilo, in provincia di Reggio Calabria, sulle pendici del Monte Consolino. È uno dei monumenti più noti della Calabria bizantina e uno dei siti più efficaci da presentare all'orale perché unisce architettura, paesaggio, storia religiosa e identità culturale.
+La Cattolica di Stilo si trova a Stilo, in provincia di Reggio Calabria, sulle pendici del Monte Consolino. È uno dei monumenti più noti della Calabria bizantina e uno dei siti più efficaci da presentare nella spiegazione perché unisce architettura, paesaggio, storia religiosa e identità culturale.
 
-Il termine "Cattolica" non va inteso in senso generico moderno, ma nel contesto della tradizione religiosa e architettonica bizantina. L'edificio è piccolo, ma estremamente denso dal punto di vista storico-artistico. Per l'esame è un sito ideale per dimostrare capacità di lettura architettonica: pianta, spazio interno, cupole, colonne, decorazione pittorica, rapporto con il paesaggio.
+Il termine "Cattolica" non va inteso in senso generico moderno, ma nel contesto della tradizione religiosa e architettonica bizantina. L'edificio è piccolo, ma estremamente denso dal punto di vista storico-artistico. Per la lettura del sito è un sito ideale per dimostrare capacità di lettura architettonica: pianta, spazio interno, cupole, colonne, decorazione pittorica, rapporto con il paesaggio.
 
 ### Contesto storico
 
@@ -247,13 +220,13 @@ La presenza di più cupolette conferisce all'edificio un profilo riconoscibile e
 
 #### Le colonne e il riuso
 
-All'interno le colonne poggiano su basi diverse e presentano elementi di spoglio, cioè materiali riutilizzati da edifici più antichi. Questo è un dettaglio importante per l'orale: il riuso non è solo una scelta pratica, ma anche un fenomeno tipico dell'architettura medievale, in cui frammenti antichi vengono incorporati in nuovi contesti religiosi.
+All'interno le colonne poggiano su basi diverse e presentano elementi di spoglio, cioè materiali riutilizzati da edifici più antichi. Questo è un dettaglio importante per la spiegazione: il riuso non è solo una scelta pratica, ma anche un fenomeno tipico dell'architettura medievale, in cui frammenti antichi vengono incorporati in nuovi contesti religiosi.
 
 Una delle colonne è nota per un'iscrizione araba: questo elemento permette di allargare il discorso al Mediterraneo medievale come spazio di contatti, scambi e sovrapposizioni culturali. Non bisogna esagerare interpretativamente, ma va segnalato come dettaglio utile a mostrare la complessità culturale del monumento.
 
 #### Gli affreschi
 
-Gli affreschi interni sono un altro elemento fondamentale. Anche se frammentari e stratificati, testimoniano la funzione religiosa dell'edificio e la continuità del culto. Per una risposta d'esame è sufficiente ricordare che la decorazione pittorica contribuisce a collocare la Cattolica nel mondo figurativo bizantino e medievale, dove immagine, liturgia e architettura sono strettamente unite.
+Gli affreschi interni sono un altro elemento fondamentale. Anche se frammentari e stratificati, testimoniano la funzione religiosa dell'edificio e la continuità del culto. Per una risposta di riferimento è sufficiente ricordare che la decorazione pittorica contribuisce a collocare la Cattolica nel mondo figurativo bizantino e medievale, dove immagine, liturgia e architettura sono strettamente unite.
 
 ### Rapporto con il paesaggio
 
@@ -266,7 +239,7 @@ La posizione sulle pendici del Monte Consolino è parte integrante del valore de
 - **Museo di Reggio Calabria**: ampiezza cronologica della storia calabrese.
 - **Scolacium**: continuità tra mondo greco-romano, tardoantico e medievale.
 
-### Domande probabili
+### Domande guida
 
 1. Perché la Cattolica di Stilo è considerata simbolo della Calabria bizantina?
 2. Cosa significa pianta a croce greca inscritta in un quadrato?
@@ -274,11 +247,11 @@ La posizione sulle pendici del Monte Consolino è parte integrante del valore de
 4. Che ruolo hanno gli affreschi e gli elementi di spoglio?
 5. Come collegheresti la Cattolica alla storia della Calabria medievale?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Cattolica di Stilo è uno dei monumenti più rappresentativi della Calabria bizantina. Sorge sulle pendici del Monte Consolino e presenta una pianta a croce greca inscritta in un quadrato, tipica dell'architettura medio-bizantina. Lo spazio interno è articolato da quattro colonne, con elementi di riuso, e conserva tracce di decorazione pittorica. La sua importanza sta nel mostrare la forte presenza bizantina in Calabria e il ruolo della regione come area di contatto tra Oriente e Occidente.
 
-### Risposta modello
+### Sintesi narrativa
 
 La Cattolica di Stilo è un piccolo edificio religioso di grande importanza storico-artistica, situato sulle pendici del Monte Consolino. È considerata uno dei simboli della Calabria bizantina perché conserva in modo chiaro caratteristiche architettoniche del mondo medio-bizantino: pianta a croce greca inscritta in un quadrato, volume compatto, spazio centrale cupolato e articolazione interna tramite quattro colonne.
 
@@ -294,12 +267,10 @@ Il monumento va collocato tra X e XI secolo, in un periodo in cui la Calabria è
 
 ---
 
-## 11. Parco Archeologico di Sibari
+## Parco Archeologico di Sibari
 
 ![Parco archeologico di Sibari](https://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg)
-
-_Immagine: scavi del Parco archeologico di Sibari. Fonte: Wikimedia Commons._
-
+*Parco archeologico di Sibari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg).*
 ### Inquadramento
 
 Il Parco Archeologico di Sibari si trova nella frazione Sibari del comune di Cassano all'Ionio, in provincia di Cosenza, nella piana alluvionale attraversata dai fiumi Crati e Coscile. È uno dei siti archeologici più importanti della Calabria e della Magna Grecia perché conserva le tracce stratificate di tre città sovrapposte: **Sybaris**, **Thurii** e **Copia**.
@@ -316,7 +287,7 @@ Nel 510 a.C. la città fu distrutta dai Crotoniati. Questo evento è fondamental
 
 #### Thurii
 
-Nel 444-443 a.C. sull'area fu fondata Thurii, colonia panellenica promossa con il coinvolgimento di Atene. La tradizione associa il suo impianto urbano a Ippodamo da Mileto, figura simbolica dell'urbanistica razionale greca. Per l'esame è utile sottolineare il tema dell'impianto regolare: Thurii consente di parlare di pianificazione urbana, strade, isolati e organizzazione razionale dello spazio.
+Nel 444-443 a.C. sull'area fu fondata Thurii, colonia panellenica promossa con il coinvolgimento di Atene. La tradizione associa il suo impianto urbano a Ippodamo da Mileto, figura simbolica dell'urbanistica razionale greca. Per la lettura del sito è utile sottolineare il tema dell'impianto regolare: Thurii consente di parlare di pianificazione urbana, strade, isolati e organizzazione razionale dello spazio.
 
 #### Copia
 
@@ -334,7 +305,7 @@ Il teatro e le strutture di età romana permettono di parlare della fase di Copi
 
 #### Il museo della Sibaritide
 
-Anche se il programma cita il Parco Archeologico di Sibari, è opportuno richiamare il Museo Archeologico Nazionale della Sibaritide, perché conserva reperti che permettono di comprendere le fasi Sybaris-Thurii-Copia. Il museo aiuta a dare corpo materiale a una città che nel parco è spesso leggibile per stratigrafie e strutture.
+Anche se il percorso cita il Parco Archeologico di Sibari, è opportuno richiamare il Museo Archeologico Nazionale della Sibaritide, perché conserva reperti che permettono di comprendere le fasi Sybaris-Thurii-Copia. Il museo aiuta a dare corpo materiale a una città che nel parco è spesso leggibile per stratigrafie e strutture.
 
 ### Perche' e' importante
 
@@ -352,7 +323,7 @@ Anche se il programma cita il Parco Archeologico di Sibari, è opportuno richiam
 - **Museo di Reggio Calabria**: contesto generale della Magna Grecia in Calabria.
 - **Parco Nazionale della Sila**: rapporto tra piana di Sibari e sistemi montuosi interni.
 
-### Domande probabili
+### Domande guida
 
 1. Perché Sibari è un sito stratificato?
 2. Quali città si sono succedute nell'area?
@@ -360,11 +331,11 @@ Anche se il programma cita il Parco Archeologico di Sibari, è opportuno richiam
 4. Cosa rappresenta Thurii dal punto di vista urbanistico?
 5. Come spiegheresti il sito a un pubblico non specialista?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Parco Archeologico di Sibari documenta una delle aree più importanti della Magna Grecia calabrese. Il sito conserva le tracce di tre città sovrapposte: Sybaris, fondata dagli Achei nel 720 a.C. e distrutta nel 510 a.C.; Thurii, fondata nel 444-443 a.C. come colonia panellenica; e Copia, colonia latina romana dal 193 a.C. La sua importanza sta nella stratificazione urbana e nella possibilità di seguire l'evoluzione di un centro greco e poi romano nel paesaggio della Sibaritide.
 
-### Risposta modello
+### Sintesi narrativa
 
 Sibari è un sito fondamentale per la storia della Magna Grecia perché non conserva una sola città, ma tre fasi urbane sovrapposte. La prima è Sybaris, fondata dagli Achei nel 720 a.C. circa, divenuta una delle città più ricche e potenti dell'Italia meridionale greca. La sua distruzione da parte di Crotone nel 510 a.C. rappresenta una cesura decisiva. Nel 444-443 a.C. l'area viene rifondata come Thurii, colonia panellenica legata alla tradizione urbanistica razionale greca. Infine, nel 193 a.C., i Romani deducono la colonia latina di Copia.
 
@@ -380,15 +351,13 @@ Il parco archeologico permette di leggere questa stratificazione attraverso rest
 
 ---
 
-## 12. Museo e Parco Archeologico Nazionale di Capo Colonna
+## Museo e Parco Archeologico Nazionale di Capo Colonna
 
 ![Capo Colonna](https://commons.wikimedia.org/wiki/Special:FilePath/Capo_Colonna.png)
-
-_Immagine: Capo Colonna, colonna superstite del tempio di Hera Lacinia. Fonte: Wikimedia Commons._
-
+*Capo Colonna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Capo_Colonna.png).*
 ### Inquadramento
 
-Capo Colonna si trova presso Crotone, lungo il promontorio lacinio, a circa 10 km dalla città. È uno dei siti più simbolici della Magna Grecia calabrese perché conserva l'area del santuario di **Hera Lacinia**, legato all'antica Kroton. Il sito è particolarmente efficace per l'orale perché unisce archeologia, paesaggio costiero, religione greca, identità civica e memoria storica.
+Capo Colonna si trova presso Crotone, lungo il promontorio lacinio, a circa 10 km dalla città. È uno dei siti più simbolici della Magna Grecia calabrese perché conserva l'area del santuario di **Hera Lacinia**, legato all'antica Kroton. Il sito è particolarmente efficace per la spiegazione perché unisce archeologia, paesaggio costiero, religione greca, identità civica e memoria storica.
 
 La colonna superstite del tempio è diventata l'immagine-simbolo del sito. Va però spiegata correttamente: non bisogna ridurre Capo Colonna alla "colonna isolata". Quella colonna è la traccia visibile di un santuario molto più ampio e prestigioso, che aveva un ruolo religioso e politico per Kroton e per il mondo greco d'Occidente.
 
@@ -396,7 +365,7 @@ La colonna superstite del tempio è diventata l'immagine-simbolo del sito. Va pe
 
 Kroton, fondata dagli Achei, fu una delle principali città della Magna Grecia. Il santuario di Hera Lacinia sorgeva in posizione extraurbana, sul promontorio, in un luogo altamente visibile dal mare. Questa collocazione è importante: i grandi santuari extraurbani greci spesso segnavano il territorio della polis, ne definivano i confini simbolici e fungevano da luoghi di incontro, culto, prestigio e rappresentazione identitaria.
 
-Hera, divinità centrale nel pantheon greco, era qui venerata con un culto di grande importanza. Il santuario era noto nel mondo antico e possedeva un forte valore politico e culturale. Per l'esame, conviene sottolineare che il santuario non era solo luogo religioso: era anche un elemento di autorappresentazione della città di Kroton.
+Hera, divinità centrale nel pantheon greco, era qui venerata con un culto di grande importanza. Il santuario era noto nel mondo antico e possedeva un forte valore politico e culturale. Per la lettura del sito, conviene sottolineare che il santuario non era solo luogo religioso: era anche un elemento di autorappresentazione della città di Kroton.
 
 ### Il tempio e la colonna
 
@@ -414,7 +383,7 @@ Da ricordare:
 
 Il Parco Archeologico comprende l'area del santuario, resti di strutture antiche e percorsi che consentono di leggere l'organizzazione dello spazio sacro. Il valore del parco non dipende soltanto dalla conservazione monumentale, ma dalla capacità di restituire il contesto: il promontorio, il mare, l'orizzonte, la posizione rispetto a Crotone.
 
-Per l'esame, devi saper distinguere:
+Per la lettura del sito, devi saper distinguere:
 
 - **sito archeologico**: resti e strutture del santuario;
 - **museo**: reperti e materiali che spiegano il contesto;
@@ -422,7 +391,7 @@ Per l'esame, devi saper distinguere:
 
 ### Il museo
 
-Il Museo di Capo Colonna conserva materiali provenienti dall'area archeologica e aiuta a comprendere il santuario. È utile ricordare che reperti particolarmente importanti legati al culto di Hera e alla storia di Crotone possono essere distribuiti anche tra altri istituti, come il Museo Archeologico Nazionale di Crotone. In una risposta d'esame, però, basta mettere in chiaro che il museo del parco serve a contestualizzare il santuario, i suoi reperti e la funzione religiosa dell'area.
+Il Museo di Capo Colonna conserva materiali provenienti dall'area archeologica e aiuta a comprendere il santuario. È utile ricordare che reperti particolarmente importanti legati al culto di Hera e alla storia di Crotone possono essere distribuiti anche tra altri istituti, come il Museo Archeologico Nazionale di Crotone. In una risposta di riferimento, però, basta mettere in chiaro che il museo del parco serve a contestualizzare il santuario, i suoi reperti e la funzione religiosa dell'area.
 
 ### Il valore del paesaggio
 
@@ -436,7 +405,7 @@ Capo Colonna è un sito in cui la componente paesaggistica è determinante. Il p
 - **Le Castella**: confronto tra presidio costiero antico/sacro e fortificazione costiera medievale-moderna.
 - **Scolacium**: altro sito archeologico calabrese con forte stratificazione.
 
-### Domande probabili
+### Domande guida
 
 1. Perché Capo Colonna è importante per la Magna Grecia?
 2. Che rapporto c'è tra il santuario e l'antica Kroton?
@@ -444,11 +413,11 @@ Capo Colonna è un sito in cui la componente paesaggistica è determinante. Il p
 4. Come spiegheresti il valore paesaggistico del sito?
 5. Qual è il ruolo del museo rispetto al parco archeologico?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Museo e Parco Archeologico Nazionale di Capo Colonna conserva l'area del santuario di Hera Lacinia, legato all'antica Kroton. Il sito si trova su un promontorio presso Crotone e unisce archeologia e paesaggio marino. La colonna superstite del tempio dorico è il simbolo del complesso, ma va letta come traccia di un santuario molto più ampio, importante non solo dal punto di vista religioso ma anche per l'identità politica e territoriale della città greca.
 
-### Risposta modello
+### Sintesi narrativa
 
 Capo Colonna è uno dei siti più rappresentativi della Magna Grecia calabrese. Sorge sul promontorio lacinio, presso Crotone, e conserva l'area del santuario di Hera Lacinia, legato all'antica Kroton. La posizione sul mare è fondamentale: il santuario era visibile, riconoscibile e connesso al controllo simbolico del territorio. Nel mondo greco i santuari extraurbani non erano semplici luoghi di culto, ma spazi nei quali la polis esprimeva identità, prestigio e rapporto con il paesaggio.
 
@@ -462,7 +431,7 @@ L'elemento più noto è la colonna superstite del tempio, che oggi domina il pro
 - Collega Capo Colonna a Kroton, non solo a Crotone moderna.
 - Chiudi con la forza simbolica della colonna come "frammento che rende visibile un intero santuario".
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 Buongiorno, ci troviamo idealmente a Capo Colonna, uno dei luoghi più suggestivi e simbolici della Calabria archeologica. Il sito sorge presso Crotone, sull'antico promontorio lacinio, in una posizione straordinaria: davanti al mare Ionio, in un punto visibile e riconoscibile anche da lontano. Questa posizione è già una chiave di lettura fondamentale, perché nel mondo greco il rapporto tra santuario, paesaggio e territorio era essenziale.
 
@@ -478,17 +447,15 @@ In conclusione, Capo Colonna è importante non solo perché conserva una delle i
 
 ---
 
-## 13. Le Castella, Isola di Capo Rizzuto
+## Le Castella, Isola di Capo Rizzuto
 
 ![Castello Aragonese di Le Castella](https://commons.wikimedia.org/wiki/Special:FilePath/CastelloAragonese_LeCastelle.jpg)
-
-_Immagine: Castello Aragonese di Le Castella. Fonte: Wikimedia Commons._
-
+*Castello Aragonese di Le Castella. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/CastelloAragonese_LeCastelle.jpg).*
 ### Inquadramento
 
 Le Castella si trova nel comune di Isola di Capo Rizzuto, in provincia di Crotone, lungo la costa ionica calabrese. Il sito è celebre per la fortezza aragonese, posta su un piccolo promontorio collegato alla terraferma. È un luogo in cui il paesaggio marino è inseparabile dalla funzione militare: la fortezza nasce e si sviluppa come presidio di controllo costiero.
 
-Per l'orale va presentata come sito di lunga durata. Anche se l'immagine attuale è fortemente legata alla fase medievale e aragonese, l'area conserva tracce di frequentazioni più antiche. Le fonti del Ministero della Cultura segnalano la presenza di un insediamento protostorico e resti di murature in blocchi riferibili alla seconda metà del IV secolo a.C., probabilmente collegati a un sistema difensivo legato alla vicina Kroton.
+Per la spiegazione va presentata come sito di lunga durata. Anche se l'immagine attuale è fortemente legata alla fase medievale e aragonese, l'area conserva tracce di frequentazioni più antiche. Le fonti del Ministero della Cultura segnalano la presenza di un insediamento protostorico e resti di murature in blocchi riferibili alla seconda metà del IV secolo a.C., probabilmente collegati a un sistema difensivo legato alla vicina Kroton.
 
 ### Contesto storico
 
@@ -512,7 +479,7 @@ Per una guida turistica, è utile non limitarsi a descrivere mura e torri: bisog
 
 Le Castella va collegata a Capo Colonna e all'area di Crotone. Capo Colonna rappresenta il paesaggio sacro e greco del promontorio lacinio; Le Castella rappresenta il paesaggio difensivo della costa medievale e moderna. Entrambi sono luoghi costieri, visibili, fortemente simbolici, ma con funzioni diverse: culto e identità civica da un lato, controllo militare dall'altro.
 
-### Domande probabili
+### Domande guida
 
 1. Qual è la funzione storica della fortezza di Le Castella?
 2. Perché la posizione è strategica?
@@ -520,11 +487,11 @@ Le Castella va collegata a Capo Colonna e all'area di Crotone. Capo Colonna rapp
 4. Che rapporto c'è tra Le Castella e la difesa costiera calabrese?
 5. Come collegheresti Le Castella a Capo Colonna?
 
-### Risposta modello
+### Sintesi narrativa
 
 Le Castella, nel comune di Isola di Capo Rizzuto, è un sito costiero noto per la fortezza aragonese. La sua importanza deriva dalla posizione strategica sul mare, utile al controllo del golfo di Squillace e della costa ionica. L'area presenta tracce di frequentazioni più antiche, ma la forma attuale è legata soprattutto alla funzione difensiva medievale e moderna. Il sito permette di raccontare il rapporto tra paesaggio marino, fortificazione e difesa costiera della Calabria.
 
-### Risposta modello
+### Sintesi narrativa
 
 Le Castella è uno dei luoghi più riconoscibili della costa ionica calabrese. Sorge nel comune di Isola di Capo Rizzuto, su un promontorio collegato alla terraferma, e deve la sua notorietà alla fortezza aragonese. La posizione è fondamentale: da qui era possibile controllare il golfo di Squillace e un tratto importante della costa. Il sito, però, non nasce solo in età medievale: scavi e testimonianze indicano frequentazioni più antiche, comprese strutture difensive riferibili all'ambito della vicina Kroton.
 
@@ -540,17 +507,15 @@ La fase più visibile è quella aragonese e moderna, legata alla necessità di d
 
 ---
 
-## 14. Parco Nazionale della Sila
+## Parco Nazionale della Sila
 
 ![Parco Nazionale della Sila, Lago Arvo](https://commons.wikimedia.org/wiki/Special:FilePath/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg)
-
-_Immagine: Lago Arvo, Parco Nazionale della Sila. Fonte: Wikimedia Commons._
-
+*Parco Nazionale della Sila, Lago Arvo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg).*
 ### Inquadramento
 
 Il Parco Nazionale della Sila interessa le province di Cosenza, Catanzaro e Crotone e si sviluppa nell'altopiano silano, parte dell'Appennino meridionale. È un sito diverso dagli altri della Calabria perché non è principalmente archeologico o monumentale, ma naturalistico, paesaggistico e ambientale.
 
-Per l'orale non va affrontato come una semplice "area verde". Deve essere presentato come paesaggio montano complesso: foreste, altopiani, laghi, biodiversità, tradizioni silvo-pastorali, turismo sostenibile e rapporto storico tra uomo e ambiente.
+Per la spiegazione non va affrontato come una semplice "area verde". Deve essere presentato come paesaggio montano complesso: foreste, altopiani, laghi, biodiversità, tradizioni silvo-pastorali, turismo sostenibile e rapporto storico tra uomo e ambiente.
 
 ### Il territorio
 
@@ -580,7 +545,7 @@ La riserva dei Giganti della Sila, con grandi esemplari arborei secolari, è un 
 
 #### Villaggi e cultura silana
 
-Il parco non è solo natura. La presenza umana ha modellato il paesaggio attraverso attività agro-silvo-pastorali, produzioni alimentari, architetture rurali, sentieri e tradizioni. Questo è importante per l'esame: una guida turistica deve saper parlare di paesaggio culturale, non solo di biodiversità.
+Il parco non è solo natura. La presenza umana ha modellato il paesaggio attraverso attività agro-silvo-pastorali, produzioni alimentari, architetture rurali, sentieri e tradizioni. Questo è importante per la lettura del sito: una guida turistica deve saper parlare di paesaggio culturale, non solo di biodiversità.
 
 ### Collegamenti utili
 
@@ -589,7 +554,7 @@ Il parco non è solo natura. La presenza umana ha modellato il paesaggio attrave
 - **Capo Colonna e Le Castella**: contrasto costa/montagna.
 - **Gerace e Stilo**: rapporto tra centri storici e paesaggi interni.
 
-### Domande probabili
+### Domande guida
 
 1. Quali sono le caratteristiche principali del Parco Nazionale della Sila?
 2. Perché la Sila è importante per la biodiversità calabrese?
@@ -597,11 +562,11 @@ Il parco non è solo natura. La presenza umana ha modellato il paesaggio attrave
 4. Come collegheresti natura e turismo sostenibile?
 5. Perché la Sila completa l'immagine culturale della Calabria?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Parco Nazionale della Sila tutela un vasto paesaggio montano dell'Appennino meridionale, distribuito tra le province di Cosenza, Catanzaro e Crotone. È caratterizzato da altopiani, foreste, laghi, pascoli e una notevole biodiversità. Il pino laricio, il lupo appenninico, i laghi Arvo e Ampollino e località come Lorica e Camigliatello sono elementi rappresentativi. La sua importanza sta nel mostrare la Calabria interna e montana, complementare alla Calabria costiera e archeologica.
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Parco Nazionale della Sila è uno dei grandi paesaggi naturalistici della Calabria. Si sviluppa sull'altopiano silano, nel sistema dell'Appennino meridionale, e interessa le province di Cosenza, Catanzaro e Crotone. Il territorio è caratterizzato da foreste, laghi, corsi d'acqua, pascoli e centri turistici montani. La Sila è importante non solo per la bellezza del paesaggio, ma anche per la biodiversità: ospita numerose specie animali e vegetali, con il lupo appenninico e il pino laricio tra i simboli più riconoscibili.
 
@@ -617,21 +582,19 @@ Per una guida, la Sila va raccontata come paesaggio naturale e culturale. Le for
 
 ---
 
-## 15. Museo Archeologico Nazionale di Reggio Calabria
+## Museo Archeologico Nazionale di Reggio Calabria
 
 ![Bronzi di Riace](https://commons.wikimedia.org/wiki/Special:FilePath/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg)
-
-_Immagine: Bronzi di Riace al Museo Archeologico Nazionale di Reggio Calabria. Fonte: Wikimedia Commons._
-
+*Bronzi di Riace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg).*
 ### Inquadramento
 
-Il Museo Archeologico Nazionale di Reggio Calabria, spesso indicato come MArRC, è uno dei principali musei archeologici italiani dedicati alla Magna Grecia. Nel programma della prova orale è richiesto per tre sezioni: **Bronzi di Riace**, **Sezione Preistorica** e **Sezione Romana**.
+Il Museo Archeologico Nazionale di Reggio Calabria, spesso indicato come MArRC, è uno dei principali musei archeologici italiani dedicati alla Magna Grecia. La scheda si concentra su tre sezioni: **Bronzi di Riace**, **Sezione Preistorica** e **Sezione Romana**.
 
-Per l'esame bisogna evitare un errore comune: parlare solo dei Bronzi. I Bronzi sono il cuore simbolico del museo, ma il programma richiede anche una visione cronologica più ampia, dalla preistoria alla romanizzazione.
+Per la lettura del sito bisogna evitare un errore comune: parlare solo dei Bronzi. I Bronzi sono il cuore simbolico del museo, ma il percorso richiede anche una visione cronologica più ampia, dalla preistoria alla romanizzazione.
 
 ### Cosa vedere e come raccontarlo
 
-Il percorso del museo è organizzato per livelli e temi. Le collezioni permettono di seguire la storia della Calabria antica, dalle prime frequentazioni umane alla Magna Grecia, fino all'età romana. Questo rende il MArRC uno strumento ideale per collegare molti siti calabresi del programma: Locri, Sibari, Capo Colonna, Crotone, Reggio, ma anche la dimensione generale della colonizzazione greca.
+Il percorso del museo è organizzato per livelli e temi. Le collezioni permettono di seguire la storia della Calabria antica, dalle prime frequentazioni umane alla Magna Grecia, fino all'età romana. Questo rende il MArRC uno strumento ideale per collegare molti siti calabresi del percorso: Locri, Sibari, Capo Colonna, Crotone, Reggio, ma anche la dimensione generale della colonizzazione greca.
 
 ### I Bronzi di Riace
 
@@ -643,7 +606,7 @@ I Bronzi di Riace sono due statue bronzee greche del V secolo a.C., scoperte nel
 - resa anatomica e naturalistica;
 - valore simbolico per il museo e per la Calabria.
 
-All'orale bisogna saper dire che molte statue bronzee antiche sono andate perdute perché rifuse nel corso dei secoli. La sopravvivenza dei Bronzi è quindi eccezionale. Inoltre, non basta dire che sono "belli": bisogna spiegare la potenza espressiva, la postura, la resa dei dettagli anatomici, la policromia originaria attraverso materiali diversi e la capacità della scultura greca classica di unire idealizzazione e naturalismo.
+Nella spiegazione bisogna saper dire che molte statue bronzee antiche sono andate perdute perché rifuse nel corso dei secoli. La sopravvivenza dei Bronzi è quindi eccezionale. Inoltre, non basta dire che sono "belli": bisogna spiegare la potenza espressiva, la postura, la resa dei dettagli anatomici, la policromia originaria attraverso materiali diversi e la capacità della scultura greca classica di unire idealizzazione e naturalismo.
 
 ### Sezione Preistorica
 
@@ -656,7 +619,7 @@ La sezione preistorica documenta le fasi più antiche della presenza umana in Ca
 - insediamenti e trasformazioni economiche;
 - passaggio da gruppi di cacciatori-raccoglitori a comunità agricole e pastorali.
 
-Per l'orale, la funzione di questa sezione è mostrare profondità cronologica. La Calabria non inizia con la Magna Grecia: la grecità si innesta su territori già abitati e culturalmente attivi.
+Per la spiegazione, la funzione di questa sezione è mostrare profondità cronologica. La Calabria non inizia con la Magna Grecia: la grecità si innesta su territori già abitati e culturalmente attivi.
 
 ### Sezione Romana
 
@@ -679,27 +642,27 @@ Collega questa sezione a Sibari-Copia, a Locri romana, a Scolacium colonia roman
 - **Scolacium**: romanizzazione e continuità tardoantica.
 - **Museo Archeologico Nazionale di Napoli**: altro grande museo della Magna Grecia e del mondo antico, ma con collezioni diverse.
 
-### Domande probabili
+### Domande guida
 
 1. Perché il Museo Archeologico Nazionale di Reggio Calabria è importante?
 2. Cosa sono i Bronzi di Riace e perché sono eccezionali?
 3. Quale funzione ha la sezione preistorica?
 4. Cosa permette di raccontare la sezione romana?
-5. Come collegheresti il museo ai siti archeologici calabresi del programma?
+5. Come collegheresti il museo ai siti archeologici calabresi del percorso?
 
-### Risposta modello
+### Sintesi narrativa
 
-Il Museo Archeologico Nazionale di Reggio Calabria è uno dei principali musei italiani dedicati alla Magna Grecia. Il suo nucleo più celebre è costituito dai Bronzi di Riace, due statue greche in bronzo del V secolo a.C. rinvenute nel 1972 al largo di Riace Marina. Il programma richiede però anche la sezione preistorica, che documenta le fasi più antiche della Calabria, e la sezione romana, che mostra la trasformazione dei centri greci nel mondo romano. Il museo è quindi una sintesi della storia antica calabrese.
+Il Museo Archeologico Nazionale di Reggio Calabria è uno dei principali musei italiani dedicati alla Magna Grecia. Il suo nucleo più celebre è costituito dai Bronzi di Riace, due statue greche in bronzo del V secolo a.C. rinvenute nel 1972 al largo di Riace Marina. Il percorso richiede però anche la sezione preistorica, che documenta le fasi più antiche della Calabria, e la sezione romana, che mostra la trasformazione dei centri greci nel mondo romano. Il museo è quindi una sintesi della storia antica calabrese.
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Museo Archeologico Nazionale di Reggio Calabria è un punto di riferimento per la conoscenza della Magna Grecia e della storia antica calabrese. È noto soprattutto per i Bronzi di Riace, due statue bronzee greche del V secolo a.C., scoperte nel 1972 nel mare presso Riace Marina. La loro eccezionalità dipende dalla rarità di bronzi greci originali conservati, dalla qualità tecnica della fusione a cera persa e dalla straordinaria resa anatomica e naturalistica.
 
-Tuttavia, il museo non va ridotto ai Bronzi. La sezione preistorica documenta la Calabria prima della colonizzazione greca, con reperti che raccontano le comunità antiche, le tecnologie, le forme di insediamento e le trasformazioni economiche. La sezione romana mostra invece la fase di romanizzazione, con materiali che testimoniano continuità e cambiamenti nelle città dell'Italia meridionale. Per l'esame, il MArRC è fondamentale perché permette di collegare in un unico percorso Locri, Sibari, Crotone, Capo Colonna e l'intera storia antica della regione.
+Tuttavia, il museo non va ridotto ai Bronzi. La sezione preistorica documenta la Calabria prima della colonizzazione greca, con reperti che raccontano le comunità antiche, le tecnologie, le forme di insediamento e le trasformazioni economiche. La sezione romana mostra invece la fase di romanizzazione, con materiali che testimoniano continuità e cambiamenti nelle città dell'Italia meridionale. Per la lettura del sito, il MArRC è fondamentale perché permette di collegare in un unico percorso Locri, Sibari, Crotone, Capo Colonna e l'intera storia antica della regione.
 
 ### Suggerimenti di esposizione
 
-- Non parlare solo dei Bronzi: il programma chiede anche preistoria e romanità.
+- Non parlare solo dei Bronzi: il percorso chiede anche preistoria e romanità.
 - Per i Bronzi usa tre parole: **rarità, tecnica, naturalismo**.
 - Collega la sezione preistorica al "prima dei Greci".
 - Collega la sezione romana a Sibari-Copia e Scolacium.
@@ -707,21 +670,19 @@ Tuttavia, il museo non va ridotto ai Bronzi. La sezione preistorica documenta la
 
 ---
 
-## Presentazioni orali da circa 5 minuti
+## Percorsi narrativi brevi
 ### Perche' e' importante
-Scolacium permette di parlare della Calabria romana e tardoantica, spesso meno nota rispetto alla Calabria greca e bizantina. È un sito eccellente per una prova pratica perché offre un percorso leggibile: ingresso nel paesaggio dell'uliveto, resti romani, teatro, anfiteatro, basilica medievale, museo. Consente quindi di costruire una visita guidata ordinata e narrativa.
+Scolacium permette di parlare della Calabria romana e tardoantica, spesso meno nota rispetto alla Calabria greca e bizantina. È un sito eccellente per un percorso narrativo perché offre un percorso leggibile: ingresso nel paesaggio dell'uliveto, resti romani, teatro, anfiteatro, basilica medievale, museo. Consente quindi di costruire una visita guidata ordinata e narrativa.
 
-
-### Dove si trova e come inquadrarlo
+### Inquadramento
 Il Museo e Parco Archeologico Nazionale di Scolacium si trova a Roccelletta di Borgia, in provincia di Catanzaro, affacciato sull'area del golfo di Squillace. È un sito di forte stratificazione storica: racconta la città greca di Skylletion, la colonia romana di Scolacium, la fase tardoantica e medievale e il paesaggio agrario moderno legato agli uliveti.
-
 
 #### Contesto storico
 Il sito è tradizionalmente collegato alla città greca di Skylletion. La fase meglio leggibile è però quella romana, quando la città diventa colonia con il nome di Scolacium. In età romana il centro assume un impianto monumentale, con foro, teatro, anfiteatro e strutture pubbliche. La presenza di un anfiteatro è particolarmente significativa perché costituisce una testimonianza rilevante della romanizzazione della Calabria.
 
 Il sito ha anche una fase tardoantica e medievale. La grande basilica normanna di Santa Maria della Roccella, incompiuta o comunque legata a un progetto monumentale, è uno degli elementi più suggestivi del parco. A Scolacium si lega inoltre la memoria di Cassiodoro, figura fondamentale della cultura tardoantica, nato nell'area e associato alla fondazione del Vivarium, centro di studio e conservazione del sapere.
 
-#### Cosa vedere
+#### Cosa vedere e come raccontarlo
 - foro romano;
 - teatro;
 - anfiteatro;
@@ -729,7 +690,7 @@ Il sito ha anche una fase tardoantica e medievale. La grande basilica normanna d
 - museo con reperti archeologici;
 - basilica di Santa Maria della Roccella;
 - uliveto storico e paesaggio agrario.
-### Presentazione orale da circa 5 minuti - Scolacium
+### Percorso narrativo breve
 Buongiorno, ci troviamo idealmente nel Parco archeologico di Scolacium, a Roccelletta di Borgia, in provincia di Catanzaro. Questo sito è particolarmente interessante perché non racconta una sola epoca, ma una lunga stratificazione della storia calabrese: dalla città greca di Skylletion alla colonia romana di Scolacium, fino alla fase tardoantica e medievale.
 
 Il primo elemento da sottolineare è il paesaggio. Il parco è immerso in un grande uliveto, e questo non è solo uno sfondo piacevole: ci ricorda che il sito archeologico è anche parte di un paesaggio agrario, trasformato nel tempo dall'uomo. Entrare a Scolacium significa quindi attraversare insieme archeologia e natura coltivata.
@@ -743,16 +704,14 @@ Un altro collegamento importante è quello con Cassiodoro, figura centrale della
 In conclusione, Scolacium è un luogo ideale per raccontare la Calabria non solo come terra di Magna Grecia, ma anche come territorio romano, tardoantico e medievale. La visita può essere costruita seguendo un filo chiaro: paesaggio dell'uliveto, città romana, edifici per la vita pubblica, basilica medievale e memoria culturale di Cassiodoro. È proprio questa continuità, più che un singolo monumento, a rendere Scolacium un sito fondamentale.
 
 ---
-### Appendice pratica - Parco archeologico di Scolacium
+### percorso integrativo - Parco archeologico di Scolacium
 
-> Nota di perimetro: Scolacium non compare nella Sezione I orale della Calabria, ma compare nella Sezione III, quindi viene incluso qui solo perché è un sito P-only del programma e richiede una presentazione orale di tipo pratico.
+> Nota di perimetro: Scolacium non compare nel percorso principale della Calabria, ma compare nel percorso integrativo, quindi viene incluso qui solo perché è un sito trattato come percorso narrativo del percorso e richiede una presentazione sintetica.
 
 ![Parco archeologico di Scolacium](https://commons.wikimedia.org/wiki/Special:FilePath/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG)
-
-_Immagine: Museo e Parco archeologico nazionale di Scolacium. Fonte: Wikimedia Commons._
-
-## Ripasso finale
-### Collegamenti rapidi da usare all'orale
+*Parco archeologico di Scolacium. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG).*
+## Sintesi finale
+### Collegamenti utili
 | Se ti chiedono...  | Collega a...                                  | Perché                                        |
 | ------------------ | --------------------------------------------- | --------------------------------------------- |
 | Magna Grecia       | Locri, Sibari, Capo Colonna, MArRC            | Quadro completo: città, santuario, museo      |
@@ -766,7 +725,7 @@ _Immagine: Museo e Parco archeologico nazionale di Scolacium. Fonte: Wikimedia C
 - **Paesaggio costiero e difesa**: Le Castella, Capo Colonna.
 - **Paesaggio naturale interno**: Parco Nazionale della Sila.
 - **Museo come sintesi regionale**: Museo Archeologico Nazionale di Reggio Calabria.
-### Domande probabili
+### Domande guida
 
 1. Confronta Locri e Sibari come città della Magna Grecia.
 2. Spiega il ruolo dei santuari extraurbani usando Capo Colonna.
@@ -786,12 +745,11 @@ _Immagine: Museo e Parco archeologico nazionale di Scolacium. Fonte: Wikimedia C
 - Confondere Locri, Sibari e Crotone: sono poli diversi della Magna Grecia.
 - Presentare la Cattolica di Stilo senza spiegare la pianta.
 - Trattare la Sila come semplice località turistica: è un paesaggio naturale e culturale.
-- Dimenticare che Scolacium è P-only nel programma, quindi non va confuso con i siti orali della Sezione I.
+- Dimenticare che Scolacium è trattato come percorso narrativo dedicato, quindi va distinto dai siti principali della regione.
 
 ---
 
 ## Fonti principali consultate
-### Siti e musei
 - [Comune di Gerace, "Gerace e la sua storia"](https://www.comune.gerace.rc.it/vivere_il_comune/luoghi/luogo_3.html)
 - [Comune di Gerace, territorio e struttura urbana](https://www.comune.gerace.rc.it/vivere_il_comune/territorio/territorio_3.html)
 - [Turismo Reggio Calabria, Parco archeologico di Locri Epizefiri](https://turismo.reggiocal.it/cultura/archeologia-e-storia/parco-archeologico-di-locri-epizefiri)
@@ -808,14 +766,3 @@ _Immagine: Museo e Parco archeologico nazionale di Scolacium. Fonte: Wikimedia C
 - [Museo Archeologico Nazionale di Reggio Calabria, Bronzi di Riace](https://museoarcheologicoreggiocalabria.cultura.gov.it/bronzi-di-riace/)
 - [Museo Archeologico Nazionale di Reggio Calabria, Collezioni](https://museoarcheologicoreggiocalabria.cultura.gov.it/collezioni/)
 - [Direzione regionale Musei nazionali Calabria, Museo e Parco archeologico nazionale di Scolacium](https://musei.calabria.beniculturali.it/musei?mid=332&nome=museo-e-parco-archeologico-nazionale-di-scolacium)
-
-### Immagini
-- [Cattedrale di Gerace](https://commons.wikimedia.org/wiki/File:Gerace_Cattedrale.jpg)
-- [Locri Epizefiri](https://commons.wikimedia.org/wiki/File:Scavi_di_locri_epizefiri,_03.jpg)
-- [Cattolica di Stilo](https://commons.wikimedia.org/wiki/File:Cattolica-di-Stilo.jpg)
-- [Sibari](https://commons.wikimedia.org/wiki/File:Sibari-scavi-teatro.jpg)
-- [Capo Colonna](https://commons.wikimedia.org/wiki/File:Capo_Colonna.png)
-- [Le Castella](https://commons.wikimedia.org/wiki/File:CastelloAragonese_LeCastelle.jpg)
-- [Parco Nazionale della Sila](https://commons.wikimedia.org/wiki/File:Parco_Nazionale_della_Sila,_Lago_Arvo.jpg)
-- [Bronzi di Riace](https://commons.wikimedia.org/wiki/File:Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg)
-- [Scolacium](https://commons.wikimedia.org/wiki/File:Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG)

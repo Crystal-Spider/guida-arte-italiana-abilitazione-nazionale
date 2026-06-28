@@ -4,54 +4,30 @@ layout: default
 nav_order: 15
 ---
 
-# Guida per la prova orale - Sicilia
+# Sicilia
 
 ## Perimetro e orientamento
-**Esame:** guida turistica nazionale italiana 2026
-**Ambito:** sola prova orale
-**Regione:** Sicilia
-**Versione:** 1.0
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Sicilia. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-> Struttura coerente con il formato aggiornato per l'Abruzzo: niente scheda sintetica regionale; schede sito approfondite; presentazione orale da circa 5 minuti solo per i siti che compaiono anche nella prova tecnico-pratica.
+| N. | Voce | Tipologia | Area | Note |
+|---:|---|---|---|---|
+| 1 | Duomo e Fontana dell'Elefante - Catania | Sito storico-artistico | Catania | Scheda principale |
+| 2 | Centro storico di Modica | Sito o tema | Vedi scheda | Scheda principale |
+| 3 | Centro storico di Noto | Sito o tema | Vedi scheda | Scheda principale |
+| 4 | Palermo arabo-normanna e Cattedrali di Cefalù e Monreale | Museo | Vedi scheda | Scheda principale |
+| 5 | Parco Archeologico della Neapolis e Necropoli - Siracusa | Paesaggio o area archeologica | Siracusa | Scheda principale |
+| 6 | Parco dell'Etna | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 7 | Tempio e Teatro di Segesta | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 8 | Parco Archeologico di Selinunte | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+| 9 | Teatro Greco di Taormina | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 10 | Valle dei Templi - Agrigento | Paesaggio o area archeologica | Agrigento | Scheda principale |
+| 11 | Villa Romana del Casale - Piazza Armerina | Sito o tema | Piazza Armerina | Scheda principale |
+| 12 | Museo Archeologico Regionale "Paolo Orsi" - Siracusa | Museo | Siracusa | Scheda principale |
 
-
-Per la Sicilia la traccia d'esame comprende nella **Sezione I** i siti ID 85-95: Duomo e Fontana dell'Elefante a Catania; centro storico di Modica; centro storico di Noto; Palermo arabo-normanna e le cattedrali di Cefalù e Monreale; Parco archeologico della Neapolis e Necropoli a Siracusa; Parco dell'Etna; Tempio e Teatro di Segesta; Parco archeologico di Selinunte; Teatro greco di Taormina; Valle dei Templi; Villa Romana del Casale. Nella **Sezione II** compare il Museo Archeologico Regionale "Paolo Orsi" di Siracusa, con Sezione Preistorica e Sezione Greca. Nella **Sezione III** compaiono per la Sicilia: Area archeologica di Agrigento, Città tardo barocche della Val di Noto, Monte Etna, Palermo arabo-normanna e Cattedrali di Cefalù e Monreale, Villa Romana del Casale.
-
-Di conseguenza, in questo documento le presentazioni da circa 5 minuti sono inserite solo per:
-
-- Centro storico di Noto, come riferimento programmatico alla **Città tardo barocca della Val di Noto**;
-- Palermo arabo-normanna e Cattedrali di Cefalù e Monreale;
-- Parco dell'Etna / Monte Etna;
-- Valle dei Templi / Area archeologica di Agrigento;
-- Villa Romana del Casale.
-
-Non è inserita una presentazione pratica autonoma per Modica: Modica è componente del sito UNESCO della Val di Noto, ma nella Sezione III il programma indica la località Noto.
-
-### Tabella di orientamento
-
-| ID | Sito / museo | Località | Provincia | Tipo | Presente anche in pratica? | Priorità orale |
-|---:|---|---|---|---|---|---|
-| 85 | Duomo e Fontana dell'Elefante | Catania | Catania | Barocco urbano / religioso | No | Alta |
-| 86 | Centro storico di Modica | Modica | Ragusa | Barocco urbano | No | Alta |
-| 87 | Centro storico di Noto | Noto | Siracusa | Barocco urbano UNESCO | Sì, come Val di Noto | Molto alta |
-| 88 | Palermo arabo-normanna e Cattedrali di Cefalù e Monreale | Palermo, Cefalù, Monreale | Palermo | Medioevo mediterraneo / UNESCO seriale | Sì | Molto alta |
-| 89 | Parco Archeologico della Neapolis e Necropoli | Siracusa | Siracusa | Archeologia greca e romana | No | Molto alta |
-| 90 | Parco dell'Etna | Catania | Catania | Paesaggio vulcanico / UNESCO naturale | Sì | Molto alta |
-| 91 | Tempio e Teatro di Segesta | Calatafimi-Segesta | Trapani | Archeologia elima / greca | No | Alta |
-| 92 | Parco Archeologico di Selinunte | Castelvetrano | Trapani | Archeologia greca | No | Alta |
-| 93 | Teatro Greco di Taormina | Taormina | Messina | Teatro antico / paesaggio | No | Alta |
-| 94 | Valle dei Templi | Agrigento | Agrigento | Archeologia greca / UNESCO | Sì | Molto alta |
-| 95 | Villa Romana del Casale | Piazza Armerina | Enna | Villa tardoantica / mosaici / UNESCO | Sì | Molto alta |
-| II-20 | Museo Archeologico Regionale "Paolo Orsi" | Siracusa | Siracusa | Museo archeologico | No | Alta |
-
----
-
-## 85. Duomo e Fontana dell'Elefante - Catania
+## Duomo e Fontana dell'Elefante - Catania
 
 ![Catania, Fontana dell'Elefante in Piazza del Duomo](https://commons.wikimedia.org/wiki/Special:FilePath/Catania-elefante_piazza_duomo.jpg)
-
-*Immagine: Catania, Fontana dell'Elefante in Piazza del Duomo. Fonte: Wikimedia Commons, file `Catania-elefante_piazza_duomo.jpg`.*
-
+*Catania, Fontana dell'Elefante in Piazza del Duomo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Catania-elefante_piazza_duomo.jpg).*
 ### Inquadramento
 
 Il sito da preparare non è soltanto un edificio religioso, ma un vero nodo urbano: Piazza del Duomo di Catania, la Cattedrale di Sant'Agata e la Fontana dell'Elefante condensano tre livelli essenziali della città. Il primo è quello religioso, legato alla patrona Sant'Agata e alla cattedrale come chiesa madre della diocesi. Il secondo è quello urbano e barocco, cioè la ricostruzione di Catania dopo il terremoto del 1693, quando la città assunse l'immagine monumentale che ancora oggi caratterizza il suo centro storico. Il terzo è quello identitario: l'elefante lavico, il cosiddetto *Liotru*, è il simbolo civico della città e traduce visivamente il rapporto tra Catania e la pietra lavica dell'Etna.
@@ -60,11 +36,11 @@ Il sito da preparare non è soltanto un edificio religioso, ma un vero nodo urba
 
 Catania è una città stratificata: greca, romana, medievale, normanna, aragonese e barocca. La Piazza del Duomo va spiegata come risultato di una ricostruzione urbana post-catastrofe. Dopo il sisma del 1693, che devastò gran parte della Sicilia sud-orientale, il centro urbano venne ripensato con assi più ampi, scenografie prospettiche e un linguaggio architettonico tardo barocco fortemente riconoscibile. L'uso della pietra lavica scura e della pietra calcarea chiara crea un contrasto cromatico tipico di Catania: nero e bianco, vulcano e città, materia naturale e architettura.
 
-La Cattedrale di Sant'Agata ha origini medievali, ma l'immagine che colpisce il visitatore è soprattutto quella barocca. Per l'orale è utile dire che l'edificio non va letto come "solo barocco": conserva tracce e memorie di fasi più antiche, ma la facciata e il rapporto con la piazza appartengono alla ricostruzione settecentesca. La cattedrale è dedicata a Sant'Agata, martire cristiana del III secolo e patrona della città; questo consente di collegare il sito alla dimensione devozionale, alla festa patronale e all'identità religiosa urbana.
+La Cattedrale di Sant'Agata ha origini medievali, ma l'immagine che colpisce il visitatore è soprattutto quella barocca. Per la spiegazione è utile dire che l'edificio non va letto come "solo barocco": conserva tracce e memorie di fasi più antiche, ma la facciata e il rapporto con la piazza appartengono alla ricostruzione settecentesca. La cattedrale è dedicata a Sant'Agata, martire cristiana del III secolo e patrona della città; questo consente di collegare il sito alla dimensione devozionale, alla festa patronale e all'identità religiosa urbana.
 
 ### Cosa vedere e come raccontarlo
 
-La **Cattedrale** va descritta come polo liturgico, monumentale e simbolico. Va ricordato che la cattedrale è la chiesa del vescovo: il termine deriva dalla *cathedra*, cioè dalla sede episcopale. All'esame puoi usare questa osservazione per mostrare padronanza lessicale e istituzionale: non è semplicemente "una chiesa importante", ma il centro della diocesi.
+La **Cattedrale** va descritta come polo liturgico, monumentale e simbolico. Va ricordato che la cattedrale è la chiesa del vescovo: il termine deriva dalla *cathedra*, cioè dalla sede episcopale. Alla lettura del sito puoi usare questa osservazione per mostrare padronanza lessicale e istituzionale: non è semplicemente "una chiesa importante", ma il centro della diocesi.
 
 La **Fontana dell'Elefante**, collocata al centro della piazza, fu realizzata da Giovanni Battista Vaccarini nel XVIII secolo. L'elefante in pietra lavica sostiene un obelisco egittizzante e diventa una sorta di emblema civico. È un'opera perfetta da spiegare oralmente perché unisce recupero di materiali antichi, gusto barocco, memoria urbana e leggenda. Puoi dire che la fontana funziona come "marchio visivo" di Catania: il visitatore la riconosce immediatamente e la associa alla città.
 
@@ -76,14 +52,14 @@ La **piazza** deve essere presentata come spazio scenografico. Non limitarti a e
 - Con **Etna**: Catania vive fisicamente e simbolicamente sotto il vulcano; la pietra lavica entra nell'architettura urbana.
 - Con **Palermo arabo-normanna**: due capitali culturali siciliane, ma di epoche e linguaggi differenti; Palermo esprime il medioevo normanno-mediterraneo, Catania il barocco post-sismico.
 
-### Domande probabili
+### Domande guida
 
 1. Perché la Fontana dell'Elefante è il simbolo di Catania?
 2. Come si collega Piazza del Duomo al barocco siciliano?
 3. Quale rapporto c'è tra Catania, Sant'Agata e l'Etna?
 4. Quali elementi rendono riconoscibile l'architettura catanese?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Duomo e la Fontana dell'Elefante rappresentano il cuore monumentale e simbolico di Catania. La cattedrale, dedicata a Sant'Agata, è la chiesa madre della diocesi e conserva la memoria religiosa della città, mentre la piazza riflette il grande rinnovamento urbanistico successivo al terremoto del 1693. La Fontana dell'Elefante, opera settecentesca di Giovanni Battista Vaccarini, unisce pietra lavica, gusto barocco e identità civica: l'elefante, chiamato *Liotru*, è il simbolo di Catania. Il sito permette quindi di leggere insieme devozione, ricostruzione barocca e rapporto con il paesaggio vulcanico.
 
@@ -95,21 +71,19 @@ Inizia dalla piazza, non dalla singola opera. La sequenza più efficace è: "sia
 
 ---
 
-## 86. Centro storico di Modica
+## Centro storico di Modica
 
 ![Panorama del centro storico di Modica](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_di_Modica.jpg)
-
-*Immagine: Panorama del centro storico di Modica. Fonte: Wikimedia Commons, file `Panorama_di_Modica.jpg`.*
-
+*Panorama del centro storico di Modica. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_di_Modica.jpg).*
 ### Inquadramento
 
-Modica è uno dei centri più significativi del barocco della Sicilia sud-orientale e una componente del sito UNESCO "Città tardo barocche della Val di Noto". Per l'orale va presentata come città di ricostruzione, ma anche come città di paesaggio: non è un centro barocco "pianeggiante" e regolare come Noto, bensì una città scenografica, distesa tra cave, pendii e dislivelli. La sua forza non sta in un unico monumento isolato, ma nell'effetto complessivo tra architettura, orografia e spazio urbano.
+Modica è uno dei centri più significativi del barocco della Sicilia sud-orientale e una componente del sito UNESCO "Città tardo barocche della Val di Noto". Per la spiegazione va presentata come città di ricostruzione, ma anche come città di paesaggio: non è un centro barocco "pianeggiante" e regolare come Noto, bensì una città scenografica, distesa tra cave, pendii e dislivelli. La sua forza non sta in un unico monumento isolato, ma nell'effetto complessivo tra architettura, orografia e spazio urbano.
 
 ### Contesto storico
 
 Il terremoto del 1693 colpì duramente la Sicilia sud-orientale. Modica, come Noto, Ragusa, Catania e altri centri, fu ricostruita secondo il gusto tardo barocco del XVIII secolo. Tuttavia, a differenza di Noto, che venne rifondata con un impianto urbano più progettato e regolare, Modica mantenne un rapporto molto stretto con il sito originario e con la morfologia della valle. Questo produce un centro storico fatto di salite, scale, scorci, facciate monumentali e vedute improvvise.
 
-Storicamente Modica fu un centro importante della Contea di Modica, una realtà politico-feudale di grande peso nella Sicilia medievale e moderna. All'orale questa informazione serve per evitare di descrivere Modica come "paesino barocco": la città ebbe una funzione storica rilevante, economica e culturale, e la sua monumentalità deriva anche da questa lunga importanza territoriale.
+Storicamente Modica fu un centro importante della Contea di Modica, una realtà politico-feudale di grande peso nella Sicilia medievale e moderna. Nella spiegazione questa informazione serve per evitare di descrivere Modica come "paesino barocco": la città ebbe una funzione storica rilevante, economica e culturale, e la sua monumentalità deriva anche da questa lunga importanza territoriale.
 
 ### Cosa vedere e come raccontarlo
 
@@ -121,7 +95,7 @@ Modica è anche utile per parlare di **barocco come linguaggio urbano**: facciat
 
 ### Perché è importante
 
-Modica è importante perché mostra una variante del barocco siciliano diversa da Noto. Se Noto è il modello della città barocca progettata, Modica è il modello della città barocca adattata a un paesaggio complesso. Questo confronto è molto efficace all'orale: dimostra che non stai imparando i siti come schede isolate, ma sai costruire relazioni.
+Modica è importante perché mostra una variante del barocco siciliano diversa da Noto. Se Noto è il modello della città barocca progettata, Modica è il modello della città barocca adattata a un paesaggio complesso. Questo confronto è molto efficace nella spiegazione: dimostra che non stai imparando i siti come schede isolate, ma sai costruire relazioni.
 
 Inoltre Modica è un esempio di patrimonio urbano diffuso. Non c'è un unico monumento da "consumare", ma un insieme di percorsi, prospettive e spazi. Una guida dovrebbe far capire al visitatore la logica della città: salire, scendere, guardare le facciate in prospettiva, osservare come i palazzi si inseriscono nel paesaggio.
 
@@ -129,16 +103,16 @@ Inoltre Modica è un esempio di patrimonio urbano diffuso. Non c'è un unico mon
 
 - Con **Noto**: entrambe appartengono alla cultura barocca post-1693, ma Noto è più regolare e scenografica in senso pianificato; Modica è più verticale e paesaggistica.
 - Con **Catania**: stessa grande stagione della ricostruzione barocca, ma con materiali, scala urbana e contesto diversi.
-- Con **Ragusa Ibla** anche se non è nel programma siciliano: utile come riferimento mentale, ma non dedicarle tempo se non richiesto.
+- Con **Ragusa Ibla** anche se non è nel percorso siciliano: utile come riferimento mentale, ma non dedicarle tempo se non richiesto.
 
-### Domande probabili
+### Domande guida
 
 1. Perché Modica appartiene al barocco della Val di Noto?
 2. Qual è la differenza tra Modica e Noto?
 3. Come si manifesta il rapporto tra città e paesaggio a Modica?
 4. Quali monumenti useresti per guidare una visita nel centro storico?
 
-### Risposta modello
+### Sintesi narrativa
 
 Modica è uno dei centri tardo barocchi della Sicilia sud-orientale, ricostruito dopo il terremoto del 1693 e parte del sistema UNESCO della Val di Noto. La sua particolarità è il rapporto tra architettura e paesaggio: il centro storico si sviluppa tra dislivelli, cave e pendii, distinguendosi in Modica Alta e Modica Bassa. Il Duomo di San Giorgio, con la sua scenografica scalinata, è il simbolo di questa teatralità urbana. Rispetto a Noto, Modica appare meno regolare e più integrata nella morfologia del territorio, offrendo un esempio di barocco adattato a un contesto complesso.
 
@@ -150,15 +124,13 @@ Non iniziare dicendo solo "Modica è barocca". Parti dal terremoto del 1693, poi
 
 ---
 
-## 87. Centro storico di Noto
+## Centro storico di Noto
 
 ![Noto, Cattedrale di San Nicolò](https://commons.wikimedia.org/wiki/Special:FilePath/Noto_Kathedrale.jpg)
-
-*Immagine: Noto, Cattedrale di San Nicolò. Fonte: Wikimedia Commons, file `Noto_Kathedrale.jpg`.*
-
+*Noto, Cattedrale di San Nicolò. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Noto_Kathedrale.jpg).*
 ### Inquadramento
 
-Noto è uno dei casi più chiari e didatticamente più efficaci per spiegare il barocco siciliano. Dopo il terremoto del 1693, l'antica Noto fu abbandonata e la città venne ricostruita in un nuovo sito, con un impianto urbano ordinato, scenografico e coerente. Per l'esame, Noto è fondamentale perché compare nella prova orale come "Centro storico di Noto" e nella prova pratica come "Città tardo barocche della Val di Noto".
+Noto è uno dei casi più chiari e didatticamente più efficaci per spiegare il barocco siciliano. Dopo il terremoto del 1693, l'antica Noto fu abbandonata e la città venne ricostruita in un nuovo sito, con un impianto urbano ordinato, scenografico e coerente. Per la lettura del sito, Noto è fondamentale perché compare nella scheda come "Centro storico di Noto" e nel percorso narrativo come "Città tardo barocche della Val di Noto".
 
 ### Contesto storico
 
@@ -184,18 +156,18 @@ Dal punto di vista UNESCO, Noto va collegata al sistema delle città tardo baroc
 - Con **Catania**: stesso quadro storico del terremoto del 1693; Catania usa più marcatamente il contrasto tra pietra lavica e calcare.
 - Con **Palermo arabo-normanna**: confronto tra due stagioni siciliane molto diverse: barocco settecentesco e medioevo normanno-mediterraneo.
 
-### Domande probabili
+### Domande guida
 
 1. Perché Noto è un esempio così importante di città barocca?
 2. Che ruolo ha il terremoto del 1693 nella storia di Noto?
 3. Quali differenze ci sono tra Noto e Modica?
 4. Come imposteresti una visita guidata nel centro storico di Noto?
 
-### Risposta modello
+### Sintesi narrativa
 
 Noto è uno dei principali esempi di città tardo barocca della Sicilia sud-orientale. Dopo il terremoto del 1693, l'antica città fu abbandonata e il nuovo centro venne progettato con un impianto ordinato e scenografico. La Cattedrale di San Nicolò, Palazzo Ducezio, le chiese e i palazzi lungo gli assi principali costruiscono un insieme urbano coerente, dominato dalla pietra calcarea dorata e da un forte senso teatrale. Noto è quindi importante non solo per i singoli monumenti, ma perché mostra la città barocca come progetto unitario.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 "Ci troviamo a Noto, uno dei centri più rappresentativi del barocco siciliano e uno dei luoghi fondamentali per comprendere la ricostruzione della Sicilia sud-orientale dopo il terremoto del 1693. La prima cosa da sottolineare è che Noto non è soltanto una città con molti edifici barocchi: è una città pensata in modo unitario, quasi come una grande scenografia urbana.
 
@@ -217,19 +189,17 @@ Usa tre parole chiave: **terremoto**, **ricostruzione**, **scenografia urbana**.
 
 ---
 
-## 88. Palermo arabo-normanna e Cattedrali di Cefalù e Monreale
+## Palermo arabo-normanna e Cattedrali di Cefalù e Monreale
 
 ![Palermo, Cappella Palatina nel Palazzo dei Normanni](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg)
-
-*Immagine: Palermo, Cappella Palatina nel Palazzo dei Normanni. Fonte: Wikimedia Commons, file `Cappella_Palatina_Palazzo_dei_Normanni_(Palermo).jpg`.*
-
+*Palermo, Cappella Palatina nel Palazzo dei Normanni. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg).*
 ### Inquadramento
 
 Questo sito è uno dei capitoli più importanti dell'intera Sicilia perché racconta una stagione unica del Medioevo mediterraneo: il regno normanno di Sicilia, in particolare tra XII e prima metà del XIII secolo, quando culture latina, bizantina e islamica si intrecciarono nella committenza reale e nell'arte monumentale. Il sito UNESCO comprende nove monumenti: due palazzi, tre chiese, una cattedrale e un ponte a Palermo, più le cattedrali di Cefalù e Monreale.
 
 ### Contesto storico
 
-Dopo la conquista normanna dell'isola, la Sicilia divenne un crocevia politico e culturale. I sovrani normanni ereditarono un territorio segnato dalla precedente presenza islamica e dalla lunga tradizione bizantina. Invece di cancellare completamente questi linguaggi, li rielaborarono all'interno di un programma di potere monarchico. Il risultato è un'arte che non si può definire semplicemente "normanna": è arabo-normanna, o meglio ancora mediterranea, perché combina strutture latine, decorazioni islamiche, mosaici bizantini, iscrizioni e soluzioni spaziali ibride.
+Dopo la conquista normanna dell'isola, la Sicilia divenne un crocevia politico e culturale. I sovrani normanni ereditarono un territorio segnato dalla precedente presenza islamica e dalla lunga tradizione bizantina. Invece di cancellare completamente questi linguaggi, li rielaborarono all'interno di un sistema di potere monarchico. Il risultato è un'arte che non si può definire semplicemente "normanna": è arabo-normanna, o meglio ancora mediterranea, perché combina strutture latine, decorazioni islamiche, mosaici bizantini, iscrizioni e soluzioni spaziali ibride.
 
 ### Monumenti e elementi chiave
 
@@ -243,7 +213,7 @@ A **Cefalù**, la cattedrale è legata alla committenza di Ruggero II. Il mosaic
 
 Il valore del sito non è solo estetico: è storico e politico. Palermo arabo-normanna dimostra come la Sicilia normanna sia stata un laboratorio di convivenza, traduzione e rappresentazione del potere. I sovrani normanni usarono maestranze e linguaggi diversi per costruire un'immagine di monarchia universale, capace di parlare a sudditi latini, greci e arabi.
 
-Per l'orale è importante non cadere nell'idea superficiale di "fusione armoniosa" senza contesto. Bisogna dire che si tratta di una sintesi prodotta dalla committenza del potere, non semplicemente da una convivenza spontanea. La cultura arabo-normanna è il risultato di una precisa politica regia.
+Per la spiegazione è importante non cadere nell'idea superficiale di "fusione armoniosa" senza contesto. Bisogna dire che si tratta di una sintesi prodotta dalla committenza del potere, non semplicemente da una convivenza spontanea. La cultura arabo-normanna è il risultato di una precisa politica regia.
 
 ### Collegamenti utili
 
@@ -251,18 +221,18 @@ Per l'orale è importante non cadere nell'idea superficiale di "fusione armonios
 - Con **Cefalù e Monreale**: attenzione a non parlarne come appendici: sono componenti essenziali del sito seriale.
 - Con **Villa Romana del Casale**: altra testimonianza di committenza e lusso, ma in età tardoantica.
 
-### Domande probabili
+### Domande guida
 
 1. Che cosa significa "arabo-normanno"?
 2. Quali monumenti compongono il sito UNESCO?
 3. Perché Cappella Palatina, Cefalù e Monreale sono importanti?
 4. Come spiegheresti a un gruppo il carattere multiculturale del sito?
 
-### Risposta modello
+### Sintesi narrativa
 
 Palermo arabo-normanna e le cattedrali di Cefalù e Monreale costituiscono un sito seriale UNESCO che testimonia la straordinaria stagione del regno normanno di Sicilia. Il valore del sito sta nell'incontro tra tradizioni latine, bizantine e islamiche, rielaborate dalla committenza dei sovrani normanni. La Cappella Palatina, con mosaici bizantini e soffitto ligneo di gusto islamico, è uno dei simboli più chiari di questa sintesi. Le cattedrali di Cefalù e Monreale completano il quadro con cicli musivi e architetture che esprimono il potere regale e la centralità culturale della Sicilia medievale.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 "Il sito Palermo arabo-normanna e le Cattedrali di Cefalù e Monreale è uno dei più importanti esempi di cultura medievale mediterranea. Non si tratta di un singolo monumento, ma di un sito seriale formato da più componenti, distribuite tra Palermo, Cefalù e Monreale, che raccontano la stagione del regno normanno di Sicilia.
 
@@ -280,18 +250,16 @@ In conclusione, questo sito è fondamentale perché rende visibile la complessit
 
 ### Suggerimenti di esposizione
 
-Apri con la formula "sito seriale UNESCO" e spiega subito che non è un unico edificio. Poi usa la Cappella Palatina come esempio centrale. Non dimenticare Cefalù e Monreale: spesso si tende a parlare solo di Palermo, ma il programma cita esplicitamente anche le due cattedrali.
+Apri con la formula "sito seriale UNESCO" e spiega subito che non è un unico edificio. Poi usa la Cappella Palatina come esempio centrale. Non dimenticare Cefalù e Monreale: spesso si tende a parlare solo di Palermo, ma il percorso cita esplicitamente anche le due cattedrali.
 
 **Fonti principali:** UNESCO World Heritage Centre; UNESCO Italia; schede sui monumenti arabo-normanni.
 
 ---
 
-## 89. Parco Archeologico della Neapolis e Necropoli - Siracusa
+## Parco Archeologico della Neapolis e Necropoli - Siracusa
 
 ![Siracusa, Teatro greco nel Parco archeologico della Neapolis](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG)
-
-*Immagine: Siracusa, Teatro greco nel Parco archeologico della Neapolis. Fonte: Wikimedia Commons, file `Siracusa,_neapolis,_teatro_greco_01.JPG`.*
-
+*Siracusa, Teatro greco nel Parco archeologico della Neapolis. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG).*
 ### Inquadramento
 
 Il Parco archeologico della Neapolis è uno dei luoghi essenziali per comprendere Siracusa antica. Il termine *Neapolis* significa "città nuova" e indica uno dei quartieri della Siracusa greca e romana. Nel parco si concentrano alcuni dei monumenti più celebri della città: il Teatro Greco, l'Anfiteatro Romano, l'Ara di Ierone II, le latomie e l'Orecchio di Dionisio.
@@ -300,7 +268,7 @@ Il Parco archeologico della Neapolis è uno dei luoghi essenziali per comprender
 
 Siracusa fu una delle più potenti città greche dell'Occidente mediterraneo. Fondata dai Corinzi nell'VIII secolo a.C., divenne un centro politico, militare e culturale di primo piano. La sua storia attraversa l'età arcaica, classica, ellenistica, romana, bizantina, araba, normanna e moderna. Il parco della Neapolis consente di leggere soprattutto il volto greco e romano della città.
 
-Il sito UNESCO "Siracusa e la Necropoli rupestre di Pantalica" comprende due componenti distinte: Siracusa, con le sue stratificazioni greche, romane, paleocristiane e barocche, e Pantalica, con una vasta necropoli rupestre protostorica. Il programma parla di "Parco Archeologico della Neapolis e Necropoli"; all'orale conviene collegare Neapolis al quadro più ampio Siracusa-Pantalica, ma senza allontanarsi troppo dai monumenti del parco.
+Il sito UNESCO "Siracusa e la Necropoli rupestre di Pantalica" comprende due componenti distinte: Siracusa, con le sue stratificazioni greche, romane, paleocristiane e barocche, e Pantalica, con una vasta necropoli rupestre protostorica. Il percorso parla di "Parco Archeologico della Neapolis e Necropoli"; nella spiegazione conviene collegare Neapolis al quadro più ampio Siracusa-Pantalica, ma senza allontanarsi troppo dai monumenti del parco.
 
 ### Cosa vedere e come raccontarlo
 
@@ -314,7 +282,7 @@ Le **latomie** erano cave di pietra da cui veniva estratto il materiale per cost
 
 Il Parco della Neapolis è importante perché permette di raccontare Siracusa come grande metropoli greca d'Occidente. Non è un sito da spiegare solo in chiave monumentale: è un percorso nella città antica. Teatro, altare, anfiteatro e cave mostrano funzioni diverse: cultura, religione pubblica, spettacolo, edilizia, potere e memoria.
 
-All'orale è utile mostrare la capacità di distinguere le epoche: non tutto è greco, non tutto è romano. La forza del parco sta proprio nella stratificazione.
+Nella spiegazione è utile mostrare la capacità di distinguere le epoche: non tutto è greco, non tutto è romano. La forza del parco sta proprio nella stratificazione.
 
 ### Collegamenti utili
 
@@ -322,14 +290,14 @@ All'orale è utile mostrare la capacità di distinguere le epoche: non tutto è 
 - Con **Museo Paolo Orsi**: molti reperti e contesti della Sicilia orientale trovano lettura museale nel museo siracusano.
 - Con **Villa Romana del Casale**: continuità e trasformazione della Sicilia antica tra età greca, romana e tardoantica.
 
-### Domande probabili
+### Domande guida
 
 1. Quali sono i principali monumenti del Parco della Neapolis?
 2. Come si distingue il teatro greco dall'anfiteatro romano?
 3. Che cosa sono le latomie?
 4. Perché Siracusa è così importante nella storia della Sicilia greca?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Parco archeologico della Neapolis raccoglie alcuni dei monumenti più importanti della Siracusa greca e romana. Il Teatro Greco, scavato nel colle Temenite, testimonia il ruolo culturale della città; l'Ara di Ierone II richiama la monumentalità della Siracusa ellenistica; l'Anfiteatro Romano documenta la fase romana; le latomie e l'Orecchio di Dionisio mostrano il rapporto tra edilizia, lavoro della pietra e leggenda. Il sito è fondamentale perché permette di leggere Siracusa come una delle principali metropoli greche del Mediterraneo occidentale.
 
@@ -341,15 +309,13 @@ Organizza la risposta come una visita: ingresso → Teatro Greco → Ara di Iero
 
 ---
 
-## 90. Parco dell'Etna
+## Parco dell'Etna
 
 ![Monte Etna in attività eruttiva](https://commons.wikimedia.org/wiki/Special:FilePath/Etna_volcano_in_eruption.jpg)
-
-*Immagine: Monte Etna in attività eruttiva. Fonte: Wikimedia Commons, file `Etna_volcano_in_eruption.jpg`.*
-
+*Monte Etna in attività eruttiva. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Etna_volcano_in_eruption.jpg).*
 ### Inquadramento
 
-Il Parco dell'Etna è un sito naturale e paesaggistico di importanza eccezionale. Il Monte Etna è il più alto vulcano attivo d'Europa e uno dei vulcani più attivi al mondo. Dal 2013 il Monte Etna è iscritto nella Lista del Patrimonio Mondiale UNESCO come sito naturale. Per l'esame va presentato non come "una montagna", ma come sistema geologico, ambientale, paesaggistico e culturale.
+Il Parco dell'Etna è un sito naturale e paesaggistico di importanza eccezionale. Il Monte Etna è il più alto vulcano attivo d'Europa e uno dei vulcani più attivi al mondo. Dal 2013 il Monte Etna è iscritto nella Lista del Patrimonio Mondiale UNESCO come sito naturale. Per la lettura del sito va presentato non come "una montagna", ma come sistema geologico, ambientale, paesaggistico e culturale.
 
 ### Contesto geologico
 
@@ -367,7 +333,7 @@ Il paesaggio etneo è anche un paesaggio antropizzato. Le comunità locali hanno
 
 L'Etna è importante perché unisce valore naturale, scientifico e culturale. Dal punto di vista naturale, è un laboratorio vivente di vulcanologia. Dal punto di vista paesaggistico, offre una varietà di ambienti eccezionale. Dal punto di vista culturale, ha modellato insediamenti, economie, miti e identità della Sicilia orientale.
 
-All'orale devi evitare una risposta troppo turistica, tipo "si può fare trekking". Il trekking va citato solo come modalità di fruizione. Il centro della risposta deve essere: dinamica vulcanica, valore UNESCO, parco regionale, paesaggio e rapporto uomo-vulcano.
+Nella spiegazione devi evitare una risposta troppo turistica, tipo "si può fare trekking". Il trekking va citato solo come modalità di fruizione. Il centro della risposta deve essere: dinamica vulcanica, valore UNESCO, parco regionale, paesaggio e rapporto uomo-vulcano.
 
 ### Collegamenti utili
 
@@ -375,18 +341,18 @@ All'orale devi evitare una risposta troppo turistica, tipo "si può fare trekkin
 - Con **Noto/Val di Noto**: terremoti e ricostruzioni mostrano la Sicilia come territorio di rischio naturale e risposta culturale.
 - Con **Vesuvio** in Campania: confronto tra vulcani e paesaggi culturali, ma con storie e contesti diversi.
 
-### Domande probabili
+### Domande guida
 
 1. Perché l'Etna è patrimonio UNESCO?
 2. Che differenza c'è tra sito UNESCO Monte Etna e Parco regionale dell'Etna?
 3. Quali ambienti si incontrano salendo di quota?
 4. Come spiegheresti il rapporto tra popolazione locale e vulcano?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Parco dell'Etna tutela un paesaggio vulcanico unico, dominato dal più alto vulcano attivo d'Europa e da uno dei vulcani più attivi al mondo. Il sito UNESCO Monte Etna comprende l'area sommitale più significativa dal punto di vista geologico e scientifico, mentre il parco regionale include un sistema più ampio di boschi, colate laviche, paesaggi agricoli e centri pedemontani. L'Etna è importante perché è un laboratorio naturale di vulcanologia, ma anche un paesaggio culturale: il vulcano ha modellato l'agricoltura, l'urbanistica, i materiali da costruzione e l'identità della Sicilia orientale.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 "Il Parco dell'Etna è uno dei luoghi più rappresentativi della Sicilia orientale e uno dei paesaggi vulcanici più importanti al mondo. Il Monte Etna non è soltanto una montagna: è un vulcano attivo, un laboratorio naturale e un elemento profondamente legato all'identità culturale del territorio.
 
@@ -402,25 +368,23 @@ Per concludere, l'Etna è importante perché unisce natura, scienza e cultura. �
 
 ### Suggerimenti di esposizione
 
-Usa una struttura in quattro parti: **geologia → UNESCO → ambienti → uomo e vulcano**. Evita una risposta da catalogo naturalistico; l'esame è per guide turistiche, quindi devi sempre tradurre il dato scientifico in racconto del territorio.
+Usa una struttura in quattro parti: **geologia → UNESCO → ambienti → uomo e vulcano**. Evita una risposta da catalogo naturalistico; la lettura del sito è per guide turistiche, quindi devi sempre tradurre il dato scientifico in racconto del territorio.
 
 **Fonti principali:** UNESCO World Heritage Centre; sito UNESCO Monte Etna; Ente Parco dell'Etna; Regione Siciliana.
 
 ---
 
-## 91. Tempio e Teatro di Segesta
+## Tempio e Teatro di Segesta
 
 ![Teatro antico di Segesta](https://commons.wikimedia.org/wiki/Special:FilePath/Segesta-Theater01.JPG)
-
-*Immagine: Teatro antico di Segesta. Fonte: Wikimedia Commons, file `Segesta-Theater01.JPG`.*
-
+*Teatro antico di Segesta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Segesta-Theater01.JPG).*
 ### Inquadramento
 
 Segesta è uno dei siti archeologici più suggestivi della Sicilia occidentale. È legata agli Elimi, popolazione della Sicilia antica, e mostra un rapporto particolarmente interessante tra cultura indigena, modelli greci e paesaggio. I due monumenti principali da preparare sono il tempio dorico e il teatro.
 
 ### Contesto storico
 
-Segesta fu un centro elimo, non una colonia greca in senso stretto. Questo è un punto molto importante per l'esame: il tempio e il teatro usano linguaggi architettonici greci, ma si collocano in un contesto politico e culturale diverso da quello delle poleis greche come Selinunte o Akragas. La città ebbe rapporti conflittuali con Selinunte e fu coinvolta nelle dinamiche geopolitiche della Sicilia occidentale, comprese le relazioni con Atene e Cartagine.
+Segesta fu un centro elimo, non una colonia greca in senso stretto. Questo è un punto molto importante per la lettura del sito: il tempio e il teatro usano linguaggi architettonici greci, ma si collocano in un contesto politico e culturale diverso da quello delle poleis greche come Selinunte o Akragas. La città ebbe rapporti conflittuali con Selinunte e fu coinvolta nelle dinamiche geopolitiche della Sicilia occidentale, comprese le relazioni con Atene e Cartagine.
 
 ### Il tempio
 
@@ -432,7 +396,7 @@ Il **teatro** si trova sul Monte Barbaro e sfrutta la posizione paesaggistica. L
 
 ### Perché è importante
 
-Segesta è importante perché consente di raccontare la Sicilia come spazio di contatto, non come semplice "Grecia fuori dalla Grecia". Qui il modello greco è presente, ma filtrato da una realtà locale. Per l'orale, questo consente un confronto molto efficace con Selinunte e Agrigento: Selinunte è colonia greca e grande città templare; Agrigento è polis greca monumentale; Segesta è centro elimo che adotta forme greche.
+Segesta è importante perché consente di raccontare la Sicilia come spazio di contatto, non come semplice "Grecia fuori dalla Grecia". Qui il modello greco è presente, ma filtrato da una realtà locale. Per la spiegazione, questo consente un confronto molto efficace con Selinunte e Agrigento: Selinunte è colonia greca e grande città templare; Agrigento è polis greca monumentale; Segesta è centro elimo che adotta forme greche.
 
 ### Collegamenti utili
 
@@ -440,14 +404,14 @@ Segesta è importante perché consente di raccontare la Sicilia come spazio di c
 - Con **Valle dei Templi**: due modi diversi di usare il tempio dorico nel paesaggio siciliano.
 - Con **Teatro di Taormina**: entrambi offrono un rapporto forte tra teatro antico e paesaggio.
 
-### Domande probabili
+### Domande guida
 
 1. Segesta era una città greca?
 2. Perché il tempio di Segesta è considerato incompiuto?
 3. Qual è il rapporto tra teatro e paesaggio?
 4. Come confronteresti Segesta con Selinunte?
 
-### Risposta modello
+### Sintesi narrativa
 
 Segesta fu un importante centro elimo della Sicilia occidentale, noto soprattutto per il tempio dorico e il teatro. Il tempio, pur usando forme dell'architettura greca, appartiene a un contesto non coloniale greco in senso stretto e appare probabilmente incompiuto. Il teatro, collocato sul Monte Barbaro, sfrutta in modo spettacolare il paesaggio circostante. Segesta è quindi fondamentale per comprendere la Sicilia antica come spazio di contatto tra culture locali, modelli greci e dinamiche mediterranee.
 
@@ -459,12 +423,10 @@ La parola chiave è **Elimi**. Usala subito: ti permette di distinguere Segesta 
 
 ---
 
-## 92. Parco Archeologico di Selinunte
+## Parco Archeologico di Selinunte
 
 ![Selinunte, Tempio E sulla collina orientale](https://commons.wikimedia.org/wiki/Special:FilePath/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG)
-
-*Immagine: Selinunte, Tempio E sulla collina orientale. Fonte: Wikimedia Commons, file `Selinunte_-_Templi_Orientali_(Temple_E)_18.JPG`.*
-
+*Selinunte, Tempio E sulla collina orientale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG).*
 ### Inquadramento
 
 Selinunte è uno dei più grandi e importanti siti archeologici del Mediterraneo. Fondata da coloni greci, fu una città monumentale della Sicilia occidentale, in posizione strategica tra mondo greco e mondo punico. Il parco conserva templi, acropoli, santuari, fortificazioni e aree urbane, offrendo una lettura ampia della polis antica.
@@ -477,7 +439,7 @@ Selinunte fu fondata nel VII secolo a.C. da coloni provenienti da Megara Hyblaea
 
 Il sito si articola in diverse aree. La **collina orientale** ospita i grandi templi, tra cui il Tempio E, ricostruito in parte e generalmente associato a Hera. Il Tempio G, di dimensioni imponenti, testimonia l'ambizione monumentale della città. L'**Acropoli** conserva resti di templi, abitazioni, fortificazioni e sistemi urbani. L'area della **Gaggera** comprende santuari extraurbani, legati a culti importanti come quello di Demetra Malophoros.
 
-Le **Cave di Cusa**, collegate al sistema di approvvigionamento della pietra, sono molto utili come riferimento: mostrano il processo di estrazione dei rocchi di colonna e permettono di spiegare come venivano costruiti i templi. Anche se il programma cita Selinunte e non esplicitamente Cave di Cusa, il collegamento è pertinente perché fa parte del parco archeologico.
+Le **Cave di Cusa**, collegate al sistema di approvvigionamento della pietra, sono molto utili come riferimento: mostrano il processo di estrazione dei rocchi di colonna e permettono di spiegare come venivano costruiti i templi. Anche se il percorso cita Selinunte e non esplicitamente Cave di Cusa, il collegamento è pertinente perché fa parte del parco archeologico.
 
 ### Perché è importante
 
@@ -489,14 +451,14 @@ Selinunte è importante perché permette di leggere una città greca nella sua c
 - Con **Valle dei Templi**: grande architettura templare dorica in Sicilia.
 - Con **Paolo Orsi**: il museo di Siracusa offre il quadro archeologico della Sicilia orientale, utile per confrontare aree diverse dell'isola.
 
-### Domande probabili
+### Domande guida
 
 1. Quali sono le principali aree del Parco di Selinunte?
 2. Perché Selinunte è importante nella Sicilia greca?
 3. Che rapporto c'è tra Selinunte e Segesta?
 4. Come spiegheresti il ruolo dei templi nel paesaggio urbano?
 
-### Risposta modello
+### Sintesi narrativa
 
 Selinunte fu una grande colonia greca della Sicilia occidentale, fondata nel VII secolo a.C. Il parco archeologico conserva un sistema molto esteso di templi, acropoli, santuari, fortificazioni e aree urbane. La collina orientale, con i grandi templi, e l'acropoli mostrano la monumentalità e la complessità della polis. Il sito è fondamentale perché consente di leggere non solo l'architettura templare, ma l'intero sistema urbano e territoriale di una città greca di frontiera, in rapporto con Segesta e con il mondo punico.
 
@@ -508,15 +470,13 @@ Non limitarti al Tempio E. Cita almeno tre aree: collina orientale, acropoli, Ga
 
 ---
 
-## 93. Teatro Greco di Taormina
+## Teatro Greco di Taormina
 
 ![Teatro antico di Taormina](https://commons.wikimedia.org/wiki/Special:FilePath/Taormina_TheatreAntique_01.jpg)
-
-*Immagine: Teatro antico di Taormina. Fonte: Wikimedia Commons, file `Taormina_TheatreAntique_01.jpg`.*
-
+*Teatro antico di Taormina. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Taormina_TheatreAntique_01.jpg).*
 ### Inquadramento
 
-Il Teatro antico di Taormina è uno dei monumenti più celebri della Sicilia, noto per la sua architettura e per il rapporto spettacolare con il paesaggio: dal teatro si apre la vista verso il mare e l'Etna. Per l'orale va presentato come teatro greco-romano, non semplicemente "greco", perché il monumento visibile conserva importanti trasformazioni di età romana.
+Il Teatro antico di Taormina è uno dei monumenti più celebri della Sicilia, noto per la sua architettura e per il rapporto spettacolare con il paesaggio: dal teatro si apre la vista verso il mare e l'Etna. Per la spiegazione va presentato come teatro greco-romano, non semplicemente "greco", perché il monumento visibile conserva importanti trasformazioni di età romana.
 
 ### Contesto storico
 
@@ -538,14 +498,14 @@ Il Teatro di Taormina è importante per tre ragioni: la stratificazione greco-ro
 - Con **Segesta**: altro teatro in forte relazione con il paesaggio.
 - Con **Etna**: il vulcano diventa fondale visivo del monumento.
 
-### Domande probabili
+### Domande guida
 
 1. Perché il Teatro di Taormina è definibile greco-romano?
 2. Quali sono le parti principali del teatro antico?
 3. Che ruolo ha il paesaggio nella percezione del monumento?
 4. Come lo confronteresti con il Teatro Greco di Siracusa?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Teatro antico di Taormina è uno dei più celebri monumenti della Sicilia. Nato in ambito greco e trasformato in età romana, presenta cavea, orchestra e scena monumentale. La sua particolarità è il rapporto con il paesaggio: la scena e le gradinate incorniciano la vista verso il mare e l'Etna, creando un'esperienza visiva unica. Il teatro è importante perché mostra la continuità dell'uso spettacolare dall'antichità a oggi e permette di leggere la stratificazione greco-romana del sito.
 
@@ -557,12 +517,10 @@ Non dire "teatro greco" senza precisare la fase romana. Una formula efficace è:
 
 ---
 
-## 94. Valle dei Templi - Agrigento
+## Valle dei Templi - Agrigento
 
 ![Agrigento, Tempio della Concordia nella Valle dei Templi](https://commons.wikimedia.org/wiki/Special:FilePath/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg)
-
-*Immagine: Agrigento, Tempio della Concordia nella Valle dei Templi. Fonte: Wikimedia Commons, file `Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg`.*
-
+*Agrigento, Tempio della Concordia nella Valle dei Templi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg).*
 ### Inquadramento
 
 La Valle dei Templi è il cuore dell'Area archeologica di Agrigento, patrimonio UNESCO dal 1997. Il nome tradizionale "Valle" è in parte fuorviante, perché i templi sorgono su un crinale roccioso a sud dell'antica città. Il sito conserva alcuni dei più importanti templi dorici del Mediterraneo e permette di raccontare la grandezza di Akragas, colonia greca fondata nel VI secolo a.C.
@@ -589,18 +547,18 @@ La Valle dei Templi è importante perché mostra la dimensione monumentale della
 - Con **Segesta**: confronto tra polis greca e centro elimo ellenizzato.
 - Con **Villa Romana del Casale**: dalla città greca monumentale alla villa aristocratica tardoantica.
 
-### Domande probabili
+### Domande guida
 
 1. Perché la Valle dei Templi è patrimonio UNESCO?
 2. Quali sono i principali templi da citare?
 3. Perché il Tempio della Concordia è così ben conservato?
 4. Che rapporto c'è tra templi, polis e identità civica?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Valle dei Templi è l'area archeologica monumentale dell'antica Akragas, colonia greca fondata nel VI secolo a.C. Il sito conserva alcuni dei più importanti templi dorici del Mediterraneo, tra cui il Tempio della Concordia, il Tempio di Hera, il Tempio di Eracle e il grande Tempio di Zeus Olimpio. La sua importanza deriva dalla capacità di mostrare la ricchezza e l'identità civica della polis greca attraverso l'architettura sacra. Il paesaggio archeologico, con i templi disposti sul crinale, rende il sito uno dei simboli più riconoscibili della Sicilia antica.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 "La Valle dei Templi è uno dei siti archeologici più importanti della Sicilia e del Mediterraneo. Si trova ad Agrigento e corrisponde all'area monumentale dell'antica Akragas, colonia greca fondata nel VI secolo a.C. Il nome 'Valle dei Templi' è tradizionale ma un po' improprio, perché i principali templi sorgono su un crinale roccioso, in posizione dominante rispetto al paesaggio circostante.
 
@@ -624,12 +582,10 @@ La sequenza migliore è: **Akragas → crinale sacro → Tempio della Concordia 
 
 ---
 
-## 95. Villa Romana del Casale - Piazza Armerina
+## Villa Romana del Casale - Piazza Armerina
 
 ![Villa Romana del Casale, mosaici pavimentali](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg)
-
-*Immagine: Villa Romana del Casale, mosaici pavimentali. Fonte: Wikimedia Commons, file `Mosaic_in_Villa_Romana_del_Casale,_by_Jerzy_Strzelecki,_01.jpg`.*
-
+*Villa Romana del Casale, mosaici pavimentali. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg).*
 ### Inquadramento
 
 La Villa Romana del Casale, presso Piazza Armerina, è uno dei massimi esempi di villa tardoantica nel mondo romano ed è patrimonio UNESCO dal 1997. È celebre soprattutto per l'eccezionale ricchezza dei mosaici pavimentali, che decorano gran parte degli ambienti e costituiscono una delle più importanti testimonianze musive conservate *in situ*.
@@ -646,9 +602,9 @@ Il cuore della visita è il sistema dei **mosaici**. Tra i più famosi si ricord
 
 ### Perché è importante
 
-La villa è importante perché conserva in modo straordinario un programma decorativo tardoantico. I mosaici permettono di ricostruire immaginario, ricchezza e aspirazioni di una classe dirigente. Inoltre mostrano la vitalità della Sicilia in età tardoantica, spesso meno nota rispetto alla Sicilia greca.
+La villa è importante perché conserva in modo straordinario un ciclo decorativo tardoantico. I mosaici permettono di ricostruire immaginario, ricchezza e aspirazioni di una classe dirigente. Inoltre mostrano la vitalità della Sicilia in età tardoantica, spesso meno nota rispetto alla Sicilia greca.
 
-Per l'orale è fondamentale non ridurre la villa alle "ragazze in bikini". Quel mosaico è famoso e va citato, ma deve essere inserito in un discorso più ampio: la villa come residenza aristocratica, la grande proprietà rurale, la decorazione musiva, il ruolo della Sicilia nell'economia romana.
+Per la spiegazione è fondamentale non ridurre la villa alle "ragazze in bikini". Quel mosaico è famoso e va citato, ma deve essere inserito in un discorso più ampio: la villa come residenza aristocratica, la grande proprietà rurale, la decorazione musiva, il ruolo della Sicilia nell'economia romana.
 
 ### Collegamenti utili
 
@@ -656,18 +612,18 @@ Per l'orale è fondamentale non ridurre la villa alle "ragazze in bikini". Quel 
 - Con **Museo Paolo Orsi**: continuità della storia archeologica siciliana dalla preistoria all'età classica e romana.
 - Con **Palermo arabo-normanna**: due esempi di committenza d'élite, ma in contesti storici diversi.
 
-### Domande probabili
+### Domande guida
 
 1. Perché la Villa Romana del Casale è patrimonio UNESCO?
 2. Che cosa rappresentano i mosaici della Grande Caccia?
 3. Perché la villa è importante per l'età tardoantica?
 4. Come eviteresti una spiegazione troppo turistica del mosaico delle "fanciulle in bikini"?
 
-### Risposta modello
+### Sintesi narrativa
 
-La Villa Romana del Casale è una residenza tardoantica del IV secolo d.C., situata presso Piazza Armerina. È celebre per l'eccezionale complesso di mosaici pavimentali conservati in situ, tra cui la Grande Caccia e le cosiddette fanciulle in bikini. La villa era probabilmente legata a un grande proprietario terriero o a un personaggio di altissimo rango e rappresenta il lusso dell'aristocrazia romana in Sicilia. Il suo valore sta nel rapporto tra architettura residenziale, economia rurale e programma decorativo musivo.
+La Villa Romana del Casale è una residenza tardoantica del IV secolo d.C., situata presso Piazza Armerina. È celebre per l'eccezionale complesso di mosaici pavimentali conservati in situ, tra cui la Grande Caccia e le cosiddette fanciulle in bikini. La villa era probabilmente legata a un grande proprietario terriero o a un personaggio di altissimo rango e rappresenta il lusso dell'aristocrazia romana in Sicilia. Il suo valore sta nel rapporto tra architettura residenziale, economia rurale e ciclo decorativo musivo.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 "La Villa Romana del Casale si trova presso Piazza Armerina, in provincia di Enna, ed è uno dei più importanti monumenti tardoantichi del Mediterraneo. È iscritta nella Lista del Patrimonio Mondiale UNESCO ed è famosa soprattutto per l'eccezionale complesso di mosaici pavimentali conservati in situ.
 
@@ -685,25 +641,23 @@ In conclusione, la Villa Romana del Casale è un monumento fondamentale perché 
 
 ### Suggerimenti di esposizione
 
-Parti da "villa tardoantica", non da "mosaici". Poi presenta i mosaici come conseguenza del lusso aristocratico. La frase da evitare è: "è famosa per le ragazze in bikini" detta come informazione principale. La frase efficace è: "il mosaico più noto va inserito in un programma decorativo molto più ampio, legato alla rappresentazione dello status del proprietario".
+Parti da "villa tardoantica", non da "mosaici". Poi presenta i mosaici come conseguenza del lusso aristocratico. La frase da evitare è: "è famosa per le ragazze in bikini" detta come informazione principale. La frase efficace è: "il mosaico più noto va inserito in un ciclo decorativo molto più ampio, legato alla rappresentazione dello status del proprietario".
 
 **Fonti principali:** UNESCO World Heritage Centre; sito ufficiale Villa Romana del Casale; schede regionali del sito.
 
 ---
 
-## 96. Museo Archeologico Regionale "Paolo Orsi" - Siracusa
+## Museo Archeologico Regionale "Paolo Orsi" - Siracusa
 
 ![Siracusa, Museo Archeologico Regionale Paolo Orsi](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg)
-
-*Immagine: Siracusa, Museo Archeologico Regionale Paolo Orsi. Fonte: Wikimedia Commons, file `Siracusa,_Museo_Archeologico_Regionale_Paolo_Orsi.jpg`.*
-
+*Siracusa, Museo Archeologico Regionale Paolo Orsi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg).*
 ### Inquadramento
 
-Il Museo Archeologico Regionale "Paolo Orsi" di Siracusa è uno dei principali musei archeologici italiani per la conoscenza della Sicilia orientale. Nella traccia d'esame sono indicate in particolare la **Sezione Preistorica** e la **Sezione Greca**. La preparazione deve quindi concentrarsi su questi due nuclei, evitando di disperdersi in tutto il museo.
+Il Museo Archeologico Regionale "Paolo Orsi" di Siracusa è uno dei principali musei archeologici italiani per la conoscenza della Sicilia orientale. Nella voce di riferimento sono indicate in particolare la **Sezione Preistorica** e la **Sezione Greca**. La lettura deve quindi concentrarsi su questi due nuclei, evitando di disperdersi in tutto il museo.
 
 ### Paolo Orsi e il ruolo del museo
 
-Paolo Orsi fu uno dei più importanti archeologi attivi in Sicilia e nell'Italia meridionale tra XIX e XX secolo. Il museo che porta il suo nome raccoglie materiali provenienti da Siracusa e da numerosi siti della Sicilia orientale. All'orale è utile spiegare che il museo non è solo un contenitore di oggetti, ma uno strumento per leggere la storia del territorio: dalla preistoria alla colonizzazione greca, dalla formazione dei centri indigeni ai rapporti con le poleis.
+Paolo Orsi fu uno dei più importanti archeologi attivi in Sicilia e nell'Italia meridionale tra XIX e XX secolo. Il museo che porta il suo nome raccoglie materiali provenienti da Siracusa e da numerosi siti della Sicilia orientale. Nella spiegazione è utile spiegare che il museo non è solo un contenitore di oggetti, ma uno strumento per leggere la storia del territorio: dalla preistoria alla colonizzazione greca, dalla formazione dei centri indigeni ai rapporti con le poleis.
 
 ### Sezione Preistorica
 
@@ -726,7 +680,7 @@ Tra i temi da preparare ci sono:
 
 ### Perché è importante
 
-Il Paolo Orsi è importante perché consente di passare dalla visita del sito archeologico alla comprensione storica degli oggetti. In un esame orale per guida turistica, il museo va raccontato come parte di un sistema: Siracusa antica, Neapolis, Pantalica, colonie greche, mondo indigeno, Sicilia orientale.
+Il Paolo Orsi è importante perché consente di passare dalla visita del sito archeologico alla comprensione storica degli oggetti. In un percorso di lettura per guida turistica, il museo va raccontato come parte di un sistema: Siracusa antica, Neapolis, Pantalica, colonie greche, mondo indigeno, Sicilia orientale.
 
 ### Collegamenti utili
 
@@ -734,16 +688,16 @@ Il Paolo Orsi è importante perché consente di passare dalla visita del sito ar
 - Con **Segesta, Selinunte, Agrigento**: confronto tra Sicilia orientale e occidentale.
 - Con **Noto/Modica/Catania**: nella stessa area geografica si sovrappongono preistoria, Grecia, barocco e paesaggio moderno.
 
-### Domande probabili
+### Domande guida
 
-1. Quali sezioni del Museo Paolo Orsi sono richieste dal programma?
+1. Quali sezioni del Museo Paolo Orsi sono richieste dalil percorso?
 2. Perché la sezione preistorica è importante?
 3. Che rapporto c'è tra museo e Parco della Neapolis?
 4. Come spiegheresti il museo a un visitatore non specialista?
 
-### Risposta modello
+### Sintesi narrativa
 
-Il Museo Archeologico Regionale Paolo Orsi di Siracusa è uno dei principali musei archeologici per la conoscenza della Sicilia orientale. Per il programma vanno preparate soprattutto la Sezione Preistorica e la Sezione Greca. La prima mostra le fasi più antiche del popolamento e delle culture indigene dell'isola; la seconda permette di leggere la colonizzazione greca, Siracusa e le altre colonie della Sicilia orientale attraverso reperti, ceramiche, sculture e materiali votivi. Il museo è fondamentale perché integra la visita ai siti archeologici con la lettura degli oggetti e dei contesti.
+Il Museo Archeologico Regionale Paolo Orsi di Siracusa è uno dei principali musei archeologici per la conoscenza della Sicilia orientale. Per il percorso sono centrali soprattutto la Sezione Preistorica e la Sezione Greca. La prima mostra le fasi più antiche del popolamento e delle culture indigene dell'isola; la seconda permette di leggere la colonizzazione greca, Siracusa e le altre colonie della Sicilia orientale attraverso reperti, ceramiche, sculture e materiali votivi. Il museo è fondamentale perché integra la visita ai siti archeologici con la lettura degli oggetti e dei contesti.
 
 ### Suggerimenti di esposizione
 
@@ -753,8 +707,8 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 
 ---
 
-## Ripasso finale
-### Domande trasversali
+## Sintesi finale
+### Domande guida
 1. Confronta Noto e Modica come esempi di barocco post-1693.
 2. Spiega il significato di "arabo-normanno" usando almeno tre monumenti.
 3. Confronta Segesta, Selinunte e Agrigento.
@@ -763,7 +717,7 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 6. Perché la Villa Romana del Casale è importante per la Sicilia tardoantica?
 7. Come collegheresti il Museo Paolo Orsi alla visita del Parco della Neapolis?
 
-### Risposte-lampo da 30 secondi
+### Sintesi narrativa
 - **Noto:** città ricostruita dopo il terremoto del 1693; modello di urbanistica tardo barocca scenografica.
 - **Modica:** barocco adattato a un paesaggio verticale e complesso; confronto efficace con Noto.
 - **Palermo arabo-normanna:** sintesi di culture latina, bizantina e islamica sotto committenza normanna.
@@ -773,9 +727,9 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 - **Selinunte:** grande polis greca della Sicilia occidentale; templi, acropoli, santuari e territorio.
 - **Taormina:** teatro greco-romano con straordinario rapporto scenografico con mare ed Etna.
 - **Valle dei Templi:** area monumentale di Akragas; templi dorici come espressione di identità civica.
-- **Villa del Casale:** villa tardoantica aristocratica; mosaici come programma di status e cultura imperiale.
+- **Villa del Casale:** villa tardoantica aristocratica; mosaici come segno di status e cultura imperiale.
 - **Paolo Orsi:** museo chiave per Sicilia orientale, preistoria e colonizzazione greca.
-### Mini-simulazione per la Sicilia
+### Domande guida
 
 ### Errori da evitare
 

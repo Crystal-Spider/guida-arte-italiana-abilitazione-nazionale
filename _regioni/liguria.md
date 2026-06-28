@@ -4,49 +4,22 @@ layout: default
 nav_order: 8
 ---
 
-# Guida per la prova orale - Liguria
+# Liguria
 
 ## Perimetro e orientamento
-**Esame guida turistica nazionale italiana 2026**
-**Regione:** Liguria
-**Perimetro:** prova orale, con richiamo alla prova pratica solo quando il sito compare anche nella Sezione III del programma.
-**Versione:** 28 giugno 2026
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Liguria. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-> Nota metodologica: come richiesto, questa versione non contiene una scheda sintetica generale della regione. Le schede sono organizzate direttamente per sito/museo. Per il sito presente anche nella prova pratica è aggiunto un esempio di presentazione orale da circa 5 minuti.
-
----
-
-
-#### Sezione I - Siti della prova orale
-
-| ID | Sito | Località | Provincia | Tipo di preparazione |
+| N. | Voce | Tipologia | Area | Note |
 |---:|---|---|---|---|
-| 48 | Cattedrale di San Lorenzo | Genova | Genova | Orale |
-| 49 | Parco delle Cinque Terre | Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso | La Spezia | Orale |
-| 50 | Centro storico di Genova e Strade Nuove dei Rolli | Genova | Genova | Orale + collegamento pratico |
+| 1 | Cattedrale di San Lorenzo - Genova | Sito storico-artistico | Genova | Scheda principale |
+| 2 | Parco delle Cinque Terre - Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso | Paesaggio o area archeologica | Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso | Scheda principale |
+| 3 | Centro storico di Genova e Strade Nuove dei Rolli | Sito o tema | Vedi scheda | Scheda principale |
+| 4 | Museo di Palazzo Reale - Genova | Museo | Genova | Scheda principale |
 
-#### Sezione II - Museo della prova orale
-
-| ID | Museo | Sezioni richieste | Città |
-|---:|---|---|---|
-| 13 | Museo di Palazzo Reale | Galleria degli Specchi; Sala del Trono; Sala delle Battaglie | Genova |
-
-#### Sezione III - Sito collegato alla prova pratica
-
-| ID | Sito | Località | Provincia | Collegamento con la prova orale |
-|---:|---|---|---|---|
-| 16 | Strade Nuove e Palazzi dei Rolli | Genova | Genova | Corrisponde alla componente "Strade Nuove dei Rolli" del sito orale "Centro storico di Genova e Strade Nuove dei Rolli". |
-
-**Conseguenza per lo studio:** la presentazione orale da 5 minuti è inserita solo nella scheda "Centro storico di Genova e Strade Nuove dei Rolli", perché è l'unica voce ligure che compare anche nella Sezione III.
-
----
-
-## 1. Cattedrale di San Lorenzo - Genova
+## Cattedrale di San Lorenzo - Genova
 
 ![Cattedrale di San Lorenzo, Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20san%20lorenzo%20genova.jpg)
-
-*Immagine: facciata della Cattedrale di San Lorenzo, Genova. Fonte: Wikimedia Commons, file "Cattedrale san lorenzo genova.jpg", autore Racchets, licenza CC BY-SA 3.0.*
-
+*Cattedrale di San Lorenzo, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20san%20lorenzo%20genova.jpg).*
 ### Dati essenziali
 
 | Voce | Contenuto da ricordare |
@@ -62,7 +35,7 @@ nav_order: 8
 
 La Cattedrale di San Lorenzo è uno dei monumenti più rappresentativi di Genova perché concentra in un solo edificio tre livelli di lettura: religioso, urbano e politico. È anzitutto la cattedrale della città, quindi il centro della diocesi e della vita liturgica genovese. È poi un edificio profondamente integrato nel centro storico, lungo l'asse che collega l'area di piazza De Ferrari, Palazzo Ducale e i caruggi con il porto. Infine, è anche un monumento civico: le sue cappelle, il suo tesoro e il culto di San Giovanni Battista parlano della Genova comunale, crociata, mercantile e marinara.
 
-Per l'esame orale è utile non limitarsi a descrivere la facciata. La forza della Cattedrale sta nella sua capacità di raccontare la storia di Genova come città medievale mediterranea: la crescita dopo l'anno Mille, la ricchezza derivante dai traffici e dalle imprese militari, l'ascesa religiosa della sede genovese, la funzione simbolica delle reliquie e il rapporto costante tra devozione, prestigio e autorappresentazione cittadina.
+Per la lettura del sito è utile non limitarsi a descrivere la facciata. La forza della Cattedrale sta nella sua capacità di raccontare la storia di Genova come città medievale mediterranea: la crescita dopo l'anno Mille, la ricchezza derivante dai traffici e dalle imprese militari, l'ascesa religiosa della sede genovese, la funzione simbolica delle reliquie e il rapporto costante tra devozione, prestigio e autorappresentazione cittadina.
 
 ### Contesto storico
 
@@ -74,21 +47,21 @@ Dopo l'incendio del 1296, una parte dell'edificio viene restaurata e una parte r
 
 Tra XIV e XV secolo la cattedrale si arricchisce di cappelle e altari. In questa fase diventa particolarmente importante la Cappella di San Giovanni Battista, legata alla custodia delle ceneri del patrono della città. Nel Cinquecento interviene anche Galeazzo Alessi, figura centrale dell'architettura manierista genovese, che ripensa alcune parti dell'edificio, in particolare coperture, pavimento, cupola e area absidale. Il completamento barocco e i restauri ottocenteschi aggiungono ulteriori livelli alla lettura dell'edificio.
 
-### Architettura esterna: come descriverla all'orale
+### Architettura esterna: come descriverla nella spiegazione
 
-L'elemento più immediato è la facciata, caratterizzata dall'alternanza di marmi chiari e scuri. Questo motivo a bande bianche e nere è tipico di molta architettura medievale ligure e toscana e ha un forte valore visivo: comunica ricchezza, ordine e solennità. Non va però interpretato solo come decorazione: per un esame orale è utile ricordare che il rivestimento marmoreo diventa una vera "pelle urbana", capace di distinguere l'edificio nel tessuto denso e verticale del centro storico.
+L'elemento più immediato è la facciata, caratterizzata dall'alternanza di marmi chiari e scuri. Questo motivo a bande bianche e nere è tipico di molta architettura medievale ligure e toscana e ha un forte valore visivo: comunica ricchezza, ordine e solennità. Non va però interpretato solo come decorazione: per un percorso di lettura è utile ricordare che il rivestimento marmoreo diventa una vera "pelle urbana", capace di distinguere l'edificio nel tessuto denso e verticale del centro storico.
 
 La facciata è asimmetrica, perché le due torri non hanno avuto uno sviluppo identico. Questo è un dettaglio utile per mostrare attenzione: la Cattedrale non va vista come un edificio progettato e completato in un unico momento, ma come un organismo architettonico costruito per fasi. Il grande rosone, i portali strombati, le sculture e i leoni all'ingresso contribuiscono a creare un linguaggio gotico fortemente scenografico.
 
-I portali meritano una menzione perché sono il punto in cui l'architettura incontra la narrazione figurativa. In una visita guidata, o in una risposta orale ben costruita, si può spiegare che il portale medievale non è solo ingresso fisico, ma soglia simbolica: separa lo spazio urbano da quello sacro e introduce il fedele a un percorso di lettura morale e religiosa.
+I portali meritano una menzione perché sono il punto in cui l'architettura incontra la narrazione figurativa. In una visita guidata, o in una risposta ben costruita, si può spiegare che il portale medievale non è solo ingresso fisico, ma soglia simbolica: separa lo spazio urbano da quello sacro e introduce il fedele a un percorso di lettura morale e religiosa.
 
 ### Cosa vedere e come raccontarlo
 
 L'interno della cattedrale conserva una struttura complessa, con navate e spazi laterali che testimoniano le diverse trasformazioni. L'elemento più importante da citare è la Cappella di San Giovanni Battista, nella navata sinistra. Il Battista è patrono di Genova e il suo culto assume un valore civico: la presenza delle reliquie non è solo un dato religioso, ma anche un segno dell'identità e del prestigio della città.
 
-La cappella è quindi un punto chiave per collegare arte, devozione e politica urbana. Le reliquie di un santo patrono, in una città medievale, rafforzavano il senso di protezione divina e costituivano un motivo di orgoglio collettivo. In sede d'esame, è efficace formulare così il concetto: "San Lorenzo è il luogo in cui Genova racconta se stessa come comunità cristiana, come città autonoma e come potenza mediterranea".
+La cappella è quindi un punto chiave per collegare arte, devozione e politica urbana. Le reliquie di un santo patrono, in una città medievale, rafforzavano il senso di protezione divina e costituivano un motivo di orgoglio collettivo. In sede di riferimento, è efficace formulare così il concetto: "San Lorenzo è il luogo in cui Genova racconta se stessa come comunità cristiana, come città autonoma e come potenza mediterranea".
 
-Va ricordato anche il Museo del Tesoro, accessibile dalla cattedrale. Il pezzo più celebre è il Sacro Catino, manufatto in vetro verde a lungo ritenuto di smeraldo e legato dalla tradizione alla memoria dell'Ultima Cena. Al di là della leggenda, il Sacro Catino è importante perché testimonia il rapporto tra Genova, Oriente mediterraneo, Crociate, reliquie e costruzione del prestigio cittadino. In un'esposizione orale conviene presentarlo come un oggetto "di confine" tra storia, leggenda, devozione e propaganda civica.
+Va ricordato anche il Museo del Tesoro, accessibile dalla cattedrale. Il pezzo più celebre è il Sacro Catino, manufatto in vetro verde a lungo ritenuto di smeraldo e legato dalla tradizione alla memoria dell'Ultima Cena. Al di là della leggenda, il Sacro Catino è importante perché testimonia il rapporto tra Genova, Oriente mediterraneo, Crociate, reliquie e costruzione del prestigio cittadino. In un'esposizione conviene presentarlo come un oggetto "di confine" tra storia, leggenda, devozione e propaganda civica.
 
 ### Suggerimenti di esposizione
 
@@ -102,7 +75,7 @@ Una risposta ordinata sulla Cattedrale può seguire questa sequenza:
 6. **Tesoro:** "Il Museo del Tesoro conserva oggetti fondamentali per la memoria civica e religiosa, tra cui il Sacro Catino".
 7. **Chiusura:** "La Cattedrale è quindi un monumento che unisce arte, fede e identità politica della Genova medievale e moderna".
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché la Cattedrale di San Lorenzo è così importante per Genova?
 **Risposta modello:** È importante perché è il principale edificio religioso della città e uno dei monumenti più rappresentativi del centro storico. La sua architettura conserva fasi romaniche, gotiche e successive, mentre le sue cappelle e il Museo del Tesoro raccontano il rapporto tra devozione, potere civico e identità urbana. In particolare, la Cappella di San Giovanni Battista e il Sacro Catino collegano la cattedrale alla storia religiosa e mediterranea di Genova.
@@ -122,12 +95,10 @@ Una risposta ordinata sulla Cattedrale può seguire questa sequenza:
 
 ---
 
-## 2. Parco delle Cinque Terre - Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso
+## Parco delle Cinque Terre - Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso
 
 ![Vernazza, Cinque Terre](https://commons.wikimedia.org/wiki/Special:FilePath/Vernazza%20and%20the%20sea%2C%20Cinque%20Terre%2C%20Italy.jpg)
-
-*Immagine: Vernazza e il paesaggio costiero delle Cinque Terre. Fonte: Wikimedia Commons, file "Vernazza and the sea, Cinque Terre, Italy.jpg", autore MedCruiseGuide.com, licenza CC BY 2.0.*
-
+*Vernazza, Cinque Terre. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Vernazza%20and%20the%20sea%2C%20Cinque%20Terre%2C%20Italy.jpg).*
 ### Dati essenziali
 
 | Voce | Contenuto da ricordare |
@@ -138,15 +109,15 @@ Una risposta ordinata sulla Cattedrale può seguire questa sequenza:
 | Riconoscimento | Area inserita nel patrimonio UNESCO insieme a Portovenere e alle isole Palmaria, Tino e Tinetto |
 | Parole chiave | Paesaggio culturale, terrazzamenti, muri a secco, viticoltura eroica, borghi marinari, sentieri, rapporto uomo-natura, turismo sostenibile |
 | Collegamenti | UNESCO, paesaggio antropizzato, tutela ambientale, fragilità idrogeologica, turismo di massa, identità ligure costiera |
-| Errore da evitare | Descriverle solo come "cinque paesini belli": il punto d'esame è il rapporto storico tra insediamento umano, coltivazione terrazzata, mare, sentieri e tutela del paesaggio. |
+| Errore da evitare | Descriverle solo come "cinque paesini belli": il punto di riferimento è il rapporto storico tra insediamento umano, coltivazione terrazzata, mare, sentieri e tutela del paesaggio. |
 
 ### Perché sono importanti
 
 Le Cinque Terre sono uno dei casi più chiari, in Italia, di paesaggio culturale: non si tratta di un ambiente naturale "intatto", ma di un territorio modellato per secoli dall'uomo. La spettacolarità del luogo deriva proprio dall'incontro tra costa rocciosa, mare, borghi compatti, coltivazioni terrazzate, muretti a secco e percorsi storici di collegamento.
 
-Per l'esame orale è essenziale usare il lessico corretto: **paesaggio culturale** significa che il valore del sito nasce dall'interazione tra comunità umane e ambiente. Le Cinque Terre non sono solo un bene naturalistico, ma un sistema territoriale in cui agricoltura, architettura, mobilità pedonale, vita marinara e percezione panoramica si rafforzano a vicenda.
+Per la lettura del sito è essenziale usare il lessico corretto: **paesaggio culturale** significa che il valore del sito nasce dall'interazione tra comunità umane e ambiente. Le Cinque Terre non sono solo un bene naturalistico, ma un sistema territoriale in cui agricoltura, architettura, mobilità pedonale, vita marinara e percezione panoramica si rafforzano a vicenda.
 
-Il Parco Nazionale delle Cinque Terre e l'Area Marina Protetta rappresentano strumenti di tutela di questo equilibrio fragile. Il turismo contemporaneo ha reso i borghi celebri a livello internazionale, ma ha anche accentuato pressioni su sentieri, coste, servizi, residenza e manutenzione del paesaggio agricolo. Una buona risposta d'esame deve quindi tenere insieme bellezza, storia e gestione sostenibile.
+Il Parco Nazionale delle Cinque Terre e l'Area Marina Protetta rappresentano strumenti di tutela di questo equilibrio fragile. Il turismo contemporaneo ha reso i borghi celebri a livello internazionale, ma ha anche accentuato pressioni su sentieri, coste, servizi, residenza e manutenzione del paesaggio agricolo. Una buona risposta di riferimento deve quindi tenere insieme bellezza, storia e gestione sostenibile.
 
 ### Inquadramento
 
@@ -160,7 +131,7 @@ Il sistema dei sentieri è un altro elemento identitario. Storicamente i collega
 
 #### Monterosso al Mare
 
-Monterosso è il borgo più occidentale e il più ampio. È anche quello con la maggiore presenza di spiagge e spazi costieri più aperti. Per l'esame si può ricordare come il paese che presenta una dimensione balneare più evidente rispetto agli altri borghi. È inoltre legato alla memoria letteraria di Eugenio Montale, dettaglio utile ma da non trasformare nel centro della risposta.
+Monterosso è il borgo più occidentale e il più ampio. È anche quello con la maggiore presenza di spiagge e spazi costieri più aperti. Per la lettura del sito si può ricordare come il paese che presenta una dimensione balneare più evidente rispetto agli altri borghi. È inoltre legato alla memoria letteraria di Eugenio Montale, dettaglio utile ma da non trasformare nel centro della risposta.
 
 Monterosso permette di parlare della trasformazione turistica della costa ligure: da insediamento storico marinaro e agricolo a destinazione balneare e culturale. Una guida deve saperlo presentare senza ridurlo a spiaggia: il borgo conserva un'identità storica e territoriale, ma offre anche una chiave per discutere il rapporto tra fruizione turistica e tutela.
 
@@ -168,7 +139,7 @@ Monterosso permette di parlare della trasformazione turistica della costa ligure
 
 Vernazza è spesso percepita come uno dei borghi più scenografici. Il piccolo porto naturale, le case colorate e la presenza di strutture difensive rendono il borgo immediatamente leggibile come insediamento marinaro. È un ottimo esempio per spiegare la relazione tra mare, difesa, commercio e abitato.
 
-In una risposta orale puoi presentare Vernazza come un borgo in cui la morfologia crea una sorta di teatro naturale: il mare è la scena, le case salgono lungo il pendio, le fortificazioni controllano il promontorio. Non serve elencare ogni edificio; serve far capire la logica d'insieme.
+In una risposta puoi presentare Vernazza come un borgo in cui la morfologia crea una sorta di teatro naturale: il mare è la scena, le case salgono lungo il pendio, le fortificazioni controllano il promontorio. Non serve elencare ogni edificio; serve far capire la logica d'insieme.
 
 #### Corniglia
 
@@ -178,7 +149,7 @@ Corniglia permette anche di mettere in evidenza la dimensione agricola del paesa
 
 #### Manarola
 
-Manarola è nota per l'immagine delle case che sembrano salire verticalmente dalla roccia. È un borgo molto efficace da descrivere in termini visivi: verticalità, colore, compattezza, rapporto tra edilizia e roccia. Dal punto di vista dell'esame, va collegata ai terrazzamenti e alla viticoltura, perché il borgo è inserito in un paesaggio agrario molto riconoscibile.
+Manarola è nota per l'immagine delle case che sembrano salire verticalmente dalla roccia. È un borgo molto efficace da descrivere in termini visivi: verticalità, colore, compattezza, rapporto tra edilizia e roccia. Dal punto di vista di riferimento, va collegata ai terrazzamenti e alla viticoltura, perché il borgo è inserito in un paesaggio agrario molto riconoscibile.
 
 La descrizione ideale di Manarola non deve diventare solo fotografica. Meglio dire: "Manarola mostra come l'insediamento ligure costiero si adatti alla scarsità di spazio, sviluppandosi in verticale e dialogando con i terrazzamenti circostanti".
 
@@ -186,7 +157,7 @@ La descrizione ideale di Manarola non deve diventare solo fotografica. Meglio di
 
 Riomaggiore è il borgo più orientale e rappresenta spesso la porta di accesso alle Cinque Terre per chi arriva dalla Spezia. Le case alte e colorate disposte lungo il solco vallivo sono uno degli esempi più chiari di adattamento dell'abitato alla morfologia. È anche associato alla Via dell'Amore, percorso costiero molto noto, da citare però con attenzione perché la fruizione dei sentieri può cambiare nel tempo a causa di lavori, sicurezza e regolamentazioni.
 
-Per l'orale, Riomaggiore è utile per introdurre il tema dell'accessibilità contemporanea: ferrovia, sentieri, flussi turistici, tutela dei percorsi. È un sito perfetto per mostrare che una guida turistica deve conoscere non solo storia e paesaggio, ma anche la gestione responsabile del territorio.
+Per la spiegazione, Riomaggiore è utile per introdurre il tema dell'accessibilità contemporanea: ferrovia, sentieri, flussi turistici, tutela dei percorsi. È un sito perfetto per mostrare che una guida turistica deve conoscere non solo storia e paesaggio, ma anche la gestione responsabile del territorio.
 
 ### Temi trasversali da padroneggiare
 
@@ -218,7 +189,7 @@ Sequenza consigliata:
 6. **Tutela:** "Il Parco Nazionale e l'Area Marina Protetta servono a proteggere un equilibrio fragile".
 7. **Chiusura:** "Le Cinque Terre sono importanti perché mostrano come il paesaggio italiano sia spesso il risultato di un dialogo millenario tra natura e lavoro umano".
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché le Cinque Terre sono considerate un paesaggio culturale?
 **Risposta modello:** Perché il loro valore non dipende soltanto dalla bellezza naturale della costa, ma dall'interazione storica tra uomo e ambiente. I borghi, i terrazzamenti, i muri a secco, i vigneti e i sentieri sono il risultato di secoli di adattamento alla morfologia ligure. È proprio questa integrazione tra natura, agricoltura, architettura e vita comunitaria a rendere il sito eccezionale.
@@ -239,12 +210,10 @@ Sequenza consigliata:
 
 ---
 
-## 3. Centro storico di Genova e Strade Nuove dei Rolli
+## Centro storico di Genova e Strade Nuove dei Rolli
 
 ![Via Garibaldi, Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Genova%20Via%20Garibaldi.jpg)
-
-*Immagine: Via Garibaldi, una delle Strade Nuove di Genova. Fonte: Wikimedia Commons, file "Genova Via Garibaldi.jpg".*
-
+*Via Garibaldi, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Genova%20Via%20Garibaldi.jpg).*
 ### Dati essenziali
 
 | Voce | Contenuto da ricordare |
@@ -255,14 +224,14 @@ Sequenza consigliata:
 | Riconoscimento | "Genova, le Strade Nuove e il Sistema dei Palazzi dei Rolli", Patrimonio Mondiale UNESCO dal 2006 |
 | Cronologia chiave | Genova medievale e repubblica marinara; apogeo finanziario e marittimo tra XVI e XVII secolo; decreto dei Rolli del 1576 |
 | Parole chiave | Repubblica di Genova, caruggi, porto, Siglo de los Genoveses, Strade Nuove, Rolli, ospitalità pubblica in palazzi privati, Galeazzo Alessi, UNESCO |
-| Collegamento pratico | La Sezione III del programma include "Strade Nuove e Palazzi dei Rolli": preparare una presentazione da visita guidata. |
+| Collegamento pratico | La percorso integrativo del percorso include "Strade Nuove e Palazzi dei Rolli": preparare una presentazione da visita guidata. |
 | Errore da evitare | Confondere "centro storico di Genova" e "sito UNESCO dei Rolli": il primo è più ampio; il secondo è una componente specifica, iscritta UNESCO. |
 
 ### Perché è importante
 
 Il centro storico di Genova e le Strade Nuove dei Rolli permettono di raccontare due anime della città. Da una parte c'è la Genova medievale dei caruggi: un tessuto fitto, irregolare, stratificato, nato intorno al porto, alle famiglie, alle chiese, ai commerci e alle funzioni pubbliche. Dall'altra parte c'è la Genova aristocratica e finanziaria tra Cinquecento e Seicento, che costruisce un sistema di strade e palazzi di rappresentanza per manifestare il proprio rango europeo.
 
-Questa doppia lettura è fondamentale per l'esame. Il sito non va presentato come semplice "centro storico con bei palazzi", ma come un caso urbano molto originale: una città costretta dalla morfologia tra mare e rilievi, divenuta potenza mercantile, poi capitale finanziaria del Mediterraneo occidentale e partner strategico della monarchia spagnola. I Palazzi dei Rolli sono la traduzione architettonica di questa potenza.
+Questa doppia lettura è fondamentale per la lettura del sito. Il sito non va presentato come semplice "centro storico con bei palazzi", ma come un caso urbano molto originale: una città costretta dalla morfologia tra mare e rilievi, divenuta potenza mercantile, poi capitale finanziaria del Mediterraneo occidentale e partner strategico della monarchia spagnola. I Palazzi dei Rolli sono la traduzione architettonica di questa potenza.
 
 ### Il centro storico: caruggi, porto e stratificazione urbana
 
@@ -270,7 +239,7 @@ Il centro storico genovese è uno dei più estesi e densi centri medievali d'Eur
 
 Questa forma urbana è legata alla posizione di Genova. La città è stretta tra il mare e l'Appennino: lo spazio pianeggiante è limitato e l'edilizia tende a svilupparsi in altezza. Il porto è il grande motore storico: da qui passano merci, persone, idee, ricchezze e conflitti. Il centro storico genovese non è quindi un fondale pittoresco, ma il prodotto di una città mercantile, marittima e densamente abitata.
 
-Nell'esposizione orale è utile ricordare che i caruggi non sono soltanto "vicoli caratteristici". Sono la forma urbana di una società complessa: famiglie nobili, artigiani, mercanti, confraternite, chiese e funzioni portuali convivono in uno spazio ristretto. Il visitatore deve essere guidato a capire questa densità: Genova si svela per passaggi successivi, non con un'unica immagine panoramica.
+Nell'esposizione è utile ricordare che i caruggi non sono soltanto "vicoli caratteristici". Sono la forma urbana di una società complessa: famiglie nobili, artigiani, mercanti, confraternite, chiese e funzioni portuali convivono in uno spazio ristretto. Il visitatore deve essere guidato a capire questa densità: Genova si svela per passaggi successivi, non con un'unica immagine panoramica.
 
 ### Le Strade Nuove: un progetto urbano aristocratico
 
@@ -292,7 +261,7 @@ I palazzi presentano caratteristiche comuni: ingressi monumentali, scalinate sce
 
 Il sito UNESCO "Genova, le Strade Nuove e il Sistema dei Palazzi dei Rolli" è iscritto dal 2006. I criteri principali riguardano il valore del complesso come esempio di sviluppo urbano aristocratico tra XVI e XVII secolo e come testimonianza dell'economia e della politica di una città mercantile al culmine del suo potere. Il sito è rilevante anche perché il modello genovese venne conosciuto in Europa attraverso la circolazione di trattati, disegni e modelli architettonici.
 
-Per l'orale, la spiegazione migliore è questa: i Rolli non sono solo palazzi belli; sono un sistema. Il loro valore sta nel rapporto tra progetto urbano, potere economico, diplomazia, architettura e struttura sociale della Repubblica di Genova. Questa frase, se spiegata bene, è spesso più efficace di un elenco di nomi di palazzi.
+Per la spiegazione, la spiegazione migliore è questa: i Rolli non sono solo palazzi belli; sono un sistema. Il loro valore sta nel rapporto tra progetto urbano, potere economico, diplomazia, architettura e struttura sociale della Repubblica di Genova. Questa frase, se spiegata bene, è spesso più efficace di un elenco di nomi di palazzi.
 
 ### Palazzi e percorsi da citare
 
@@ -301,7 +270,7 @@ Non è necessario memorizzare tutti i palazzi, ma è utile saperne nominare alcu
 - **Palazzo Rosso**, oggi parte dei Musei di Strada Nuova, riconoscibile per la facciata e per la collezione d'arte;
 - **Palazzo Bianco**, altro importante museo civico;
 - **Palazzo Doria Tursi**, sede del Comune e parte del sistema museale di Strada Nuova;
-- **Palazzo Reale**, in via Balbi, legato anche alla scheda museale della Sezione II;
+- **Palazzo Reale**, in via Balbi, legato anche alla scheda museale del percorso principale;
 - **Palazzi di via Garibaldi**, come esempi della Strada Nuova cinquecentesca.
 
 In un percorso di visita si può costruire un itinerario che parte dal centro medievale, passa per San Lorenzo e i caruggi, e arriva alle Strade Nuove. Questo consente di mostrare il passaggio dalla Genova comunale e portuale alla Genova aristocratica e finanziaria.
@@ -318,7 +287,7 @@ Sequenza consigliata:
 6. **UNESCO:** "Il sito è riconosciuto perché rappresenta un modello urbano e sociale originale".
 7. **Chiusura:** "Genova mostra qui il passaggio da repubblica marinara medievale a potenza finanziaria europea".
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Che cosa erano i Rolli?
 **Risposta modello:** I Rolli erano elenchi ufficiali di palazzi nobiliari genovesi destinati all'ospitalità di personaggi illustri, ambasciatori, principi e visitatori di Stato. Il sistema venne formalizzato nel 1576 e rifletteva la struttura politica della Repubblica di Genova: l'accoglienza pubblica era affidata a una rete di dimore private aristocratiche, che contribuivano così alla rappresentazione diplomatica della città.
@@ -337,7 +306,7 @@ Sequenza consigliata:
 - Ricorda il 1576 come data chiave del sistema dei Rolli.
 - Collega il sito al Museo di Palazzo Reale: Palazzo Reale è una dimora aristocratica trasformata in reggia e museo.
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 > "Oggi presenterei il centro storico di Genova e le Strade Nuove dei Rolli come un percorso attraverso le diverse identità della città. Genova è una città particolare, stretta tra il mare e l'Appennino, e questa condizione geografica ha influenzato profondamente la sua forma urbana. Il centro storico non si sviluppa con grandi spazi aperti regolari, ma con un tessuto fitto di vicoli, i cosiddetti caruggi, che si aprono improvvisamente su piazze, chiese, logge e palazzi. È una città da leggere camminando, perché la sua storia emerge per stratificazioni successive.
 >
@@ -355,12 +324,10 @@ Sequenza consigliata:
 
 ---
 
-## 4. Museo di Palazzo Reale - Genova
+## Museo di Palazzo Reale - Genova
 
 ![Galleria degli Specchi, Palazzo Reale di Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Reale%20%28Genoa%29%2C%20Mirror%20gallery%2001.jpg)
-
-*Immagine: Galleria degli Specchi di Palazzo Reale, Genova. Fonte: Wikimedia Commons, file "Palazzo Reale (Genoa), Mirror gallery 01.jpg".*
-
+*Galleria degli Specchi, Palazzo Reale di Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Reale%20%28Genoa%29%2C%20Mirror%20gallery%2001.jpg).*
 ### Dati essenziali
 
 | Voce | Contenuto da ricordare |
@@ -368,7 +335,7 @@ Sequenza consigliata:
 | Località | Via Balbi 10, Genova |
 | Tipologia | Dimora aristocratica, poi residenza reale sabauda, oggi museo statale / Musei Nazionali di Genova |
 | Famiglie chiave | Balbi, Durazzo, Savoia |
-| Sezioni richieste dal programma | Galleria degli Specchi; Sala del Trono; Sala delle Battaglie |
+| Sezioni richieste dalil percorso | Galleria degli Specchi; Sala del Trono; Sala delle Battaglie |
 | Parole chiave | Dimora-museo, Gran Piano Nobile, arredi originali, quadreria, barocco genovese, aristocrazia, reggia sabauda, Rolli |
 | Collegamenti | Strade Nuove e Palazzi dei Rolli, via Balbi, aristocrazia genovese, trasformazione da palazzo privato a reggia e museo |
 | Errore da evitare | Trattarlo come museo "di quadri" generico: va spiegato come dimora storica conservata, dove architettura, arredi, cerimoniale e collezioni sono inseparabili. |
@@ -377,11 +344,11 @@ Sequenza consigliata:
 
 Il Museo di Palazzo Reale è fondamentale perché permette di entrare fisicamente nel mondo dei palazzi aristocratici genovesi. A differenza di un museo costruito appositamente per esporre opere, Palazzo Reale è una **dimora-museo**: il valore non sta solo nei singoli dipinti o arredi, ma nel rapporto tra stanze, decorazioni, mobili, percorsi cerimoniali, affacci e memoria delle famiglie che lo hanno abitato.
 
-Il palazzo fu costruito e trasformato da grandi famiglie genovesi, in particolare Balbi e Durazzo, e poi divenne residenza dei Savoia. Questa sequenza è molto utile all'orale perché mostra tre momenti: la ricchezza aristocratica genovese del Seicento, il gusto e il mecenatismo settecentesco, e la trasformazione ottocentesca in reggia. Oggi il museo conserva ambienti, arredi e opere che consentono di leggere la storia sociale e artistica della città.
+Il palazzo fu costruito e trasformato da grandi famiglie genovesi, in particolare Balbi e Durazzo, e poi divenne residenza dei Savoia. Questa sequenza è molto utile nella spiegazione perché mostra tre momenti: la ricchezza aristocratica genovese del Seicento, il gusto e il mecenatismo settecentesco, e la trasformazione ottocentesca in reggia. Oggi il museo conserva ambienti, arredi e opere che consentono di leggere la storia sociale e artistica della città.
 
 ### Contesto urbano: via Balbi e il sistema dei Rolli
 
-Palazzo Reale si trova in via Balbi, una delle direttrici monumentali legate all'espansione aristocratica genovese. Va collegato alle Strade Nuove e ai Rolli, anche se la scheda d'esame lo tratta come museo. Il suo valore cresce se lo si presenta come parte di un sistema: palazzi nobiliari costruiti per rappresentare rango, ricchezza, relazioni internazionali e cultura del vivere aristocratico.
+Palazzo Reale si trova in via Balbi, una delle direttrici monumentali legate all'espansione aristocratica genovese. Va collegato alle Strade Nuove e ai Rolli, anche se la scheda di riferimento lo tratta come museo. Il suo valore cresce se lo si presenta come parte di un sistema: palazzi nobiliari costruiti per rappresentare rango, ricchezza, relazioni internazionali e cultura del vivere aristocratico.
 
 La posizione su via Balbi è significativa: la strada è un asse di grande prestigio, vicino alla stazione di Genova Piazza Principe e non lontano dal porto. In una visita guidata, Palazzo Reale può essere usato per far capire come la nobiltà genovese costruisse palazzi capaci di dialogare con la città, con il mare e con i percorsi di rappresentanza.
 
@@ -395,7 +362,7 @@ Il museo conserva interni, mobili, arredi e opere d'arte di grande pregio. Le co
 
 La Galleria degli Specchi è probabilmente l'ambiente più scenografico del museo. Deve essere descritta come spazio di rappresentanza, non solo come sala decorata. Specchi, dorature, stucchi, luci, lampadari, statue e affreschi creano un effetto di amplificazione visiva. Lo scopo è impressionare: il visitatore deve percepire ricchezza, gusto internazionale e raffinatezza.
 
-Questa galleria consente un collegamento con la cultura europea del Barocco e del Rococò, ma va mantenuta nel contesto genovese. L'uso degli specchi e della luce parla di cosmopolitismo: Genova è una città di mercanti e finanzieri, abituata a dialogare con corti, mercati e artisti europei. In un'esposizione orale, la Galleria può essere presentata come "la sala che meglio comunica il gusto internazionale dell'aristocrazia genovese".
+Questa galleria consente un collegamento con la cultura europea del Barocco e del Rococò, ma va mantenuta nel contesto genovese. L'uso degli specchi e della luce parla di cosmopolitismo: Genova è una città di mercanti e finanzieri, abituata a dialogare con corti, mercati e artisti europei. In un'esposizione, la Galleria può essere presentata come "la sala che meglio comunica il gusto internazionale dell'aristocrazia genovese".
 
 È anche utile ricordare che una galleria non è semplicemente un corridoio: è uno spazio di passeggio, esposizione, incontro e autorappresentazione. La sua lunghezza e la sua decorazione accompagnano il movimento e trasformano la visita in esperienza scenografica.
 
@@ -403,17 +370,17 @@ Questa galleria consente un collegamento con la cultura europea del Barocco e de
 
 La Sala del Trono è fondamentale per la fase sabauda del palazzo. Qui il discorso si sposta dall'aristocrazia genovese alla monarchia. La presenza del trono organizza lo spazio secondo una logica di gerarchia e rappresentazione del potere regio. Anche se il palazzo nasce come dimora aristocratica, la fase sabauda lo trasforma in reggia e ne modifica la percezione.
 
-All'orale conviene spiegare che la Sala del Trono non è importante solo per l'oggetto "trono", ma per il significato dello spazio: rappresenta l'autorità monarchica, il cerimoniale, la distanza tra sovrano e pubblico, la trasformazione politica della dimora. È una sala che permette di parlare della storia d'Italia e della presenza sabauda a Genova senza uscire dal percorso museale.
+Nella spiegazione conviene spiegare che la Sala del Trono non è importante solo per l'oggetto "trono", ma per il significato dello spazio: rappresenta l'autorità monarchica, il cerimoniale, la distanza tra sovrano e pubblico, la trasformazione politica della dimora. È una sala che permette di parlare della storia d'Italia e della presenza sabauda a Genova senza uscire dal percorso museale.
 
 ### Sala delle Battaglie
 
-La Sala delle Battaglie rientra tra gli ambienti richiesti dal programma e va interpretata in rapporto alla celebrazione del prestigio familiare e politico. Il tema bellico, nelle dimore aristocratiche, non è semplice decorazione: serve a rappresentare virtù, forza, memoria storica, eroismo e legittimazione del potere.
+La Sala delle Battaglie rientra tra gli ambienti richiesti dalil percorso e va interpretata in rapporto alla celebrazione del prestigio familiare e politico. Il tema bellico, nelle dimore aristocratiche, non è semplice decorazione: serve a rappresentare virtù, forza, memoria storica, eroismo e legittimazione del potere.
 
-In una risposta orale, questa sala può essere collegata al modo in cui le famiglie nobili costruivano la propria immagine attraverso programmi iconografici. Le battaglie dipinte o evocate non sono solo episodi militari, ma strumenti narrativi: comunicano il valore della casata, la partecipazione alla storia e la capacità di governare o proteggere.
+In una risposta, questa sala può essere collegata al modo in cui le famiglie nobili costruivano la propria immagine attraverso programmi iconografici. Le battaglie dipinte o evocate non sono solo episodi militari, ma strumenti narrativi: comunicano il valore della casata, la partecipazione alla storia e la capacità di governare o proteggere.
 
 ### Opere e collezioni: cosa citare senza perdersi
 
-Il museo conserva opere di artisti importanti, tra cui Van Dyck e Veronese, oltre ad arredi, sculture e oggetti d'arte. Tuttavia, per l'esame non conviene trasformare la scheda in un catalogo. È più efficace dire che le collezioni sono parte integrante della dimora e aiutano a ricostruire il gusto delle famiglie che l'hanno abitata.
+Il museo conserva opere di artisti importanti, tra cui Van Dyck e Veronese, oltre ad arredi, sculture e oggetti d'arte. Tuttavia, per la lettura del sito non conviene trasformare la scheda in un catalogo. È più efficace dire che le collezioni sono parte integrante della dimora e aiutano a ricostruire il gusto delle famiglie che l'hanno abitata.
 
 Se vuoi citare un esempio, Van Dyck è molto utile perché consente di parlare del rapporto tra Genova e l'arte europea. I ritratti aristocratici genovesi di Van Dyck sono un capitolo centrale della rappresentazione del patriziato cittadino: eleganza, status, internazionalità.
 
@@ -429,7 +396,7 @@ Sequenza consigliata:
 6. **Interpretazione:** "Il museo va letto come percorso cerimoniale e non solo come collezione di opere".
 7. **Chiusura:** "Palazzo Reale racconta il passaggio dalla ricchezza aristocratica genovese alla rappresentazione monarchica sabauda".
 
-### Domande probabili
+### Domande guida
 
 **Domanda:** Perché Palazzo Reale è importante nella storia di Genova?
 **Risposta modello:** È importante perché conserva una dimora aristocratica genovese trasformata nel tempo e poi divenuta residenza reale sabauda. Il palazzo permette di leggere la storia delle grandi famiglie cittadine, il gusto barocco e settecentesco, la funzione di rappresentanza e la successiva presenza monarchica. Non è solo un museo di opere, ma un complesso in cui sale, arredi e collezioni raccontano la vita e il potere delle élite.
@@ -441,7 +408,7 @@ Sequenza consigliata:
 **Risposta modello:** La Sala del Trono va collegata alla fase sabauda del palazzo. Il trono organizza lo spazio come luogo di rappresentazione dell'autorità monarchica. È importante perché mostra come una dimora nata in ambito aristocratico genovese venga reinterpretata come reggia, assumendo una funzione politica e cerimoniale diversa.
 
 **Domanda:** Qual è il significato della Sala delle Battaglie?
-**Risposta modello:** La Sala delle Battaglie va letta come ambiente di rappresentanza. Le scene militari o celebrative servono a comunicare prestigio, memoria, valore e legittimazione. Nelle dimore aristocratiche, il tema della battaglia non è solo decorativo, ma parte di un programma iconografico che costruisce l'immagine della famiglia e del potere.
+**Risposta modello:** La Sala delle Battaglie va letta come ambiente di rappresentanza. Le scene militari o celebrative servono a comunicare prestigio, memoria, valore e legittimazione. Nelle dimore aristocratiche, il tema della battaglia non è solo decorativo, ma parte di un ciclo iconografico che costruisce l'immagine della famiglia e del potere.
 
 ### Suggerimenti di esposizione
 
@@ -453,26 +420,26 @@ Sequenza consigliata:
 
 ---
 
-## Ripasso finale
-### Risposte-lampo da memorizzare
+## Sintesi finale
+### Sintesi narrativa
 - **Cattedrale di San Lorenzo:** cattedrale di Genova, facciata gotica a bande bianche e nere, stratificazione romanico-gotica-rinascimentale-barocca, Cappella di San Giovanni Battista, Museo del Tesoro e Sacro Catino.
 - **Cinque Terre:** paesaggio culturale costiero, cinque borghi, terrazzamenti, muri a secco, viticoltura eroica, sentieri, Parco Nazionale e Area Marina Protetta.
 - **Centro storico e Rolli:** caruggi medievali + Strade Nuove aristocratiche; Rolli come registri di palazzi per ospitare visitatori illustri; UNESCO 2006.
 - **Palazzo Reale:** dimora aristocratica e poi reggia sabauda; Balbi, Durazzo, Savoia; Galleria degli Specchi, Sala del Trono, Sala delle Battaglie.
 
-### Collegamenti intelligenti tra siti
+### Collegamenti utili
 - **San Lorenzo ↔ Centro storico:** la cattedrale è uno dei fulcri religiosi e civici della Genova medievale.
 - **Centro storico ↔ Rolli:** dai caruggi medievali alla nuova immagine aristocratica del Cinquecento.
 - **Rolli ↔ Palazzo Reale:** Palazzo Reale è una dimora nobiliare legata al sistema dei palazzi aristocratici genovesi e alla cultura della rappresentanza.
 - **Cinque Terre ↔ Genova:** due modi diversi di leggere la Liguria: città portuale e finanziaria da un lato, paesaggio costiero terrazzato dall'altro.
 - **Cinque Terre ↔ turismo sostenibile:** sito perfetto per discutere tutela, flussi turistici, manutenzione dei sentieri e fragilità del paesaggio.
-### 5. Ripasso attivo per la Liguria
+### Ripasso attivo per la Liguria
 
-### Domande probabili
+### Domande guida
 
-1. Quali sono i tre siti liguri della Sezione I?
-2. Quale museo ligure compare nella Sezione II e quali sale/sezioni sono richieste?
-3. Quale sito ligure compare anche nella Sezione III?
+1. Quali sono i tre siti liguri del percorso principale?
+2. Quale museo ligure compare nel percorso principale e quali sale/sezioni sono richieste?
+3. Quale sito ligure compare anche nel percorso integrativo?
 4. Che differenza c'è tra centro storico di Genova e sito UNESCO dei Rolli?
 5. Che cosa sono i caruggi?
 6. Che cosa erano i Rolli?
@@ -486,21 +453,21 @@ Sequenza consigliata:
 14. Perché la Sala del Trono è importante?
 15. Qual è il tema principale della Sala delle Battaglie?
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 | Tempo | Attività |
 |---:|---|
-| 10 min | Ripeti i siti e le sezioni del programma ligure |
+| 10 min | Ripeti i siti e le sezioni del percorso ligure |
 | 15 min | Cattedrale di San Lorenzo: cronologia + elementi interni |
 | 15 min | Cinque Terre: cinque borghi + paesaggio culturale |
 | 15 min | Centro storico/Rolli: caruggi + Strade Nuove + Rolli + UNESCO |
 | 5 min | Palazzo Reale: tre sale richieste |
 
-### Schema di ripasso in 3 ore
+### Schema di sintesi in 3 ore
 
 | Tempo | Attività |
 |---:|---|
-| 30 min | Cattedrale di San Lorenzo, con risposta orale da 3 minuti |
+| 30 min | Cattedrale di San Lorenzo, con risposta da 3 minuti |
 | 45 min | Cinque Terre, con descrizione dei cinque borghi |
 | 60 min | Centro storico di Genova e Rolli, con presentazione da 5 minuti |
 | 30 min | Palazzo Reale, concentrandosi sulle tre sale |
@@ -521,8 +488,3 @@ Sequenza consigliata:
 - [Visit Genoa, "Centro storico"](https://www.visitgenoa.it/it/centro-storico)
 - [Musei Nazionali di Genova, Palazzo Reale, sito ufficiale](https://palazzorealegenova.cultura.gov.it/)
 - [Musei di Genova, "Palazzo Reale di Genova"](https://www.museidigenova.it/it/palazzo-reale-di-genova)
-
-- [Wikimedia Commons, "Cattedrale san lorenzo genova.jpg"](https://commons.wikimedia.org/wiki/File:Cattedrale_san_lorenzo_genova.jpg)
-- [Wikimedia Commons, "Vernazza and the sea, Cinque Terre, Italy.jpg"](https://commons.wikimedia.org/wiki/File:Vernazza_and_the_sea,_Cinque_Terre,_Italy.jpg)
-- [Wikimedia Commons, "Genova Via Garibaldi.jpg"](https://commons.wikimedia.org/wiki/File:Genova_Via_Garibaldi.jpg)
-- [Wikimedia Commons, "Palazzo Reale (Genoa), Mirror gallery 01.jpg"](https://commons.wikimedia.org/wiki/File:Palazzo_Reale_(Genoa),_Mirror_gallery_01.jpg)

@@ -4,33 +4,24 @@ layout: default
 nav_order: 11
 ---
 
-# Guida per la prova orale - Molise
+# Molise
 
 ## Perimetro e orientamento
-**Perimetro del documento**
-Questa scheda segue il formato aggiornato usato per l'Abruzzo: niente scheda sintetica regionale, approfondimento esteso del sito e presentazione orale da circa 5 minuti solo per i siti presenti anche nella prova tecnico-pratica.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Molise. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-Nella traccia d'esame, per il **Molise** compare un solo sito nella Sezione I della prova orale:
-
-| ID | Sito | Località | Provincia | Note per la preparazione |
+| N. | Voce | Tipologia | Area | Note |
 |---:|---|---|---|---|
-| 65 | Parco Archeologico di Saepinum-Altilia | Sepino | Campobasso | Sito centrale per capire romanizzazione del Sannio, rapporto tra città romana e transumanza, conservazione del paesaggio archeologico |
+| 1 | Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
 
-Lo stesso sito compare anche nella **Sezione III** della prova tecnico-pratica come **Parco Archeologico di Sepino**. Per questo motivo, alla fine della scheda è inclusa anche una **presentazione orale di circa 5 minuti**.
-
----
-
-## 1. Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino
+## Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino
 
 ![Veduta dell'area archeologica di Altilia-Saepinum](https://commons.wikimedia.org/wiki/Special:FilePath/Altilia-Sepino.JPG)
-
-*Figura 1 - Area archeologica di Altilia-Saepinum. Fonte immagine: Wikimedia Commons, file "Altilia-Sepino.JPG".*
-
+*Veduta dell'area archeologica di Altilia-Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Altilia-Sepino.JPG).*
 ### Dati essenziali
 
 Il Parco Archeologico di Saepinum-Altilia si trova in **località Altilia**, nel comune di **Sepino**, in provincia di **Campobasso**. È uno dei siti archeologici più significativi del Molise perché conserva in modo leggibile la struttura di una città romana di fondovalle, nata in rapporto con un precedente insediamento sannitico e con i grandi percorsi della transumanza appenninica.
 
-Il sito è particolarmente adatto a una prova orale per guida turistica perché permette di costruire un discorso completo: geografia storica, civiltà sannitica, conquista romana, urbanistica romana, viabilità antica, rapporto tra città e territorio, continuità d'uso, archeologia del paesaggio e valorizzazione contemporanea.
+Il sito è particolarmente adatto a una scheda per guida turistica perché permette di costruire un discorso completo: geografia storica, civiltà sannitica, conquista romana, urbanistica romana, viabilità antica, rapporto tra città e territorio, continuità d'uso, archeologia del paesaggio e valorizzazione contemporanea.
 
 **Coordinate culturali da memorizzare:**
 
@@ -44,7 +35,7 @@ Il sito è particolarmente adatto a una prova orale per guida turistica perché 
 
 ---
 
-### Perché è importante per l'orale
+### Perché è importante per la spiegazione
 
 Saepinum-Altilia è uno dei casi più efficaci per spiegare che la romanizzazione non è solo imposizione militare o imitazione di Roma, ma anche trasformazione progressiva del territorio. Qui il discorso può partire dalla geografia: il sito non nasce in un punto casuale, ma in una zona di passaggio, ai piedi del Matese e aperta verso la valle del Tammaro. La città romana sorge dove già si incrociavano vie di movimento, scambio e transumanza; questo spiega perché il cardo e il decumano siano legati alla viabilità precedente e non a un impianto astratto perfettamente regolare.
 
@@ -54,7 +45,7 @@ L'area è utile anche per distinguere tre livelli storici:
 2. **Il livello romano**, con la città di fondovalle, organizzata secondo un modello urbano più aperto, monumentale e amministrativo.
 3. **Il livello post-antico e rurale**, evidente soprattutto nel teatro, dove le case contadine costruite sulla cavea raccontano la lunga rioccupazione del sito.
 
-Dal punto di vista dell'esame, Saepinum permette quindi di mostrare maturità espositiva: non basta elencare monumenti, bisogna spiegare **perché la città è lì**, **quale rapporto ha con il territorio**, **come cambia nel tempo** e **che cosa deve notare un visitatore durante la visita**.
+Dal punto di vista di riferimento, Saepinum permette quindi di mostrare maturità espositiva: non basta elencare monumenti, bisogna spiegare **perché la città è lì**, **quale rapporto ha con il territorio**, **come cambia nel tempo** e **che cosa deve notare un visitatore durante la visita**.
 
 ---
 
@@ -62,11 +53,11 @@ Dal punto di vista dell'esame, Saepinum permette quindi di mostrare maturità es
 
 Il sito si colloca nel **Molise interno**, in un'area appenninica storicamente legata alla pastorizia, ai collegamenti tra Adriatico e Tirreno e ai movimenti stagionali delle greggi. La valle del Tammaro e le pendici del Matese creano un paesaggio aperto ma montano, nel quale la città romana appare ancora oggi immersa in un contesto rurale poco urbanizzato.
 
-Questa relazione tra archeologia e paesaggio è uno degli aspetti più forti del sito. Saepinum non si presenta come un'area archeologica isolata dal suo ambiente, ma come una città antica ancora leggibile nel paesaggio agricolo. La sensazione di "città nella campagna" è fondamentale per l'esposizione orale: la guida deve aiutare a leggere insieme rovine, strade, mura, porte, prati e profilo dei monti.
+Questa relazione tra archeologia e paesaggio è uno degli aspetti più forti del sito. Saepinum non si presenta come un'area archeologica isolata dal suo ambiente, ma come una città antica ancora leggibile nel paesaggio agricolo. La sensazione di "città nella campagna" è fondamentale per l'esposizione: la guida deve aiutare a leggere insieme rovine, strade, mura, porte, prati e profilo dei monti.
 
 Il riferimento alla **transumanza** è essenziale. Il tratturo Pescasseroli-Candela, uno dei grandi assi della mobilità pastorale dell'Italia centro-meridionale, attraversava l'area e condizionò l'impianto urbano. Questo permette di collegare il sito a un tema più ampio: la civiltà appenninica non è fatta solo di centri urbani, ma di percorsi, economie pastorali, scambi e controlli territoriali.
 
-Per una risposta d'esame efficace, la geografia va presentata così:
+Per una risposta di riferimento efficace, la geografia va presentata così:
 
 > "Saepinum è un sito in cui il paesaggio spiega la città: il fondovalle, il Matese, la valle del Tammaro e il tratturo non sono solo uno sfondo, ma le ragioni stesse della nascita e della forma urbana."
 
@@ -108,9 +99,7 @@ Il caso più evidente è il **teatro romano**, sulla cui cavea furono costruite 
 ### Cosa vedere e come raccontarlo
 
 ![Porta Bojano](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20Porta%20Bojano%201.jpg)
-
-*Figura 2 - Porta Bojano, una delle porte monumentali della città romana. Fonte immagine: Wikimedia Commons, file "Saepinum - Porta Bojano 1.jpg".*
-
+*Porta Bojano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20Porta%20Bojano%201.jpg).*
 #### Le mura e le porte
 
 Uno dei primi elementi da raccontare sono le **mura**. Esse non sono solo una difesa, ma anche una dichiarazione urbana: segnano il passaggio da territorio aperto a città, da paesaggio pastorale a spazio civico ordinato. La cinta muraria racchiude il nucleo romano e si apre attraverso porte monumentali che corrispondono agli assi viari principali.
@@ -124,7 +113,7 @@ Le porte più importanti da ricordare sono:
 
 Le porte non sono semplici aperture: hanno valore monumentale, scenografico e simbolico. La guida può presentarle come soglie: entrando in città si passa da un territorio segnato dalla transumanza a uno spazio pienamente romanizzato.
 
-**Come dirlo all'orale:**
+**Come dirlo nella spiegazione:**
 
 > "Le porte di Saepinum sono fondamentali perché rendono visibile il rapporto tra città e territorio. Non aprono semplicemente le mura: collegano la città romana ai percorsi che già strutturavano il paesaggio sannitico e pastorale."
 
@@ -144,7 +133,7 @@ A Saepinum, il foro aiuta a spiegare la trasformazione da comunità sannitica a 
 
 #### La basilica civile
 
-La **basilica** non va confusa con una chiesa. In età romana è un edificio civile, destinato ad attività amministrative, giudiziarie e commerciali. È importante dirlo chiaramente, perché è un errore frequente nelle esposizioni orali.
+La **basilica** non va confusa con una chiesa. In età romana è un edificio civile, destinato ad attività amministrative, giudiziarie e commerciali. È importante dirlo chiaramente, perché è un errore frequente nella descrizione del sito.
 
 La basilica permette di parlare della vita pubblica romana: giustizia, amministrazione, contratti, rapporti economici. Se il foro è la piazza della città, la basilica è uno degli edifici che ne esprimono il funzionamento istituzionale.
 
@@ -154,14 +143,12 @@ La basilica permette di parlare della vita pubblica romana: giustizia, amministr
 
 Il **macellum** era il mercato, soprattutto alimentare. È un elemento prezioso per parlare della vita quotidiana. Mentre porte, foro e basilica raccontano la dimensione pubblica e monumentale, il macellum racconta l'economia urbana: scambi, vendita di prodotti, alimentazione, rifornimento della città.
 
-Nel discorso orale, il macellum può essere collegato al territorio: Saepinum nasce in un'area di pastorizia e transumanza; il mercato urbano è quindi il luogo in cui l'economia del territorio entra nella città.
+Nel descrizione, il macellum può essere collegato al territorio: Saepinum nasce in un'area di pastorizia e transumanza; il mercato urbano è quindi il luogo in cui l'economia del territorio entra nella città.
 
 #### Il teatro romano
 
 ![Teatro romano di Saepinum](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20scorcio%20del%20teatro.jpg)
-
-*Figura 3 - Teatro romano e case rurali costruite sulla struttura antica. Fonte immagine: Wikimedia Commons, file "Saepinum - scorcio del teatro.jpg".*
-
+*Teatro romano di Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20scorcio%20del%20teatro.jpg).*
 Il **teatro romano** è uno degli elementi più suggestivi del sito. Va raccontato su due piani.
 
 Il primo piano è quello romano: il teatro è l'edificio dello spettacolo, della socialità e della rappresentazione pubblica. In una città romana, il teatro non è solo intrattenimento: è anche luogo di identità civica e di visibilità sociale.
@@ -184,7 +171,7 @@ Inserire le terme nel discorso significa mostrare che Saepinum non era un sempli
 
 Lungo il decumano si riconoscono strutture residenziali e commerciali. Questi elementi sono importanti perché permettono di passare dalla città monumentale alla città vissuta. Il visitatore deve immaginare la strada non come rovina silenziosa, ma come asse animato da passaggi, attività, botteghe, incontri e scambi.
 
-Per l'esame, è utile dire che il decumano non è solo un elemento urbanistico astratto: è la strada che organizza l'esperienza urbana. Lungo di esso si dispongono monumenti, abitazioni, botteghe e accessi agli spazi pubblici.
+Per la lettura del sito, è utile dire che il decumano non è solo un elemento urbanistico astratto: è la strada che organizza l'esperienza urbana. Lungo di esso si dispongono monumenti, abitazioni, botteghe e accessi agli spazi pubblici.
 
 #### La domus presso Porta Bojano e le scoperte recenti
 
@@ -192,7 +179,7 @@ Le campagne di ricerca condotte tra il 2023 e il 2025 hanno restituito nuovi dat
 
 La domus consente di parlare della città non solo come spazio pubblico, ma anche come luogo di residenze prestigiose, trasformazioni funzionali e lunga continuità d'uso. Le informazioni sulle fasi tardoantiche e sulle trasformazioni dell'edificio aiutano a evitare una visione statica della città romana.
 
-Per la prova orale, non è necessario imparare ogni dettaglio specialistico dello scavo, ma è utile ricordare il messaggio generale:
+Per la scheda, non è necessario imparare ogni dettaglio specialistico dello scavo, ma è utile ricordare il messaggio generale:
 
 > "Le ricerche recenti confermano che Saepinum non è un sito archeologico chiuso nella sua interpretazione, ma un contesto ancora in evoluzione, capace di restituire nuovi dati sulla vita urbana dall'età imperiale alla tarda antichità."
 
@@ -227,7 +214,7 @@ Il sito non racconta una sola epoca. Racconta almeno quattro momenti:
 3. trasformazioni tardoantiche;
 4. riusi rurali e valorizzazione moderna.
 
-Questa stratificazione è uno dei punti da sottolineare all'orale, perché dimostra capacità di lettura storica complessa.
+Questa stratificazione è uno dei punti da sottolineare nella spiegazione, perché dimostra capacità di lettura storica complessa.
 
 ---
 
@@ -295,7 +282,7 @@ Questa sequenza è molto efficace perché evita l'elenco di monumenti e costruis
 
 ---
 
-### Domande probabili
+### Domande guida
 
 #### Domanda 1 - Perché Saepinum-Altilia è importante?
 
@@ -347,13 +334,13 @@ Il legame con la transumanza è uno degli aspetti più originali del sito. Il no
 - **Confondere basilica civile e basilica cristiana.** Nel contesto romano la basilica è edificio pubblico civile.
 - **Presentare il teatro solo come monumento romano.** Va ricordato anche il riuso rurale, con le case costruite sulla cavea.
 - **Fare un elenco di monumenti senza filo logico.** Meglio costruire il discorso su paesaggio → Sanniti → conquista romana → città → monumenti → riusi → valorizzazione.
-- **Dare troppo peso a orari, biglietti e informazioni pratiche mutevoli.** Per l'orale servono soprattutto storia, lettura del sito e capacità espositiva.
+- **Dare troppo peso a orari, biglietti e informazioni pratiche mutevoli.** Per la spiegazione servono soprattutto storia, lettura del sito e capacità espositiva.
 
 ---
 
 ### Suggerimenti di esposizione
 
-Per studiare Saepinum in modo efficace, non conviene memorizzare solo un elenco. Il sito va studiato come **racconto di trasformazione**.
+Per leggere Saepinum in modo efficace, non conviene memorizzare solo un elenco. Il sito va studiato come **racconto di trasformazione**.
 
 #### Metodo in 5 passaggi
 
@@ -382,10 +369,9 @@ Per studiare Saepinum in modo efficace, non conviene memorizzare solo un elenco.
 
 ---
 
-## Presentazioni orali da circa 5 minuti
-### Presentazione orale da circa 5 minuti
-> **Nota:** questa presentazione è inclusa perché il Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino compare sia nella prova orale sia nella prova tecnico-pratica della traccia d'esame.
-
+## Percorsi narrativi brevi
+### Percorso narrativo breve
+>
 Buongiorno, oggi presento il Parco Archeologico di Saepinum-Altilia, situato in località Altilia, nel comune di Sepino, in provincia di Campobasso. Si tratta di uno dei siti archeologici più importanti del Molise, perché conserva in modo particolarmente leggibile l'impianto di una città romana sorta ai piedi del Matese, nella valle del Tammaro, in un'area storicamente legata alla transumanza e ai grandi percorsi pastorali dell'Italia appenninica.
 
 Per comprendere il sito bisogna partire dal paesaggio. Saepinum non nasce in un luogo casuale: si trova in un punto di incontro tra la montagna, il fondovalle e la viabilità antica. Il nome stesso di Sepino è stato collegato al verbo latino *saepire*, cioè "recintare", con riferimento al mondo pastorale. Questo tema della pastorizia e della transumanza è fondamentale, perché nell'area passava il tratturo Pescasseroli-Candela, una delle grandi direttrici percorse stagionalmente dalle greggi.
@@ -408,8 +394,8 @@ In conclusione, Saepinum-Altilia è un sito fondamentale perché racconta contem
 
 ---
 
-## Ripasso finale
-### Mini-ripasso finale
+## Sintesi finale
+### Mini-sintesi finale
 
 ### Schema da ricordare
 
@@ -425,7 +411,7 @@ In conclusione, Saepinum-Altilia è un sito fondamentale perché racconta contem
 
 Il Parco Archeologico di Saepinum-Altilia, a Sepino in provincia di Campobasso, conserva l'impianto di una città romana di fondovalle sorta dopo la conquista di un precedente centro sannitico. Il sito è importante perché mostra il rapporto tra romanizzazione, urbanistica e transumanza: cardo e decumano si adattano a percorsi preesistenti, in particolare al tratturo Pescasseroli-Candela. Tra gli elementi principali si ricordano mura, porte monumentali, foro, basilica civile, macellum, teatro, terme e Museo della città e del territorio.
 
-### Risposta modello
+### Sintesi narrativa
 
 Saepinum-Altilia è uno dei principali siti archeologici del Molise. Si trova a Sepino, in località Altilia, ai piedi del Matese e aperto verso la valle del Tammaro. Prima della città romana esisteva un centro sannitico fortificato in altura, nell'area di Terravecchia; dopo la conquista romana del 293 a.C., durante la terza guerra sannitica, l'insediamento si spostò verso il fondovalle. La città romana si organizzò attorno a cardo e decumano, ma questi assi riprendono percorsi già esistenti, legati alla transumanza e al tratturo Pescasseroli-Candela. Il sito conserva mura, porte monumentali, foro, basilica civile, macellum, teatro, terme, abitazioni e botteghe. Molto significativo è il teatro, perché sulla cavea furono costruite case rurali, testimonianza della lunga vita del sito. Saepinum è quindi importante non solo per i monumenti romani, ma perché permette di leggere il rapporto tra Sannio, Roma, paesaggio appenninico e transumanza.
 
@@ -437,7 +423,3 @@ Saepinum-Altilia è uno dei principali siti archeologici del Molise. Si trova a 
 - [Direzione regionale musei nazionali Molise, scheda: **Area archeologica di Altilia-Saepinum**](https://www.musei.molise.beniculturali.it/musei/area-archeologica-di-altilia-saepinum)
 - [Italia.it, scheda turistica: **Parco Archeologico di Sepino**](https://www.italia.it/it/molise/sepino/luoghi-della-cultura/area-archeologica-di-altilia-saepinum)
 - [Ministero della Cultura, comunicato 19 marzo 2026: **Archeologia, scoperta una domus imperiale nel parco di Sepino in Molise**](https://cultura.gov.it/comunicato/28824)
-- [Wikimedia Commons, categoria immagini: **Saepinum-Altilia**](https://commons.wikimedia.org/wiki/Category:Saepinum-Altilia)
-- [Wikimedia Commons, file immagine: **Altilia-Sepino.JPG**](https://commons.wikimedia.org/wiki/File:Altilia-Sepino.JPG)
-- [Wikimedia Commons, file immagine: **Saepinum - Porta Bojano 1.jpg**](https://commons.wikimedia.org/wiki/File:Saepinum_-_Porta_Bojano_1.jpg)
-- [Wikimedia Commons, file immagine: **Saepinum - scorcio del teatro.jpg**](https://commons.wikimedia.org/wiki/File:Saepinum_-_scorcio_del_teatro.jpg)

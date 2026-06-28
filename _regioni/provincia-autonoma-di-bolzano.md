@@ -4,49 +4,43 @@ layout: default
 nav_order: 17
 ---
 
-# Guida per la prova orale - Provincia autonoma di Bolzano
+# Provincia autonoma di Bolzano
 
 ## Perimetro e orientamento
-**Ambito del programma:** Sezione I, ID 109 - **Dolomiti e lago di Braies**, località **Braies**, provincia **Bolzano**.
-**Formato:** scheda approfondita per l'orale, senza scheda sintetica regionale.
-**Nota sulle presentazioni da 5 minuti:** non è inserita una presentazione da prova pratica, perché nel programma la Provincia autonoma di Bolzano compare solo in Sezione I con "Dolomiti e lago di Braies". La Sezione III contiene una voce "Dolomiti - Cortina / area dolomitica" sotto Veneto, ma non coincide con il sito Bolzano/Braies del programma orale.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Provincia autonoma di Bolzano. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
----
+| N. | Voce | Tipologia | Area | Note |
+|---:|---|---|---|---|
+| 1 | Dolomiti e lago di Braies | Sito o tema | Vedi scheda | Scheda principale |
 
-## 1. Dolomiti e lago di Braies
+## Dolomiti e lago di Braies
 
 | Voce | Dati essenziali |
 |---|---|
-| Denominazione nel programma | Dolomiti e lago di Braies |
+| Denominazione nel percorso | Dolomiti e lago di Braies |
 | Località | Braies / Prags |
 | Provincia | Bolzano / Südtirol - Alto Adige |
 | Tipologia | Patrimonio naturale, paesaggio alpino, lago dolomitico, parco naturale |
 | Area di riferimento | Dolomiti settentrionali; Parco naturale Fanes-Senes-Braies; Val Pusteria |
 | Riconoscimento UNESCO | Le Dolomiti sono iscritte nella Lista del Patrimonio Mondiale dal 2009 come bene naturale seriale |
 | Parole chiave | Dolomia, paesaggio dolomitico, Croda del Becco, Fanes-Senes-Braies, Val Pusteria, turismo sostenibile, patrimonio naturale UNESCO |
-| Collegamenti utili per l'orale | Dolomiti UNESCO; paesaggio alpino; gestione dei flussi turistici; rapporto tra natura, turismo e identità altoatesina |
+| Collegamenti utili per la spiegazione | Dolomiti UNESCO; paesaggio alpino; gestione dei flussi turistici; rapporto tra natura, turismo e identità altoatesina |
 
 ### Immagini utili
 
 ![Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti%20riflesse%20nel%20lago%20di%20Braies.jpg)
-
-*Lago di Braies: acque turchesi, riflessi dolomitici e pareti della Croda del Becco. Fonte immagine: Wikimedia Commons, file "Dolomiti riflesse nel lago di Braies.jpg", autore Edoardo Dusina, licenza indicata nella pagina del file.*
-
+*Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti%20riflesse%20nel%20lago%20di%20Braies.jpg).*
 ![Parco naturale Fanes-Senes-Braies](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20Naturale%20Fanes%20-%20Sennes%20-%20Braies%20%28BZ%29.jpg)
-
-*Ambiente alpino del Parco naturale Fanes-Senes-Braies. Fonte immagine: Wikimedia Commons, file "Parco Naturale Fanes - Sennes - Braies (BZ).jpg", licenza CC BY-SA 4.0 indicata nella pagina del file.*
-
+*Parco naturale Fanes-Senes-Braies. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20Naturale%20Fanes%20-%20Sennes%20-%20Braies%20%28BZ%29.jpg).*
 ![Alpe di Sennes](https://commons.wikimedia.org/wiki/Special:FilePath/Alpe%20di%20Sennes.jpg)
-
-*Alpe di Sennes: altipiani, prati e morfologie dolomitiche. Fonte immagine: Wikimedia Commons, file "Alpe di Sennes.jpg", autore Luca Lorenzi / Llorenzi, licenza indicata nella pagina del file.*
-
+*Alpe di Sennes. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alpe%20di%20Sennes.jpg).*
 ---
 
 ### Inquadramento
 
-Il sito richiesto dal programma unisce due livelli di lettura: da un lato le **Dolomiti** come grande patrimonio naturale alpino, dall'altro il **lago di Braies** come luogo puntuale, riconoscibile e molto frequentato, situato nella Provincia autonoma di Bolzano. La località appartiene alla Val di Braies, laterale della Val Pusteria, in un contesto montano dove il paesaggio è segnato da pareti rocciose chiare, boschi di conifere, ghiaioni, altipiani carsici e laghi alpini.
+Il sito richiesto dalil percorso unisce due livelli di lettura: da un lato le **Dolomiti** come grande patrimonio naturale alpino, dall'altro il **lago di Braies** come luogo puntuale, riconoscibile e molto frequentato, situato nella Provincia autonoma di Bolzano. La località appartiene alla Val di Braies, laterale della Val Pusteria, in un contesto montano dove il paesaggio è segnato da pareti rocciose chiare, boschi di conifere, ghiaioni, altipiani carsici e laghi alpini.
 
-Per l'orale conviene non descrivere il lago come semplice "cartolina": la commissione può apprezzare una risposta che spieghi perché Braies è un caso emblematico di **paesaggio dolomitico**, cioè un sistema in cui geologia, forme del rilievo, vegetazione, turismo e tutela ambientale sono strettamente connessi.
+Per la spiegazione conviene non descrivere il lago come semplice "cartolina": è utile spiegare perché Braies è un caso emblematico di **paesaggio dolomitico**, cioè un sistema in cui geologia, forme del rilievo, vegetazione, turismo e tutela ambientale sono strettamente connessi.
 
 La posizione è strategica: il lago è vicino all'area delle Tre Cime e alle Dolomiti di Braies, ma ricade nel territorio altoatesino e nel quadro del **Parco naturale Fanes-Senes-Braies**. Questo permette di collegare il sito a tre temi forti:
 
@@ -65,11 +59,11 @@ Il riconoscimento UNESCO poggia soprattutto su due criteri:
 - **criterio VII**, cioè la presenza di fenomeni naturali superlativi o aree di eccezionale bellezza e importanza estetica;
 - **criterio VIII**, cioè la presenza di esempi eccezionali della storia della Terra, dei processi geologici e delle forme geomorfologiche.
 
-Per l'esame, questa distinzione è molto importante. Il criterio VII riguarda l'effetto visivo e paesaggistico: pareti chiare, torri, pinnacoli, contrasti tra roccia, bosco, prato e lago, luce mutevole, senso di verticalità. Il criterio VIII riguarda invece la lettura scientifica: stratigrafia, piattaforme carbonatiche mesozoiche, testimonianze della storia geologica marina, erosione, glacialismo, carsismo e processi geomorfologici.
+Per la lettura del sito, questa distinzione è molto importante. Il criterio VII riguarda l'effetto visivo e paesaggistico: pareti chiare, torri, pinnacoli, contrasti tra roccia, bosco, prato e lago, luce mutevole, senso di verticalità. Il criterio VIII riguarda invece la lettura scientifica: stratigrafia, piattaforme carbonatiche mesozoiche, testimonianze della storia geologica marina, erosione, glacialismo, carsismo e processi geomorfologici.
 
-Una buona risposta orale deve quindi evitare di dire solo "le Dolomiti sono belle": bisogna spiegare **perché** sono un patrimonio naturale. Sono belle per la qualità scenografica del paesaggio, ma sono importanti anche perché consentono di leggere processi geologici di lunghissima durata.
+Una buona risposta deve quindi evitare di dire solo "le Dolomiti sono belle": bisogna spiegare **perché** sono un patrimonio naturale. Sono belle per la qualità scenografica del paesaggio, ma sono importanti anche perché consentono di leggere processi geologici di lunghissima durata.
 
-#### Come dirlo all'orale
+#### Come dirlo nella spiegazione
 
 > Le Dolomiti non sono soltanto un paesaggio montano spettacolare: sono un archivio geologico a cielo aperto. La loro importanza UNESCO nasce dall'unione tra valore estetico e valore scientifico. Le pareti pallide, le torri, le guglie e i contrasti cromatici danno origine a uno dei paesaggi alpini più riconoscibili al mondo; allo stesso tempo, le rocce dolomitiche e le forme del rilievo documentano fasi fondamentali della storia geologica della Terra, in particolare legate alle piattaforme carbonatiche e agli ambienti marini mesozoici.
 
@@ -77,7 +71,7 @@ Una buona risposta orale deve quindi evitare di dire solo "le Dolomiti sono bell
 
 ### Cosa vedere e come raccontarlo
 
-Per un esame di guida turistica non è necessario entrare in una spiegazione tecnica eccessiva, ma bisogna possedere alcuni concetti chiave.
+Per una descrizione efficace non è necessario entrare in una spiegazione tecnica eccessiva, ma occorre possedere alcuni concetti chiave.
 
 La parola "Dolomiti" deriva dalla **dolomia**, roccia carbonatica costituita prevalentemente dal minerale dolomite, così denominata in rapporto agli studi del geologo Déodat de Dolomieu. Le Dolomiti sono il risultato di una storia geologica complessa: antiche piattaforme carbonatiche, ambienti marini tropicali, sedimentazione, sollevamento tettonico, erosione e modellamento glaciale hanno prodotto l'aspetto attuale delle montagne.
 
@@ -94,7 +88,7 @@ Le forme più riconoscibili sono:
 
 Il colore chiaro della roccia, unito alla luce del mattino e del tramonto, produce il noto effetto dell'**enrosadira**, cioè la colorazione rosata o aranciata delle pareti dolomitiche. Questo fenomeno può essere citato, ma senza trasformarlo in folklore generico: è utile come esempio di come il paesaggio dolomitico sia percepito esteticamente e culturalmente.
 
-#### Risposta modello
+#### Sintesi narrativa
 
 > Le Dolomiti sono importanti perché uniscono paesaggio e geologia: sono belle da vedere e, allo stesso tempo, leggibili come testimonianza della storia della Terra.
 
@@ -118,7 +112,7 @@ Dal punto di vista della guida turistica, il parco non va presentato solo come "
 
 **Centro visite.** Il centro visite Fanes-Senes-Braies a San Vigilio di Marebbe serve a interpretare il parco: formazione delle Dolomiti, habitat, specie, geologia, paleontologia e attività umane.
 
-#### Come collegarlo all'esame
+#### Come collegarlo alla lettura del sito
 
 Il parco permette di mostrare una competenza matura su tre piani:
 
@@ -140,7 +134,7 @@ La forza del paesaggio nasce da vari fattori:
 - la presenza della rimessa delle barche, ormai parte dell'immaginario turistico del lago;
 - il rapporto tra ambiente naturale e turismo storico.
 
-Per l'esame è utile ricordare che il lago non va descritto solo come "bello" o "fotografico". È importante evidenziare il suo ruolo di **porta d'accesso simbolica** alle Dolomiti di Braies e al parco naturale. Dal lago partono itinerari di diversa difficoltà: la passeggiata intorno allo specchio d'acqua, percorsi verso malghe e rifugi, e itinerari più impegnativi verso la Croda del Becco e il Rifugio Biella.
+Per la lettura del sito è utile ricordare che il lago non va descritto solo come "bello" o "fotografico". È importante evidenziare il suo ruolo di **porta d'accesso simbolica** alle Dolomiti di Braies e al parco naturale. Dal lago partono itinerari di diversa difficoltà: la passeggiata intorno allo specchio d'acqua, percorsi verso malghe e rifugi, e itinerari più impegnativi verso la Croda del Becco e il Rifugio Biella.
 
 #### La Croda del Becco
 
@@ -152,7 +146,7 @@ Il giro del lago è una passeggiata molto nota e relativamente accessibile, ma v
 
 #### La gestione dei flussi
 
-Il lago di Braies è un caso importante di pressione turistica. Le fonti ufficiali segnalano restrizioni stagionali all'accesso delle auto private, con promozione di navette, mobilità pubblica, bicicletta e accesso a piedi. Questo dato non serve per memorizzare orari o dettagli pratici, che possono cambiare, ma per costruire una riflessione da esame: Braies è un esempio concreto di come un luogo naturale di grande fama debba essere gestito per evitare che il successo turistico danneggi il bene stesso.
+Il lago di Braies è un caso importante di pressione turistica. Le fonti ufficiali segnalano restrizioni stagionali all'accesso delle auto private, con promozione di navette, mobilità pubblica, bicicletta e accesso a piedi. Questo dato non serve per memorizzare orari o dettagli pratici, che possono cambiare, ma per costruire una riflessione interpretativa: Braies è un esempio concreto di come un luogo naturale di grande fama debba essere gestito per evitare che il successo turistico danneggi il bene stesso.
 
 #### Formula efficace
 
@@ -168,7 +162,7 @@ Un elemento da citare è il **Grand Hotel Lago di Braies**, costruito alla fine 
 
 Nel Novecento il lago è anche legato a episodi della storia contemporanea. Alla fine della Seconda guerra mondiale, l'area di Braies è collegata alla vicenda degli ostaggi e prigionieri speciali trasportati dalle SS e poi liberati nel 1945. Questo tema va trattato con misura: non è il centro della scheda naturalistica, ma può essere un collegamento utile se l'esaminatore chiede di ampliare il discorso verso la storia del territorio.
 
-#### Come usarlo all'orale
+#### Come usarlo nella spiegazione
 
 Non conviene aprire la risposta partendo dalla storia contemporanea. Meglio seguire questo ordine:
 
@@ -179,7 +173,7 @@ Non conviene aprire la risposta partendo dalla storia contemporanea. Meglio segu
 5. turismo e gestione dei flussi;
 6. eventuale cenno storico al Grand Hotel e al Novecento.
 
-In questo modo la risposta resta centrata sul programma e non diventa dispersiva.
+In questo modo la risposta resta centrata sul percorso e non diventa dispersiva.
 
 ---
 
@@ -187,19 +181,19 @@ In questo modo la risposta resta centrata sul programma e non diventa dispersiva
 
 La Provincia autonoma di Bolzano è un territorio plurilingue. La toponomastica stessa lo mostra: **Braies / Prags**, **Lago di Braies / Pragser Wildsee**, **Croda del Becco / Seekofel**. In Alto Adige convivono italiano, tedesco e ladino, con differenze locali legate alle valli e alle comunità.
 
-Per una guida turistica nazionale, questo è un aspetto importante perché il paesaggio non è mai solo natura: è anche territorio abitato, nominato, vissuto e interpretato da comunità diverse. Nei contesti dolomitici, la componente ladina è particolarmente rilevante in alcune vallate, e l'immaginario delle Dolomiti si intreccia con tradizioni orali, leggende e identità locali.
+In questo territorio il paesaggio non è mai solo natura: è anche territorio abitato, nominato, vissuto e interpretato da comunità diverse. Nei contesti dolomitici, la componente ladina è particolarmente rilevante in alcune vallate, e l'immaginario delle Dolomiti si intreccia con tradizioni espressive, leggende e identità locali.
 
-All'orale è sufficiente mostrare consapevolezza: non serve fare una lezione sulla storia istituzionale dell'autonomia altoatesina, ma è utile dire che il sito si colloca in un territorio plurilingue e culturalmente stratificato.
+Nella spiegazione è sufficiente mostrare consapevolezza: non serve fare una lezione sulla storia istituzionale dell'autonomia altoatesina, ma è utile dire che il sito si colloca in un territorio plurilingue e culturalmente stratificato.
 
 ---
 
 ### Suggerimenti di esposizione
 
-#### Risposta modello
+#### Sintesi narrativa
 
 > Il sito "Dolomiti e lago di Braies" si trova nella Provincia autonoma di Bolzano, nel comune di Braies, in Val Pusteria. È un luogo emblematico del paesaggio dolomitico perché unisce le pareti chiare e verticali delle Dolomiti, i boschi alpini, la conca lacustre e il forte valore estetico del lago. Le Dolomiti sono patrimonio naturale UNESCO dal 2009 per due motivi principali: la straordinaria bellezza paesaggistica e il valore geologico e geomorfologico. Il lago di Braies si inserisce nel Parco naturale Fanes-Senes-Braies, istituito nel 1980, area di grande importanza per habitat, fenomeni carsici, altipiani e laghi alpini. Dal punto di vista turistico, Braies è anche un caso di gestione delicata dei flussi, perché la sua fama fotografica e mediatica ha prodotto forte pressione sul territorio. Una guida dovrebbe quindi presentarlo non solo come luogo panoramico, ma come esempio di patrimonio naturale da interpretare e tutelare.
 
-#### Presentazione orale da circa 5 minuti
+#### Percorso narrativo breve
 
 > Il lago di Braies, o Pragser Wildsee, è uno dei luoghi più rappresentativi delle Dolomiti altoatesine. Si trova nel comune di Braies, in Val Pusteria, all'interno del contesto del Parco naturale Fanes-Senes-Braies. Il paesaggio è dominato dal contrasto tra lo specchio d'acqua verde-azzurro, i boschi di conifere e le pareti dolomitiche della Croda del Becco. Questo rapporto tra acqua, roccia e vegetazione spiega la grande forza scenografica del sito.
 >
@@ -207,21 +201,21 @@ All'orale è sufficiente mostrare consapevolezza: non serve fare una lezione sul
 >
 > Il secondo collegamento è con il Parco naturale Fanes-Senes-Braies. Il parco tutela un tipico ambiente dolomitico, con altipiani, fenomeni carsici, laghi, malghe e habitat alpini. Il lago di Braies è una delle sue emergenze più note, ma va compreso come parte di un sistema ambientale più ampio. Proprio la fama del lago impone oggi una riflessione sulla sostenibilità: l'accesso in alcuni periodi viene regolato per limitare l'impatto delle auto e favorire mezzi pubblici, navette, bicicletta e accesso pedonale. Per questo, il sito è utile per parlare non solo di bellezza naturale, ma anche di tutela, gestione e responsabilità del turismo.
 
-#### Presentazione orale da circa 5 minuti
+#### Percorso narrativo breve
 
-> Il sito "Dolomiti e lago di Braies" richiesto dal programma si trova nella Provincia autonoma di Bolzano, nel comune di Braies, in un'area laterale della Val Pusteria. È uno dei paesaggi più riconoscibili dell'Alto Adige: uno specchio d'acqua alpino, celebre per le tonalità verdi e azzurre, inserito in una conca dominata dalle pareti dolomitiche della Croda del Becco. La sua immagine è molto nota, ma per una guida turistica è importante andare oltre la dimensione fotografica e spiegare perché questo luogo sia significativo dal punto di vista naturale, paesaggistico, geologico e turistico.
+> Il sito "Dolomiti e lago di Braies" richiesto dalil percorso si trova nella Provincia autonoma di Bolzano, nel comune di Braies, in un'area laterale della Val Pusteria. È uno dei paesaggi più riconoscibili dell'Alto Adige: uno specchio d'acqua alpino, celebre per le tonalità verdi e azzurre, inserito in una conca dominata dalle pareti dolomitiche della Croda del Becco. La sua immagine è molto nota, ma per una guida turistica è importante andare oltre la dimensione fotografica e spiegare perché questo luogo sia significativo dal punto di vista naturale, paesaggistico, geologico e turistico.
 >
 > Il primo elemento da chiarire è il rapporto con le Dolomiti. Le Dolomiti sono patrimonio naturale UNESCO dal 2009. Il riconoscimento si basa su due criteri: da un lato l'eccezionale bellezza estetica, dall'altro il valore geologico e geomorfologico. La bellezza è data da forme molto riconoscibili: pareti verticali, torri, guglie, pinnacoli, altipiani, ghiaioni e forti contrasti tra roccia chiara, prati, boschi e acqua. Il valore geologico riguarda invece la possibilità di leggere nelle rocce una storia molto antica, legata ad ambienti marini, piattaforme carbonatiche, processi tettonici, erosione, glacialismo e carsismo. Le Dolomiti sono quindi un paesaggio spettacolare, ma anche un grande documento naturale.
 >
 > Il lago di Braies è particolarmente efficace per spiegare questa doppia dimensione. Da un lato offre una percezione immediata della bellezza dolomitica: il riflesso delle pareti nell'acqua, il colore del lago, la verticalità della Croda del Becco e il contrasto con il bosco. Dall'altro permette di introdurre il tema della tutela, perché si trova nel Parco naturale Fanes-Senes-Braies. Questo parco, istituito nel 1980, tutela più di venticinquemila ettari di territorio alpino e comprende altipiani, laghi, habitat di alta quota e fenomeni carsici. La Provincia autonoma di Bolzano lo descrive come un tipico paesaggio dolomitico, con aree importanti dal punto di vista geomorfologico.
 >
-> Un altro aspetto importante è quello turistico. Il lago di Braies è diventato una vera icona, anche grazie alla diffusione mediatica e fotografica. Questo ha portato grandi opportunità ma anche problemi: concentrazione dei visitatori, traffico, pressione sui sentieri, rischio di banalizzazione del paesaggio. Per questo l'accesso viene regolato in determinati periodi e si promuovono modalità più sostenibili, come navette, mezzi pubblici, bicicletta e percorsi a piedi. È un caso interessante per l'esame perché permette di parlare di turismo naturalistico non come semplice consumo del paesaggio, ma come fruizione responsabile.
+> Un altro aspetto importante è quello turistico. Il lago di Braies è diventato una vera icona, anche grazie alla diffusione mediatica e fotografica. Questo ha portato grandi opportunità ma anche problemi: concentrazione dei visitatori, traffico, pressione sui sentieri, rischio di banalizzazione del paesaggio. Per questo l'accesso viene regolato in determinati periodi e si promuovono modalità più sostenibili, come navette, mezzi pubblici, bicicletta e percorsi a piedi. È un caso interessante per la lettura del sito perché permette di parlare di turismo naturalistico non come semplice consumo del paesaggio, ma come fruizione responsabile.
 >
 > Infine, il lago presenta anche una dimensione storico-culturale. Il Grand Hotel Lago di Braies rimanda alla stagione del turismo alpino tra Otto e Novecento, quando le Dolomiti diventano meta di viaggiatori, alpinisti e villeggianti europei. Il territorio è inoltre plurilingue: i nomi italiani, tedeschi e ladini ricordano la complessità culturale dell'Alto Adige. In conclusione, Braies è un sito da presentare come sintesi di paesaggio, geologia, tutela ambientale, storia del turismo e identità locale.
 
 ---
 
-### Domande probabili
+### Domande guida
 
 #### Domanda 1 - Perché le Dolomiti sono patrimonio UNESCO?
 
@@ -247,7 +241,7 @@ Il lago di Braies si trova nel comune di Braies, in Provincia autonoma di Bolzan
 
 Lo presenterei partendo dalla percezione visiva: il lago, il colore dell'acqua, il riflesso delle Dolomiti e la Croda del Becco. Poi spiegherei che il luogo fa parte di un sistema più ampio: le Dolomiti UNESCO e il Parco naturale Fanes-Senes-Braies. Infine, introdurrei il tema della responsabilità turistica: Braies è molto famoso e molto frequentato, quindi richiede comportamenti rispettosi, uso dei mezzi pubblici quando previsto, attenzione ai sentieri e consapevolezza del valore ambientale del luogo.
 
-#### Domanda 5 - Qual è il rischio principale nel raccontare Braies all'orale?
+#### Domanda 5 - Qual è il rischio principale nel raccontare Braies nella spiegazione?
 
 **Risposta modello:**
 
@@ -257,10 +251,10 @@ Il rischio è ridurlo a un'immagine da cartolina. Una risposta efficace deve inv
 
 ### Collegamenti utili
 
-#### Con altri siti del programma
+#### Con altri siti del percorso
 
-**Dolomiti - Cortina / area dolomitica, Veneto, Sezione III.**
-Il programma pratico comprende una voce dolomitica veneta, distinta da Braies. Il collegamento è utile perché consente di spiegare che le Dolomiti sono un patrimonio seriale e interregionale, ma bisogna evitare di confondere il sito di Braies/Bolzano con l'area di Cortina/Belluno.
+**Dolomiti - Cortina / area dolomitica, Veneto, percorso integrativo.**
+Il percorso pratico comprende una voce dolomitica veneta, distinta da Braies. Il collegamento è utile perché consente di spiegare che le Dolomiti sono un patrimonio seriale e interregionale, ma bisogna evitare di confondere il sito di Braies/Bolzano con l'area di Cortina/Belluno.
 
 **Parco Nazionale del Gran Paradiso, Valle d'Aosta.**
 Collegamento sul tema del parco alpino e della tutela naturalistica, anche se il Gran Paradiso è un parco nazionale e il Fanes-Senes-Braies è un parco naturale provinciale.
@@ -271,7 +265,7 @@ Collegamento utile per confrontare due paesaggi montani italiani: Appennino e Al
 **Colline del Prosecco, Veneto, e paesaggi vitivinicoli della Toscana.**
 Collegamento sul concetto di paesaggio come costruzione naturale e culturale. Braies è prevalentemente naturale; Prosecco e Val d'Orcia sono paesaggi fortemente modellati dall'uomo.
 
-#### Con temi generali d'orale
+#### Con temi generali descrittiva
 
 - patrimonio naturale UNESCO;
 - turismo sostenibile;
@@ -283,20 +277,20 @@ Collegamento sul concetto di paesaggio come costruzione naturale e culturale. Br
 
 ---
 
-## Ripasso finale
+## Sintesi finale
 ### Errori da evitare
 
 1. **Dire "Trentino" in modo generico.**
    Il sito è in Provincia autonoma di Bolzano, quindi in Alto Adige / Südtirol. Meglio evitare l'uso impreciso di "Trentino" per riferirsi a Braies.
 
 2. **Confondere Braies con Cortina.**
-   Cortina e l'area dolomitica bellunese sono collegate al tema Dolomiti, ma nel programma sono voce diversa, in Veneto e in Sezione III.
+   Cortina e l'area dolomitica bellunese sono collegate al tema Dolomiti, ma nel percorso sono voce diversa, in Veneto e in percorso integrativo.
 
 3. **Descrivere il lago solo come luogo instagrammabile.**
    Questo abbassa il livello della risposta. Bisogna parlare di paesaggio, UNESCO, geologia, parco naturale e sostenibilità.
 
 4. **Memorizzare dettagli pratici mutevoli.**
-   Orari, parcheggi, navette e restrizioni possono cambiare. Per l'orale serve il concetto: gestione dei flussi e mobilità sostenibile.
+   Orari, parcheggi, navette e restrizioni possono cambiare. Per la spiegazione serve il concetto: gestione dei flussi e mobilità sostenibile.
 
 5. **Trascurare il parco naturale.**
    Il lago va inserito nel Parco naturale Fanes-Senes-Braies, non trattato come elemento isolato.
@@ -321,7 +315,7 @@ Collegamento sul concetto di paesaggio come costruzione naturale e culturale. Br
 
 ---
 
-### Mini-simulazione orale
+### Domande guida
 
 ### Traccia A
 
@@ -363,4 +357,3 @@ Perché Braies è un esempio molto chiaro di luogo naturale diventato estremamen
 - [Südtirol / Alto Adige, "Lago di Braies"](https://www.suedtirol.info/it/it/esperienze-eventi/natura/laghi-e-piscine-naturali/lago-di-braies)
 - [Hotel Lago di Braies, storia dell'albergo storico](https://www.lagodibraies.com/it/hotel-lago-di-braies/albergo-storico-lago-di-braies-p64.html)
 - [Archivio storico Lago di Braies, liberazione dei prigionieri speciali nel 1945](https://www.foerdervereinzgapragserwildsee.com/it/geschichte/die-befreiung-der-sippen-und-sonderhaeftlinge-1945/)
-- Wikimedia Commons, immagini citate nelle didascalie.

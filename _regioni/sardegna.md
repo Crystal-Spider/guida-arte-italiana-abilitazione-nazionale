@@ -4,31 +4,21 @@ layout: default
 nav_order: 14
 ---
 
-# Guida per la prova orale - Sardegna
+# Sardegna
 
 ## Perimetro e orientamento
-**Perimetro del documento:** solo prova orale, con schede approfondite per i siti e musei della Sardegna presenti nella Sezione I e nella Sezione II del programma. In appendice sono inclusi, come richiesto, esempi di presentazione orale da circa 5 minuti per i siti sardi indicati nel programma come **P** nella prova tecnico-pratica.
+Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Sardegna. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-**Nota sul formato:** non è inclusa una scheda sintetica regionale generale. Le informazioni sono organizzate direttamente per sito, con taglio espositivo da prova orale.
+| N. | Voce | Tipologia | Area | Note |
+|---:|---|---|---|---|
+| 1 | Tomba dei Giganti di Coddu Vecchiu e Complesso nuragico La Prisgiona | Sito storico-artistico | Vedi scheda | Scheda principale |
+| 2 | Domus de janas, necropoli e siti megalitici: Anghelu Ruju, Montessu e Pranu Muttedu | Paesaggio o area archeologica | Montessu e Pranu Muttedu | Scheda principale |
+| 3 | Santuari nuragici della Sardegna: Santa Cristina e Santa Vittoria | Sito o tema | Vedi scheda | Scheda principale |
+| 4 | Museo di Cabras e area dei Giganti di Monte Prama | Museo | Vedi scheda | Scheda principale |
+| 5 | Siti fenicio-punici e romani della Sardegna: Tharros, Nora e Monte Sirai | Sito o tema | Nora e Monte Sirai | Scheda principale |
+| 6 | Museo Archeologico Nazionale di Cagliari | Museo | Vedi scheda | Scheda principale |
 
----
-
-
-| Tipo | Sito/Museo | Località | Provincia/Città | Programma |
-|---|---|---|---|---|
-| Sito | Tomba dei Giganti di Coddu Vecchiu e Complesso nuragico La Prisgiona | Arzachena | Sassari | Orale |
-| Sito | Domus de janas, necropoli e siti megalitici della Sardegna: Anghelu Ruju, Montessu e Pranu Muttedu | Alghero, Villaperuccio, Goni | Sassari, Sud Sardegna, Cagliari | Orale |
-| Sito | Santuari nuragici della Sardegna: Santa Cristina e Santa Vittoria | Paulilatino, Serri | Oristano, Sud Sardegna | Orale |
-| Sito/Museo | Museo di Cabras e area dei Giganti di Monte Prama | Cabras | Oristano | Orale |
-| Sito | Siti fenicio-punici e romani della Sardegna: Tharros, Nora e Monte Sirai | Cabras, Pula, Carbonia | Oristano, Cagliari, Sud Sardegna | Orale |
-| Museo | Museo Archeologico Nazionale di Cagliari | Cagliari | Cagliari | Orale |
-| Appendice pratica | Su Nuraxi di Barumini | Barumini | Cagliari | Pratica |
-| Appendice pratica | Museo della Statuaria Preistorica (Menhir) | Laconi | Oristano | Pratica |
-| Appendice pratica | Parco Archeologico di Turris Libisonis | Porto Torres | Sassari | Pratica |
-
----
-
-## 2. Tomba dei Giganti di Coddu Vecchiu e Complesso nuragico La Prisgiona
+## Tomba dei Giganti di Coddu Vecchiu e Complesso nuragico La Prisgiona
 
 **Località:** Arzachena, Gallura, Sardegna nord-orientale.
 **Tipologia:** sito nuragico composto da insediamento abitativo e area funeraria.
@@ -46,21 +36,21 @@ nav_order: 14
 
 La Prisgiona e Coddu Vecchiu si trovano nel territorio di Arzachena, in località Capichera, in un paesaggio fortemente caratterizzato da rilievi granitici, macchia mediterranea e vigneti. L'area è fondamentale per leggere la civiltà nuragica della Gallura non come fenomeno isolato, ma come sistema territoriale: un nuraghe complesso, un villaggio e una grande area funeraria formano un insieme coerente, leggibile come centro di controllo, vita comunitaria e memoria collettiva.
 
-All'orale conviene aprire la scheda localizzando il sito: «Siamo nella Gallura nord-orientale, vicino ad Arzachena, in un paesaggio granitico che contribuisce alla monumentalità dei siti». Questa apertura è utile perché evita di presentare il nuraghe come semplice "torre preistorica": qui il tema principale è la relazione tra architettura, comunità e territorio.
+Nella spiegazione conviene aprire la scheda localizzando il sito: «Siamo nella Gallura nord-orientale, vicino ad Arzachena, in un paesaggio granitico che contribuisce alla monumentalità dei siti». Questa apertura è utile perché evita di presentare il nuraghe come semplice "torre preistorica": qui il tema principale è la relazione tra architettura, comunità e territorio.
 
 ### La Prisgiona: struttura del complesso nuragico
 
 La Prisgiona è uno dei più importanti insediamenti nuragici della Gallura. Il complesso sorge su un rilievo granitico che domina la piana di Arzachena e il territorio di Capichera. Il nuraghe è di tipo complesso: comprende una torre principale, due torri laterali e un bastione a sviluppo curvilineo o triangolare, a seconda della lettura planimetrica. Questa articolazione lo distingue dai nuraghi monotorre e permette di parlare di un'evoluzione architettonica più avanzata.
 
-Il mastio centrale è l'elemento più riconoscibile. Intorno a esso si sviluppano cortili, corridoi, ambienti accessori e un villaggio di capanne. Il visitatore non deve immaginare una struttura militare isolata: il nuraghe era il fulcro di un abitato, quindi di una comunità organizzata. Per l'esame, questo punto è centrale: nella civiltà nuragica l'architettura in pietra non è solo difesa, ma anche controllo del territorio, gestione delle risorse, rappresentazione simbolica e organizzazione sociale.
+Il mastio centrale è l'elemento più riconoscibile. Intorno a esso si sviluppano cortili, corridoi, ambienti accessori e un villaggio di capanne. Il visitatore non deve immaginare una struttura militare isolata: il nuraghe era il fulcro di un abitato, quindi di una comunità organizzata. Per la lettura del sito, questo punto è centrale: nella civiltà nuragica l'architettura in pietra non è solo difesa, ma anche controllo del territorio, gestione delle risorse, rappresentazione simbolica e organizzazione sociale.
 
-Uno degli elementi più importanti del sito è il pozzo, interpretato come struttura legata all'approvvigionamento idrico. È un dettaglio utile all'orale perché permette di passare dal monumento alla vita quotidiana: una guida non si limita a descrivere mura e torri, ma spiega come una comunità abitava, lavorava e gestiva le proprie risorse. Altro punto fondamentale è la cosiddetta capanna delle riunioni, spazio che richiama funzioni comunitarie e forse decisionali. Va presentata con prudenza, evitando ricostruzioni eccessivamente certe, ma sottolineando che questi ambienti indicano una società articolata.
+Uno degli elementi più importanti del sito è il pozzo, interpretato come struttura legata all'approvvigionamento idrico. È un dettaglio utile nella spiegazione perché permette di passare dal monumento alla vita quotidiana: una guida non si limita a descrivere mura e torri, ma spiega come una comunità abitava, lavorava e gestiva le proprie risorse. Altro punto fondamentale è la cosiddetta capanna delle riunioni, spazio che richiama funzioni comunitarie e forse decisionali. Va presentata con prudenza, evitando ricostruzioni eccessivamente certe, ma sottolineando che questi ambienti indicano una società articolata.
 
 ### Il villaggio: vita quotidiana e organizzazione sociale
 
 L'insediamento attorno al nuraghe comprende numerose capanne, non tutte scavate o leggibili allo stesso modo. Le capanne nuragiche sono generalmente strutture circolari, con muri in pietra e coperture deperibili oggi scomparse. All'interno potevano svolgersi attività domestiche, produttive o comunitarie. L'importanza di La Prisgiona sta proprio nella possibilità di leggere il nuraghe in rapporto al villaggio: non un monumento isolato, ma un centro abitato.
 
-Per una guida turistica, un buon passaggio espositivo è: «Il nuraghe è il segno verticale del potere e della presenza comunitaria; il villaggio, invece, restituisce la dimensione quotidiana della civiltà nuragica». Questa frase funziona bene perché contrappone simbolo e vita reale, aiutando la commissione a percepire una visione d'insieme.
+Per una guida turistica, un buon passaggio descrittivo è: «Il nuraghe è il segno verticale del potere e della presenza comunitaria; il villaggio, invece, restituisce la dimensione quotidiana della civiltà nuragica». Questa frase funziona bene perché contrappone simbolo e vita reale, aiutando a percepire una visione d'insieme.
 
 ### Coddu Vecchiu: tomba dei giganti e culto funerario
 
@@ -68,19 +58,19 @@ A breve distanza da La Prisgiona si trova la Tomba dei Giganti di Coddu Vecchiu,
 
 Coddu Vecchiu è costruita in granito locale. L'elemento più riconoscibile è la grande stele centinata centrale, composta da lastre sovrapposte, con l'apertura d'accesso alla camera funeraria. Davanti alla stele si sviluppa l'esedra, cioè uno spazio semicircolare delimitato da ortostati: non è solo un elemento architettonico, ma anche un possibile spazio rituale. Dietro la facciata si allunga il corridoio funerario, destinato alle deposizioni.
 
-All'orale è importante distinguere tre livelli: architettura, funzione e significato. Architettonicamente, la tomba è una struttura megalitica in pietra locale. Funzionalmente, è una sepoltura collettiva. Simbolicamente, esprime il rapporto della comunità con gli antenati e con la memoria del gruppo. Un errore da evitare è descriverla soltanto come "monumento funerario": bisogna sottolineare che il culto dei morti era anche un modo per rafforzare l'identità della comunità.
+Nella spiegazione è importante distinguere tre livelli: architettura, funzione e significato. Architettonicamente, la tomba è una struttura megalitica in pietra locale. Funzionalmente, è una sepoltura collettiva. Simbolicamente, esprime il rapporto della comunità con gli antenati e con la memoria del gruppo. Un errore da evitare è descriverla soltanto come "monumento funerario": bisogna sottolineare che il culto dei morti era anche un modo per rafforzare l'identità della comunità.
 
 ### Collegamento fra i due siti
 
-La forza del complesso La Prisgiona-Coddu Vecchiu sta nel rapporto tra abitato e necropoli. Il nuraghe e il villaggio rappresentano la vita comunitaria; la tomba dei giganti rappresenta la continuità del gruppo oltre la morte. Per questo, se la domanda d'esame riguarda entrambi i siti, conviene non dividerli meccanicamente, ma presentarli come due poli dello stesso paesaggio culturale.
+La forza del complesso La Prisgiona-Coddu Vecchiu sta nel rapporto tra abitato e necropoli. Il nuraghe e il villaggio rappresentano la vita comunitaria; la tomba dei giganti rappresenta la continuità del gruppo oltre la morte. Per questo, se la domanda di riferimento riguarda entrambi i siti, conviene non dividerli meccanicamente, ma presentarli come due poli dello stesso paesaggio culturale.
 
 Un possibile collegamento efficace: «La Prisgiona ci parla della comunità dei vivi: controllo, abitato, produzione, gestione dell'acqua. Coddu Vecchiu ci parla della comunità degli antenati: memoria, identità, rito funerario. Insieme, i due siti permettono di spiegare la civiltà nuragica come sistema sociale, non solo come insieme di monumenti».
 
 ### Cosa deve saper dire una guida
 
-Devi saper spiegare che La Prisgiona non è solo un nuraghe, ma un complesso articolato con villaggio. Devi poi collegare Coddu Vecchiu alla tipologia delle tombe dei giganti, chiarendo il valore della stele e dell'esedra. La commissione potrebbe apprezzare molto la capacità di collegare il sito al paesaggio gallurese: granito, rilievi, Capichera, vicinanza alla Costa Smeralda, contrasto tra turismo balneare e archeologia interna.
+La Prisgiona non è solo un nuraghe, ma un complesso articolato con villaggio. Coddu Vecchiu va collegato alla tipologia delle tombe dei giganti, chiarendo il valore della stele e dell'esedra. È molto efficace collegare il sito al paesaggio gallurese: granito, rilievi, Capichera, vicinanza alla Costa Smeralda, contrasto tra turismo balneare e archeologia interna.
 
-### Domande probabili
+### Domande guida
 
 1. Che cosa distingue La Prisgiona da un nuraghe semplice?
 2. Qual è la funzione della tomba dei giganti?
@@ -88,7 +78,7 @@ Devi saper spiegare che La Prisgiona non è solo un nuraghe, ma un complesso art
 4. Come collegheresti abitato nuragico e area funeraria?
 5. Quali aspetti del paesaggio gallurese valorizzeresti in una visita guidata?
 
-### Risposta modello
+### Sintesi narrativa
 
 La Prisgiona e Coddu Vecchiu, nel territorio di Arzachena, rappresentano uno dei nuclei più significativi della Sardegna nuragica gallurese. La Prisgiona è un nuraghe complesso con torre principale, torri laterali, bastione e villaggio, quindi permette di leggere l'organizzazione sociale e insediativa della comunità. Coddu Vecchiu è invece una tomba dei giganti, cioè una sepoltura collettiva nuragica caratterizzata da stele centrale, esedra e corridoio funerario. Presentati insieme, i due siti mostrano il rapporto tra abitato, territorio e culto degli antenati.
 
@@ -98,7 +88,7 @@ Non partire dalla definizione astratta di "civiltà nuragica". Parti dal paesagg
 
 ---
 
-## 3. Domus de janas, necropoli e siti megalitici: Anghelu Ruju, Montessu e Pranu Muttedu
+## Domus de janas, necropoli e siti megalitici: Anghelu Ruju, Montessu e Pranu Muttedu
 
 **Località:** Alghero, Villaperuccio, Goni.
 **Tipologia:** necropoli ipogeiche e complessi megalitici prenuragici.
@@ -116,9 +106,9 @@ Non partire dalla definizione astratta di "civiltà nuragica". Parti dal paesagg
 
 Le domus de janas sono tombe ipogeiche scavate nella roccia, diffuse in Sardegna in età prenuragica. Il nome significa tradizionalmente "case delle fate" o "case delle janas", ma dal punto di vista archeologico si tratta di spazi funerari. Sono spesso organizzate in necropoli e possono riprodurre, nella roccia, elementi dell'abitazione dei vivi: ambienti multipli, pilastri, false porte, cornici, architravi scolpiti, simboli legati al culto dei defunti e alla rigenerazione.
 
-Per l'esame, è importante spiegare che le domus de janas mostrano una società già capace di progettazione complessa e di ritualità strutturata prima della civiltà nuragica. Non bisogna quindi presentare la Sardegna antica cominciando direttamente dai nuraghi: esiste una lunga preistoria precedente, caratterizzata da culture come quella di Ozieri e da pratiche funerarie evolute.
+Per la lettura del sito, è importante spiegare che le domus de janas mostrano una società già capace di progettazione complessa e di ritualità strutturata prima della civiltà nuragica. Non bisogna quindi presentare la Sardegna antica cominciando direttamente dai nuraghi: esiste una lunga preistoria precedente, caratterizzata da culture come quella di Ozieri e da pratiche funerarie evolute.
 
-Nel 2025 il sito seriale "Funerary Tradition in the Prehistory of Sardinia - The domus de janas" è stato iscritto nella Lista del Patrimonio Mondiale UNESCO. Questo dato è molto utile all'orale perché segnala l'attualità del tema e consente di spiegare la Sardegna preistorica in chiave di patrimonio internazionale.
+Nel 2025 il sito seriale "Funerary Tradition in the Prehistory of Sardinia - The domus de janas" è stato iscritto nella Lista del Patrimonio Mondiale UNESCO. Questo dato è molto utile nella spiegazione perché segnala l'attualità del tema e consente di spiegare la Sardegna preistorica in chiave di patrimonio internazionale.
 
 ### Anghelu Ruju
 
@@ -126,7 +116,7 @@ La necropoli di Anghelu Ruju si trova nell'entroterra di Alghero ed è considera
 
 Le tombe di Anghelu Ruju mostrano planimetrie diverse: alcune sono semplici, altre più complesse, con più ambienti collegati. È importante sottolineare che l'architettura funeraria riproduce spesso modelli domestici. In questo modo la tomba diventa una "casa per l'eternità", uno spazio simbolico che conserva il rapporto tra vivi, defunti e comunità.
 
-Tra gli elementi da ricordare ci sono decorazioni e simboli legati al mondo religioso e funerario, tra cui motivi taurini, false porte e articolazioni spaziali che suggeriscono una concezione complessa dell'aldilà. All'orale non serve elencare tutte le tombe; è più utile spiegare perché il sito è rappresentativo: ampiezza della necropoli, ricchezza tipologica, valore documentario e continuità d'uso.
+Tra gli elementi da ricordare ci sono decorazioni e simboli legati al mondo religioso e funerario, tra cui motivi taurini, false porte e articolazioni spaziali che suggeriscono una concezione complessa dell'aldilà. Nella spiegazione non serve elencare tutte le tombe; è più utile spiegare perché il sito è rappresentativo: ampiezza della necropoli, ricchezza tipologica, valore documentario e continuità d'uso.
 
 ### Montessu
 
@@ -134,7 +124,7 @@ La necropoli di Montessu si trova nel territorio di Villaperuccio, nel Sulcis. �
 
 Montessu comprende numerose domus de janas, scavate nella roccia e differenti per dimensioni e complessità. Alcune tombe presentano elementi decorativi di grande interesse, come simboli legati al culto funerario, motivi corniformi e rappresentazioni architettoniche. La necropoli fu utilizzata per un lungo arco di tempo, dal Neolitico finale fino al Bronzo antico, con fasi culturali diverse.
 
-Per l'esposizione orale, Montessu è utile per spiegare la monumentalizzazione della morte. Non si tratta soltanto di sepolture: l'intera parete rocciosa diventa paesaggio rituale. Un'espressione efficace è: «A Montessu la roccia non è solo supporto materiale, ma diventa architettura sacra».
+Per l'esposizione, Montessu è utile per spiegare la monumentalizzazione della morte. Non si tratta soltanto di sepolture: l'intera parete rocciosa diventa paesaggio rituale. Un'espressione efficace è: «A Montessu la roccia non è solo supporto materiale, ma diventa architettura sacra».
 
 ### Pranu Muttedu
 
@@ -142,13 +132,13 @@ Pranu Muttedu, presso Goni, è uno dei più importanti complessi megalitici dell
 
 Il dato da memorizzare è la straordinaria concentrazione di menhir: circa sessanta, disposti in coppie, gruppi o allineamenti. A differenza di Anghelu Ruju e Montessu, dove il tema principale è la necropoli ipogeica, qui il tema centrale è il megalitismo. I menhir possono essere letti come segni verticali nello spazio, connessi a riti funerari, culti degli antenati e organizzazione simbolica del paesaggio.
 
-Pranu Muttedu permette di collegare la Sardegna a fenomeni megalitici più ampi, senza però appiattirla su confronti generici con Stonehenge. È meglio evitare formule come "la Stonehenge sarda" se non come suggestione divulgativa, perché all'esame conviene usare categorie precise: area sacro-funeraria, menhir, tombe a circolo, domus de janas, culto degli antenati.
+Pranu Muttedu permette di collegare la Sardegna a fenomeni megalitici più ampi, senza però appiattirla su confronti generici con Stonehenge. È meglio evitare formule come "la Stonehenge sarda" se non come suggestione divulgativa, perché alla lettura del sito conviene usare categorie precise: area sacro-funeraria, menhir, tombe a circolo, domus de janas, culto degli antenati.
 
 ### Collegamento tra i tre siti
 
 Anghelu Ruju, Montessu e Pranu Muttedu raccontano tre modi diversi di costruire il rapporto tra morte, spazio e comunità. Anghelu Ruju è utile per la complessità delle domus de janas e per la quantità delle tombe. Montessu colpisce per il rapporto scenografico tra necropoli e paesaggio. Pranu Muttedu introduce il tema del megalitismo e dei menhir. Presentarli insieme permette di mostrare che la Sardegna prenuragica non è un blocco uniforme, ma un insieme di esperienze rituali e architettoniche differenti.
 
-### Domande probabili
+### Domande guida
 
 1. Che cosa sono le domus de janas?
 2. Perché Anghelu Ruju è un sito importante?
@@ -156,17 +146,17 @@ Anghelu Ruju, Montessu e Pranu Muttedu raccontano tre modi diversi di costruire 
 4. Qual è il ruolo dei menhir a Pranu Muttedu?
 5. Come collegheresti questi siti alla recente iscrizione UNESCO?
 
-### Risposta modello
+### Sintesi narrativa
 
 Anghelu Ruju, Montessu e Pranu Muttedu permettono di illustrare la Sardegna prenuragica attraverso architetture funerarie e megalitiche. Le domus de janas sono tombe scavate nella roccia, spesso organizzate in necropoli e decorate con elementi simbolici. Anghelu Ruju è una delle più importanti necropoli del nord Sardegna, Montessu è un grande complesso funerario del Sulcis inserito in un anfiteatro naturale, mentre Pranu Muttedu è noto per l'eccezionale concentrazione di menhir e strutture sacro-funerarie. Questi siti mostrano una società complessa, con forte attenzione al culto dei defunti e alla memoria comunitaria.
 
 ### Suggerimenti di esposizione
 
-Usa una struttura comparativa: «Anghelu Ruju: quantità e complessità delle tombe; Montessu: paesaggio funerario monumentale; Pranu Muttedu: megalitismo e menhir». Questa tripartizione è facile da ricordare e funziona bene in sede d'esame.
+Usa una struttura comparativa: «Anghelu Ruju: quantità e complessità delle tombe; Montessu: paesaggio funerario monumentale; Pranu Muttedu: megalitismo e menhir». Questa tripartizione è facile da ricordare e funziona bene in sede di riferimento.
 
 ---
 
-## 4. Santuari nuragici della Sardegna: Santa Cristina e Santa Vittoria
+## Santuari nuragici della Sardegna: Santa Cristina e Santa Vittoria
 
 **Località:** Santa Cristina a Paulilatino; Santa Vittoria a Serri.
 **Tipologia:** santuari nuragici, con pozzi sacri e aree rituali.
@@ -184,7 +174,7 @@ Usa una struttura comparativa: «Anghelu Ruju: quantità e complessità delle to
 
 I santuari nuragici rappresentano una fase fondamentale della civiltà nuragica: non solo torri e villaggi, ma luoghi di culto, incontro e scambio. Santa Cristina e Santa Vittoria sono due esempi particolarmente efficaci perché permettono di spiegare il culto delle acque, la monumentalità dell'architettura sacra e il ruolo dei santuari come punti di aggregazione.
 
-All'orale è utile evitare una descrizione puramente archeologica. Bisogna far capire che questi luoghi erano poli religiosi e sociali: qui si svolgevano riti, incontri, scambi, celebrazioni e forse forme di assemblea. Il santuario nuragico è quindi uno spazio in cui sacro, politica e comunità si intrecciano.
+Nella spiegazione è utile evitare una descrizione puramente archeologica. Bisogna far capire che questi luoghi erano poli religiosi e sociali: qui si svolgevano riti, incontri, scambi, celebrazioni e forse forme di assemblea. Il santuario nuragico è quindi uno spazio in cui sacro, politica e comunità si intrecciano.
 
 ### Santa Cristina di Paulilatino
 
@@ -200,13 +190,13 @@ Il santuario di Santa Vittoria si trova sull'altopiano della Giara di Serri ed �
 
 Il recinto delle feste è un elemento fondamentale perché suggerisce la funzione del santuario come luogo di raduno. Qui la comunità poteva incontrarsi in occasione di celebrazioni religiose, scambi e momenti collettivi. Santa Vittoria consente quindi di spiegare la Sardegna nuragica come società capace di organizzare spazi sovralocali, non limitati al singolo villaggio.
 
-Negli scavi sono stati ritrovati materiali votivi e oggetti che testimoniano contatti con altre aree del Mediterraneo. Questo punto è molto utile all'orale: permette di superare l'immagine di una Sardegna isolata e di presentarla invece come isola inserita in reti di scambio, contatto e circolazione culturale.
+Negli scavi sono stati ritrovati materiali votivi e oggetti che testimoniano contatti con altre aree del Mediterraneo. Questo punto è molto utile nella spiegazione: permette di superare l'immagine di una Sardegna isolata e di presentarla invece come isola inserita in reti di scambio, contatto e circolazione culturale.
 
 ### Confronto tra Santa Cristina e Santa Vittoria
 
 Santa Cristina è ideale per spiegare la perfezione formale del pozzo sacro e il culto delle acque. Santa Vittoria è ideale per spiegare il santuario come organismo complesso: luogo di culto, incontro e scambio. In una risposta ben costruita, puoi dire: «Santa Cristina è il capolavoro della forma; Santa Vittoria è il capolavoro del sistema». La prima impressiona per la geometria del pozzo; la seconda per l'ampiezza e l'articolazione del complesso.
 
-### Domande probabili
+### Domande guida
 
 1. Che cosa sono i pozzi sacri nuragici?
 2. Qual è il significato del culto delle acque?
@@ -214,7 +204,7 @@ Santa Cristina è ideale per spiegare la perfezione formale del pozzo sacro e il
 4. Perché Santa Vittoria può essere definita santuario sovralocale?
 5. Quali elementi mostrano il rapporto tra Sardegna nuragica e Mediterraneo?
 
-### Risposta modello
+### Sintesi narrativa
 
 Santa Cristina e Santa Vittoria sono due dei principali santuari nuragici della Sardegna. Entrambi sono legati al culto delle acque, ma hanno caratteri diversi. Santa Cristina è celebre per il pozzo sacro, con atrio, scala e camera ipogea a tholos, esempio di straordinaria precisione architettonica. Santa Vittoria, sull'altopiano di Serri, è invece un complesso molto più articolato, con pozzo sacro, recinto delle feste, capanne e spazi rituali. Insieme mostrano che la civiltà nuragica non costruì solo torri e villaggi, ma anche luoghi sacri capaci di aggregare comunità e contatti mediterranei.
 
@@ -224,7 +214,7 @@ Non limitarti a dire "pozzo sacro". Spiega il gesto della visita: il fedele o il
 
 ---
 
-## 5. Museo di Cabras e area dei Giganti di Monte Prama
+## Museo di Cabras e area dei Giganti di Monte Prama
 
 **Località:** Cabras, Penisola del Sinis, provincia di Oristano.
 **Tipologia:** museo archeologico e area archeologica/contesto di provenienza delle statue.
@@ -240,7 +230,7 @@ Non limitarti a dire "pozzo sacro". Spiega il gesto della visita: il fedele o il
 
 ### Il Museo di Cabras
 
-Il Museo Civico Giovanni Marongiu di Cabras è un punto fondamentale per comprendere il patrimonio archeologico della Penisola del Sinis. Il museo racconta una storia lunga, che attraversa il Neolitico, la civiltà nuragica, la fase fenicio-punica e romana. Per la traccia d'esame, tuttavia, il nucleo più importante è l'area dei Giganti di Monte Prama.
+Il Museo Civico Giovanni Marongiu di Cabras è un punto fondamentale per comprendere il patrimonio archeologico della Penisola del Sinis. Il museo racconta una storia lunga, che attraversa il Neolitico, la civiltà nuragica, la fase fenicio-punica e romana. Per la voce di riferimento, tuttavia, il nucleo più importante è l'area dei Giganti di Monte Prama.
 
 Il museo è oggi una delle sedi principali per l'esposizione delle statue di Monte Prama e dei materiali associati. La visita consente di collegare reperti e territorio: non si tratta di statue isolate in una sala museale, ma di testimonianze provenienti da una necropoli e da un paesaggio archeologico specifico, il Sinis.
 
@@ -248,7 +238,7 @@ Il museo è oggi una delle sedi principali per l'esposizione delle statue di Mon
 
 I Giganti di Monte Prama sono statue monumentali in pietra calcarea, attribuite alla civiltà nuragica e datate generalmente tra la fine dell'Età del Bronzo e la prima Età del Ferro, con discussioni cronologiche ancora oggetto di studio. Rappresentano figure maschili, interpretate come pugilatori, arcieri e guerrieri. Accanto alle statue sono stati rinvenuti betili e modelli di nuraghe.
 
-Il dato essenziale da ricordare è che queste statue costituiscono una delle più antiche manifestazioni di statuaria monumentale del Mediterraneo occidentale. Questo le rende eccezionali non solo per la Sardegna, ma per la storia dell'arte antica europea e mediterranea. All'orale è utile sottolineare che esse cambiano l'immagine tradizionale della civiltà nuragica: non solo costruttori di torri, ma anche produttori di immagini monumentali e simboli identitari.
+Il dato essenziale da ricordare è che queste statue costituiscono una delle più antiche manifestazioni di statuaria monumentale del Mediterraneo occidentale. Questo le rende eccezionali non solo per la Sardegna, ma per la storia dell'arte antica europea e mediterranea. Nella spiegazione è utile sottolineare che esse cambiano l'immagine tradizionale della civiltà nuragica: non solo costruttori di torri, ma anche produttori di immagini monumentali e simboli identitari.
 
 Le figure dei pugilatori sono riconoscibili per lo scudo tenuto sopra il capo; gli arcieri e i guerrieri rimandano invece a una rappresentazione aristocratica e militare. I modelli di nuraghe sono altrettanto importanti perché mostrano la capacità della società nuragica di rappresentare simbolicamente la propria architettura più caratteristica.
 
@@ -256,13 +246,13 @@ Le figure dei pugilatori sono riconoscibili per lo scudo tenuto sopra il capo; g
 
 Monte Prama non è soltanto il luogo di ritrovamento di statue: è una necropoli, quindi uno spazio funerario e identitario. Le statue dovevano essere connesse a tombe e a un sistema di rappresentazione della memoria collettiva. Il tema centrale è la celebrazione di figure eroiche o antenati, attraverso immagini monumentali poste in un contesto funerario.
 
-Per una guida, è importante costruire un racconto che non si limiti al "mistero dei giganti". La parola "mistero" può attirare il pubblico, ma all'esame bisogna trasformarla in spiegazione: quali figure sono rappresentate? Con quali materiali? In quale contesto funerario? Quale idea di identità e potere esprimono?
+Per una guida, è importante costruire un racconto che non si limiti al "mistero dei giganti". La parola "mistero" può attirare il pubblico, ma alla lettura del sito bisogna trasformarla in spiegazione: quali figure sono rappresentate? Con quali materiali? In quale contesto funerario? Quale idea di identità e potere esprimono?
 
 ### Rapporto con il Sinis
 
 La Penisola del Sinis è un territorio archeologicamente densissimo: comprende Cabras, Tharros, aree nuragiche, fenicio-puniche e romane, paesaggi lagunari e costieri. Il museo funziona quindi come porta di accesso al territorio. Questa è un'ottima chiave da guida turistica: il museo non è la conclusione della visita, ma il punto da cui leggere il paesaggio circostante.
 
-### Domande probabili
+### Domande guida
 
 1. Che cosa sono i Giganti di Monte Prama?
 2. Quali figure rappresentano?
@@ -270,7 +260,7 @@ La Penisola del Sinis è un territorio archeologicamente densissimo: comprende C
 4. Qual è il rapporto tra museo di Cabras e territorio del Sinis?
 5. Come eviteresti una presentazione troppo "misteriosa" e poco scientifica?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Museo Civico Giovanni Marongiu di Cabras conserva ed espone reperti fondamentali per la storia archeologica del Sinis, tra cui le statue dei Giganti di Monte Prama. Queste sculture monumentali in pietra calcarea, attribuite alla civiltà nuragica, rappresentano pugilatori, arcieri e guerrieri, insieme a betili e modelli di nuraghe. La loro importanza sta nel fatto che costituiscono una delle più antiche forme di statuaria monumentale del Mediterraneo occidentale e mostrano una società nuragica capace di elaborare simboli complessi di identità, memoria e prestigio.
 
@@ -280,7 +270,7 @@ Apri con una frase forte ma controllata: «I Giganti di Monte Prama hanno cambia
 
 ---
 
-## 6. Siti fenicio-punici e romani della Sardegna: Tharros, Nora e Monte Sirai
+## Siti fenicio-punici e romani della Sardegna: Tharros, Nora e Monte Sirai
 
 **Località:** Tharros a Cabras; Nora a Pula; Monte Sirai a Carbonia.
 **Tipologia:** città e insediamenti fenicio-punici e romani.
@@ -299,7 +289,7 @@ Apri con una frase forte ma controllata: «I Giganti di Monte Prama hanno cambia
 
 Tharros, Nora e Monte Sirai sono fondamentali per spiegare la Sardegna come crocevia mediterraneo. Dopo la fase prenuragica e nuragica, l'isola entra in una rete di contatti che coinvolge Fenici, Punici e Romani. Questi siti mostrano continuità, trasformazione e stratificazione: in molti casi su preesistenze locali si innestano insediamenti commerciali fenici, sviluppi urbani punici e monumentalizzazioni romane.
 
-La chiave d'esame è non raccontare questi siti come "tre rovine antiche" separate. Devi presentarli come tre esempi della stessa dinamica: la Sardegna costiera e mineraria diventa parte attiva delle rotte commerciali e politiche del Mediterraneo occidentale.
+La chiave di riferimento è non raccontare questi siti come "tre rovine antiche" separate. Devi presentarli come tre esempi della stessa dinamica: la Sardegna costiera e mineraria diventa parte attiva delle rotte commerciali e politiche del Mediterraneo occidentale.
 
 ### Tharros
 
@@ -323,13 +313,13 @@ Monte Sirai si trova nel territorio di Carbonia, su un'altura che domina il paes
 
 La posizione elevata è fondamentale: Monte Sirai non è solo un luogo abitato, ma un punto strategico di controllo. In età punica il centro si sviluppa in rapporto alle dinamiche del Sulcis, area ricca di risorse e fortemente integrata nelle reti economiche del Mediterraneo occidentale. Anche dopo la conquista romana, il sito conserva elementi di continuità punica.
 
-All'orale, Monte Sirai è utile perché permette di bilanciare il racconto: non solo porti e coste, ma anche alture, miniere, vie interne e controllo del territorio. Il confronto con Tharros e Nora è quindi molto efficace.
+Nella spiegazione, Monte Sirai è utile perché permette di bilanciare il racconto: non solo porti e coste, ma anche alture, miniere, vie interne e controllo del territorio. Il confronto con Tharros e Nora è quindi molto efficace.
 
 ### Confronto tra i tre siti
 
 Tharros è il sito della stratificazione costiera nel Sinis. Nora è il sito della città fenicio-punica e romana in un paesaggio marino altamente leggibile, con forte componente monumentale romana. Monte Sirai è il sito dell'altura punica e del controllo del Sulcis. Presentati insieme, mostrano tre diverse forme di integrazione della Sardegna nel Mediterraneo: porto, città costiera, centro d'altura.
 
-### Domande probabili
+### Domande guida
 
 1. Quali sono le caratteristiche della presenza fenicia in Sardegna?
 2. Che differenza c'è tra fase fenicia e fase punica?
@@ -337,7 +327,7 @@ Tharros è il sito della stratificazione costiera nel Sinis. Nora è il sito del
 4. Quali elementi principali si vedono a Tharros e Nora?
 5. Perché Monte Sirai è importante per capire il Sulcis?
 
-### Risposta modello
+### Sintesi narrativa
 
 Tharros, Nora e Monte Sirai raccontano la Sardegna fenicio-punica e romana come parte integrante del Mediterraneo occidentale. Tharros, nella Penisola del Sinis, mostra una lunga stratificazione da insediamento nuragico e fenicio fino alla città romana. Nora, presso Pula, fu un importante centro fenicio, punico e romano, noto anche per la stele di Nora e per i resti urbani oggi visibili. Monte Sirai, presso Carbonia, rappresenta invece un insediamento d'altura legato al controllo del Sulcis e delle sue risorse. Insieme, i tre siti mostrano commercio, urbanizzazione, romanizzazione e continuità culturale.
 
@@ -347,7 +337,7 @@ Usa una mappa mentale: Tharros = Sinis e stratificazione; Nora = città costiera
 
 ---
 
-## 7. Museo Archeologico Nazionale di Cagliari
+## Museo Archeologico Nazionale di Cagliari
 
 **Località:** Cagliari, Piazza Arsenale, Cittadella dei Musei.
 **Tipologia:** museo archeologico nazionale.
@@ -362,7 +352,7 @@ Usa una mappa mentale: Tharros = Sinis e stratificazione; Nora = città costiera
 
 ### Ruolo del museo
 
-Il Museo Archeologico Nazionale di Cagliari è il principale museo archeologico della Sardegna e rappresenta una sintesi essenziale della storia antica dell'isola. Per la prova orale, va studiato non come semplice contenitore di reperti, ma come luogo che permette di collegare tutte le grandi fasi affrontate nelle schede precedenti: preistoria, domus de janas, civiltà nuragica, contatti fenici, fase punica, romanizzazione.
+Il Museo Archeologico Nazionale di Cagliari è il principale museo archeologico della Sardegna e rappresenta una sintesi essenziale della storia antica dell'isola. Per la scheda, va studiato non come semplice contenitore di reperti, ma come luogo che permette di collegare tutte le grandi fasi affrontate nelle schede precedenti: preistoria, domus de janas, civiltà nuragica, contatti fenici, fase punica, romanizzazione.
 
 Il museo si trova nella Cittadella dei Musei, in Piazza Arsenale. La sua funzione è particolarmente importante perché conserva reperti provenienti da diversi territori della Sardegna, rendendo possibile una lettura complessiva dell'isola.
 
@@ -374,9 +364,9 @@ Per la parte prenuragica, il museo permette di collegare materiali e contesti co
 
 Per la fase fenicio-punica e romana, il museo consente di collegare i reperti ai grandi centri costieri e commerciali dell'isola, come Nora, Tharros e altri insediamenti. È quindi un museo che funziona come "ponte" tra i siti: ciò che nei parchi archeologici si vede come struttura, nel museo si incontra come oggetto.
 
-### Cosa valorizzare all'orale
+### Cosa valorizzare nella spiegazione
 
-All'esame è utile sottolineare tre aspetti. Primo: il museo ha una funzione di sintesi regionale, perché raccoglie testimonianze provenienti da tutta l'isola. Secondo: permette di ricostruire una cronologia lunga, dalla preistoria all'età storica. Terzo: aiuta a collegare reperti e siti, quindi è fondamentale per una guida turistica che deve saper integrare visita museale e visita territoriale.
+Alla lettura del sito è utile sottolineare tre aspetti. Primo: il museo ha una funzione di sintesi regionale, perché raccoglie testimonianze provenienti da tutta l'isola. Secondo: permette di ricostruire una cronologia lunga, dalla preistoria all'età storica. Terzo: aiuta a collegare reperti e siti, quindi è fondamentale per una guida turistica che deve saper integrare visita museale e visita territoriale.
 
 Un errore comune è dire soltanto "espone reperti archeologici". Devi invece specificare quali nuclei sono importanti: culture prenuragiche, bronzetti nuragici, materiali fenicio-punici e romani, collezioni provenienti dai principali contesti archeologici sardi.
 
@@ -384,7 +374,7 @@ Un errore comune è dire soltanto "espone reperti archeologici". Devi invece spe
 
 Il museo dialoga con quasi tutte le schede sarde. Con Anghelu Ruju, Montessu e Pranu Muttedu condivide il tema della preistoria e dei rituali funerari. Con La Prisgiona, Santa Cristina e Santa Vittoria dialoga attraverso la civiltà nuragica, i bronzetti e la religiosità. Con Tharros, Nora e Monte Sirai dialoga attraverso la fase fenicio-punica e romana. Con Monte Prama dialoga attraverso il tema della rappresentazione figurativa e dell'identità nuragica.
 
-### Domande probabili
+### Domande guida
 
 1. Perché il Museo Archeologico Nazionale di Cagliari è importante?
 2. Quali fasi della storia sarda permette di ricostruire?
@@ -392,7 +382,7 @@ Il museo dialoga con quasi tutte le schede sarde. Con Anghelu Ruju, Montessu e P
 4. Come collegheresti il museo ai siti archeologici della Sardegna?
 5. Come organizzeresti una visita guidata nel museo?
 
-### Risposta modello
+### Sintesi narrativa
 
 Il Museo Archeologico Nazionale di Cagliari è il principale museo archeologico della Sardegna e consente di ricostruire la storia dell'isola dalla preistoria alle fasi fenicio-punica e romana. Il percorso permette di collegare culture prenuragiche, civiltà nuragica, bronzetti, materiali votivi, reperti fenicio-punici e testimonianze della romanizzazione. È un museo fondamentale perché collega i reperti ai territori: dalle domus de janas ai santuari nuragici, dai grandi siti costieri come Nora e Tharros fino ai contesti interni. Per una guida turistica, è il luogo ideale per dare ordine cronologico e culturale alla Sardegna antica.
 
@@ -402,14 +392,12 @@ Presentalo come "museo-chiave" per ordinare l'intera Sardegna archeologica. La f
 
 ---
 
-## Presentazioni orali da circa 5 minuti
-### 8. Appendice - siti sardi della prova tecnico-pratica: presentazioni orali da circa 5 minuti
-
-Questa appendice include solo i siti sardi indicati nel programma come prova pratica: **Su Nuraxi di Barumini**, **Museo della Statuaria Preistorica (Menhir) di Laconi** e **Parco Archeologico di Turris Libisonis**. Sono riportati esempi di presentazione orale da circa 5 minuti, utili anche come allenamento espositivo, pur essendo siti della prova pratica.
+## Percorsi narrativi brevi
+### Percorso narrativo breve
 
 ---
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 **Fonti immagini/approfondimento:**
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/833/)
@@ -430,7 +418,7 @@ In conclusione, Su Nuraxi è un sito chiave perché consente di raccontare la ci
 
 ---
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 **Fonti immagini/approfondimento:**
 - [Ministero della Cultura](https://cultura.gov.it/luogo/museo-delle-statue-menhir)
@@ -447,13 +435,13 @@ Durante una visita guidata, è utile far notare la differenza tra menhir semplic
 
 Il museo di Laconi è particolarmente rilevante perché raccoglie e valorizza materiali provenienti dalla Sardegna centro-meridionale, soprattutto dal Sarcidano e da aree vicine. In questo senso, non è solo una raccolta museale, ma un centro di interpretazione del megalitismo sardo.
 
-Il collegamento con gli altri siti sardi del programma è immediato: con Pranu Muttedu condivide il tema dei menhir e degli spazi sacro-funerari; con le domus de janas condivide il mondo prenuragico; con Monte Prama permette un confronto molto interessante tra due forme diverse di rappresentazione umana in pietra: le statue-menhir preistoriche e la statuaria nuragica monumentale.
+Il collegamento con gli altri siti sardi del percorso è immediato: con Pranu Muttedu condivide il tema dei menhir e degli spazi sacro-funerari; con le domus de janas condivide il mondo prenuragico; con Monte Prama permette un confronto molto interessante tra due forme diverse di rappresentazione umana in pietra: le statue-menhir preistoriche e la statuaria nuragica monumentale.
 
 In conclusione, il Menhir Museum di Laconi è importante perché mostra una Sardegna antichissima, precedente ai nuraghi, ma già capace di trasformare la pietra in simbolo. È un museo che aiuta a spiegare la profondità cronologica della civiltà sarda e il lungo rapporto dell'isola con il megalitismo, la memoria e la rappresentazione degli antenati.»
 
 ---
 
-### Presentazione orale da circa 5 minuti
+### Percorso narrativo breve
 
 **Fonti immagini/approfondimento:**
 - [Antiquarium Turritano, sito ufficiale MiC](https://antiquariumportotorres.cultura.gov.it/it/)
@@ -476,8 +464,8 @@ In conclusione, Turris Libisonis è una testimonianza fondamentale della Sardegn
 
 ---
 
-## Ripasso finale
-### 9. Ripasso attivo per la Sardegna
+## Sintesi finale
+### Ripasso attivo per la Sardegna
 
 ### Schema di memorizzazione rapido
 
@@ -491,7 +479,7 @@ In conclusione, Turris Libisonis è una testimonianza fondamentale della Sardegn
 | Fenicio-punico-romano | Tharros, Nora, Monte Sirai, Turris | Sardegna dentro il Mediterraneo |
 | Museo-sintesi | Museo Archeologico Nazionale di Cagliari, Museo di Cabras | oggetti che spiegano i siti |
 
-### Domande probabili
+### Domande guida
 
 1. Come racconteresti la Sardegna antica senza partire subito dai nuraghi?
 2. Qual è la differenza tra domus de janas, tombe dei giganti e necropoli di Monte Prama?
