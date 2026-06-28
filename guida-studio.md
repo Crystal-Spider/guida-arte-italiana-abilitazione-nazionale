@@ -17,7 +17,7 @@ Per ogni sito conviene studiare in questo ordine:
 2. contesto storico;
 3. monumenti o elementi principali;
 4. valore turistico-culturale;
-5. possibili domande d’esame;
+5. possibili domande d'esame;
 6. errori da evitare;
 7. collegamenti con altri siti.
 

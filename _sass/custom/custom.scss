@@ -1,13 +1,6 @@
 .italy-map {
-  max-width: 720px;
+  max-width: 940px;
   margin: 2rem auto 2.5rem;
-}
-
-.italy-map figcaption {
-  margin-top: 0.75rem;
-  color: #aab4c5;
-  font-size: 0.85rem;
-  text-align: center;
 }
 
 .italy-map svg {
@@ -22,46 +15,34 @@
 }
 
 .italy-map .map-panel {
-  fill: #f8fafc;
-  stroke: #334155;
-  stroke-width: 2;
+  fill: rgb(248 250 252 / 7%);
+  stroke: none;
 }
 
 .italy-map .map-base {
+  opacity: 0.88;
+  filter: invert(1) brightness(1.25);
   pointer-events: none;
 }
 
-.italy-map .map-hotspot {
-  fill: rgb(37 99 235 / 1%);
+.italy-map .map-region {
+  fill: rgb(250 204 21 / 0%);
   stroke: transparent;
-  stroke-width: 3;
+  stroke-width: 4;
+  vector-effect: non-scaling-stroke;
   transition: fill 0.15s ease, stroke 0.15s ease;
-}
-
-.italy-map text {
-  fill: #0f172a;
-  paint-order: stroke;
-  stroke: #f8fafc;
-  stroke-width: 7px;
-  stroke-linejoin: round;
-  font-size: 28px;
-  font-weight: 750;
-  letter-spacing: 0;
-  text-anchor: middle;
-  dominant-baseline: middle;
-  pointer-events: none;
-}
-
-.italy-map a:hover .map-hotspot,
-.italy-map a:focus .map-hotspot {
-  fill: rgb(250 204 21 / 28%);
-  stroke: #facc15;
   cursor: pointer;
 }
 
-.italy-map a:focus-visible .map-hotspot {
-  fill: rgb(250 204 21 / 35%);
-  stroke: #111827;
+.italy-map a:hover .map-region,
+.italy-map a:focus .map-region {
+  fill: rgb(250 204 21 / 44%);
+  stroke: #facc15;
+}
+
+.italy-map a:focus-visible .map-region {
+  fill: rgb(250 204 21 / 55%);
+  stroke: #fde68a;
   stroke-width: 5;
 }
 
@@ -72,10 +53,6 @@
 @media (max-width: 640px) {
   .italy-map {
     margin-inline: -0.5rem;
-  }
-
-  .italy-map text {
-    font-size: 34px;
   }
 
   .region-fallback {
