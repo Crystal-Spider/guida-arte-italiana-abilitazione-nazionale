@@ -4,15 +4,15 @@ layout: default
 nav_order: 1
 ---
 
-# Guida di studio per la prova orale - Abruzzo
+# Guida per la prova orale - Abruzzo
 
+## Perimetro e orientamento
 **Esame orale guida turistica nazionale italiana 2026**
 **Volume regionale aggiornato: Abruzzo**
 **Perimetro:** solo prova orale, con approfondimento extra per i siti che compaiono anche nella prova pratica.
 
 ---
 
-## 0. Perimetro della scheda
 
 Nella traccia d'esame per l'Abruzzo nella **Sezione I** della prova orale compaiono tre siti:
 
@@ -38,7 +38,7 @@ Nella **Sezione II** del programma non risultano musei abruzzesi. Nella **Sezion
 
 _Immagine: Anfiteatro romano di Alba Fucens, Wikimedia Commons, autore Claudius Ziehr._
 
-### 1.1 Dati essenziali
+### Dati essenziali
 
 | Voce                  | Contenuto                                                                                                                                 |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,13 +51,13 @@ _Immagine: Anfiteatro romano di Alba Fucens, Wikimedia Commons, autore Claudius 
 | Elementi da ricordare | Cinta muraria, porte urbiche, foro, basilica, diribitorium, macellum, terme, Santuario di Ercole, tempio di Apollo/San Pietro, anfiteatro |
 | Status d'esame        | **O+P**: orale + pratica                                                                                                                  |
 
-### 1.2 Dove si trova e perché la posizione è importante
+### Inquadramento
 
 Alba Fucens si trova presso Massa d'Albe, ai piedi del Monte Velino e in prossimità dell'area dell'antico lago Fucino. La collocazione non è casuale: è una posizione di altura, panoramica e difendibile, in un punto di passaggio dell'Appennino centrale. In età romana questo territorio era politicamente e militarmente sensibile perché segnava il rapporto tra Roma e le popolazioni italiche dell'interno, in particolare Equi e Marsi.
 
 La città permette quindi di parlare non solo di archeologia urbana, ma anche di **romanizzazione dell'Italia centrale**. Per l'orale è importante evitare di presentarla come "un semplice sito romano": Alba Fucens è un esempio molto chiaro di come Roma costruisse colonie in luoghi strategici per presidiare territori conquistati, controllare vie di comunicazione e consolidare la propria presenza politica.
 
-### 1.3 Contesto storico
+### Contesto storico
 
 Alba Fucens viene fondata alla fine del IV secolo a.C., nel territorio degli Equi, dopo la sconfitta di questi ultimi da parte dei Romani. La sua funzione iniziale è chiaramente strategica: controllare l'Italia centrale e stabilizzare un'area montana non completamente integrata nel sistema romano. La documentazione moderna del sito è legata soprattutto agli scavi dell'Accademia Belgica, condotti tra il 1949 e il 1979, e alle ricerche successive che hanno riportato alla luce una parte consistente dell'impianto urbano.
 
@@ -67,7 +67,7 @@ In età imperiale la città mantiene un ruolo importante e si arricchisce di str
 
 Il declino si avvia con la fine dell'Impero romano. Secondo la scheda della Direzione regionale musei dell'Abruzzo, la città viene abbandonata intorno al VI secolo d.C. Sulla collina a nord-est sorse poi il borgo medievale di Albe, distrutto dal terremoto della Marsica del 1915; ancora oggi sono visibili ruderi medievali e resti del Castello Orsini.
 
-### 1.4 Cosa vedere: lettura del sito
+### Cosa vedere e come raccontarlo
 
 #### La cinta muraria e le porte
 
@@ -117,7 +117,7 @@ L'**anfiteatro** è uno dei monumenti più riconoscibili del sito. È un edifici
 
 Nell'esposizione va chiarito che l'anfiteatro era destinato agli spettacoli tipici del mondo romano, come giochi gladiatori e venationes. Non va confuso con il teatro: il teatro ha forma semicircolare ed è legato alla rappresentazione scenica, mentre l'anfiteatro ha forma ellittica ed è pensato per spettacoli al centro dell'arena.
 
-### 1.5 Perché Alba Fucens è importante
+### Perché Alba Fucens è importante
 
 Alba Fucens è importante per almeno cinque motivi:
 
@@ -127,7 +127,7 @@ Alba Fucens è importante per almeno cinque motivi:
 4. **Ha un forte valore paesaggistico.** Il rapporto con il Monte Velino e il Fucino rende il sito particolarmente efficace per una narrazione da guida turistica.
 5. **Compare anche nella prova pratica.** Va quindi preparata non solo come argomento, ma come percorso di visita.
 
-### 1.6 Come impostare la risposta all'orale
+### Come impostare la risposta all'orale
 
 Una risposta efficace non deve partire subito dall'elenco dei monumenti. Conviene seguire questo ordine:
 
@@ -138,7 +138,7 @@ Una risposta efficace non deve partire subito dall'elenco dei monumenti. Convien
 5. **Monumento iconico:** anfiteatro del I secolo d.C.
 6. **Valore del sito:** romanizzazione, archeologia urbana, paesaggio, continuità storica.
 
-### 1.7 Possibili domande d'esame
+### Domande probabili
 
 **Domanda:** Perché Alba Fucens fu fondata in quella posizione?
 **Risposta sintetica:** Perché la posizione era strategica per il controllo dell'Italia centrale e dei territori appenninici abitati dagli Equi e vicini ai Marsi. La colonia permetteva a Roma di presidiare un'area interna importante per le comunicazioni e per la stabilizzazione politica del territorio.
@@ -152,7 +152,7 @@ Una risposta efficace non deve partire subito dall'elenco dei monumenti. Convien
 **Domanda:** Perché l'anfiteatro è importante?
 **Risposta sintetica:** È il monumento più riconoscibile del sito e testimonia la fase imperiale della città. La sua costruzione nel I secolo d.C. mostra l'adozione dei modelli monumentali e spettacolari tipici della cultura romana.
 
-### 1.8 Errori da evitare
+### Errori da evitare
 
 - Non dire che Alba Fucens è "una città marsa" in modo generico: il territorio è legato a Equi e Marsi, ma la fondazione romana avviene nel territorio degli Equi dopo la loro sconfitta.
 - Non confondere basilica romana e basilica cristiana.
@@ -160,14 +160,14 @@ Una risposta efficace non deve partire subito dall'elenco dei monumenti. Convien
 - Non presentare San Pietro come elemento separato: è fondamentale per spiegare la trasformazione del tempio pagano in edificio cristiano.
 - Non fare solo elenco di rovine: bisogna spiegare la funzione degli spazi.
 
-### 1.9 Collegamenti utili
+### Collegamenti utili
 
 - **Con Roma e il Lazio:** colonizzazione, urbanistica romana, anfiteatri, terme, vie di comunicazione.
 - **Con Pompei, Ercolano e Ostia:** vita quotidiana, botteghe, terme, spazi pubblici.
 - **Con Chieti:** la statua dell'Ercole seduto proveniente dal Santuario di Ercole è conservata al MAN di Villa Frigerj.
 - **Con la prova pratica:** possibile costruzione di un percorso di visita: ingresso, mura, area pubblica, terme, santuario, San Pietro, anfiteatro.
 
-### 1.10 Esempio di presentazione orale del sito in circa 5 minuti
+### Presentazione orale da circa 5 minuti
 
 > Benvenuti ad Alba Fucens, una delle aree archeologiche più significative dell'Abruzzo romano. Ci troviamo nel territorio di Massa d'Albe, in provincia dell'Aquila, ai piedi del Monte Velino e non lontano dall'area dell'antico lago Fucino. La posizione è il primo elemento da osservare: non siamo in una città nata casualmente, ma in un luogo scelto dai Romani per controllare un'area strategica dell'Appennino centrale.
 >
@@ -187,7 +187,7 @@ Una risposta efficace non deve partire subito dall'elenco dei monumenti. Convien
 >
 > Alba Fucens entra poi in una fase di declino con la fine del mondo romano, fino all'abbandono intorno al VI secolo d.C. Sulle alture vicine si sviluppa il borgo medievale di Albe, distrutto dal terremoto del 1915, di cui restano ancora tracce. La visita si conclude quindi con un'idea forte: Alba Fucens non è solo un sito romano, ma un paesaggio storico stratificato, dove si leggono conquista, urbanizzazione, religione, vita quotidiana, cristianizzazione e memoria medievale.
 
-### 1.11 Suggerimento specifico di studio
+### Suggerimenti di esposizione
 
 Per Alba Fucens devi preparare due livelli:
 
@@ -204,7 +204,7 @@ La frase chiave da ricordare è: **"Alba Fucens è una colonia latina che permet
 
 _Immagine: Corno Grande visto da Campo Imperatore, Wikimedia Commons._
 
-### 2.1 Dati essenziali
+### Dati essenziali
 
 | Voce                   | Contenuto                                                                                                                   |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -216,13 +216,13 @@ _Immagine: Corno Grande visto da Campo Imperatore, Wikimedia Commons._
 | Elementi naturalistici | Biodiversità vegetale, fauna appenninica, alte quote, foreste, pascoli, ambienti carsici                                    |
 | Status d'esame         | Solo O                                                                                                                      |
 
-### 2.2 Identità del sito
+### Identità del sito
 
 Il Parco Nazionale del Gran Sasso e Monti della Laga è uno dei più importanti paesaggi montani dell'Italia centrale. La sua importanza non è solo naturalistica: il Parco è un grande contenitore di geografia fisica, biodiversità, storia del paesaggio, insediamenti umani, borghi, pascoli, transumanza e turismo sostenibile.
 
 Per l'orale, il rischio principale è trasformare la scheda in un elenco di montagne e animali. È meglio costruire la risposta intorno a un'idea centrale: **il Parco è un sistema complesso in cui natura, storia e presenza umana si intrecciano**. La guida turistica deve saper descrivere il paesaggio, ma anche interpretarlo.
 
-### 2.3 Geografia e struttura del territorio
+### Inquadramento
 
 Il Parco racchiude tre grandi sistemi montuosi:
 
@@ -234,7 +234,7 @@ Il Gran Sasso ospita il **Corno Grande**, che con i suoi 2912 metri è la vetta 
 
 Uno dei paesaggi più noti è **Campo Imperatore**, vasto altopiano di alta quota spesso definito, in modo divulgativo, "piccolo Tibet" per l'ampiezza degli spazi e la sensazione di isolamento. In un'esposizione d'esame è meglio non abusare di formule turistiche, ma si può usare Campo Imperatore come esempio di paesaggio aperto, pastorale e montano.
 
-### 2.4 Biodiversità
+### Biodiversità
 
 Il Parco è rilevante per la sua biodiversità. La pagina ufficiale dell'Ente Parco parla di circa 2300 specie vegetali superiori; una sezione specifica sulla flora censisce 2364 specie, 139 endemiche italiane, 12 endemiche del Parco e 59 orchidee spontanee. Questi numeri non vanno necessariamente memorizzati tutti, ma sono molto efficaci per dare concretezza all'esposizione.
 
@@ -248,7 +248,7 @@ La biodiversità deriva da più fattori:
 
 Le alte quote ospitano specie relitte e endemismi, cioè organismi che hanno una distribuzione limitata e spesso grande valore conservazionistico. Per l'orale, è utile usare il concetto di **soglia biogeografica**: il Parco è un luogo in cui specie di origine diversa raggiungono limiti di distribuzione, creando una ricchezza ecologica particolare.
 
-### 2.5 Fauna
+### Fauna
 
 La fauna del Parco comprende specie rappresentative dell'Appennino. Tra quelle da citare:
 
@@ -263,7 +263,7 @@ La fauna del Parco comprende specie rappresentative dell'Appennino. Tra quelle d
 
 Il camoscio appenninico è particolarmente utile per l'esame perché permette di parlare di conservazione, reintroduzione e gestione faunistica. Non va presentato solo come "animale simbolo", ma come esempio del ruolo delle aree protette nel recupero di specie minacciate.
 
-### 2.6 Paesaggio umano e culturale
+### Paesaggio umano e culturale
 
 Il Parco non è un'area "vuota" o solo selvaggia. È un paesaggio abitato e trasformato nel tempo. Alle pendici del Gran Sasso e della Laga si trovano borghi, castelli, abbazie, pascoli, coltivi tradizionali, tracce della transumanza e della cultura pastorale.
 
@@ -280,7 +280,7 @@ Tra i luoghi frequentemente associati al territorio del Gran Sasso si possono ri
 
 Questi esempi non sostituiscono il sito del programma, ma aiutano a costruire una risposta più ricca.
 
-### 2.7 Come raccontarlo all'orale
+### Come raccontarlo all'orale
 
 Una risposta ordinata può seguire questa sequenza:
 
@@ -291,7 +291,7 @@ Una risposta ordinata può seguire questa sequenza:
 5. **Turismo:** escursionismo, educazione ambientale, fruizione sostenibile.
 6. **Valore:** integrazione tra conservazione della natura e valorizzazione del patrimonio culturale.
 
-### 2.8 Possibili domande d'esame
+### Domande probabili
 
 **Domanda:** Quali sono gli elementi geografici principali del Parco?
 **Risposta sintetica:** Il Parco comprende la catena del Gran Sasso, i Monti della Laga e i Monti Gemelli. Il Corno Grande, nel Gran Sasso, è la vetta più alta dell'Appennino; Campo Imperatore è uno dei paesaggi d'altopiano più noti.
@@ -302,21 +302,21 @@ Una risposta ordinata può seguire questa sequenza:
 **Domanda:** Come collegheresti natura e cultura nel Parco?
 **Risposta sintetica:** Il Parco conserva non solo ambienti naturali, ma anche paesaggi storici modellati da pastorizia, transumanza, borghi, castelli, abbazie e vie di comunicazione. È quindi un paesaggio culturale oltre che naturalistico.
 
-### 2.9 Errori da evitare
+### Errori da evitare
 
 - Non ridurre il Parco al solo Corno Grande.
 - Non parlare solo di natura: il programma per guide turistiche richiede anche lettura storica e culturale del territorio.
 - Non confondere il Parco del Gran Sasso e Monti della Laga con il Parco Nazionale d'Abruzzo, Lazio e Molise.
 - Non usare solo formule turistiche generiche: "paesaggio incontaminato", "natura bellissima", "montagne spettacolari" vanno sostituite con concetti precisi: biodiversità, endemismi, alte quote, paesaggio pastorale, transumanza, borghi, tutela.
 
-### 2.10 Collegamenti utili
+### Collegamenti utili
 
 - **Con la Costa dei Trabocchi:** contrasto mare-montagna in Abruzzo; varietà paesaggistica regionale.
 - **Con Alba Fucens:** controllo romano dei territori appenninici e rapporto tra vie di comunicazione e ambiente montano.
 - **Con le Dolomiti:** confronto tra paesaggi montani italiani, geologia, turismo e tutela.
 - **Con i parchi nazionali del programma:** Pollino, Sila, Vesuvio, Etna, Gran Paradiso.
 
-### 2.11 Suggerimento specifico di studio
+### Suggerimenti di esposizione
 
 Prepara una risposta da 3 minuti basata su tre parole: **montagna, biodiversità, paesaggio umano**. Se ti chiedono il Parco, non partire dagli animali: parti dalla struttura geografica, poi passa a flora/fauna, poi chiudi con borghi, transumanza e turismo sostenibile.
 
@@ -330,7 +330,7 @@ Frase chiave: **"Il Parco del Gran Sasso e Monti della Laga è un laboratorio di
 
 _Immagine: trabocco lungo il litorale abruzzese, Wikimedia Commons._
 
-### 3.1 Dati essenziali
+### Dati essenziali
 
 | Voce                 | Contenuto                                                                                                      |
 | -------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -341,13 +341,13 @@ _Immagine: trabocco lungo il litorale abruzzese, Wikimedia Commons._
 | Ambiti da collegare  | Mare Adriatico, cultura della pesca, borghi costieri, riserve naturali, letteratura dannunziana, turismo lento |
 | Status d'esame       | Solo O                                                                                                         |
 
-### 3.2 Identità del sito
+### Identità del sito
 
 La Costa dei Trabocchi è uno dei paesaggi identitari dell'Abruzzo adriatico. Il nome deriva dalla presenza dei **trabocchi**, strutture lignee su palafitte usate storicamente per la pesca. Sono macchine da pesca fisse, protese sul mare, che permettevano di pescare senza uscire in barca in mare aperto.
 
 Per l'orale, il punto centrale è che la Costa dei Trabocchi non va raccontata solo come "bel litorale": è un paesaggio culturale in cui natura, economia tradizionale e identità marittima si integrano. Il trabocco è allo stesso tempo strumento di lavoro, architettura spontanea, memoria sociale e simbolo turistico.
 
-### 3.3 Geografia del tratto costiero
+### Inquadramento
 
 Nella traccia d'esame la località è indicata come **Ortona-Vasto**, in provincia di Chieti. Si tratta di un tratto di litorale medio-adriatico caratterizzato da alternanza di:
 
@@ -371,7 +371,7 @@ Tra le località più importanti da ricordare:
 
 Queste località non devono essere tutte studiate come siti separati, ma sono utili per orientare la risposta e dimostrare conoscenza territoriale.
 
-### 3.4 Il trabocco: funzione, forma e valore simbolico
+### Il trabocco: funzione, forma e valore simbolico
 
 Il trabocco è una struttura in legno costruita su palafitte, collegata alla riva da passerelle e dotata di lunghi bracci che sostengono reti da pesca. La sua funzione era pratica: pescare sfruttando la posizione costiera e i movimenti del pesce senza dover affrontare il mare aperto.
 
@@ -379,7 +379,7 @@ Dal punto di vista culturale, il trabocco è importante perché nasce dall'adatt
 
 Oggi molti trabocchi non sono più usati per la pesca. Alcuni sono stati recuperati e riconvertiti, anche come ristoranti o luoghi di fruizione turistica. All'orale questo va spiegato con equilibrio: la riconversione può valorizzare il patrimonio, ma pone anche il tema della conservazione dell'autenticità.
 
-### 3.5 Paesaggio naturale
+### Paesaggio naturale
 
 La Costa dei Trabocchi è caratterizzata da una forte varietà ambientale. Non è una costa uniforme: alterna arenili sabbiosi, tratti rocciosi, ciottoli, promontori e vegetazione mediterranea. Questa varietà permette di raccontare la costa come paesaggio dinamico, non solo balneare.
 
@@ -390,7 +390,7 @@ Due riferimenti utili:
 
 Questi luoghi permettono di collegare la Costa dei Trabocchi al tema della tutela ambientale e del turismo lento.
 
-### 3.6 Paesaggio culturale e letterario
+### Paesaggio culturale e letterario
 
 La costa è anche un paesaggio culturale. San Vito Chietino è legata a **Gabriele d'Annunzio**, che frequentò questi luoghi e li rielaborò nella propria immaginazione letteraria. Il cosiddetto Belvedere Dannunziano è un riferimento utile, ma va usato con misura: non bisogna trasformare l'intera scheda in una digressione letteraria. Il punto da ricordare è che il paesaggio marino abruzzese entra anche nella cultura e nella rappresentazione artistica del territorio.
 
@@ -402,13 +402,13 @@ Altri elementi culturali:
 - memoria della Seconda guerra mondiale, per esempio nel Cimitero militare britannico di Torino di Sangro;
 - tradizioni gastronomiche legate al pesce e alla cucina costiera.
 
-### 3.7 Turismo e Via Verde
+### Turismo e Via Verde
 
 La Costa dei Trabocchi è oggi associata anche alla **Via Verde**, itinerario ciclopedonale che valorizza la vecchia linea ferroviaria costiera e consente una fruizione lenta del paesaggio. Il dato è importante perché collega il sito a un modello contemporaneo di turismo sostenibile: bicicletta, cammino, accessibilità paesaggistica, destagionalizzazione e valorizzazione dei piccoli centri.
 
 In una risposta d'esame, la Via Verde va citata come strumento di fruizione, non come semplice pista ciclabile. È un'infrastruttura culturale e turistica che permette di leggere in sequenza mare, trabocchi, borghi, riserve e costa.
 
-### 3.8 Come raccontarla all'orale
+### Come raccontarla all'orale
 
 Una risposta ordinata può seguire questa struttura:
 
@@ -419,7 +419,7 @@ Una risposta ordinata può seguire questa struttura:
 5. **Turismo contemporaneo:** Via Verde, turismo lento, recupero dei trabocchi.
 6. **Valore:** paesaggio culturale costiero, non solo meta balneare.
 
-### 3.9 Possibili domande d'esame
+### Domande probabili
 
 **Domanda:** Che cosa sono i trabocchi?
 **Risposta sintetica:** Sono antiche macchine da pesca in legno, costruite su palafitte e collegate alla riva, che permettevano di pescare senza uscire in mare aperto. Oggi sono simboli identitari della costa chietina e del paesaggio marittimo abruzzese.
@@ -433,7 +433,7 @@ Una risposta ordinata può seguire questa struttura:
 **Domanda:** Che ruolo ha oggi la Via Verde?
 **Risposta sintetica:** La Via Verde favorisce una fruizione lenta e sostenibile della costa, collegando paesaggio marino, trabocchi, borghi e aree naturali attraverso un itinerario ciclopedonale.
 
-### 3.10 Errori da evitare
+### Errori da evitare
 
 - Non dire che i trabocchi sono "palafitte abitative": sono macchine da pesca.
 - Non ridurre il sito a una località balneare.
@@ -441,14 +441,14 @@ Una risposta ordinata può seguire questa struttura:
 - Non confondere la Costa dei Trabocchi con tutta la costa abruzzese: nel programma è indicata come tratto Ortona-Vasto, in provincia di Chieti.
 - Non dimenticare le riserve naturali e la Via Verde, perché mostrano il valore ambientale e turistico contemporaneo.
 
-### 3.11 Collegamenti utili
+### Collegamenti utili
 
 - **Con il Parco del Gran Sasso:** contrasto tra Abruzzo montano e Abruzzo marittimo.
 - **Con la Liguria/Cinque Terre:** paesaggi costieri, borghi, turismo lento, rapporto fra natura e insediamenti.
 - **Con Venezia e la laguna:** confronto tra paesaggi d'acqua e forme storiche di adattamento umano.
 - **Con il diritto/turismo sostenibile, se richiesto in altra sede:** recupero del patrimonio, fruizione lenta, sostenibilità, accessibilità.
 
-### 3.12 Suggerimento specifico di studio
+### Suggerimenti di esposizione
 
 Prepara una risposta basata su quattro parole: **trabocco, lavoro, paesaggio, turismo lento**. Questo ti impedisce di cadere in una descrizione generica della costa.
 
@@ -456,9 +456,10 @@ Frase chiave: **"La Costa dei Trabocchi è un paesaggio culturale marittimo: i t
 
 ---
 
-## 4. Ripasso finale per l'Abruzzo
+## Ripasso finale
+### Ripasso finale per l'Abruzzo
 
-### 4.1 Schema comparativo
+### Schema comparativo
 
 | Sito                 | Categoria                         | Tema forte                             | Frase da usare all'orale                                                                                     |
 | -------------------- | --------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -466,7 +467,7 @@ Frase chiave: **"La Costa dei Trabocchi è un paesaggio culturale marittimo: i t
 | Parco del Gran Sasso | Paesaggio montano e area protetta | Biodiversità + paesaggio umano         | "Un laboratorio del paesaggio appenninico, dove alte quote, borghi e cultura pastorale si intrecciano."      |
 | Costa dei Trabocchi  | Paesaggio costiero culturale      | Pesca tradizionale + turismo lento     | "Un paesaggio marittimo in cui i trabocchi raccontano il rapporto storico tra comunità locali e Adriatico."  |
 
-### 4.2 Domande trasversali
+### Domande probabili
 
 1. **Come descriveresti l'identità turistica dell'Abruzzo partendo da questi tre siti?**
    Risposta attesa: regione di forte varietà paesaggistica, dalla montagna appenninica al mare adriatico, con importanti testimonianze archeologiche romane e paesaggi culturali legati al lavoro umano.
@@ -480,13 +481,13 @@ Frase chiave: **"La Costa dei Trabocchi è un paesaggio culturale marittimo: i t
 4. **Qual è il sito abruzzese da preparare anche come esposizione pratica?**
    Risposta attesa: Alba Fucens, perché compare sia nella sezione orale sia nella sezione pratica del programma.
 
-### 4.3 Ordine consigliato di studio
+### Ordine consigliato di studio
 
 1. **Alba Fucens**: richiede più precisione storico-archeologica e anche preparazione pratica.
 2. **Parco del Gran Sasso**: studiare bene geografia, biodiversità e paesaggio umano.
 3. **Costa dei Trabocchi**: puntare su trabocchi, paesaggio culturale, turismo lento e località principali.
 
-### 4.4 Mini-simulazione orale
+### Mini-simulazione orale
 
 **Traccia 1:** "Il candidato illustri Alba Fucens, con particolare attenzione alla fondazione romana e all'organizzazione urbana."
 Risposta da costruire: localizzazione → colonia latina → mura → città pubblica → terme/mercato → religione → anfiteatro → stratificazione medievale.
@@ -499,8 +500,7 @@ Risposta da costruire: localizzazione Ortona-Vasto → trabocchi → pesca tradi
 
 ---
 
-## 5. Fonti consultate
-
+## Fonti principali consultate
 ### Fonti istituzionali e affidabili
 
 - [Direzione regionale musei nazionali Abruzzo / Ministero della Cultura, **Area archeologica di Alba Fucens**](https://museiabruzzo.cultura.gov.it/luoghi-della-cultura/7227-area-archeologica-di-alba-fucens/)

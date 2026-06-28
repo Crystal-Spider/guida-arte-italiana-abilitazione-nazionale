@@ -6,6 +6,7 @@ nav_order: 10
 
 # Guida per la prova orale - Marche
 
+## Perimetro e orientamento
 **Esame guida turistica nazionale italiana 2026**
 **Volume regionale: Marche**
 **Perimetro:** Sezione I della traccia d'esame, prova orale.
@@ -13,7 +14,6 @@ nav_order: 10
 
 ---
 
-## Perimetro del volume
 
 Questo volume segue il criterio già adottato per la versione aggiornata dell'Abruzzo:
 
@@ -27,7 +27,7 @@ Nella traccia d'esame per le Marche la Sezione I comprende: **Grotte di Frasassi
 
 ---
 
-## Tabella di orientamento
+### Tabella di orientamento
 
 | ID programma | Sito | Località | Provincia | Tipologia prevalente | Da sapere in 30 secondi |
 |---:|---|---|---|---|---|
@@ -41,25 +41,25 @@ Nella traccia d'esame per le Marche la Sezione I comprende: **Grotte di Frasassi
 
 ---
 
-# 1. Grotte di Frasassi - Genga, Ancona
+## 1. Grotte di Frasassi - Genga, Ancona
 
 ![Grotte di Frasassi - Sala delle Candeline](https://commons.wikimedia.org/wiki/Special:FilePath/Grotte%20di%20Frasassi%2C%20Sala%20delle%20Candeline.jpg)
 
 *Immagine: Sala delle Candeline, Grotte di Frasassi. Fonte: Wikimedia Commons, file "Grotte di Frasassi, Sala delle Candeline.jpg".*
 
-## Dati essenziali
+### Dati essenziali
 
 Le Grotte di Frasassi si trovano nel Comune di **Genga**, in provincia di Ancona, all'interno del contesto naturale della **Gola della Rossa e di Frasassi**. Sono uno dei principali complessi carsici visitabili in Italia e costituiscono un sito particolarmente adatto alla prova orale perché permettono di intrecciare geologia, paesaggio, turismo naturalistico, tutela dell'ambiente e gestione della fruizione.
 
 Il punto da tenere sempre presente è che non si tratta di una "grotta isolata", ma di un sistema ipogeo complesso, formato dall'azione dell'acqua su rocce calcaree. Le grotte sono importanti non solo per la spettacolarità delle sale, ma anche perché mostrano in modo molto leggibile i processi di formazione del paesaggio carsico: dissoluzione della roccia, circolazione delle acque, precipitazione del carbonato di calcio, crescita di stalattiti, stalagmiti, colonne, colate e cristallizzazioni.
 
-## Inquadramento geografico e paesaggistico
+### Inquadramento
 
 Il sito si colloca nell'Appennino marchigiano, in un'area in cui il paesaggio superficiale e quello sotterraneo sono strettamente collegati. All'esterno, il visitatore incontra gole calcaree, pareti rocciose, boschi, abbazie e piccoli nuclei storici; all'interno, il sistema ipogeo mostra la stessa montagna "vista dall'interno". Per una guida turistica, questa relazione è fondamentale: Frasassi non va presentata solo come meraviglia scenografica, ma come esito di un rapporto lunghissimo tra acqua, roccia e tempo geologico.
 
 La Gola di Frasassi, scavata dal torrente Sentino, appartiene a un ambiente naturale ricco di contrasti: verticalità delle pareti, oscurità delle cavità, presenza dell'acqua, vegetazione appenninica, e insediamenti storici come l'Abbazia di San Vittore delle Chiuse e il Tempio del Valadier nelle vicinanze. Anche se il programma indica specificamente le grotte, all'orale è utile saper collocare il sito in questo sistema territoriale più ampio.
 
-## Scoperta e apertura alla fruizione
+### Scoperta e apertura alla fruizione
 
 La storia moderna delle Grotte di Frasassi è legata alle esplorazioni speleologiche del Novecento. La scoperta della **Grotta Grande del Vento**, la cavità più celebre del complesso, risale al settembre 1971, grazie agli speleologi del Gruppo Speleologico Marchigiano del CAI di Ancona. Le fonti divulgative ricordano spesso l'emozione dei primi esploratori davanti a spazi sotterranei di dimensioni impreviste: questo è un ottimo punto narrativo per l'esame, perché permette di trasformare un dato cronologico in racconto.
 
@@ -71,7 +71,7 @@ Per la presentazione orale, non conviene insistere su dettagli minori della cron
 
 La fruizione turistica ordinaria avviene attraverso un percorso guidato, pensato per rendere visitabile una parte del sistema senza compromettere la conservazione dell'ambiente ipogeo. Questo è un punto importante da guida: la grotta è affascinante, ma fragile. Temperatura, umidità, illuminazione, flussi di visitatori e presenza umana devono essere gestiti con attenzione.
 
-## Formazione geologica
+### Formazione geologica
 
 Le Grotte di Frasassi sono il risultato di processi carsici. In termini semplici, l'acqua penetra nelle fratture della roccia calcarea e, nel tempo, ne provoca la dissoluzione. Nel caso di Frasassi, le fonti ufficiali richiamano l'incontro tra acque mineralizzate sulfuree e acque bicarbonate: questo processo ha contribuito allo sviluppo di cavità, gallerie e sale.
 
@@ -81,7 +81,7 @@ Una volta formate le cavità, inizia il processo più visibile al pubblico: la c
 
 Questa frase può funzionare come chiave di lettura: la prima fase è erosiva e dissolutiva, la seconda è costruttiva e deposizionale. Naturalmente i processi sono complessi e non sempre rigidamente separati, ma per l'esposizione orale questa immagine aiuta molto.
 
-## Percorso di visita e ambienti principali
+### Cosa vedere e come raccontarlo
 
 Il percorso turistico comincia con uno degli spazi più impressionanti: l'**Abisso Ancona**, una sala di dimensioni monumentali. È il primo grande impatto visivo della visita e deve essere presentato come l'equivalente naturale di una cattedrale sotterranea: non perché sia un edificio, ma perché produce un effetto di scala, verticalità e stupore simile a quello di una grande architettura.
 
@@ -97,7 +97,7 @@ Tra gli ambienti e le formazioni da ricordare ci sono:
 
 Questi nomi sono importanti perché mostrano come la guida turistica trasformi forme naturali in immagini comprensibili. L'oggetto naturale non viene alterato, ma interpretato attraverso metafore: giganti, castelli, organi, candele, cascate. È un ottimo esempio di mediazione culturale applicata a un sito naturalistico.
 
-## Come presentarle all'orale
+### Come presentarle all'orale
 
 Una buona esposizione sulle Grotte di Frasassi deve evitare due rischi: diventare troppo tecnica o troppo generica. Non serve fare una lezione di geologia universitaria, ma nemmeno limitarsi a dire che sono "belle e suggestive". La struttura migliore è:
 
@@ -109,13 +109,13 @@ Una buona esposizione sulle Grotte di Frasassi deve evitare due rischi: diventar
 6. valore turistico: grande attrattore naturalistico delle Marche;
 7. tutela: ambiente fragile, fruizione guidata e controllata.
 
-## Collegamenti utili
+### Collegamenti utili
 
 - **Con il Parco dei Monti Sibillini:** entrambi sono siti naturalistici marchigiani, ma Frasassi è paesaggio sotterraneo carsico, mentre i Sibillini sono paesaggio appenninico aperto, montano e pastorale.
 - **Con Ascoli Piceno e Loreto:** Frasassi mostra il patrimonio naturale; Ascoli e Loreto mostrano patrimonio urbano e religioso. La regione offre quindi una varietà di forme turistiche.
 - **Con la professione di guida:** Frasassi è un caso perfetto per parlare di linguaggio accessibile, gestione dei flussi, sicurezza e rispetto dell'ambiente.
 
-## Domande probabili
+### Domande probabili
 
 **Che cosa sono le Grotte di Frasassi?**
 Sono un grande sistema carsico visitabile situato a Genga, in provincia di Ancona, formatosi grazie all'azione delle acque sulla roccia calcarea.
@@ -126,38 +126,29 @@ Perché rappresentano uno dei principali attrattori naturalistici delle Marche e
 **Qual è il modo migliore per spiegarle a un pubblico non specialista?**
 Partire dallo stupore degli ambienti, poi spiegare che quelle forme non sono casuali: sono il risultato di acqua, calcare e tempi lunghissimi.
 
-## Risposta modello breve
+### Risposta modello
 
 Le Grotte di Frasassi si trovano a Genga, in provincia di Ancona, e costituiscono uno dei più importanti complessi carsici visitabili d'Italia. La loro fama è legata soprattutto alla Grotta Grande del Vento, scoperta nel 1971 da speleologi marchigiani. Il percorso turistico permette di attraversare sale di grandi dimensioni, come l'Abisso Ancona, e ambienti ricchi di stalattiti, stalagmiti, colonne e cristallizzazioni. Il valore del sito è duplice: da un lato naturalistico e geologico, perché mostra i processi di formazione del paesaggio carsico; dall'altro turistico e didattico, perché rende accessibile al pubblico un ambiente sotterraneo fragile, che deve essere visitato con guide e regole di conservazione.
 
-## Errori da evitare
-
-- Dire che le grotte sono state "costruite" dall'uomo: sono formazioni naturali.
-- Confondere stalattiti e stalagmiti.
-- Presentarle solo come attrazione scenografica, senza spiegare il processo carsico.
-- Dimenticare il tema della tutela: l'ambiente ipogeo è fragile.
-
----
-
-# 2. Palazzo Ducale di Urbino - Urbino, Pesaro e Urbino
+## 2. Palazzo Ducale di Urbino - Urbino, Pesaro e Urbino
 
 ![Palazzo Ducale di Urbino](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Ducale%2C%20Urbino%20%28Marche%29%2001.jpg)
 
 *Immagine: Palazzo Ducale di Urbino, veduta dei torricini. Fonte: Wikimedia Commons, file "Palazzo Ducale, Urbino (Marche) 01.jpg".*
 
-## Dati essenziali
+### Dati essenziali
 
 Il Palazzo Ducale di Urbino è il monumento più rappresentativo della città e uno dei simboli del Rinascimento italiano. È legato alla figura di **Federico da Montefeltro**, duca di Urbino, condottiero, politico, collezionista e mecenate. Il palazzo è oggi sede della **Galleria Nazionale delle Marche** e si inserisce nel contesto del centro storico di Urbino, riconosciuto come patrimonio mondiale UNESCO.
 
 Per l'esame orale, il punto essenziale è questo: il Palazzo Ducale non è soltanto una residenza signorile, ma un manifesto architettonico e culturale. Attraverso il palazzo, Federico costruisce l'immagine di una corte ordinata, colta, razionale, capace di unire potere militare, umanesimo, arte, matematica, prospettiva e governo del territorio.
 
-## Contesto storico: Federico da Montefeltro
+### Contesto storico
 
 Federico da Montefeltro governa Urbino dal 1444 al 1482. È una delle figure più emblematiche del principe rinascimentale: uomo d'armi, ma anche committente colto; signore politico, ma anche promotore delle arti. Alla sua corte si concentrano architetti, pittori, matematici, letterati e umanisti. Il progetto urbano e architettonico di Urbino deve essere letto in questa prospettiva: non è semplice abbellimento, ma costruzione di una capitale ideale.
 
 Urbino non diventa una grande metropoli, ma una città di corte. Proprio questa dimensione relativamente contenuta le permette di conservare una forte omogeneità. Il palazzo domina il tessuto urbano e allo stesso tempo dialoga con esso: non è un edificio isolato, ma il centro simbolico della città.
 
-## Architettura e fasi costruttive
+### Architettura e fasi costruttive
 
 Il Palazzo Ducale nasce da un processo costruttivo complesso. Al nucleo più antico si aggiungono interventi successivi, legati alla volontà di Federico di trasformare la residenza in un palazzo adatto al rango della sua corte. Tra i nomi associati al cantiere sono centrali **Luciano Laurana** e **Francesco di Giorgio Martini**; la tradizione ricorda anche il ruolo di maestranze precedenti e di altri architetti attivi nel processo di trasformazione.
 
@@ -165,13 +156,13 @@ L'immagine più celebre è quella della facciata dei **torricini**, con le due s
 
 Il **Cortile d'Onore** è un altro punto fondamentale. È uno spazio regolare, proporzionato, impostato su un linguaggio classico e ordinato. Qui si capisce bene la cultura rinascimentale: misura, proporzione, equilibrio, recupero dell'antico, controllo razionale dello spazio. In una visita guidata, il cortile è spesso il luogo ideale per spiegare il passaggio dal palazzo medievale difensivo al palazzo rinascimentale rappresentativo.
 
-## Lo Studiolo
+### Lo Studiolo
 
 Uno degli ambienti più significativi è lo **Studiolo di Federico**, celebre per le tarsie lignee prospettiche. Lo studiolo non è solo una stanza privata: è il ritratto intellettuale del duca. Le tarsie mostrano scaffali, libri, strumenti musicali, armi, oggetti scientifici e simbolici. Tutto concorre a presentare Federico come uomo completo, capace di unire vita contemplativa e vita attiva.
 
 Per l'esame, lo Studiolo è prezioso perché consente di spiegare la mentalità umanistica. Il principe ideale non è solo colui che comanda, ma colui che conosce. Libri, strumenti, prospettiva e ordine visivo diventano strumenti di autorappresentazione. Se ti chiedono di "leggere" un ambiente del Palazzo Ducale, lo Studiolo è probabilmente il più efficace.
 
-## La Galleria Nazionale delle Marche
+### La Galleria Nazionale delle Marche
 
 Il Palazzo ospita la Galleria Nazionale delle Marche, istituita nel 1912. La collezione conserva opere fondamentali per comprendere il Rinascimento nell'Italia centrale. Tra i nomi da ricordare ci sono **Piero della Francesca**, **Paolo Uccello**, **Raffaello**, **Tiziano**, **Federico Barocci** e altri artisti legati al contesto urbinate e marchigiano.
 
@@ -182,13 +173,13 @@ Due opere di Piero della Francesca sono particolarmente utili per l'esame:
 
 Non è necessario trasformare la scheda in una storia completa della Galleria; il programma indica il Palazzo Ducale, non un elenco di opere. Però è opportuno saper citare almeno due opere chiave per mostrare che si conosce anche la funzione museale attuale del palazzo.
 
-## Urbino e il modello di città rinascimentale
+### Urbino e il modello di città rinascimentale
 
 Il Palazzo Ducale va inserito nel più ampio centro storico di Urbino. La città è significativa perché conserva il rapporto tra struttura medievale e rinnovamento rinascimentale. Federico non cancella completamente la città precedente: la riorganizza, la eleva, la armonizza. Questa è una chiave importante anche per l'UNESCO, che riconosce il valore di Urbino come centro rinascimentale omogeneo e influente.
 
 Nel discorso orale, conviene evitare di dire genericamente che Urbino è "bella". Meglio dire che Urbino è un esempio di città di corte in cui architettura, paesaggio, potere e cultura umanistica si fondono. Il Palazzo Ducale è il centro di questa costruzione.
 
-## Come presentarlo all'orale
+### Come presentarlo all'orale
 
 La struttura migliore è:
 
@@ -200,13 +191,13 @@ La struttura migliore è:
 6. funzione attuale: sede della Galleria Nazionale delle Marche;
 7. opere o artisti da citare: Piero della Francesca, Raffaello, Paolo Uccello, Tiziano.
 
-## Collegamenti utili
+### Collegamenti utili
 
 - **Con Gradara:** due forme diverse del potere signorile: Gradara è fortezza militare e narrativa medievale; Urbino è palazzo-corte rinascimentale.
 - **Con Ascoli Piceno:** entrambi sono centri storici monumentali, ma Urbino è città di corte, Ascoli è città comunale e civica.
 - **Con Loreto:** Urbino rappresenta la corte laica rinascimentale, Loreto il grande santuario religioso e pellegrinale.
 
-## Domande probabili
+### Domande probabili
 
 **Perché il Palazzo Ducale è importante per il Rinascimento?**
 Perché traduce in architettura l'ideale della corte umanistica: ordine, proporzione, cultura, potere e rappresentazione.
@@ -217,32 +208,23 @@ Federico da Montefeltro, duca di Urbino, figura esemplare del principe rinascime
 **Quale ambiente interno è particolarmente rappresentativo?**
 Lo Studiolo, perché mostra l'immagine intellettuale del principe attraverso tarsie, oggetti simbolici, libri, strumenti e prospettiva.
 
-## Risposta modello breve
+### Risposta modello
 
 Il Palazzo Ducale di Urbino è uno dei massimi esempi di architettura rinascimentale italiana. Fu voluto da Federico da Montefeltro, che trasformò Urbino in una corte colta e raffinata. Il palazzo non è soltanto una residenza, ma un manifesto del potere e della cultura del principe: i torricini ne definiscono l'immagine esterna, il Cortile d'Onore esprime misura e classicità, lo Studiolo rappresenta l'ideale umanistico del signore colto. Oggi il palazzo ospita la Galleria Nazionale delle Marche, con opere fondamentali del Rinascimento, tra cui capolavori di Piero della Francesca. Il sito va letto insieme al centro storico di Urbino, patrimonio UNESCO, come esempio di città di corte rinascimentale.
 
-## Errori da evitare
-
-- Presentare il Palazzo Ducale solo come museo, dimenticando la sua funzione originaria di residenza e manifesto politico.
-- Parlare genericamente di "castello": il Palazzo Ducale è una residenza di corte rinascimentale, non una fortezza medievale nel senso di Gradara.
-- Non citare Federico da Montefeltro.
-- Dimenticare il rapporto tra edificio e città.
-
----
-
-# 3. Parco Nazionale dei Monti Sibillini - province di Macerata, Fermo, Ascoli Piceno
+## 3. Parco Nazionale dei Monti Sibillini - province di Macerata, Fermo, Ascoli Piceno
 
 ![Monti Sibillini - Monte Vettore](https://commons.wikimedia.org/wiki/Special:FilePath/MT.Vettore%20%28Parco%20nazionale%20dei%20Monti%20Sibillini%29.jpg)
 
 *Immagine: Monte Vettore nel Parco Nazionale dei Monti Sibillini. Fonte: Wikimedia Commons, file "MT.Vettore (Parco nazionale dei Monti Sibillini).jpg".*
 
-## Dati essenziali
+### Dati essenziali
 
 Il Parco Nazionale dei Monti Sibillini si estende tra **Marche e Umbria** e interessa, per il versante marchigiano, le province di Macerata, Fermo e Ascoli Piceno. Il parco è stato istituito nel 1993 e copre circa 70.000 ettari. Per la prova orale è importante presentarlo come un sito in cui natura, paesaggio, biodiversità, storia locale e immaginario mitico si intrecciano.
 
 La chiave è questa: i Sibillini non sono solo montagne. Sono un paesaggio culturale appenninico, fatto di vette, altopiani, borghi, pascoli, sentieri, santuari, economie pastorali, terremoti, ricostruzioni e leggende.
 
-## Paesaggio e geografia
+### Paesaggio e geografia
 
 Il massiccio dei Sibillini appartiene all'Appennino umbro-marchigiano. Il rilievo più noto è il **Monte Vettore**, che raggiunge circa 2476 metri e costituisce la vetta più alta del gruppo. Il paesaggio è caratterizzato da dorsali calcaree, praterie d'altitudine, gole, faggete, ambienti rupestri e piccoli insediamenti storici.
 
@@ -255,13 +237,13 @@ Per una guida turistica, il paesaggio dei Sibillini va spiegato su più livelli:
 
 Questa stratificazione rende il sito molto adatto alla prova orale, perché consente collegamenti interdisciplinari.
 
-## Biodiversità e tutela
+### Biodiversità e tutela
 
 Il parco tutela un ambiente appenninico di grande valore. La fauna include specie rappresentative come il lupo, l'aquila reale e diversi ungulati. Il camoscio appenninico, specie di grande valore conservazionistico, è stato oggetto di progetti di reintroduzione. La flora varia in base all'altitudine: boschi alle quote più basse e intermedie, faggete, praterie montane e specie adattate agli ambienti rocciosi e d'alta quota.
 
 All'orale non serve elencare decine di specie. È più efficace spiegare che il parco protegge un mosaico di habitat appenninici. La parola chiave è **mosaico**: non un solo ambiente, ma un insieme di ambienti diversi, ciascuno con proprie specie e proprie fragilità.
 
-## Mito e immaginario
+### Mito e immaginario
 
 Il nome dei Sibillini rimanda alla figura della **Sibilla Appenninica**, leggendaria profetessa che la tradizione colloca in una grotta del massiccio. La montagna non è quindi soltanto spazio naturale, ma anche luogo di narrazione. Nel Medioevo e nel Rinascimento, l'area fu associata a racconti cavallereschi, profezie, misteri e leggende.
 
@@ -269,13 +251,13 @@ Un altro luogo fortemente simbolico è il **Lago di Pilato**, sul versante del M
 
 La guida deve saper distinguere: la geologia spiega le forme, la storia spiega gli insediamenti, il mito spiega l'immaginario. Tutti e tre i livelli contribuiscono al valore turistico del parco.
 
-## Borghi e territorio
+### Borghi e territorio
 
 Sul versante marchigiano, il parco coinvolge comuni e località come Visso, Ussita, Castelsantangelo sul Nera, Fiastra, Bolognola, Amandola, Montefortino, Montemonaco, Arquata del Tronto e altri. Alcuni di questi centri sono stati profondamente segnati dagli eventi sismici del 2016. Per questo, una presentazione aggiornata non può parlare dei Sibillini solo come paesaggio "intatto": deve riconoscere anche il tema della fragilità dei territori interni e della ricostruzione.
 
 Il turismo nei Sibillini può essere naturalistico, escursionistico, religioso, culturale, enogastronomico e lento. L'esame per guida turistica nazionale premia la capacità di leggere il sito come sistema: montagne, centri storici, viabilità, accessibilità, stagionalità, sicurezza, conservazione.
 
-## Come presentarlo all'orale
+### Come presentarlo all'orale
 
 La struttura migliore è:
 
@@ -287,13 +269,13 @@ La struttura migliore è:
 6. turismo: escursionismo, turismo lento, educazione ambientale;
 7. criticità: sicurezza, tutela, terremoti, fragilità dell'Appennino interno.
 
-## Collegamenti utili
+### Collegamenti utili
 
 - **Con Frasassi:** entrambi sono patrimonio naturalistico; Frasassi è natura ipogea, i Sibillini sono natura appenninica aperta.
 - **Con Loreto:** due forme di pellegrinaggio e cammino: Loreto religioso, Sibillini escursionistico-naturalistico e in parte spirituale.
 - **Con Ascoli Piceno:** Ascoli è una porta urbana verso il Piceno e l'Appennino; i Sibillini rappresentano il retroterra montano.
 
-## Domande probabili
+### Domande probabili
 
 **Qual è il valore principale dei Monti Sibillini?**
 Il valore principale è l'integrazione tra paesaggio appenninico, biodiversità, borghi storici e immaginario leggendario.
@@ -304,32 +286,23 @@ Il Monte Vettore, la cima più alta del gruppo.
 **Come si può collegare il parco alla professione di guida?**
 Attraverso la lettura del paesaggio, la sicurezza in ambiente naturale, la spiegazione accessibile della biodiversità e la valorizzazione sostenibile dei territori interni.
 
-## Risposta modello breve
+### Risposta modello
 
 Il Parco Nazionale dei Monti Sibillini si estende tra Marche e Umbria e tutela uno dei paesaggi più significativi dell'Appennino centrale. Istituito nel 1993, comprende vette come il Monte Vettore, praterie d'altitudine, faggete, borghi montani e habitat di grande valore naturalistico. La sua importanza non è solo ambientale: i Sibillini sono legati anche a un forte immaginario culturale, dalla figura della Sibilla alle leggende del Lago di Pilato. Per una guida turistica il sito va presentato come un sistema integrato, dove natura, storia, mito, turismo lento e fragilità dei territori appenninici devono essere letti insieme.
 
-## Errori da evitare
-
-- Presentarlo come semplice "parco naturale", senza parlare di borghi, cultura e mito.
-- Confondere il parco con una sola montagna.
-- Ignorare la dimensione interregionale Marche-Umbria.
-- Dimenticare il tema della sostenibilità e della sicurezza escursionistica.
-
----
-
-# 4. Centro storico di Ascoli Piceno - Ascoli Piceno
+## 4. Centro storico di Ascoli Piceno - Ascoli Piceno
 
 ![Piazza del Popolo, Ascoli Piceno](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20del%20Popolo%20%28Ascoli%20Piceno%29.jpg)
 
 *Immagine: Piazza del Popolo ad Ascoli Piceno. Fonte: Wikimedia Commons, file "Piazza del Popolo (Ascoli Piceno).jpg".*
 
-## Dati essenziali
+### Dati essenziali
 
 Il centro storico di Ascoli Piceno è uno dei più importanti complessi urbani delle Marche. La città è spesso associata al travertino, pietra locale che conferisce al centro una forte unità cromatica e materica. È conosciuta anche come "città delle cento torri", per la presenza storica di numerose torri gentilizie e campanarie.
 
 Per l'esame orale, il sito va presentato come città stratificata: romana, medievale, comunale, rinascimentale e barocca. L'errore da evitare è ridurla alla sola Piazza del Popolo. Piazza del Popolo è il fulcro narrativo, ma il centro storico comprende anche Piazza Arringo, la Cattedrale di Sant'Emidio, il Battistero, il Palazzo dell'Arengo, San Francesco, i palazzi nobiliari, le torri e il sistema delle vie in travertino.
 
-## Il travertino come chiave di lettura
+### Il travertino come chiave di lettura
 
 Il travertino non è solo un materiale da costruzione: è uno degli elementi identitari di Ascoli. La pietra chiara, usata per edifici, pavimentazioni, portici e dettagli architettonici, produce un effetto di continuità visiva. Anche edifici di epoche diverse sembrano dialogare tra loro grazie al materiale comune.
 
@@ -339,7 +312,7 @@ All'orale puoi usare questa idea:
 
 Questa frase permette di evitare un'esposizione puramente elencativa. Invece di nominare solo monumenti, puoi spiegare che il travertino dà unità alla città e diventa una vera chiave di lettura del centro storico.
 
-## Piazza del Popolo
+### Piazza del Popolo
 
 **Piazza del Popolo** è il cuore scenografico e civile della città. È una piazza rinascimentale, elegante e armonica, pavimentata in travertino e chiusa da edifici monumentali. Tra i riferimenti principali ci sono il **Palazzo dei Capitani del Popolo**, la **Chiesa di San Francesco**, i portici e il celebre **Caffè Meletti**.
 
@@ -347,19 +320,19 @@ La piazza funziona come "salotto urbano": non è solo spazio monumentale, ma anc
 
 Nel racconto, Piazza del Popolo può essere presentata come una sintesi della città: travertino, potere civile, ordine rinascimentale, vita urbana e memoria storica.
 
-## Piazza Arringo e il polo religioso-civile
+### Piazza Arringo e il polo religioso-civile
 
 La seconda grande piazza da ricordare è **Piazza Arringo**, più antica e legata al nucleo religioso e istituzionale della città. Qui si trovano la **Cattedrale di Sant'Emidio**, il **Battistero**, il **Palazzo Vescovile** e il **Palazzo dell'Arengo**. Se Piazza del Popolo è lo spazio della rappresentazione civica rinascimentale, Piazza Arringo è il luogo della continuità religiosa e istituzionale.
 
 La Cattedrale di Sant'Emidio è dedicata al patrono della città, figura centrale nell'identità ascolana. Il Battistero, con la sua struttura essenziale e antica, è uno degli elementi più significativi per leggere la lunga durata del cristianesimo cittadino.
 
-## Torri, vie e struttura urbana
+### Torri, vie e struttura urbana
 
 Ascoli conserva un tessuto urbano di grande fascino, fatto di strade strette, ponti, torri e palazzi. La definizione di "città delle cento torri" richiama il periodo comunale e la competizione tra famiglie aristocratiche. Anche se molte torri sono state abbassate o trasformate, il tema della verticalità rimane un elemento importante dell'immagine urbana.
 
 Una buona guida deve spiegare che le torri medievali non erano solo elementi difensivi: erano segni di prestigio familiare e politico. La città medievale si leggeva anche in verticale: chi costruiva più alto comunicava potere.
 
-## Come presentarlo all'orale
+### Come presentarlo all'orale
 
 La struttura migliore è:
 
@@ -371,13 +344,13 @@ La struttura migliore è:
 6. stratificazione storica: romana, medievale, comunale, rinascimentale;
 7. valore turistico: centro storico compatto, leggibile, adatto a visita a piedi.
 
-## Collegamenti utili
+### Collegamenti utili
 
 - **Con Urbino:** Urbino è città di corte rinascimentale; Ascoli è città civica e comunale, con forte identità urbana.
 - **Con Gradara:** Gradara racconta la signoria e la difesa; Ascoli racconta la città e lo spazio pubblico.
 - **Con i Sibillini:** Ascoli è porta urbana del Piceno e si collega al retroterra appenninico.
 
-## Domande probabili
+### Domande probabili
 
 **Perché Ascoli Piceno è detta città del travertino?**
 Perché il travertino è il materiale dominante del centro storico e conferisce unità cromatica e architettonica alla città.
@@ -388,26 +361,17 @@ Piazza del Popolo e Piazza Arringo.
 **Come si presenta Piazza del Popolo?**
 Come uno spazio civico rinascimentale, armonico e monumentale, dominato dal Palazzo dei Capitani, dalla Chiesa di San Francesco e dai portici.
 
-## Risposta modello breve
+### Risposta modello
 
 Il centro storico di Ascoli Piceno è uno dei più significativi delle Marche ed è caratterizzato dall'uso diffuso del travertino, che dà alla città una forte unità visiva. Il fulcro monumentale è Piazza del Popolo, spazio civico rinascimentale su cui affacciano il Palazzo dei Capitani del Popolo, la Chiesa di San Francesco, i portici e il Caffè Meletti. Accanto a essa, Piazza Arringo conserva il polo religioso e istituzionale, con la Cattedrale di Sant'Emidio, il Battistero e il Palazzo dell'Arengo. Ascoli è anche città di torri, palazzi e vie medievali: il suo valore sta nella stratificazione storica e nella leggibilità del tessuto urbano.
 
-## Errori da evitare
-
-- Parlare solo di Piazza del Popolo, dimenticando Piazza Arringo.
-- Citare il travertino come dettaglio decorativo, invece che come elemento identitario.
-- Confondere Ascoli con una città solo rinascimentale: la stratificazione è più ampia.
-- Non spiegare la funzione sociale e civica delle piazze.
-
----
-
-# 5. Rocca di Gradara - Gradara, Pesaro e Urbino
+## 5. Rocca di Gradara - Gradara, Pesaro e Urbino
 
 ![Rocca di Gradara](https://commons.wikimedia.org/wiki/Special:FilePath/Rocca%20di%20Gradara%20-%20facciata.jpg)
 
 *Immagine: Rocca di Gradara. Fonte: Wikimedia Commons, file "Rocca di Gradara - facciata.jpg".*
 
-## Dati essenziali
+### Dati essenziali
 
 La Rocca di Gradara si trova nel borgo di Gradara, in provincia di Pesaro e Urbino, vicino al confine storico e geografico tra Marche e Romagna. È uno dei complessi fortificati più noti dell'Italia centrale e deve gran parte della sua fama anche al legame con la vicenda di **Paolo e Francesca**, resa immortale da Dante nel V canto dell'Inferno.
 
@@ -417,7 +381,7 @@ Per la prova orale, la Rocca va presentata su tre piani:
 2. storia delle famiglie signorili, soprattutto Malatesta, Sforza e Della Rovere;
 3. fortuna letteraria e turistica del racconto di Paolo e Francesca.
 
-## Architettura fortificata
+### Architettura fortificata
 
 Gradara è un borgo fortificato, con mura, camminamenti, porte, torre e rocca. La struttura attuale è il risultato di fasi costruttive e restauri successivi. Il nucleo medievale è stato rielaborato nel tempo e, tra Otto e Novecento, il gusto per il Medioevo ha inciso anche sulla percezione e sull'immagine del complesso.
 
@@ -429,13 +393,13 @@ All'orale è utile distinguere tra:
 
 La rocca occupa una posizione strategica: controlla il territorio circostante e si inserisce in un sistema di poteri tra costa adriatica, colline marchigiane e area romagnola. Una fortificazione di questo tipo non nasce per bellezza scenografica, ma per presidiare, difendere e rappresentare autorità.
 
-## Le famiglie: Malatesta, Sforza, Della Rovere
+### Le famiglie: Malatesta, Sforza, Della Rovere
 
 La storia di Gradara è legata soprattutto ai **Malatesta**, famiglia dominante tra Romagna e Marche nel Medioevo. A loro si collega la fase più nota della rocca e la tradizione di Paolo e Francesca. Successivamente il castello passa nell'orbita di altre famiglie e poteri, tra cui gli **Sforza** e i **Della Rovere**.
 
 Per una risposta d'esame non serve ricostruire tutte le successioni dinastiche. È più utile spiegare che Gradara è un luogo di confine e di potere signorile, dove le famiglie dominanti usano l'architettura fortificata per controllare il territorio e rappresentare il proprio prestigio.
 
-## Paolo e Francesca
+### Paolo e Francesca
 
 La fama di Gradara è inseparabile dalla vicenda di Paolo Malatesta e Francesca da Rimini, narrata da Dante nel V canto dell'Inferno. La tradizione colloca nel castello il teatro della loro storia tragica. Dal punto di vista storico, è importante mantenere cautela: la potenza del sito non dipende solo dalla certezza documentaria di ogni dettaglio, ma dal modo in cui letteratura, memoria e turismo hanno costruito un immaginario.
 
@@ -445,13 +409,13 @@ Per l'esame, questo è un ottimo tema: la guida turistica deve saper distinguere
 
 Questa frase è molto efficace perché mostra consapevolezza professionale: il monumento è reale, la vicenda è storica e letteraria insieme, la visita turistica nasce dall'incontro tra pietra e racconto.
 
-## Percorso di visita
+### Cosa vedere e come raccontarlo
 
 Una visita alla Rocca può essere costruita partendo dall'esterno: mura, borgo, accessi, posizione panoramica. Poi si entra nel complesso e si leggono cortili, sale, camminamenti e ambienti interni. Se il pubblico è interessato alla storia medievale, si insiste sulla funzione difensiva; se è interessato alla letteratura, si valorizza Paolo e Francesca; se è un pubblico scolastico, si può collegare Dante al contesto politico delle signorie.
 
 Per la prova orale, mostrare questa flessibilità è utile: una guida non ripete sempre lo stesso discorso, ma adatta il taglio al pubblico.
 
-## Come presentarla all'orale
+### Come presentarla all'orale
 
 La struttura migliore è:
 
@@ -463,13 +427,13 @@ La struttura migliore è:
 6. valore turistico: incontro tra architettura, storia e racconto;
 7. attenzione critica: distinguere storia documentata, tradizione e immaginario.
 
-## Collegamenti utili
+### Collegamenti utili
 
 - **Con Urbino:** Gradara è potere militare e signorile medievale; Urbino è potere umanistico e corte rinascimentale.
 - **Con Ascoli Piceno:** Gradara è borgo fortificato; Ascoli è città comunale e civica.
 - **Con Loreto:** entrambi sono luoghi ad alta forza narrativa: Gradara letteraria, Loreto religiosa.
 
-## Domande probabili
+### Domande probabili
 
 **Perché la Rocca di Gradara è famosa?**
 Per il valore architettonico come fortificazione medievale e per il legame con la vicenda di Paolo e Francesca narrata da Dante.
@@ -480,32 +444,23 @@ Soprattutto Malatesta, poi Sforza e Della Rovere.
 **Come si gestisce il rapporto tra storia e leggenda?**
 Distinguendo i dati storici dalla tradizione letteraria, ma spiegando che entrambe contribuiscono al valore turistico del luogo.
 
-## Risposta modello breve
+### Risposta modello
 
 La Rocca di Gradara è uno dei più noti complessi fortificati delle Marche. Situata in posizione strategica tra Marche e Romagna, fu legata a importanti famiglie signorili, in particolare i Malatesta, e successivamente agli Sforza e ai Della Rovere. Il suo valore è architettonico, perché conserva l'immagine del borgo e della fortezza medievale, ma anche letterario, perché la tradizione la collega alla vicenda di Paolo e Francesca, resa celebre da Dante nel V canto dell'Inferno. Per una guida turistica Gradara è un sito ideale per spiegare come un monumento possa vivere insieme di storia, architettura, memoria e racconto.
 
-## Errori da evitare
-
-- Presentare Paolo e Francesca come unico argomento, dimenticando la struttura fortificata.
-- Raccontare la leggenda come se ogni dettaglio fosse storicamente provato.
-- Non citare i Malatesta.
-- Confondere Gradara con Urbino: sono entrambe nel pesarese, ma raccontano forme diverse di potere.
-
----
-
-# 6. Santuario della Santa Casa di Loreto - Loreto, Ancona
+## 6. Santuario della Santa Casa di Loreto - Loreto, Ancona
 
 ![Basilica della Santa Casa di Loreto](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Pontificia%20della%20Santa%20Casa%20di%20Loreto.jpg)
 
 *Immagine: Basilica Pontificia della Santa Casa di Loreto. Fonte: Wikimedia Commons, file "Basilica Pontificia della Santa Casa di Loreto.jpg".*
 
-## Dati essenziali
+### Dati essenziali
 
 Il Santuario della Santa Casa di Loreto si trova a Loreto, in provincia di Ancona, su un'altura non lontana dalla costa adriatica. È uno dei principali santuari mariani del mondo cattolico. Il cuore del complesso è la **Santa Casa**, custodita all'interno della basilica, che secondo la tradizione corrisponderebbe alla casa di Maria a Nazaret.
 
 Per la prova orale, il Santuario deve essere presentato come un luogo in cui si intrecciano fede, pellegrinaggio, arte, architettura, geopolitica religiosa e identità territoriale. Non va ridotto a "chiesa importante": è un santuario internazionale, costruito attorno a una reliquia e a una tradizione devozionale di enorme forza.
 
-## La Santa Casa
+### La Santa Casa
 
 Secondo l'antica tradizione, la Santa Casa sarebbe costituita dalle pareti della casa di Maria a Nazaret, trasportate miracolosamente a Loreto. La tradizione lauretana ha avuto una diffusione vastissima e ha fatto di Loreto una meta di pellegrinaggio di primo piano.
 
@@ -513,25 +468,25 @@ All'orale bisogna essere precisi nel linguaggio: si può dire "secondo la tradiz
 
 Il punto più importante è che la Santa Casa è il nucleo generatore di tutto il santuario. La basilica nasce per custodirla, proteggerla e accogliere i pellegrini.
 
-## La basilica
+### La basilica
 
 La basilica viene edificata tra Quattrocento e Cinquecento e assume anche l'aspetto di una basilica-fortezza. Questo aspetto è molto interessante: Loreto non è solo luogo di devozione, ma anche complesso monumentale progettato per custodire un bene sacro e accogliere folle di pellegrini in un'epoca in cui la costa adriatica era esposta a rischi e tensioni.
 
 La costruzione della basilica coinvolge artisti e architetti di rilievo. Il risultato è un grande edificio religioso rinascimentale, con successivi interventi e apparati decorativi. La facciata, la cupola, la piazza e il Palazzo Apostolico concorrono a creare un complesso scenografico e devozionale.
 
-## Il rivestimento marmoreo della Santa Casa
+### Il rivestimento marmoreo della Santa Casa
 
 Uno degli elementi artistici più importanti è il rivestimento marmoreo che avvolge la Santa Casa all'interno della basilica. Esso trasforma il nucleo devozionale in un oggetto artistico e monumentale. Il rivestimento consente di leggere il rapporto tra reliquia e arte: la casa è il centro spirituale, il marmo è la cornice celebrativa.
 
 Questo passaggio è utile all'esame perché permette di collegare architettura e devozione. Il santuario non è soltanto luogo di preghiera, ma anche grande macchina artistica della fede.
 
-## Pellegrinaggio e vie lauretane
+### Pellegrinaggio e vie lauretane
 
 Loreto è storicamente collegata ai pellegrinaggi. La posizione nelle Marche e il rapporto con la costa adriatica ne fanno un nodo devozionale importante. Il pellegrinaggio lauretano ha coinvolto fedeli, nobili, papi, artisti e viaggiatori. Oggi il santuario continua ad avere un ruolo religioso e turistico molto forte.
 
 Per una guida turistica è utile spiegare che il pellegrinaggio non è solo movimento fisico, ma esperienza rituale. Il visitatore non arriva a Loreto come arriverebbe in un museo: entra in uno spazio ancora vivo, in cui culto, silenzio, celebrazione e visita culturale convivono. Questo richiede attenzione nel tono della visita.
 
-## Come presentarlo all'orale
+### Come presentarlo all'orale
 
 La struttura migliore è:
 
@@ -543,13 +498,13 @@ La struttura migliore è:
 6. pellegrinaggio: centralità religiosa e vie lauretane;
 7. linguaggio professionale: rispetto della dimensione devozionale e distinzione tra tradizione, storia e arte.
 
-## Collegamenti utili
+### Collegamenti utili
 
 - **Con Gradara:** entrambi sono luoghi di racconto; Gradara letterario, Loreto devozionale.
 - **Con Urbino:** Urbino rappresenta la corte umanistica; Loreto rappresenta la committenza e la monumentalità religiosa.
 - **Con Ascoli Piceno:** entrambi mostrano il peso del cristianesimo nelle città marchigiane, ma Loreto ha scala internazionale.
 
-## Domande probabili
+### Domande probabili
 
 **Che cos'è la Santa Casa?**
 È il nucleo devozionale del santuario: secondo la tradizione, le pareti della casa di Maria a Nazaret.
@@ -560,29 +515,12 @@ Perché è uno dei principali santuari mariani del mondo cattolico, meta storica
 **Come deve parlarne una guida?**
 Con rispetto per il culto e precisione storica, distinguendo la tradizione devozionale dai dati storico-artistici.
 
-## Risposta modello breve
+### Risposta modello
 
 Il Santuario della Santa Casa di Loreto è uno dei principali luoghi di culto mariano del mondo cattolico. Si trova a Loreto, in provincia di Ancona, e custodisce al suo interno la Santa Casa, che secondo la tradizione corrisponde alla casa di Maria a Nazaret. La basilica, costruita tra Quattrocento e Cinquecento, nasce per proteggere questo nucleo devozionale e accogliere i pellegrini. Il sito ha quindi un valore religioso, artistico e turistico: è santuario, complesso monumentale, meta di pellegrinaggio e luogo ancora vivo di culto. Una guida deve presentarlo con equilibrio, rispettando la dimensione spirituale e spiegando al tempo stesso l'architettura, l'arte e la storia della devozione lauretana.
 
-## Errori da evitare
-
-- Parlare della Santa Casa senza usare la formula "secondo la tradizione".
-- Presentare Loreto come semplice basilica, dimenticando il suo ruolo di santuario e meta di pellegrinaggio.
-- Trascurare il rapporto tra reliquia, architettura e flussi devozionali.
-- Usare un tono troppo museale in uno spazio che è ancora luogo di culto attivo.
-
----
-
-# Appendice - Sito marchigiano della Sezione III: Parco Archeologico di Urbisaglia / Urbs Salvia
-
-Questa sezione è inclusa perché il programma della Sezione III indica per le Marche il **Parco Archeologico di Urbisaglia**. Non è una scheda approfondita della prova orale, perché il sito non compare tra i sei siti marchigiani della Sezione I; tuttavia, seguendo il criterio richiesto, viene fornito un esempio di presentazione orale di circa 5 minuti per i siti classificati come P.
-
-![Anfiteatro di Urbs Salvia](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia.jpg)
-
-*Immagine: Anfiteatro romano di Urbs Salvia. Fonte: Wikimedia Commons, file "Anfiteatro Urbs Salvia.jpg".*
-
-## Presentazione orale di circa 5 minuti - Parco Archeologico di Urbisaglia / Urbs Salvia
-
+## Presentazioni orali da circa 5 minuti
+### Presentazione orale di circa 5 minuti - Parco Archeologico di Urbisaglia / Urbs Salvia
 Il Parco Archeologico di Urbisaglia, noto anche come **Urbs Salvia**, si trova nel territorio di Urbisaglia, in provincia di Macerata. È uno dei più importanti complessi archeologici romani delle Marche e si sviluppa su un'area di circa quaranta ettari, ai piedi dell'attuale centro medievale. Il suo valore principale consiste nella possibilità di leggere in modo abbastanza chiaro la struttura di una città romana, distribuita su più livelli e collegata al paesaggio della valle del Fiastra.
 
 Per introdurre il sito, partirei proprio dal rapporto tra città antica e città moderna. Urbs Salvia non è un rudere isolato, ma un luogo in cui il visitatore può osservare la continuità tra l'insediamento romano, il borgo medievale di Urbisaglia e il paesaggio agricolo marchigiano. Questo rende il sito particolarmente efficace dal punto di vista della visita guidata, perché permette di spiegare non solo i monumenti, ma anche la logica urbanistica di una città romana.
@@ -598,8 +536,70 @@ Dal punto di vista storico, Urbs Salvia consente inoltre di parlare della romani
 Concluderei la presentazione sottolineando che il Parco Archeologico di Urbisaglia è particolarmente adatto a una prova pratica perché obbliga la guida a "far vedere" la città antica anche dove le strutture sono parziali. La competenza non sta solo nel nominare teatro, foro, tempio e anfiteatro, ma nel ricostruire per il pubblico la logica complessiva dello spazio urbano romano: dove si svolgeva la vita politica, dove quella religiosa, dove lo spettacolo, dove il transito, e come tutto questo dialogava con il territorio. In questo senso, Urbs Salvia è uno dei migliori siti marchigiani per mostrare la capacità della guida di trasformare un'area archeologica in un racconto chiaro, ordinato e comprensibile.
 
 ---
+### Appendice - Sito marchigiano della Sezione III: Parco Archeologico di Urbisaglia / Urbs Salvia
 
-# Domande di simulazione per le Marche
+Questa sezione è inclusa perché il programma della Sezione III indica per le Marche il **Parco Archeologico di Urbisaglia**. Non è una scheda approfondita della prova orale, perché il sito non compare tra i sei siti marchigiani della Sezione I; tuttavia, seguendo il criterio richiesto, viene fornito un esempio di presentazione orale di circa 5 minuti per i siti classificati come P.
+
+![Anfiteatro di Urbs Salvia](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia.jpg)
+
+*Immagine: Anfiteatro romano di Urbs Salvia. Fonte: Wikimedia Commons, file "Anfiteatro Urbs Salvia.jpg".*
+
+## Ripasso finale
+### Errori da evitare
+
+- Dire che le grotte sono state "costruite" dall'uomo: sono formazioni naturali.
+- Confondere stalattiti e stalagmiti.
+- Presentarle solo come attrazione scenografica, senza spiegare il processo carsico.
+- Dimenticare il tema della tutela: l'ambiente ipogeo è fragile.
+
+---
+
+### Errori da evitare
+
+- Presentare il Palazzo Ducale solo come museo, dimenticando la sua funzione originaria di residenza e manifesto politico.
+- Parlare genericamente di "castello": il Palazzo Ducale è una residenza di corte rinascimentale, non una fortezza medievale nel senso di Gradara.
+- Non citare Federico da Montefeltro.
+- Dimenticare il rapporto tra edificio e città.
+
+---
+
+### Errori da evitare
+
+- Presentarlo come semplice "parco naturale", senza parlare di borghi, cultura e mito.
+- Confondere il parco con una sola montagna.
+- Ignorare la dimensione interregionale Marche-Umbria.
+- Dimenticare il tema della sostenibilità e della sicurezza escursionistica.
+
+---
+
+### Errori da evitare
+
+- Parlare solo di Piazza del Popolo, dimenticando Piazza Arringo.
+- Citare il travertino come dettaglio decorativo, invece che come elemento identitario.
+- Confondere Ascoli con una città solo rinascimentale: la stratificazione è più ampia.
+- Non spiegare la funzione sociale e civica delle piazze.
+
+---
+
+### Errori da evitare
+
+- Presentare Paolo e Francesca come unico argomento, dimenticando la struttura fortificata.
+- Raccontare la leggenda come se ogni dettaglio fosse storicamente provato.
+- Non citare i Malatesta.
+- Confondere Gradara con Urbino: sono entrambe nel pesarese, ma raccontano forme diverse di potere.
+
+---
+
+### Errori da evitare
+
+- Parlare della Santa Casa senza usare la formula "secondo la tradizione".
+- Presentare Loreto come semplice basilica, dimenticando il suo ruolo di santuario e meta di pellegrinaggio.
+- Trascurare il rapporto tra reliquia, architettura e flussi devozionali.
+- Usare un tono troppo museale in uno spazio che è ancora luogo di culto attivo.
+
+---
+
+### Domande di simulazione per le Marche
 
 1. Spiega le Grotte di Frasassi come sito naturalistico e turistico, senza limitarti alla descrizione estetica.
 2. Qual è il ruolo di Federico da Montefeltro nella costruzione dell'immagine rinascimentale di Urbino?
@@ -614,8 +614,6 @@ Concluderei la presentazione sottolineando che il Parco Archeologico di Urbisagl
 
 ---
 
-# Ripasso finale: parole chiave
-
 | Sito | 8 parole chiave da memorizzare |
 |---|---|
 | Grotte di Frasassi | Genga; carsismo; acqua; stalattiti; Abisso Ancona; 1971; percorso guidato; tutela. |
@@ -628,10 +626,8 @@ Concluderei la presentazione sottolineando che il Parco Archeologico di Urbisagl
 
 ---
 
-# Fonti consultate
-
-## Grotte di Frasassi
-
+## Fonti principali consultate
+### Grotte di Frasassi
 - [Sito ufficiale Grotte di Frasassi](https://www.frasassi.com/)
 - [Pagina ufficiale sulla scoperta](https://www.frasassi.com/GrotteScoperta.aspx?l=it)
 - [Percorso turistico](https://www.frasassi.com/PercorsoTuristicoSala200.aspx?l=it)
@@ -639,8 +635,7 @@ Concluderei la presentazione sottolineando che il Parco Archeologico di Urbisagl
 - [Italia.it, Grotte di Frasassi](https://www.italia.it/it/marche/ancona/grotte-di-frasassi)
 - [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Grotte_di_Frasassi,_Sala_delle_Candeline.jpg)
 
-## Palazzo Ducale di Urbino
-
+### Palazzo Ducale di Urbino
 - [Galleria Nazionale delle Marche](https://gndm.it/)
 - [Palazzo, Galleria Nazionale delle Marche](https://gndm.it/palazzo/)
 - [MiC, Palazzo Ducale di Urbino e Galleria Nazionale delle Marche](https://cultura.gov.it/luogo/palazzo-ducale-di-urbino-galleria-nazionale-delle-marche-1-)
@@ -649,40 +644,35 @@ Concluderei la presentazione sottolineando che il Parco Archeologico di Urbisagl
 - [GNDM, Madonna di Senigallia](https://gndm.it/opere/madonna-col-bambino-benedicente-e-due-angeli-madonna-di-senigallia/)
 - [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Palazzo_Ducale,_Urbino_(Marche)_01.jpg)
 
-## Parco Nazionale dei Monti Sibillini
-
+### Parco Nazionale dei Monti Sibillini
 - [Sito ufficiale del Parco](https://www.sibillini.net/)
 - [Il Parco, dati territoriali](https://www.sibillini.net/il_parco/index.php)
 - [Sentieri ufficiali](https://www.sibillini.net/chiedi_sibilla/sentieri/index.php?source=npst)
 - [Camoscio appenninico](https://www.sibillini.net/il_parco/natura/fauna/camoscio.php)
 - [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:MT.Vettore_(Parco_nazionale_dei_Monti_Sibillini).jpg)
 
-## Ascoli Piceno
-
+### Ascoli Piceno
 - [Visit Ascoli, sito turistico ufficiale](https://visitascoli.it/)
 - [Comune di Ascoli Piceno, turismo](https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/15458)
 - [Turismo Marche, Piazza del Popolo](https://letsmarche.it/-/piazza-del-popolo-7)
 - [Italia.it, Ascoli Piceno](https://www.italia.it/it/marche/passeggiate-d-inverno111111111111111111111111111111111111111111111111111111111111111111111111111111111111111/guida-storia-curiosita)
 - [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Piazza_del_Popolo_(Ascoli_Piceno).jpg)
 
-## Rocca di Gradara
-
+### Rocca di Gradara
 - [Sito istituzionale Rocca di Gradara](https://www.roccadigradara.org/)
 - [Storia delle famiglie, Rocca di Gradara](https://www.roccadigradara.org/storia-delle-famiglie/)
 - [Portale ufficiale Gradara, storia](https://www.gradara.org/gradara/storia-di-gradara/)
 - [Portale ufficiale Gradara, Paolo e Francesca](https://www.gradara.org/gradara/paolo-e-francesca/)
 - [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Rocca_di_Gradara_-_facciata.jpg)
 
-## Santuario della Santa Casa di Loreto
-
+### Santuario della Santa Casa di Loreto
 - [Santuario Pontificio della Santa Casa, storia](https://www.santuarioloreto.va/it/storia.html)
 - [La Santa Casa](https://www.santuarioloreto.va/it/storia/guida-alla-basilica/la-santa-casa.html)
 - [La Basilica e il Palazzo Apostolico](https://www.santuarioloreto.va/it/storia/la-basilica-e-il-palazzo-apostolico.html)
 - [La Santa Casa da Nazareth a Loreto](https://www.santuarioloreto.va/it/storia/la-santa-casa-da-nazareth-a-loreto.html)
 - [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Basilica_Pontificia_della_Santa_Casa_di_Loreto.jpg)
 
-## Parco Archeologico di Urbisaglia / Urbs Salvia
-
+### Parco Archeologico di Urbisaglia / Urbs Salvia
 - [Sito ufficiale Parco Archeologico Urbs Salvia](https://www.urbssalvia.it/it)
 - [Tempio e criptoportico](https://www.urbssalvia.it/it/esplora-il-parco/i-principali-monumenti/il-tempio-criptoportico)
 - [Comune di Urbisaglia, Parco Archeologico](https://www.comune.urbisaglia.mc.it/vivere-il-comune/luoghi/parco-archeologico-di-urbis-salvia-e-rocca/)

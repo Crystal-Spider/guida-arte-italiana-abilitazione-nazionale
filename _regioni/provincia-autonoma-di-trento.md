@@ -4,9 +4,9 @@ layout: default
 nav_order: 18
 ---
 
-# Guida turistica nazionale 2026 - Prova orale
-## Provincia autonoma di Trento
+# Guida per la prova orale - Provincia autonoma di Trento
 
+## Perimetro e orientamento
 **Perimetro del programma:** Sezione I, ID 110: **Piazza Duomo**, località **Trento**, provincia **Trento**.
 Nella traccia d'esame non risultano musei della Provincia autonoma di Trento in Sezione II e non risultano siti trentini in Sezione III/prova tecnico-pratica; quindi non viene inserita una presentazione orale da 5 minuti.
 
@@ -28,7 +28,7 @@ Nella traccia d'esame non risultano musei della Provincia autonoma di Trento in 
 
 ---
 
-## 2. Inquadramento generale
+### Inquadramento
 
 Piazza Duomo è il principale spazio monumentale del centro storico di Trento. Per la prova orale conviene presentarla non come una semplice piazza scenografica, ma come una **sintesi della storia civile, religiosa e politica della città**. In un unico spazio si incontrano la Cattedrale di San Vigilio, il Palazzo Pretorio, la Torre Civica, la Fontana del Nettuno e le case affrescate affacciate sulla piazza. Questa concentrazione di edifici permette di costruire una risposta d'esame ordinata, capace di collegare urbanistica medievale, principato vescovile, Concilio di Trento, cultura figurativa rinascimentale e vita urbana contemporanea.
 
@@ -38,7 +38,7 @@ All'orale è importante evitare un errore frequente: parlare solo del Duomo. Il 
 
 ---
 
-## 3. Localizzazione e lettura dello spazio urbano
+### Dati essenziali
 
 Piazza Duomo si trova nel cuore del centro storico di Trento, città collocata nella valle dell'Adige, lungo un asse di comunicazione fondamentale tra area italiana e mondo alpino-centroeuropeo. La posizione di Trento spiega molte delle sue caratteristiche storiche: città romana, sede episcopale, principato vescovile, luogo di passaggio tra Mediterraneo e Mitteleuropa, città del Concilio.
 
@@ -54,27 +54,27 @@ Questa composizione rende Piazza Duomo un ottimo argomento d'esame perché conse
 
 ---
 
-## 4. La Cattedrale di San Vigilio
+### La Cattedrale di San Vigilio
 
-### 4.1 Origini e dedicazione
+#### Origini e dedicazione
 
 La Cattedrale di San Vigilio è dedicata al patrono della città e dell'arcidiocesi. La tradizione cristiana di questo luogo è antica: il sito ufficiale della cattedrale ricorda una storia plurisecolare che affonda le radici nella fine del IV secolo. Gli scavi sotto l'edificio attuale hanno infatti messo in luce la basilica paleocristiana di San Vigilio, costruita fuori dalla cinta urbana romana e connessa alla memoria del santo.
 
 Per l'esame, la basilica paleocristiana è un punto importante perché permette di mostrare la continuità tra la Trento romana, la cristianizzazione tardoantica e la città medievale. La cattedrale attuale non nasce in uno spazio neutro: si innesta su un luogo già carico di memoria religiosa.
 
-### 4.2 Ricostruzione romanica e Federico Vanga
+#### Ricostruzione romanica e Federico Vanga
 
 La cattedrale attuale venne ricostruita a partire dal 1212, in forme romanico-lombarde, per iniziativa del principe vescovo Federico Vanga. Visit Trentino attribuisce il progetto alle maestranze campionesi guidate da Adamo d'Arogno. Questo dato è fondamentale: Federico Vanga non fu solo un committente ecclesiastico, ma una figura centrale dello sviluppo urbanistico e artistico della città.
 
 La cattedrale è un edificio romanico a tre navate. All'esterno si riconoscono elementi tipici del linguaggio romanico-lombardo: murature compatte, archetti pensili, loggette, rosoni, protiro con leoni stilofori e una forte scansione plastica delle superfici. La facciata è dominata dal rosone e dal portale strombato. Sul fianco che guarda la piazza, il visitatore coglie uno degli aspetti più caratteristici dell'edificio: il transetto con la Ruota della Fortuna e la Porta del Vescovo.
 
-### 4.3 La Ruota della Fortuna
+#### La Ruota della Fortuna
 
 La Ruota della Fortuna è uno degli elementi iconografici più efficaci da citare all'orale. Si trova sul transetto settentrionale e rappresenta il tema medievale dell'instabilità della sorte umana: chi sale può cadere, chi cade può risalire. Il tema è perfetto per spiegare la mentalità medievale, in cui l'arte ha funzione non solo ornamentale ma anche morale e didattica.
 
 In una risposta d'esame, la Ruota della Fortuna può essere usata per collegare architettura, iconografia e catechesi visiva. Non va descritta come semplice decorazione: è una rappresentazione simbolica che parla al fedele e al cittadino, inserita in uno spazio pubblico molto frequentato.
 
-### 4.4 Interno, cripta e testimonianze artistiche
+#### Interno, cripta e testimonianze artistiche
 
 L'interno della cattedrale conserva testimonianze pittoriche e scultoree di più epoche, dall'età paleocristiana al XIX secolo. Per la preparazione orale conviene ricordare soprattutto tre nuclei:
 
@@ -86,7 +86,7 @@ La cripta è particolarmente utile per dare profondità storica alla visita. Per
 
 ---
 
-## 5. Piazza Duomo e il Concilio di Trento
+### Piazza Duomo e il Concilio di Trento
 
 La Cattedrale di San Vigilio è legata in modo decisivo al **Concilio di Trento**, convocato tra il 1545 e il 1563. Visit Trentino ricorda che qui vennero promulgati i decreti del Concilio e che le sessioni solenni si tennero nel presbiterio della cattedrale, su una struttura mobile.
 
@@ -100,7 +100,7 @@ Un'esposizione efficace può dire:
 
 ---
 
-## 6. Palazzo Pretorio
+### Palazzo Pretorio
 
 Palazzo Pretorio si affaccia sulla piazza accanto alla cattedrale e alla Torre Civica. Il Comune di Trento lo presenta come l'antica residenza dei principi-vescovi. Questa informazione è essenziale: prima di diventare sede museale, l'edificio era legato direttamente al potere episcopale, cioè a quella forma di governo in cui l'autorità religiosa e quella politica si intrecciavano.
 
@@ -110,7 +110,7 @@ All'esame, Palazzo Pretorio va presentato come elemento di cerniera tra piazza, 
 
 ---
 
-## 7. Torre Civica
+### Torre Civica
 
 La Torre Civica, detta anche Torre di Piazza, è uno dei principali segni verticali del centro storico. Il Museo Diocesano Tridentino la descrive come una torre di circa 45 metri affacciata su Piazza Duomo, dominata dalla Cattedrale e impreziosita dalla Fontana del Nettuno.
 
@@ -125,7 +125,7 @@ Una guida può usare la torre per far capire che Piazza Duomo non è solo uno sp
 
 ---
 
-## 8. Fontana del Nettuno
+### Fontana del Nettuno
 
 La Fontana del Nettuno occupa il centro della piazza e costituisce il principale fulcro visivo dello spazio aperto. Fu realizzata tra il 1767 e il 1769 su progetto di Francesco Antonio Giongo; la componente scultorea originaria è legata a Stefano Salterio, mentre varie statue furono successivamente sostituite da copie.
 
@@ -137,7 +137,7 @@ Per l'esposizione orale, conviene descriverla così:
 
 ---
 
-## 9. Case affrescate: Casa Cazuffi-Rella
+### Case affrescate: Casa Cazuffi-Rella
 
 Sul lato della piazza e lungo l'imbocco di via Belenzani si trovano le case affrescate, tra cui Casa Cazuffi-Rella. Visit Trentino ricorda che sulla facciata di sinistra sono raffigurati personaggi e scene della mitologia classica attribuiti a Marcello Fogolino: Gerione, le allegorie della Fortuna, dell'Occasione e della Nemesi, Damocle alla mensa di Dionigi. Sulla facciata di destra si sviluppano temi come Virtù, Tempo, Trionfi dell'Amore, Apollo e Abbondanza.
 
@@ -147,7 +147,7 @@ Per l'esame, questo punto è prezioso perché permette di collegare Piazza Duomo
 
 ---
 
-## 10. Cronologia essenziale
+### Cronologia essenziale
 
 | Periodo | Evento / fase | Da ricordare per l'orale |
 |---|---|---|
@@ -162,9 +162,9 @@ Per l'esame, questo punto è prezioso perché permette di collegare Piazza Duomo
 
 ---
 
-## 11. Cosa vedere e come raccontarlo
+### Cosa vedere e come raccontarlo
 
-### Percorso consigliato di esposizione
+#### Suggerimenti di esposizione
 
 1. **Partire dal centro della piazza**, con la Fontana del Nettuno: serve come punto di osservazione e come fulcro scenografico.
 2. **Passare alla Cattedrale di San Vigilio**, sottolineando la stratificazione tra basilica paleocristiana, romanico e Concilio di Trento.
@@ -172,7 +172,7 @@ Per l'esame, questo punto è prezioso perché permette di collegare Piazza Duomo
 4. **Concludere con le case affrescate**, per mostrare la dimensione civile e rinascimentale della piazza.
 5. **Chiudere con una sintesi**, presentando Piazza Duomo come palinsesto della storia trentina.
 
-### Dettagli da memorizzare
+#### Dettagli da memorizzare
 
 - Cattedrale dedicata a **San Vigilio**, patrono di Trento.
 - Ricostruzione romanica avviata nel **1212** per volontà del principe vescovo **Federico Vanga**.
@@ -186,7 +186,7 @@ Per l'esame, questo punto è prezioso perché permette di collegare Piazza Duomo
 
 ---
 
-## 12. Perché è importante
+### Perché è importante
 
 Piazza Duomo è importante perché condensa l'identità storica di Trento. Non è un luogo da presentare solo per la sua bellezza architettonica, ma per la sua capacità di raccontare:
 
@@ -201,7 +201,7 @@ Il valore della piazza è quindi urbano, storico, artistico e simbolico. Per una
 
 ---
 
-## 13. Collegamenti utili con altri siti del programma
+### Collegamenti utili
 
 - **Bolzano - Dolomiti e Lago di Braies:** collegamento geografico con l'area alpina e il Trentino-Alto Adige/Südtirol, ma differenza netta tra sito urbano-monumentale e paesaggio naturale dolomitico.
 - **Trento e Verona/Vicenza/Padova/Venezia:** collegamento con le città del Veneto e dell'Italia nord-orientale; utile per parlare di assi storici, commerci e cultura urbana.
@@ -211,41 +211,41 @@ Il valore della piazza è quindi urbano, storico, artistico e simbolico. Per una
 
 ---
 
-## 14. Domande probabili all'orale
+### Domande probabili
 
-### Domanda 1: Perché Piazza Duomo è il cuore monumentale di Trento?
+#### Domanda 1: Perché Piazza Duomo è il cuore monumentale di Trento?
 
 **Risposta breve:**
 Perché raccoglie in un unico spazio i principali simboli della città: la Cattedrale di San Vigilio, Palazzo Pretorio, la Torre Civica, la Fontana del Nettuno e le case affrescate. È un luogo in cui si leggono insieme storia religiosa, potere politico, identità civica e cultura figurativa.
 
-### Domanda 2: Qual è il ruolo della Cattedrale di San Vigilio?
+#### Domanda 2: Qual è il ruolo della Cattedrale di San Vigilio?
 
 **Risposta breve:**
 È il principale edificio religioso di Trento, dedicato al patrono San Vigilio. L'edificio attuale fu ricostruito dal 1212 in forme romanico-lombarde per iniziativa di Federico Vanga. Conserva la memoria della basilica paleocristiana e fu legato alle sessioni solenni del Concilio di Trento.
 
-### Domanda 3: Che rapporto c'è tra Piazza Duomo e il Concilio di Trento?
+#### Domanda 3: Che rapporto c'è tra Piazza Duomo e il Concilio di Trento?
 
 **Risposta breve:**
 Il Concilio di Trento, svoltosi tra 1545 e 1563, ebbe nella Cattedrale di San Vigilio uno dei luoghi simbolici: qui vennero promulgati i decreti conciliari e si tennero sessioni solenni. Per questo la piazza è legata a uno degli eventi più importanti della storia religiosa europea moderna.
 
-### Domanda 4: Cosa rappresentano Palazzo Pretorio e Torre Civica?
+#### Domanda 4: Cosa rappresentano Palazzo Pretorio e Torre Civica?
 
 **Risposta breve:**
 Palazzo Pretorio richiama il potere dei principi-vescovi ed è oggi sede del Museo Diocesano Tridentino. La Torre Civica, invece, è il segno del potere comunale e della dimensione pubblica della piazza. Insieme mostrano l'intreccio tra autorità religiosa, politica e cittadina.
 
-### Domanda 5: Perché è importante la Fontana del Nettuno?
+#### Domanda 5: Perché è importante la Fontana del Nettuno?
 
 **Risposta breve:**
 La Fontana del Nettuno, costruita nel XVIII secolo, organizza visivamente la piazza e introduce un elemento scenografico settecentesco. È simbolo di decoro urbano, funzione pubblica dell'acqua e rappresentazione civica.
 
-### Domanda 6: Quale ruolo hanno le case affrescate?
+#### Domanda 6: Quale ruolo hanno le case affrescate?
 
 **Risposta breve:**
 Le case affrescate, in particolare Casa Cazuffi-Rella, mostrano il volto rinascimentale e laico della piazza. I temi mitologici e allegorici sulle facciate trasformano lo spazio urbano in un luogo di comunicazione culturale e sociale.
 
 ---
 
-## 15. Risposta modello da 2 minuti
+### Risposta modello
 
 Piazza Duomo è il cuore monumentale di Trento e uno degli spazi urbani più rappresentativi del Trentino. La sua importanza deriva dal fatto che in un unico luogo si concentrano i principali simboli religiosi, politici e civili della città. Il monumento dominante è la Cattedrale di San Vigilio, dedicata al patrono di Trento. L'edificio attuale venne ricostruito a partire dal 1212 in forme romanico-lombarde, su iniziativa del principe vescovo Federico Vanga, con il contributo delle maestranze campionesi. La cattedrale conserva anche la memoria delle origini paleocristiane della città e fu legata al Concilio di Trento, uno degli eventi più importanti della storia della Chiesa cattolica in età moderna.
 
@@ -255,7 +255,7 @@ Piazza Duomo va quindi letta come un palinsesto: non solo una bella piazza, ma u
 
 ---
 
-## 16. Risposta modello da 4 minuti
+### Risposta modello
 
 Per presentare Piazza Duomo di Trento partirei dal suo ruolo urbano: è la piazza principale della città e il luogo in cui si concentrano i monumenti più rappresentativi della sua identità storica. Siamo nel cuore del centro storico, in una città posta lungo la valle dell'Adige, da sempre punto di collegamento tra il mondo italiano e quello alpino-centroeuropeo. Questa posizione di cerniera aiuta a capire il ruolo storico di Trento: città romana, sede episcopale, principato vescovile e poi città del Concilio.
 
@@ -271,7 +271,8 @@ Piazza Duomo, quindi, è un vero palinsesto urbano. In uno spazio relativamente 
 
 ---
 
-## 17. Errori da evitare
+## Ripasso finale
+### Errori da evitare
 
 - Parlare solo della Cattedrale, dimenticando che il sito richiesto è **Piazza Duomo**.
 - Confondere Trento con Bolzano o trattare genericamente il Trentino-Alto Adige senza distinguere la Provincia autonoma di Trento.
@@ -283,7 +284,7 @@ Piazza Duomo, quindi, è un vero palinsesto urbano. In uno spazio relativamente 
 
 ---
 
-## 18. Schema di memorizzazione rapida
+### Schema di memorizzazione rapida
 
 **Formula:**
 **Piazza → Cattedrale → Concilio → Palazzo/Torre → Fontana → Case affrescate → sintesi**
@@ -296,8 +297,7 @@ San Vigilio - Federico Vanga - Concilio - Torre Civica - Nettuno
 
 ---
 
-## 19. Fonti principali consultate
-
+## Fonti principali consultate
 - [Comune di Trento, "Piazza Duomo"](https://www.comune.trento.it/Vivere-il-Comune/Luoghi/Piazza-Duomo)
 - [Comune di Trento, "Cattedrale di San Vigilio"](https://www.comune.trento.it/Vivere-il-Comune/Luoghi/Cattedrale-di-San-Vigilio)
 - [Visit Trentino, "Duomo di Trento - La Cattedrale di San Vigilio"](https://www.visittrentino.info/it/guida/da-vedere/chiese-santuari/duomo-di-trento-la-cattedrale-di-san-vigilio_md_2588)

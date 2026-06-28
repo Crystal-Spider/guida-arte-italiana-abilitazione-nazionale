@@ -4,15 +4,15 @@ layout: default
 nav_order: 2
 ---
 
-# Guida di studio per la prova orale - Basilicata
+# Guida per la prova orale - Basilicata
 
+## Perimetro e orientamento
 **Esame orale guida turistica nazionale italiana 2026**
 **Volume regionale: Basilicata**
 **Perimetro:** solo prova orale, con approfondimento extra per i siti che compaiono anche nella prova pratica.
 
 ---
 
-## 0. Perimetro della scheda
 
 Nella traccia d'esame per la **Basilicata** nella **Sezione I** della prova orale compaiono quattro siti:
 
@@ -39,7 +39,7 @@ Nella **Sezione II** del programma non risultano musei lucani specificamente ric
 
 _Immagine: strada per Pietrapertosa vista da Castelmezzano, Wikimedia Commons._
 
-### 1.1 Dati essenziali
+### Dati essenziali
 
 | Voce                         | Contenuto                                                                                                                             |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ _Immagine: strada per Pietrapertosa vista da Castelmezzano, Wikimedia Commons._
 | Elementi da ricordare        | Castelmezzano, Pietrapertosa, guglie arenacee, Rabatana, castello normanno-svevo, sentieri, Volo dell'Angelo, Parco Gallipoli Cognato |
 | Status d'esame               | Solo O                                                                                                                                |
 
-### 1.2 Dove si trovano e perché la posizione è importante
+### Inquadramento
 
 Le Dolomiti Lucane si trovano nel cuore della Basilicata interna, nell'Appennino lucano, intorno ai borghi di **Castelmezzano** e **Pietrapertosa**. La traccia d'esame le colloca correttamente in provincia di Potenza, ma è utile sapere che il sistema paesaggistico più ampio rientra nel **Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane**, che coinvolge anche comuni della provincia di Matera.
 
@@ -60,7 +60,7 @@ L'elemento da chiarire subito all'orale è che il nome "Dolomiti" non indica una
 
 Per una guida turistica questo è un punto forte: il sito non va presentato solo come "bel panorama", ma come paesaggio geologico, storico e antropico. Le case dei borghi sembrano incastrate nella roccia; il visitatore non osserva una separazione netta tra natura e abitato, ma un rapporto continuo tra montagna, difesa, architettura e vita quotidiana.
 
-### 1.3 Identità del sito: paesaggio, roccia e borghi
+### Identità del sito: paesaggio, roccia e borghi
 
 Le Dolomiti Lucane sono un sito in cui la componente naturalistica e quella storico-culturale sono inseparabili. Le rocce dominano la scena e determinano la forma dei borghi: non sono un semplice sfondo, ma l'elemento che condiziona strade, case, percorsi, punti panoramici e sistemi difensivi.
 
@@ -68,7 +68,7 @@ Il Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane si estende per circ
 
 Dal punto di vista geologico, l'interesse deriva dalla combinazione di processi tettonici ed erosivi. Le arenarie cementate sono state sollevate e poi scolpite, dando origine a picchi, creste, anfratti e pareti verticali. Le valli del Basento e del Salandrella, con l'azione erosiva dei corsi d'acqua, contribuiscono alla lettura morfologica dell'area. All'orale conviene usare parole semplici ma precise: **sollevamento tettonico, erosione, arenarie, guglie, paesaggio appenninico**.
 
-### 1.4 Castelmezzano
+### Castelmezzano
 
 Castelmezzano è uno dei borghi più caratteristici della montagna lucana. La sua immagine è fortemente legata all'abitato addossato alla roccia: le case sembrano seguire le linee delle pareti e dei rilievi, costruendo un paesaggio unitario. È un buon esempio di borgo montano in cui l'urbanistica nasce dal rapporto con la difesa e con l'orografia.
 
@@ -82,7 +82,7 @@ Per una presentazione orale è utile soffermarsi su tre elementi:
 
 Non bisogna ridurre Castelmezzano al solo "Volo dell'Angelo": l'attrazione è molto nota e può essere citata, ma deve restare dentro un discorso più ampio sulla valorizzazione turistica del paesaggio.
 
-### 1.5 Pietrapertosa
+### Pietrapertosa
 
 Pietrapertosa è l'altro grande centro da associare alle Dolomiti Lucane. Il borgo si trova nell'alta valle del Basento, alle spalle delle montagne rocciose, e viene spesso descritto come uno degli insediamenti più suggestivi della Basilicata interna.
 
@@ -90,7 +90,7 @@ Un elemento da ricordare è il quartiere della **Rabatana** o **Arabata**, legat
 
 Il borgo è dominato dalla rupe e dai resti del **castello normanno-svevo**, elemento utile per collegare il sito alla storia medievale dell'Italia meridionale. All'orale, Pietrapertosa può essere presentata come esempio di insediamento montano fortificato in cui ambiente naturale e architettura militare si sovrappongono.
 
-### 1.6 Cosa vedere e come leggere il sito
+### Cosa vedere e come raccontarlo
 
 #### Le guglie e le creste rocciose
 
@@ -116,7 +116,7 @@ Il Parco offre una rete di percorsi. Il **sentiero 710**, ad esempio, parte e ar
 
 È l'attrazione turistica più nota: collega idealmente Castelmezzano e Pietrapertosa attraverso un volo sospeso tra le montagne. Va citato come esempio di valorizzazione contemporanea del paesaggio, ma con cautela: in una prova orale per guida turistica il sito non deve diventare un discorso promozionale. La priorità resta l'interpretazione culturale e ambientale.
 
-### 1.7 Domande probabili d'orale
+### Domande probabili
 
 **Domanda:** Perché si chiamano Dolomiti Lucane?
 **Risposta sintetica:** Per la somiglianza morfologica con le Dolomiti alpine: guglie, pareti e forme aguzze. Dal punto di vista geologico, però, l'area è formata da arenarie cementate modellate dall'erosione.
@@ -130,20 +130,20 @@ Il Parco offre una rete di percorsi. Il **sentiero 710**, ad esempio, parte e ar
 **Domanda:** Che cosa non bisogna dimenticare parlando di Pietrapertosa?
 **Risposta sintetica:** La Rabatana, la rupe, i resti del castello normanno-svevo e il rapporto tra abitato e difesa.
 
-### 1.8 Errori da evitare
+### Errori da evitare
 
 - Non dire che sono "le Dolomiti alpine in Basilicata": il nome è soprattutto morfologico, non geologico in senso stretto.
 - Non limitarsi al Volo dell'Angelo.
 - Non presentare Castelmezzano e Pietrapertosa come borghi isolati: vanno letti dentro il Parco regionale e dentro un sistema paesaggistico.
 - Non fare una descrizione solo estetica: bisogna spiegare geologia, insediamento e funzione turistica.
 
-### 1.9 Collegamenti utili
+### Collegamenti utili
 
 - **Con il Pollino:** entrambi sono siti lucani in cui la montagna è identità territoriale, ma il Pollino è parco nazionale e geoparco; le Dolomiti Lucane sono un paesaggio più circoscritto e legato a due borghi.
 - **Con Matera:** entrambi mostrano integrazione tra abitato e roccia, ma Matera è un sistema urbano rupestre complesso, mentre le Dolomiti Lucane sono paesaggio montano e borgo difensivo.
 - **Con altri borghi italiani:** confronto con insediamenti fortificati su altura e con paesaggi di turismo lento.
 
-### 1.10 Suggerimento specifico di studio
+### Suggerimenti di esposizione
 
 Prepara una risposta ordinata in tre passaggi:
 
@@ -153,23 +153,13 @@ Prepara una risposta ordinata in tre passaggi:
 
 Frase chiave da ricordare: **"Le Dolomiti Lucane sono un paesaggio appenninico in cui la roccia non è solo sfondo naturale, ma struttura fisica e simbolica dei borghi di Castelmezzano e Pietrapertosa."**
 
-### 1.11 Fonti principali
-
-- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Scopri il Parco"](https://www.parcogallipolicognato.it/pagina.php?id=1)
-- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Geomorfologia"](https://www.parcogallipolicognato.it/pagina.php?id=2)
-- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Le Piccole Dolomiti Lucane"](https://www.parcogallipolicognato.it/pagina.php?id=3)
-- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, scheda Pietrapertosa](https://www.parcogallipolicognato.it/comuni_dettaglio.php?id=76061)
-- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Dolomiti_lucane.png)
-
----
-
 ## 2. Complesso Archeologico di Metaponto
 
 ![Tavole Palatine di Metaponto](https://commons.wikimedia.org/wiki/Special:FilePath/Metaponto_Tavole_Palatine.jpg)
 
 _Immagine: Tavole Palatine di Metaponto, Wikimedia Commons._
 
-### 2.1 Dati essenziali
+### Dati essenziali
 
 | Voce                  | Contenuto                                                                                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -181,7 +171,7 @@ _Immagine: Tavole Palatine di Metaponto, Wikimedia Commons._
 | Elementi da ricordare | Città achea, Magna Grecia, area urbana, agorà, templi A-B-C-D, Tavole Palatine, Hera, Museo Archeologico Nazionale, necropoli, territorio agricolo del Metapontino |
 | Status d'esame        | Solo O                                                                                                                                                             |
 
-### 2.2 Dove si trova e perché è importante
+### Inquadramento
 
 Metaponto si trova sulla costa ionica della Basilicata, nel territorio comunale di Bernalda, in provincia di Matera. La posizione è fondamentale: il Metapontino è una pianura fertile, tra corsi d'acqua e mare, particolarmente adatta all'agricoltura e agli scambi. Questo aiuta a spiegare perché l'area sia stata un centro rilevante della **Magna Grecia**.
 
@@ -189,7 +179,7 @@ All'orale bisogna subito collocare Metaponto dentro il fenomeno della colonizzaz
 
 Il programma parla di "Complesso Archeologico di Metaponto", quindi conviene intendere il sito in senso ampio: area urbana, santuario extraurbano delle Tavole Palatine, museo archeologico e territorio antico.
 
-### 2.3 Contesto storico: Metaponto e la Magna Grecia
+### Contesto storico
 
 Secondo la scheda della Direzione Regionale Musei della Basilicata, il parco archeologico dell'area urbana conserva resti della città fondata dagli **Achei** nella seconda metà del VII secolo a.C. Questo dato è essenziale. La fondazione rientra nel più vasto processo di colonizzazione greca dell'Italia meridionale, che portò alla nascita di città dotate di proprie istituzioni, santuari, reti commerciali e territori agricoli.
 
@@ -197,7 +187,7 @@ Metaponto fu particolarmente legata alla ricchezza della sua **chora**, cioè il
 
 Nella tradizione culturale Metaponto è anche associata alla figura di **Pitagora**, che dopo la permanenza a Crotone avrebbe concluso qui la sua vita. Questo riferimento va usato con misura: non deve sostituire la descrizione archeologica, ma può servire per collegare Metaponto al clima culturale della Magna Grecia, fatto di religione, filosofia, scienza, politica e forme comunitarie.
 
-### 2.4 L'area urbana
+### L'area urbana
 
 Il parco archeologico dell'area urbana permette di leggere la città antica attraverso i suoi spazi principali. La scheda MiC segnala che l'area urbana raggiungeva circa **150 ettari** ed era chiusa da un sistema difensivo. L'impianto era regolare, con assi viari che si incrociavano ortogonalmente: le **plateiai**, più larghe, e gli **stenopoi**, più stretti.
 
@@ -205,7 +195,7 @@ Questo è un punto fondamentale per l'orale: Metaponto consente di parlare di ur
 
 All'ingresso del parco si incontrano settori abitativi, poi si raggiunge il santuario urbano con altari, sacelli e templi. Oltre l'area sacra si trova l'agorà, la piazza pubblica, cuore politico e commerciale della polis.
 
-### 2.5 I templi dell'area urbana
+### I templi dell'area urbana
 
 Nel santuario urbano sono documentati diversi edifici sacri, convenzionalmente indicati come templi A, B, C e D.
 
@@ -225,7 +215,7 @@ Il **Tempio B**, in stile dorico, era dedicato ad **Apollo Licio** e fu realizza
 
 Il **Tempio D**, costruito alla fine del V secolo a.C., era dedicato ad **Artemide**. La presenza di templi dedicati a diverse divinità mostra la complessità del pantheon cittadino e la ricchezza del santuario urbano.
 
-### 2.6 Le Tavole Palatine
+### Le Tavole Palatine
 
 Le **Tavole Palatine** sono probabilmente l'immagine più riconoscibile di Metaponto. Si tratta dei resti di un tempio dorico extraurbano dedicato a Hera, situato presso la sponda destra del fiume Bradano, a circa 3 km dall'antica città di Metaponto.
 
@@ -235,7 +225,7 @@ Il tempio era originariamente dotato di 32 colonne, con 12 colonne sui lati lung
 
 Da ricordare anche i nomi tradizionali: "Tavole Palatine", "Mensole Palatine" o "Colonne Palatine". In età medievale e moderna il monumento fu reinterpretato nella memoria locale, anche con riferimenti leggendari ai Paladini o alla "Scuola di Pitagora". All'orale conviene distinguere tra dato archeologico e tradizione: il dato archeologico è il tempio di Hera; la tradizione pitagorica è parte della memoria culturale del luogo.
 
-### 2.7 Il Museo Archeologico Nazionale di Metaponto
+### Il Museo Archeologico Nazionale di Metaponto
 
 Anche se nella Sezione II non compare come museo autonomo richiesto, il Museo Archeologico Nazionale di Metaponto è utile per comprendere il complesso. Il sito ufficiale del museo afferma che il museo ricostruisce il quadro archeologico del territorio metapontino e si collega al Parco dell'area urbana e alle Tavole Palatine.
 
@@ -243,7 +233,7 @@ Per l'orale è utile dire che il museo consente di completare la visita alle are
 
 La relazione sito-museo è un tema importante per una guida: una visita efficace non deve separare artificialmente parco archeologico e museo, ma mostrare come i reperti conservati in museo aiutino a ricostruire colori, forme, culti e funzioni degli edifici oggi frammentari.
 
-### 2.8 Perché Metaponto è importante
+### Perché Metaponto è importante
 
 Metaponto è importante per almeno quattro ragioni:
 
@@ -254,7 +244,7 @@ Metaponto è importante per almeno quattro ragioni:
 
 Una risposta forte deve tenere insieme questi livelli. Se si parla solo delle Tavole Palatine, si riduce il sito a un'immagine; se si parla solo di Magna Grecia, si perde la concretezza monumentale. Bisogna unire contesto storico e lettura del luogo.
 
-### 2.9 Domande probabili d'orale
+### Domande probabili
 
 **Domanda:** Che cos'è Metaponto nel contesto della Magna Grecia?
 **Risposta sintetica:** È una città greca dell'Italia meridionale, fondata dagli Achei nella seconda metà del VII secolo a.C., importante per l'urbanistica, i santuari e il controllo del territorio agricolo del Metapontino.
@@ -268,7 +258,7 @@ Una risposta forte deve tenere insieme questi livelli. Se si parla solo delle Ta
 **Domanda:** Quali divinità sono associate ai templi dell'area urbana?
 **Risposta sintetica:** Atena per il Tempio C, Hera per il Tempio A, Apollo Licio per il Tempio B e Artemide per il Tempio D.
 
-### 2.10 Errori da evitare
+### Errori da evitare
 
 - Non confondere Metaponto con Matera: sono entrambi in Basilicata, ma appartengono a contesti storici e geografici molto diversi.
 - Non dire genericamente "tempio greco" senza specificare Hera per le Tavole Palatine.
@@ -276,14 +266,14 @@ Una risposta forte deve tenere insieme questi livelli. Se si parla solo delle Ta
 - Non dimenticare il territorio agricolo: Metaponto è polis e chora, città e campagna.
 - Non trascurare il museo: serve per capire le decorazioni, i culti e la cultura materiale.
 
-### 2.11 Collegamenti utili
+### Collegamenti utili
 
 - **Con Calabria e Campania:** Sibari, Crotone, Locri e Paestum come altri grandi contesti della Magna Grecia.
 - **Con Puglia:** Taranto come centro spartano e magnogreco.
 - **Con Sicilia:** Siracusa, Selinunte, Segesta e Agrigento per il confronto con templi e urbanistica greca.
 - **Con Matera:** contrasto fra civiltà rupestre urbana e paesaggio archeologico greco-ionico.
 
-### 2.12 Suggerimento specifico di studio
+### Suggerimenti di esposizione
 
 Studia Metaponto con una mappa mentale a tre cerchi:
 
@@ -293,23 +283,13 @@ Studia Metaponto con una mappa mentale a tre cerchi:
 
 Frase chiave da ricordare: **"Metaponto è uno dei siti più efficaci per spiegare la Magna Grecia come sistema di città, santuari e territorio agricolo."**
 
-### 2.13 Fonti principali
-
-- [Direzione Regionale Musei Basilicata, Parco archeologico dell'area urbana e Necropoli di Crucinia](https://musei.basilicata.beniculturali.it/musei/?mid=8254&nome=parco-archeologico-dellarea-urbana-2)
-- [Museo di Metaponto, Tempio delle Tavole Palatine](https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/)
-- [Museo di Metaponto, sito ufficiale](https://museometaponto.beniculturali.it/)
-- [Direzione Regionale Musei Basilicata, elenco musei e siti](https://musei.basilicata.beniculturali.it/musei/)
-- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Metaponto_Tavole_Palatine.jpg)
-
----
-
 ## 3. Parco Nazionale del Pollino
 
 ![Pino loricato nel Parco Nazionale del Pollino](https://commons.wikimedia.org/wiki/Special:FilePath/Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg)
 
 _Immagine: esemplari di pino loricato nel Giardino degli Dei, Parco Nazionale del Pollino, Wikimedia Commons._
 
-### 3.1 Dati essenziali
+### Dati essenziali
 
 | Voce                            | Contenuto                                                                                                                                                                 |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -321,13 +301,13 @@ _Immagine: esemplari di pino loricato nel Giardino degli Dei, Parco Nazionale de
 | Elementi da ricordare           | Massiccio del Pollino, Monti dell'Orsomarso, Monte Alpi, Serra Dolcedorme, pino loricato, gole del Raganello, fiume Lao, Timpa della Murge, comunità locali, biodiversità |
 | Status d'esame                  | Solo O                                                                                                                                                                    |
 
-### 3.2 Dove si trova e perché è importante
+### Inquadramento
 
 Il Parco Nazionale del Pollino è un grande parco montano dell'Appennino meridionale, posto tra **Basilicata e Calabria**. Il programma lo inserisce nella Basilicata ma indica anche la provincia di Cosenza, perché il territorio è interregionale. Per l'esame è importante sottolinearlo: non è un sito esclusivamente lucano, ma un'area protetta che funziona come ponte geografico e culturale fra due regioni.
 
 Il sito ufficiale del Parco lo descrive come la più grande area protetta di nuova istituzione in Italia, con **192.565 ettari** e 56 comuni. Il territorio comprende il Massiccio del Pollino, i Monti dell'Orsomarso e il Monte Alpi. Questa vastità è una delle prime cose da dire all'orale: il Pollino non è una singola montagna, ma un sistema territoriale.
 
-### 3.3 Identità del sito
+### Identità del sito
 
 Il Pollino è importante perché unisce:
 
@@ -341,13 +321,13 @@ Il Pollino è importante perché unisce:
 
 Per una guida turistica, il rischio è fare una lista di specie animali e montagne. La risposta migliore deve invece spiegare il Pollino come **grande paesaggio appenninico del Sud**, dove natura, geologia, cultura e conservazione si intrecciano.
 
-### 3.4 Geografia e paesaggio
+### Inquadramento
 
 Il Parco comprende alcune tra le vette più alte dell'Italia meridionale. UNESCO, nella scheda del Pollino UNESCO Global Geopark, cita tra i rilievi principali **Serra Dolcedorme**, **Monte Pollino**, **Serra del Prete**, **Serra delle Ciavole** e **Serra di Crispo**. Le quote superano i 2.000 metri, con ambienti molto diversi a seconda di altitudine, esposizione e substrato geologico.
 
 Il paesaggio è fatto di montagne calcaree, gole, altopiani, faggete, praterie d'altitudine e corsi d'acqua. Dal punto di vista turistico, il Pollino è associato a trekking, escursionismo, rafting, canyoning e osservazione naturalistica. Dal punto di vista culturale, è un territorio di borghi, tradizioni pastorali, minoranze linguistiche e riti arborei.
 
-### 3.5 Geologia e UNESCO Global Geopark
+### Geologia e UNESCO Global Geopark
 
 Il Pollino è riconosciuto come **UNESCO Global Geopark**. Questo non va confuso con un sito UNESCO della Lista del Patrimonio Mondiale: un geoparco UNESCO valorizza il patrimonio geologico, il rapporto con le comunità locali, l'educazione ambientale e lo sviluppo sostenibile.
 
@@ -355,7 +335,7 @@ La scheda UNESCO sottolinea che nel territorio del Pollino si possono osservare 
 
 All'orale non serve entrare in geologia specialistica, ma è utile saper dire: **il Pollino è importante anche per la geodiversità, non solo per flora e fauna**.
 
-### 3.6 Il pino loricato
+### Il pino loricato
 
 Il simbolo più riconoscibile del Parco è il **pino loricato**. La scheda dell'Ente Parco spiega che nel Pollino questa specie si presenta con aspetto robusto e, negli esemplari esposti ai venti, con rami a "bandiera", adattati a ridurre la resistenza ai venti dominanti. È una specie frugale, capace di adattarsi agli ambienti aridi e freddi delle alte vette.
 
@@ -363,19 +343,19 @@ Il nome "loricato" deriva dall'aspetto della corteccia negli esemplari adulti: f
 
 Bisogna evitare di dire solo "è un albero raro". È meglio spiegare perché è simbolico: vive in ambienti estremi, ha forme monumentali, racconta l'adattamento delle specie al paesaggio montano e rende immediatamente riconoscibile l'identità del Parco.
 
-### 3.7 Biodiversità e fauna
+### Biodiversità e fauna
 
 Il Pollino ospita una notevole varietà di habitat. Parks.it riassume il parco con dati utili: 192.565 ettari, quota massima di circa 2.268 metri, 82 specie di fauna protetta e 27 tipi di habitat. Non è necessario memorizzare tutti i numeri, ma sono utili per dare consistenza a una risposta.
 
 Tra le specie animali da associare all'Appennino e al Pollino si possono ricordare il lupo, rapaci, ungulati, anfibi e specie legate ai corsi d'acqua. Conviene però evitare elenchi troppo lunghi se non si è sicuri. Meglio impostare il discorso su **habitat diversi → biodiversità elevata → necessità di conservazione**.
 
-### 3.8 Cultura locale e paesaggio umano
+### Cultura locale e paesaggio umano
 
 Il Pollino non è un ambiente "vuoto". È abitato, attraversato e interpretato da comunità locali. La scheda UNESCO richiama la stratificazione culturale del territorio: influenze greche, romane, longobarde, saracene, bizantine, normanne e spagnole, oltre a una lunga storia di emigrazione.
 
 In molti comuni del Pollino sopravvivono tradizioni identitarie forti, riti legati agli alberi e pratiche pastorali. Per l'esame è utile citare questo punto perché una guida turistica deve saper collegare natura e cultura. Il paesaggio non è solo "natura protetta": è anche storia di comunità, lavoro, rituali, insediamenti e percorsi.
 
-### 3.9 Cosa vedere e come raccontarlo
+### Cosa vedere e come raccontarlo
 
 #### Massiccio del Pollino
 
@@ -397,7 +377,7 @@ Le gole del Raganello e il fiume Lao sono spesso associate alla fruizione escurs
 
 Il Parco va collegato ai centri abitati e alle tradizioni locali. La guida non accompagna solo in un ambiente naturale, ma in un territorio culturale.
 
-### 3.10 Domande probabili d'orale
+### Domande probabili
 
 **Domanda:** Perché il Pollino è importante nel sistema dei parchi italiani?
 **Risposta sintetica:** È una delle più grandi aree protette italiane, si estende tra Basilicata e Calabria e conserva paesaggi montani, biodiversità, geodiversità e tradizioni locali.
@@ -411,7 +391,7 @@ Il Parco va collegato ai centri abitati e alle tradizioni locali. La guida non a
 **Domanda:** Il Pollino appartiene solo alla Basilicata?
 **Risposta sintetica:** No. È un parco interregionale tra Basilicata e Calabria; il programma lo colloca tra Potenza, Matera e Cosenza.
 
-### 3.11 Errori da evitare
+### Errori da evitare
 
 - Non presentarlo come un singolo monte: è un sistema territoriale esteso.
 - Non confondere "UNESCO Global Geopark" con "Patrimonio Mondiale UNESCO".
@@ -419,14 +399,14 @@ Il Parco va collegato ai centri abitati e alle tradizioni locali. La guida non a
 - Non dimenticare la dimensione calabrese: il sito è interregionale.
 - Non trasformare la risposta in un dépliant sportivo: rafting e trekking sono fruizione, non identità completa del sito.
 
-### 3.12 Collegamenti utili
+### Collegamenti utili
 
 - **Con Dolomiti Lucane:** due paesaggi montani lucani, ma di scala diversa: le Dolomiti Lucane sono più legate a due borghi e a una morfologia scenografica; il Pollino è un grande parco nazionale interregionale.
 - **Con Sila e Gran Sasso:** confronto tra parchi appenninici e biodiversità montana.
 - **Con Matera:** contrasto fra paesaggio naturale protetto e paesaggio culturale rupestre.
 - **Con turismo sostenibile:** gestione di flussi, sicurezza, educazione ambientale e conservazione.
 
-### 3.13 Suggerimento specifico di studio
+### Suggerimenti di esposizione
 
 Memorizza il Pollino con quattro parole:
 
@@ -437,23 +417,13 @@ Memorizza il Pollino con quattro parole:
 
 Frase chiave da ricordare: **"Il Pollino è il grande paesaggio montano del Sud Italia in cui biodiversità, geodiversità e culture locali diventano un unico patrimonio da interpretare."**
 
-### 3.14 Fonti principali
-
-- [Parco Nazionale del Pollino, sito ufficiale](https://www.parconazionalepollino.it/)
-- [Parco Nazionale del Pollino, scheda sul pino loricato](https://parconazionalepollino.it/conoscere-il-parco/la-natura/pino-loricato)
-- [Parks.it, Parco Nazionale del Pollino](https://www.parks.it/parco.nazionale.pollino/par.php)
-- [UNESCO, Pollino UNESCO Global Geopark](https://www.unesco.org/en/iggp/pollino-unesco-global-geopark)
-- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg)
-
----
-
 ## 4. Sassi di Matera
 
 ![Panorama dei Sassi di Matera](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_dei_sassi_di_Matera.jpg)
 
 _Immagine: panorama dei Sassi di Matera, Wikimedia Commons._
 
-### 4.1 Dati essenziali
+### Dati essenziali
 
 | Voce                  | Contenuto                                                                                                                                                         |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -466,13 +436,13 @@ _Immagine: panorama dei Sassi di Matera, Wikimedia Commons._
 | Elementi da ricordare | Sasso Barisano, Sasso Caveoso, Civita, Piano, Gravina, Parco delle Chiese Rupestri, case-grotta, cisterne, vicinati, evacuazione anni Cinquanta, recupero e riuso |
 | Status d'esame        | **O+P**: orale + pratica                                                                                                                                          |
 
-### 4.2 Dove si trovano e perché sono importanti
+### Inquadramento
 
 I Sassi si trovano nel centro storico di Matera, sul margine della **Gravina**, un profondo solco naturale che caratterizza il paesaggio della Murgia materana. Il sito non è solo un quartiere storico: è un sistema urbano e rupestre in cui case, chiese, cisterne, strade, scale, terrazzamenti e grotte si integrano con il banco roccioso.
 
 L'UNESCO definisce i Sassi e il Parco delle Chiese Rupestri un eccezionale esempio di insediamento scavato nella roccia, perfettamente adattato al contesto geomorfologico e all'ecosistema, con continuità per oltre due millenni. Questa frase va trasformata in linguaggio d'esame: **Matera è importante perché mostra come una comunità abbia costruito una città adattandosi alla roccia, all'acqua, al clima e alla morfologia del luogo**.
 
-### 4.3 Il sito UNESCO: non solo i Sassi
+### Il sito UNESCO: non solo i Sassi
 
 Il bene UNESCO non comprende soltanto le case-grotta dei Sassi. Il nome ufficiale è **"I Sassi e il Parco delle Chiese Rupestri di Matera"**. Questo significa che bisogna sempre collegare:
 
@@ -491,7 +461,7 @@ I criteri possono essere spiegati così:
 - **criterio (iv):** esempio significativo di complesso architettonico e paesaggistico che illustra fasi importanti della storia umana;
 - **criterio (v):** esempio di insediamento tradizionale e uso del territorio in equilibrio con l'ambiente.
 
-### 4.4 Struttura urbana: Sasso Barisano, Sasso Caveoso, Civita e Piano
+### Struttura urbana: Sasso Barisano, Sasso Caveoso, Civita e Piano
 
 Il centro storico conserva la distinzione tra **Sasso Barisano** e **Sasso Caveoso**, due grandi rioni rupestri. A questi si aggiungono la **Civita**, nucleo più alto e antico, e il **Piano**, la parte più moderna e monumentale della città storica.
 
@@ -511,25 +481,25 @@ La Civita occupa il settore più alto, con la Cattedrale e il nucleo urbano domi
 
 Il Piano rappresenta la parte di espansione storica più regolare e monumentale, legata alla città moderna e agli edifici pubblici e religiosi. UNESCO ricorda anche il quartiere del Casalnuovo e la dorsale urbana seicentesca-settecentesca denominata "Piano".
 
-### 4.5 Le case-grotta e i vicinati
+### Le case-grotta e i vicinati
 
 Le case-grotta sono l'elemento più noto, ma vanno spiegate bene. Non erano semplicemente "grotte abitate": erano spazi complessi, spesso articolati in ambienti scavati e parti costruite, organizzati in rapporto alla pendenza, alla luce, alla raccolta dell'acqua e alla vita comunitaria.
 
 Un concetto fondamentale è quello di **vicinato**: un gruppo di abitazioni affacciate su uno spazio comune, con relazioni di prossimità, lavoro, solidarietà e vita quotidiana. All'orale questo è un punto molto efficace perché permette di passare dalla forma architettonica alla vita sociale. Matera non va raccontata solo come scenografia, ma come organismo sociale.
 
-### 4.6 L'acqua: cisterne, canalizzazioni e adattamento ambientale
+### L'acqua: cisterne, canalizzazioni e adattamento ambientale
 
 Uno dei temi più importanti è la gestione dell'acqua. In un ambiente rupestre e carsico, l'acqua era una risorsa da raccogliere, conservare e distribuire. Cisterne, canalizzazioni, palombari e sistemi di raccolta mostrano l'intelligenza ambientale dell'insediamento.
 
 Questo tema è essenziale per spiegare il criterio UNESCO (v): i Sassi sono un esempio di insediamento tradizionale adattato all'ambiente. Non si tratta di "povertà nella roccia", ma di una lunga capacità di organizzare lo spazio secondo risorse limitate, clima, materiali disponibili e relazioni comunitarie.
 
-### 4.7 Le chiese rupestri
+### Le chiese rupestri
 
 Il Parco delle Chiese Rupestri completa il sito. Le chiese scavate nella roccia documentano la dimensione religiosa e artistica del territorio, con affreschi, ambienti ipogei, eremi e luoghi di culto legati alla tradizione bizantina, latina e monastica.
 
 Per l'esame non è necessario elencare tutte le chiese rupestri, ma è utile saper citare esempi noti, come **Santa Maria de Idris**, **San Pietro Barisano**, **Santa Lucia alle Malve** o la **Cripta del Peccato Originale** nell'area materana. Se si cita un esempio, bisogna saper dire perché è importante: affreschi, posizione, rapporto con la roccia, funzione religiosa.
 
-### 4.8 La "vergogna nazionale", lo sfollamento e il recupero
+### La "vergogna nazionale", lo sfollamento e il recupero
 
 La storia contemporanea dei Sassi è una parte decisiva della scheda. Nel Novecento le condizioni igienico-sanitarie di molte abitazioni rupestri erano gravissime. Dopo la denuncia sociale e politica del dopoguerra, lo Stato avviò lo sfollamento dei Sassi negli anni Cinquanta, trasferendo la popolazione in nuovi quartieri.
 
@@ -537,13 +507,13 @@ UNESCO ricorda che l'intera popolazione dei Sassi fu ricollocata negli anni Cinq
 
 Questo passaggio è essenziale perché impedisce una narrazione superficiale. Matera non deve essere raccontata solo come "città bellissima": bisogna saper spiegare il trauma dello svuotamento, il recupero, la valorizzazione e il rischio contemporaneo di musealizzazione o eccessiva pressione turistica.
 
-### 4.9 Matera contemporanea
+### Matera contemporanea
 
 Dopo decenni di abbandono e recupero, i Sassi sono diventati uno dei simboli del patrimonio culturale italiano. La riqualificazione ha trasformato molte case-grotta in abitazioni, botteghe, strutture ricettive, musei diffusi e spazi culturali. Questo ha permesso la rinascita urbana, ma pone anche il tema della gestione turistica.
 
 Per una guida turistica, la questione è delicata: bisogna valorizzare il sito senza trasformarlo in scenografia. La narrazione deve tenere insieme bellezza, storia sociale, tutela, fruizione e rispetto degli abitanti.
 
-### 4.10 Cosa vedere e come leggere il sito
+### Cosa vedere e come raccontarlo
 
 #### Affaccio panoramico
 
@@ -569,7 +539,7 @@ Una chiesa rupestre consente di passare dalla vita domestica alla dimensione rel
 
 La visita non dovrebbe fermarsi alla città. Il paesaggio opposto della Murgia permette di capire il sito UNESCO nel suo insieme: città scavata, gravina, altopiano, chiese rupestri e continuità insediativa.
 
-### 4.11 Domande probabili d'orale
+### Domande probabili
 
 **Domanda:** Perché i Sassi di Matera sono patrimonio UNESCO?
 **Risposta sintetica:** Perché costituiscono un esempio eccezionale di insediamento rupestre adattato al contesto geomorfologico, con continuità storica lunga e rapporto equilibrato tra comunità, architettura e ambiente.
@@ -586,7 +556,7 @@ La visita non dovrebbe fermarsi alla città. Il paesaggio opposto della Murgia p
 **Domanda:** Perché bisogna citare anche il Parco delle Chiese Rupestri?
 **Risposta sintetica:** Perché il sito UNESCO non comprende solo i rioni dei Sassi, ma anche il paesaggio rupestre della Murgia e le chiese scavate nella roccia.
 
-### 4.12 Errori da evitare
+### Errori da evitare
 
 - Non dire che i Sassi sono "case primitive": sono un sistema urbano complesso, stratificato e adattato all'ambiente.
 - Non confondere il bene UNESCO con la sola parte turistica dei rioni.
@@ -594,14 +564,14 @@ La visita non dovrebbe fermarsi alla città. Il paesaggio opposto della Murgia p
 - Non raccontare solo la bellezza contemporanea: va spiegata anche la vicenda dello sfollamento e del recupero.
 - Non usare "città dei poveri" come unica chiave di lettura: la povertà novecentesca è reale, ma il sito è anche storia urbana, tecnica, sociale e paesaggistica.
 
-### 4.13 Collegamenti utili
+### Collegamenti utili
 
 - **Con Dolomiti Lucane:** entrambi mostrano rapporto fra roccia e abitato, ma Matera è città rupestre e paesaggio culturale UNESCO; le Dolomiti Lucane sono paesaggio montano e borghi di altura.
 - **Con Cappadocia o Petra:** esempi internazionali di insediamenti e architetture rupestri, utili solo come confronto generale.
 - **Con paesaggio e tutela:** Matera permette di discutere turismo culturale, recupero urbano, autenticità e gestione dei flussi.
 - **Con chiese rupestri dell'Italia meridionale:** collegamento alla spiritualità bizantina, latina e monastica.
 
-### 4.14 Esempio di presentazione orale del sito in circa 5 minuti
+### Presentazione orale da circa 5 minuti
 
 > Benvenuti a Matera. Davanti a noi non abbiamo semplicemente un centro storico antico, ma uno dei più straordinari esempi europei di città rupestre: i Sassi di Matera, iscritti nella Lista del Patrimonio Mondiale UNESCO nel 1993 insieme al Parco delle Chiese Rupestri.
 >
@@ -621,7 +591,7 @@ La visita non dovrebbe fermarsi alla città. Il paesaggio opposto della Murgia p
 >
 > La visita può quindi concludersi con un'idea chiave: Matera è un paesaggio culturale vivente. La roccia, le case, le chiese, la Gravina e la Murgia formano un unico sistema, e il compito della guida è aiutare il visitatore a vedere non solo la bellezza del luogo, ma anche la lunga intelligenza storica che lo ha generato.
 
-### 4.15 Suggerimento specifico di studio
+### Suggerimenti di esposizione
 
 Per i Sassi devi preparare due livelli:
 
@@ -630,18 +600,10 @@ Per i Sassi devi preparare due livelli:
 
 Frase chiave da ricordare: **"I Sassi di Matera sono una città-paesaggio in cui architettura rupestre, gestione dell'acqua, vita comunitaria e memoria sociale si integrano nel contesto della Gravina e della Murgia."**
 
-### 4.16 Fonti principali
+## Ripasso finale
+### Ripasso mirato per la Basilicata
 
-- [UNESCO World Heritage Centre, "The Sassi and the Park of the Rupestrian Churches of Matera"](https://whc.unesco.org/en/list/670/)
-- [UNESCO Cultura, scheda italiana del sito UNESCO](https://unesco.cultura.gov.it/en/projects/the-sassi-and-the-park-of-the-rupestrian-churches-of-matera/)
-- [UNESCO World Heritage Centre, mappa e dati del bene](https://whc.unesco.org/en/list/670/maps/)
-- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Panorama_dei_sassi_di_Matera.jpg)
-
----
-
-## 5. Ripasso mirato per la Basilicata
-
-### 5.1 Schema di confronto rapido
+### Schema di confronto rapido
 
 | Sito            | Idea guida                                                              | Parole chiave da memorizzare                                                                     |
 | --------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -650,7 +612,7 @@ Frase chiave da ricordare: **"I Sassi di Matera sono una città-paesaggio in cui
 | Pollino         | Grande parco appenninico interregionale, biodiversità e geodiversità    | Basilicata-Calabria, pino loricato, geoparco UNESCO, Serra Dolcedorme, comunità locali           |
 | Sassi di Matera | Città rupestre e paesaggio culturale UNESCO                             | Sasso Barisano, Sasso Caveoso, Civita, Gravina, case-grotta, chiese rupestri, acqua, sfollamento |
 
-### 5.2 Domande trasversali possibili
+### Domande probabili
 
 **Domanda:** Qual è il filo conduttore dei siti lucani del programma?
 **Risposta:** Il rapporto tra territorio e insediamento. Nelle Dolomiti Lucane la roccia modella i borghi; a Metaponto la pianura ionica sostiene la polis greca; nel Pollino la montagna è biodiversità e cultura; a Matera la Gravina e la Murgia generano una città rupestre.
@@ -661,14 +623,14 @@ Frase chiave da ricordare: **"I Sassi di Matera sono una città-paesaggio in cui
 **Domanda:** Come collegheresti Metaponto e Matera?
 **Risposta:** Sono due modi molto diversi di leggere la Basilicata: Metaponto racconta la Basilicata ionica e greca della Magna Grecia; Matera racconta il paesaggio rupestre, urbano e sociale della Murgia.
 
-### 5.3 Priorità di studio
+### Priorità di studio
 
 1. **Sassi di Matera**: priorità massima perché O+P.
 2. **Metaponto**: alta priorità per Magna Grecia, templi e Tavole Palatine.
 3. **Pollino**: alta priorità per parchi, geodiversità e pino loricato.
 4. **Dolomiti Lucane**: priorità medio-alta per paesaggio, borghi e turismo sostenibile.
 
-### 5.4 Metodo consigliato
+### Metodo consigliato
 
 Per ogni sito prepara una risposta da 2 minuti e una da 5 minuti.
 
@@ -681,3 +643,39 @@ Per la Basilicata conviene ripetere spesso il contrasto tra quattro paesaggi:
 - **costa ionica magnogreca:** Metaponto;
 - **grande parco appenninico:** Pollino;
 - **città rupestre UNESCO:** Matera.
+
+## Fonti principali consultate
+### Dolomiti Lucane
+- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Scopri il Parco"](https://www.parcogallipolicognato.it/pagina.php?id=1)
+- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Geomorfologia"](https://www.parcogallipolicognato.it/pagina.php?id=2)
+- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Le Piccole Dolomiti Lucane"](https://www.parcogallipolicognato.it/pagina.php?id=3)
+- [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, scheda Pietrapertosa](https://www.parcogallipolicognato.it/comuni_dettaglio.php?id=76061)
+- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Dolomiti_lucane.png)
+
+---
+
+### Complesso Archeologico di Metaponto
+- [Direzione Regionale Musei Basilicata, Parco archeologico dell'area urbana e Necropoli di Crucinia](https://musei.basilicata.beniculturali.it/musei/?mid=8254&nome=parco-archeologico-dellarea-urbana-2)
+- [Museo di Metaponto, Tempio delle Tavole Palatine](https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/)
+- [Museo di Metaponto, sito ufficiale](https://museometaponto.beniculturali.it/)
+- [Direzione Regionale Musei Basilicata, elenco musei e siti](https://musei.basilicata.beniculturali.it/musei/)
+- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Metaponto_Tavole_Palatine.jpg)
+
+---
+
+### Parco Nazionale del Pollino
+- [Parco Nazionale del Pollino, sito ufficiale](https://www.parconazionalepollino.it/)
+- [Parco Nazionale del Pollino, scheda sul pino loricato](https://parconazionalepollino.it/conoscere-il-parco/la-natura/pino-loricato)
+- [Parks.it, Parco Nazionale del Pollino](https://www.parks.it/parco.nazionale.pollino/par.php)
+- [UNESCO, Pollino UNESCO Global Geopark](https://www.unesco.org/en/iggp/pollino-unesco-global-geopark)
+- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg)
+
+---
+
+### Sassi di Matera
+- [UNESCO World Heritage Centre, "The Sassi and the Park of the Rupestrian Churches of Matera"](https://whc.unesco.org/en/list/670/)
+- [UNESCO Cultura, scheda italiana del sito UNESCO](https://unesco.cultura.gov.it/en/projects/the-sassi-and-the-park-of-the-rupestrian-churches-of-matera/)
+- [UNESCO World Heritage Centre, mappa e dati del bene](https://whc.unesco.org/en/list/670/maps/)
+- [Wikimedia Commons, immagine](https://commons.wikimedia.org/wiki/File:Panorama_dei_sassi_di_Matera.jpg)
+
+---
