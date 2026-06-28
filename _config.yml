@@ -1,0 +1,25 @@
+title: Esame Guida Turistica 2026
+description: Sito di studio per la prova orale
+theme: just-the-docs
+
+url: "https://Crystal-Spider.github.io"
+baseurl: "/guida-arte-italiana-abilitazione-nazionale"
+
+search_enabled: true
+heading_anchors: true
+nav_enabled: true
+
+collections:
+  regioni:
+    output: true
+    permalink: /regioni/:name/
+
+just_the_docs:
+  collections:
+    regioni:
+      name: Regioni
+      nav_fold: true
+
+aux_links:
+  Repository GitHub:
+    - "https://github.com/Crystal-Spider/guida-arte-italiana-abilitazione-nazionale"

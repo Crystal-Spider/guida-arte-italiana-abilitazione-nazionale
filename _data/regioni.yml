@@ -1,0 +1,83 @@
+- title: Abruzzo
+  slug: abruzzo
+  nav_order: 1
+
+- title: Basilicata
+  slug: basilicata
+  nav_order: 2
+
+- title: Calabria
+  slug: calabria
+  nav_order: 3
+
+- title: Campania
+  slug: campania
+  nav_order: 4
+
+- title: Emilia-Romagna
+  slug: emilia-romagna
+  nav_order: 5
+
+- title: Friuli-Venezia Giulia
+  slug: friuli-venezia-giulia
+  nav_order: 6
+
+- title: Lazio
+  slug: lazio
+  nav_order: 7
+
+- title: Liguria
+  slug: liguria
+  nav_order: 8
+
+- title: Lombardia
+  slug: lombardia
+  nav_order: 9
+
+- title: Marche
+  slug: marche
+  nav_order: 10
+
+- title: Molise
+  slug: molise
+  nav_order: 11
+
+- title: Piemonte
+  slug: piemonte
+  nav_order: 12
+
+- title: Puglia
+  slug: puglia
+  nav_order: 13
+
+- title: Sardegna
+  slug: sardegna
+  nav_order: 14
+
+- title: Sicilia
+  slug: sicilia
+  nav_order: 15
+
+- title: Toscana
+  slug: toscana
+  nav_order: 16
+
+- title: Provincia autonoma di Bolzano
+  slug: provincia-autonoma-di-bolzano
+  nav_order: 17
+
+- title: Provincia autonoma di Trento
+  slug: provincia-autonoma-di-trento
+  nav_order: 18
+
+- title: Umbria
+  slug: umbria
+  nav_order: 19
+
+- title: Valle d'Aosta
+  slug: valle-d-aosta
+  nav_order: 20
+
+- title: Veneto
+  slug: veneto
+  nav_order: 21
