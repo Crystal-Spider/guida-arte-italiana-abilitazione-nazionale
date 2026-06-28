@@ -3,16 +3,17 @@
   margin: 2rem auto 2.5rem;
 }
 
+.italy-map figcaption {
+  margin-top: 0.75rem;
+  color: #aab4c5;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
 .italy-map svg {
   display: block;
   width: 100%;
   height: auto;
-}
-
-.italy-map .map-mainland path {
-  fill: #f4f6f8;
-  stroke: #d3d9e2;
-  stroke-width: 2;
 }
 
 .italy-map a {
@@ -20,54 +21,48 @@
   outline: none;
 }
 
-.italy-map .region-shape {
-  fill: #e8eef7;
-  stroke: #344054;
+.italy-map .map-panel {
+  fill: #f8fafc;
+  stroke: #334155;
   stroke-width: 2;
-  vector-effect: non-scaling-stroke;
-  transition: fill 0.15s ease, stroke 0.15s ease, filter 0.15s ease;
 }
 
-.italy-map .island {
-  fill: #f2eadf;
+.italy-map .map-base {
+  pointer-events: none;
+}
+
+.italy-map .map-hotspot {
+  fill: rgb(37 99 235 / 1%);
+  stroke: transparent;
+  stroke-width: 3;
+  transition: fill 0.15s ease, stroke 0.15s ease;
 }
 
 .italy-map text {
-  fill: #172033;
-  font-size: 16px;
-  font-weight: 650;
+  fill: #0f172a;
+  paint-order: stroke;
+  stroke: #f8fafc;
+  stroke-width: 7px;
+  stroke-linejoin: round;
+  font-size: 28px;
+  font-weight: 750;
   letter-spacing: 0;
   text-anchor: middle;
   dominant-baseline: middle;
   pointer-events: none;
 }
 
-.italy-map a:nth-of-type(4n + 1) .region-shape {
-  fill: #e6f0e8;
-}
-
-.italy-map a:nth-of-type(4n + 2) .region-shape {
-  fill: #eef0df;
-}
-
-.italy-map a:nth-of-type(4n + 3) .region-shape {
-  fill: #e8eef7;
-}
-
-.italy-map a:nth-of-type(4n + 4) .region-shape {
-  fill: #f4e8e4;
-}
-
-.italy-map a:hover .region-shape,
-.italy-map a:focus .region-shape {
-  fill: #ffd166;
-  stroke: #111827;
-  filter: drop-shadow(0 4px 8px rgb(16 24 40 / 18%));
+.italy-map a:hover .map-hotspot,
+.italy-map a:focus .map-hotspot {
+  fill: rgb(250 204 21 / 28%);
+  stroke: #facc15;
   cursor: pointer;
 }
 
-.italy-map a:focus-visible .region-shape {
-  stroke-width: 4;
+.italy-map a:focus-visible .map-hotspot {
+  fill: rgb(250 204 21 / 35%);
+  stroke: #111827;
+  stroke-width: 5;
 }
 
 .region-fallback {
@@ -80,7 +75,7 @@
   }
 
   .italy-map text {
-    font-size: 18px;
+    font-size: 34px;
   }
 
   .region-fallback {
