@@ -12,12 +12,27 @@
    viewBox="0 0 630 740">
   <style>
     path {
-      fill: #f8f8f8;
+      fill: #f5f6fa;
       stroke: #000000;
       stroke-width: 1.15;
       stroke-linejoin: round;
       stroke-linecap: round;
       vector-effect: non-scaling-stroke;
+    }
+
+    path[id^="IT-"],
+    path[id^="IT_"] {
+      cursor: pointer;
+      pointer-events: visiblePainted;
+      touch-action: manipulation;
+      transition: fill 150ms ease;
+    }
+
+    path[id^="IT-"]:hover,
+    path[id^="IT_"]:hover,
+    path[id^="IT-"]:active,
+    path[id^="IT_"]:active {
+      fill: #f6c343;
     }
   </style>
   <rect width="100%" height="100%" rx="32" ry="32" fill="#3834464d"/>
