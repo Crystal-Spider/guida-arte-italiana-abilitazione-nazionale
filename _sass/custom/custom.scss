@@ -78,3 +78,9 @@
     columns: 1;
   }
 }
+
+@media (min-width: 50rem) {
+  .main {
+    max-width: 80rem;
+  }
+}
