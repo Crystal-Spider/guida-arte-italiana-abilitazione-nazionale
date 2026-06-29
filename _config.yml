@@ -9,6 +9,7 @@ baseurl: "/guida-arte-italiana-abilitazione-nazionale"
 search_enabled: true
 heading_anchors: true
 nav_enabled: true
+footer_content: ""
 
 collections:
   regioni:
