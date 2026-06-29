@@ -3,55 +3,10 @@
   margin: 2rem auto 2.5rem;
 }
 
-.italy-map svg {
+.italy-map img {
   display: block;
   width: 100%;
   height: auto;
-}
-
-.italy-map a {
-  color: inherit;
-  outline: none;
-}
-
-.italy-map .map-panel {
-  fill: rgb(248 250 252 / 7%);
-  stroke: none;
-}
-
-.italy-map .map-region path {
-  fill: rgb(226 232 240 / 82%);
-  stroke: rgb(15 23 42 / 70%);
-  stroke-width: 28;
-  stroke-linejoin: round;
-  vector-effect: non-scaling-stroke;
-  transition: fill 0.15s ease, stroke 0.15s ease;
-  cursor: pointer;
-}
-
-.italy-map text {
-  fill: #111827;
-  paint-order: stroke;
-  stroke: rgb(248 250 252 / 90%);
-  stroke-width: 42;
-  stroke-linejoin: round;
-  font-weight: 750;
-  letter-spacing: 0;
-  text-anchor: middle;
-  dominant-baseline: middle;
-  pointer-events: none;
-}
-
-.italy-map a:hover .map-region path,
-.italy-map a:focus .map-region path {
-  fill: rgb(250 204 21 / 88%);
-  stroke: #facc15;
-}
-
-.italy-map a:focus-visible .map-region path {
-  fill: rgb(250 204 21 / 94%);
-  stroke: #fde68a;
-  stroke-width: 36;
 }
 
 .region-fallback {

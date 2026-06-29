@@ -9,7 +9,7 @@ permalink: /
 
 Guida all'Arte Italiana per l'Abilitazione Nazionale
 
-Questo sito raccoglie le schede di studio regionali per la preparazione della prova orale.
+Questo sito raccoglie le schede di studio regionali per la preparazione dell'esame di abilitazione per guida turistica nazionale.
 
 ## Naviga per regione
 
