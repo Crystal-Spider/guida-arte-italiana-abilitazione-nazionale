@@ -363,7 +363,6 @@ Poi sviluppa la risposta in tre blocchi: **posizione e funzione**, **fasi archit
 - [Parco Nazionale Gran Paradiso, "Lo stambecco"](https://www.pngp.it/natura-e-ricerca/fauna/praterie-e-ambienti-rocciosi/lo-stambecco)
 - [Parco Nazionale Gran Paradiso, "I sentieri del Parco"](https://www.pngp.it/sentieri)
 - [Regione Autonoma Valle d'Aosta, scheda sul Parco Nazionale del Gran Paradiso](https://www.regione.vda.it/territorio/ambiente/conservazione/parchi_riserve/paradiso_i.asp)
-
 - [Regione Autonoma Valle d'Aosta, "Castello di Quart"](https://www.regione.vda.it/cultura/patrimonio/castelli/quart-castello/default_i.aspx)
 - [Regione Autonoma Valle d'Aosta, "Castello di Quart - Ricerche"](https://www.regione.vda.it/cultura/patrimonio/castelli/quart-castello/quart-ricerche/default_i.aspx)
 - [Regione Autonoma Valle d'Aosta, "Castello di Quart - Lavori di restauro"](https://www.regione.vda.it/cultura/patrimonio/castelli/quart-castello/quart-lavori/default_i.aspx)
