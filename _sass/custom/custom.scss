@@ -1,6 +1,6 @@
 .italy-map {
-  max-width: 1040px;
-  margin: 1rem auto;
+  width: min(100%, 65.55vh, 1040px);
+  margin: 1rem auto 1rem 0;
 }
 
 .italy-map__svg,
@@ -8,6 +8,7 @@
   display: block;
   width: 100%;
   height: auto;
+  max-height: 77vh;
   aspect-ratio: 630 / 740;
   background: transparent;
   border: 0;
@@ -30,7 +31,8 @@
 
 @media (max-width: 640px) {
   .italy-map {
-    margin-inline: -0.5rem;
+    width: min(100%, 65.55vh);
+    margin-inline: 0 auto;
   }
 
   .region-fallback {
