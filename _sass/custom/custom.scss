@@ -58,6 +58,17 @@
   columns: 2;
 }
 
+.main-content p > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.main-content p > img + em {
+  display: block;
+  margin-top: 0.35rem;
+}
+
 @media (max-width: 640px) {
   .italy-map {
     margin-inline: -0.5rem;

@@ -7,21 +7,23 @@ nav_order: 6
 # Friuli-Venezia Giulia
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Friuli-Venezia Giulia. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Cividale del Friuli: Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale | Sito storico-artistico | Tempietto Longobardo e Complesso Episcopale | Scheda principale |
-| 2 | Aquileia e Museo Archeologico Nazionale | Museo | Vedi scheda | Scheda principale |
-| 3 | Sacrario di Redipuglia | Sito o tema | Vedi scheda | Scheda principale |
-| 4 | Castello di Miramare | Sito storico-artistico | Vedi scheda | Scheda principale |
+Il Friuli-Venezia Giulia è un territorio di confine, dove mondo romano, Longobardi, area alpina e Adriatico si incontrano. Le schede mettono in evidenza città storiche, archeologia, paesaggi carsici e identità plurali.
+
+|  N. | Voce                                                                                | Tipologia              | Area                                        | Descrizione                                                                                                                       |
+| --: | ----------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Cividale del Friuli: Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale | Sito storico-artistico | Tempietto Longobardo e Complesso Episcopale | Cividale del Friuli è uno dei luoghi chiave per comprendere la storia altomedievale dell'Italia nord-orientale.                   |
+|   2 | Aquileia e Museo Archeologico Nazionale                                             | Museo                  | Territorio regionale                        | Aquileia è uno dei siti più importanti dell'Italia settentrionale per estensione, profondità storica e valore archeologico.       |
+|   3 | Sacrario di Redipuglia                                                              | Sito o tema            | Territorio regionale                        | Il Sacrario di Redipuglia, nel comune di Fogliano Redipuglia in provincia di Gorizia, è il più grande sacrario militare italiano. |
+|   4 | Castello di Miramare                                                                | Sito storico-artistico | Territorio regionale                        | Il Castello di Miramare si trova sul promontorio di Grignano, pochi chilometri a nord di Trieste, affacciato sul mare Adriatico.  |
 
 ## Cividale del Friuli: Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale
 
 ![Ponte del Diavolo a Cividale del Friuli](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20del%20Diavolo%20in%20Cividale%20del%20Friuli.jpg?width=1000)
-*Ponte del Diavolo a Cividale del Friuli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20del%20Diavolo%20in%20Cividale%20del%20Friuli.jpg?width=1000).*
+_Ponte del Diavolo a Cividale del Friuli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20del%20Diavolo%20in%20Cividale%20del%20Friuli.jpg?width=1000)._
 ![Tempietto Longobardo](https://commons.wikimedia.org/wiki/Special:FilePath/Cividale%200904%20Tempietto%20Longobardo.jpg?width=1000)
-*Tempietto Longobardo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cividale%200904%20Tempietto%20Longobardo.jpg?width=1000).*
+_Tempietto Longobardo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cividale%200904%20Tempietto%20Longobardo.jpg?width=1000)._
+
 ### Inquadramento
 
 Cividale del Friuli è uno dei luoghi chiave per comprendere la storia altomedievale dell'Italia nord-orientale. La città, fondata in età romana con il nome di **Forum Iulii**, divenne nel 568 capitale del primo ducato longobardo in Italia, dopo l'ingresso dei Longobardi guidati da Alboino. Da questo ruolo politico deriva anche l'importanza culturale e religiosa del sito: Cividale fu un punto di cerniera tra mondo romano, cultura longobarda, tradizione cristiana e successiva organizzazione carolingia.
@@ -104,11 +106,12 @@ Una buona frase di chiusura può essere: "Cividale è uno dei luoghi in cui il M
 
 ## Aquileia e Museo Archeologico Nazionale
 
-![Basilica Patriarcale di Aquileia](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000)
-*Basilica Patriarcale di Aquileia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000).*
+![Basilica Patriarcale di Aquileia](<https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000>)
+_Basilica Patriarcale di Aquileia. [Fonte immagine](<https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000>)._
 
 ![Mosaico paleocristiano di Aquileia](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20Basilica%20-%20Ausgrabungen%20Mosaik%209.jpg?width=1000)
-*Mosaico paleocristiano di Aquileia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20Basilica%20-%20Ausgrabungen%20Mosaik%209.jpg?width=1000).*
+_Mosaico paleocristiano di Aquileia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20Basilica%20-%20Ausgrabungen%20Mosaik%209.jpg?width=1000)._
+
 ### Inquadramento
 
 Aquileia è uno dei siti più importanti dell'Italia settentrionale per estensione, profondità storica e valore archeologico. Fondata come colonia latina nel **181 a.C.**, divenne un centro strategico per il controllo dell'alto Adriatico, delle vie verso l'Istria, i Balcani e il mondo danubiano. La sua storia è dunque legata sia alla dimensione militare e coloniale romana, sia al commercio, sia alla diffusione del cristianesimo nell'Europa centro-orientale.
@@ -246,7 +249,8 @@ Errore da evitare: parlare solo della Basilica o solo del Museo. Aquileia va spi
 ## Sacrario di Redipuglia
 
 ![Sacrario militare di Redipuglia](https://commons.wikimedia.org/wiki/Special:FilePath/Sacrario%20militare%20di%20Redipuglia%20agosto%202014.JPG?width=1000)
-*Sacrario militare di Redipuglia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sacrario%20militare%20di%20Redipuglia%20agosto%202014.JPG?width=1000).*
+_Sacrario militare di Redipuglia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sacrario%20militare%20di%20Redipuglia%20agosto%202014.JPG?width=1000)._
+
 ### Inquadramento
 
 Il Sacrario di Redipuglia, nel comune di **Fogliano Redipuglia** in provincia di Gorizia, è il più grande sacrario militare italiano. Si trova sul versante occidentale del **Monte Sei Busi**, nell'area del Carso goriziano, uno dei principali teatri della Prima guerra mondiale sul fronte italiano.
@@ -338,9 +342,10 @@ Frase utile: "Redipuglia non va visitata solo come monumento, ma come paesaggio 
 ## Castello di Miramare
 
 ![Castello di Miramare](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Miramare%20-%20Trieste.jpg?width=1000)
-*Castello di Miramare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Miramare%20-%20Trieste.jpg?width=1000).*
+_Castello di Miramare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Miramare%20-%20Trieste.jpg?width=1000)._
 ![Castello di Miramare, veduta dal mare](https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20miramare.jpg?width=1000)
-*Castello di Miramare, veduta dal mare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20miramare.jpg?width=1000).*
+_Castello di Miramare, veduta dal mare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20miramare.jpg?width=1000)._
+
 ### Inquadramento
 
 Il Castello di Miramare si trova sul promontorio di **Grignano**, pochi chilometri a nord di Trieste, affacciato sul mare Adriatico. È uno dei luoghi più rappresentativi della cultura ottocentesca dell'area triestina e asburgica. Fu costruito tra il **1856 e il 1860** per volontà dell'arciduca **Massimiliano d'Asburgo** e della consorte **Carlotta del Belgio**.
@@ -431,19 +436,22 @@ Frase utile: "Miramare è un castello solo nel nome e nell'immaginario: in realt
 ---
 
 ## Sintesi finale
+
 ### Confronti trasversali utili
+
 - **Aquileia vs Cividale**: Aquileia rappresenta la grande città romana e paleocristiana; Cividale rappresenta la trasformazione longobarda e altomedievale.
 - **Redipuglia vs Miramare**: entrambi parlano del confine orientale, ma Redipuglia lo fa attraverso la memoria della guerra, Miramare attraverso la cultura asburgica e marittima.
 - **Aquileia vs Redipuglia**: due modi diversi di leggere il territorio: archeologia della città antica e memoria del Novecento.
 - **Cividale vs Miramare**: due residenze/poli del potere in epoche lontane: l'aristocrazia longobarda e l'aristocrazia asburgica.
+
 ### Parole chiave per sito
 
-| Sito | Parole chiave |
-|---|---|
-| Cividale del Friuli | Longobardi, 568, Gastaldaga, Tempietto, Complesso Episcopale, Natisone, UNESCO |
-| Aquileia | 181 a.C., colonia latina, alto Adriatico, porto fluviale, basilica, mosaici, Museo Archeologico, UNESCO |
-| Redipuglia | Prima guerra mondiale, Carso, Monte Sei Busi, sacrario, caduti, memoria pubblica, "Presente" |
-| Miramare | Trieste, Grignano, Massimiliano, Carlotta, Asburgo, eclettismo, pietra d'Istria, parco, mare |
+| Sito                | Parole chiave                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| Cividale del Friuli | Longobardi, 568, Gastaldaga, Tempietto, Complesso Episcopale, Natisone, UNESCO                          |
+| Aquileia            | 181 a.C., colonia latina, alto Adriatico, porto fluviale, basilica, mosaici, Museo Archeologico, UNESCO |
+| Redipuglia          | Prima guerra mondiale, Carso, Monte Sei Busi, sacrario, caduti, memoria pubblica, "Presente"            |
+| Miramare            | Trieste, Grignano, Massimiliano, Carlotta, Asburgo, eclettismo, pietra d'Istria, parco, mare            |
 
 ### Domande guida
 
@@ -457,6 +465,7 @@ Frase utile: "Miramare è un castello solo nel nome e nell'immaginario: in realt
 ---
 
 ## Fonti principali consultate
+
 - [Italia Langobardorum, "Cividale del Friuli e i monumenti UNESCO"](https://longobardinitalia.it/scopri/cividale-del-friuli/)
 - [Tempietto Longobardo, "Cividale Longobarda"](https://www.tempiettolongobardo.it/it/cividale_longobarda)
 - [UNESCO Italia, "I Longobardi in Italia. I luoghi del potere"](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/i-longobardi-in-italia-i-luoghi-del-potere/)

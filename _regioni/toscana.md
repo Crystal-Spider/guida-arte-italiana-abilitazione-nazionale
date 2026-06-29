@@ -7,28 +7,32 @@ nav_order: 16
 # Toscana
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Toscana. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Basilica di Santa Maria Novella - Firenze | Sito storico-artistico | Firenze | Scheda principale |
-| 2 | Duomo e Battistero - Firenze | Sito storico-artistico | Firenze | Scheda principale |
-| 3 | Parco Naturale Regionale delle Alpi Apuane | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 4 | Piazza dei Miracoli - Pisa | Sito o tema | Pisa | Scheda principale |
-| 5 | Ponte Vecchio e Palazzo Vecchio - Firenze | Sito storico-artistico | Firenze | Scheda principale |
-| 6 | Riserva Naturale della Maremma - Alberese | Paesaggio o area archeologica | Alberese | Scheda principale |
-| 7 | Le Torri di San Gimignano - San Gimignano | Sito o tema | San Gimignano | Scheda principale |
-| 8 | Santuario della Verna e Monastero di Camaldoli - Arezzo | Sito storico-artistico | Arezzo | Scheda principale |
-| 9 | Area Archeologica e Museo Archeologico Nazionale di Cosa - Orbetello | Museo | Orbetello | Scheda principale |
-| 10 | Città etrusca di Chiusi - Siena | Sito o tema | Siena | Scheda principale |
-| 11 | Piazza del Campo e Duomo di Siena | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 12 | Chianti, Pienza, Val d'Orcia e paesaggi vitivinicoli della Toscana | Sito o tema | Vedi scheda | Scheda principale |
-| 13 | Cappelle Medicee - Firenze | Sito o tema | Firenze | Scheda principale |
-| 14 | Galleria degli Uffizi - Firenze | Museo | Firenze | Scheda principale |
-| 15 | Galleria dell'Accademia - Firenze | Museo | Firenze | Scheda principale |
-| 16 | Palazzo Pitti, Giardino di Boboli e Ville medicee della Toscana | Sito storico-artistico | Vedi scheda | Scheda principale |
+La Toscana unisce città comunali, paesaggi rurali, luoghi francescani, musei e grandi cantieri rinascimentali. Il percorso segue la relazione tra forma urbana, committenza, territorio e nascita del linguaggio artistico moderno.
+
+|  N. | Voce                                                                 | Tipologia                     | Area                 | Descrizione                                                                                                                                                           |
+| --: | -------------------------------------------------------------------- | ----------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Basilica di Santa Maria Novella - Firenze                            | Sito storico-artistico        | Firenze              | Santa Maria Novella è uno dei grandi poli religiosi, artistici e urbani di Firenze.                                                                                   |
+|   2 | Duomo e Battistero - Firenze                                         | Sito storico-artistico        | Firenze              | Il complesso del Duomo di Firenze è uno dei simboli assoluti dell'identità cittadina.                                                                                 |
+|   3 | Parco Naturale Regionale delle Alpi Apuane                           | Paesaggio o area archeologica | Territorio regionale | Le Alpi Apuane formano un sistema montuoso unico nel paesaggio toscano.                                                                                               |
+|   4 | Piazza dei Miracoli - Pisa                                           | Sito storico-artistico        | Pisa                 | Piazza dei Miracoli, nome reso celebre da Gabriele d'Annunzio ma ufficialmente corrispondente a Piazza del Duomo, è uno dei complessi monumentali più riconoscibil... |
+|   5 | Ponte Vecchio e Palazzo Vecchio - Firenze                            | Sito storico-artistico        | Firenze              | Il sito unisce due luoghi fondamentali della Firenze civile: Ponte Vecchio, attraversamento storico dell'Arno, e Palazzo Vecchio, sede del potere politico cittadino. |
+|   6 | Riserva Naturale della Maremma - Alberese                            | Paesaggio o area archeologica | Alberese             | La Riserva/Parco della Maremma è uno dei principali paesaggi protetti della Toscana meridionale.                                                                      |
+|   7 | Le Torri di San Gimignano - San Gimignano                            | Sito storico-artistico        | San Gimignano        | San Gimignano è una delle immagini più riconoscibili della Toscana medievale.                                                                                         |
+|   8 | Santuario della Verna e Monastero di Camaldoli - Arezzo              | Sito storico-artistico        | Arezzo               | Il percorso accosta due luoghi religiosi dell'Appennino toscano: Santuario della Verna, legato a San Francesco, e Camaldoli, legato a San Romualdo e alla tradizio... |
+|   9 | Area Archeologica e Museo Archeologico Nazionale di Cosa - Orbetello | Museo                         | Orbetello            | Cosa è una colonia latina fondata dai Romani nel territorio dell'attuale Orbetello, in posizione strategica sulla costa maremmana.                                    |
+|  10 | Città etrusca di Chiusi - Siena                                      | Area archeologica             | Siena                | Chiusi è uno dei centri più importanti dell'Etruria interna.                                                                                                          |
+|  11 | Piazza del Campo e Duomo di Siena                                    | Sito storico-artistico        | Siena                | Siena è uno dei più importanti centri medievali italiani, iscritta nella Lista del Patrimonio Mondiale UNESCO.                                                        |
+|  12 | Chianti, Pienza, Val d'Orcia e paesaggi vitivinicoli della Toscana   | Paesaggio o area archeologica | Territorio regionale | Questa voce del percorso è ampia e richiede di saper raccontare non un singolo monumento, ma un sistema di paesaggi.                                                  |
+|  13 | Cappelle Medicee - Firenze                                           | Sito storico-artistico        | Firenze              | Le Cappelle Medicee fanno parte del complesso di San Lorenzo e costituiscono il grande mausoleo della famiglia Medici.                                                |
+|  14 | Galleria degli Uffizi - Firenze                                      | Museo                         | Firenze              | Gli Uffizi sono uno dei musei più importanti al mondo per la pittura italiana, soprattutto dal Medioevo al Rinascimento e oltre.                                      |
+|  15 | Galleria dell'Accademia - Firenze                                    | Museo                         | Firenze              | La Galleria dell'Accademia è universalmente nota per il David di Michelangelo, ma il percorso richiesto dalil percorso include anche la Galleria dei Prigioni e la... |
+|  16 | Palazzo Pitti, Giardino di Boboli e Ville medicee della Toscana      | Sito storico-artistico        | Territorio regionale | Palazzo Pitti è la grande reggia fiorentina d'Oltrarno.                                                                                                               |
 
 ## Basilica di Santa Maria Novella - Firenze
+
+![Basilica di Santa Maria Novella, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1280px-Santa_Maria_Novella_%28Florence%29.jpg)
+_Basilica di Santa Maria Novella, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1280px-Santa_Maria_Novella_%28Florence%29.jpg)._
 
 **Tipologia:** basilica domenicana, complesso conventuale, museo monumentale.
 **Epoche chiave:** Medioevo comunale, Gotico fiorentino, primo Rinascimento, pieno Quattrocento.
@@ -50,7 +54,7 @@ Il **Crocifisso di Giotto** permette di collegare Santa Maria Novella alla rivol
 
 Altre tappe importanti sono la **Cappella Tornabuoni**, affrescata da Domenico Ghirlandaio e bottega con storie della Vergine e di San Giovanni Battista, la **Cappella Strozzi** con Filippino Lippi, il **Chiostro Verde** con gli affreschi di Paolo Uccello e il **Cappellone degli Spagnoli**, importante per comprendere il ruolo dottrinale e culturale dell'ordine domenicano.
 
-### Perche' e' importante
+### Perché è importante
 
 Santa Maria Novella è una scheda ad alto rendimento perché collega architettura, pittura, ordini religiosi e committenza. In una risposta convincente devi far emergere almeno tre passaggi: il ruolo dei Domenicani nella Firenze medievale; l'importanza della facciata albertiana; il valore della Trinità di Masaccio come svolta prospettica.
 
@@ -65,12 +69,12 @@ Santa Maria Novella è una scheda ad alto rendimento perché collega architettur
 
 Santa Maria Novella è il grande complesso domenicano di Firenze e rappresenta uno dei luoghi chiave del passaggio tra Medioevo e Rinascimento. La facciata, completata da Leon Battista Alberti, armonizza la struttura medievale con un ordine proporzionale rinascimentale. All'interno si trovano capolavori fondamentali come la Trinità di Masaccio, esempio decisivo di prospettiva lineare, il Crocifisso di Giotto, il Crocifisso ligneo di Brunelleschi e gli affreschi di Ghirlandaio nella Cappella Tornabuoni. È un sito da raccontare come sintesi di spiritualità domenicana, innovazione artistica e identità urbana fiorentina.
 
-**Immagini consigliate:** Commons - Basilica di Santa Maria Novella, facciata, Trinità di Masaccio, Crocifisso di Giotto.
-**Fonti essenziali:** Opera per Santa Maria Novella; Musei Civici Fiorentini; Visit Tuscany.
-
 ---
 
 ## Duomo e Battistero - Firenze
+
+![Cattedrale di Santa Maria del Fiore, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg/1280px-Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg)
+_Cattedrale di Santa Maria del Fiore, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg/1280px-Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg)._
 
 **Tipologia:** complesso cattedrale-battistero; architettura religiosa; scultura e arti decorative.
 **Epoche chiave:** romanico fiorentino, gotico, Rinascimento.
@@ -94,7 +98,7 @@ Il Battistero è uno degli edifici più antichi e prestigiosi di Firenze. Fu con
 
 Gli elementi da sapere sono il rivestimento marmoreo geometrico, l'impianto ottagonale, il mosaico della cupola e soprattutto le porte bronzee. La porta nord di **Lorenzo Ghiberti** fu realizzata tra 1403 e 1424; la porta est, detta **Porta del Paradiso**, occupa un posto centrale nella storia della scultura rinascimentale per il rilievo prospettico e la narrazione biblica. Gli originali sono oggi conservati nel Museo dell'Opera del Duomo.
 
-### Perche' e' importante
+### Perché è importante
 
 Il sito permette collegamenti con architettura gotica italiana, Rinascimento, arti del bronzo, organizzazione dei cantieri medievali, identità civica e committenza pubblica. Per una risposta forte conviene costruire un percorso: Battistero come origine e identità cristiana; cattedrale come ambizione comunale; cupola come compimento rinascimentale.
 
@@ -109,12 +113,12 @@ Il sito permette collegamenti con architettura gotica italiana, Rinascimento, ar
 
 Il Duomo e il Battistero di Firenze formano il cuore religioso e simbolico della città. Il Battistero di San Giovanni, edificio antichissimo e legato al rito del battesimo, esprime l'identità cristiana dei cittadini fiorentini; le sue porte bronzee, in particolare quelle di Ghiberti, segnano un momento fondamentale nella scultura tra Gotico e Rinascimento. La Cattedrale di Santa Maria del Fiore, iniziata nel 1296, rappresenta l'ambizione della Firenze comunale e culmina nella Cupola di Brunelleschi, capolavoro tecnico e simbolo della città rinascimentale.
 
-**Immagini consigliate:** Commons - Cattedrale di Santa Maria del Fiore, Cupola di Brunelleschi, Battistero di San Giovanni, Porte di Ghiberti.
-**Fonti essenziali:** Opera di Santa Maria del Fiore.
-
 ---
 
 ## Parco Naturale Regionale delle Alpi Apuane
+
+![Alpi Apuane al tramonto](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG/1280px-Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG)
+_Alpi Apuane al tramonto. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG/1280px-Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG)._
 
 **Tipologia:** parco naturale regionale; paesaggio montano; geologia; cultura del marmo.
 **Epoche chiave:** storia geologica antica; insediamento storico; attività estrattiva romana, medievale e moderna.
@@ -147,12 +151,12 @@ Il marmo delle Apuane è associato a Carrara e alla tradizione scultorea. È uti
 
 Il Parco Naturale Regionale delle Alpi Apuane tutela un paesaggio montano unico in Toscana, caratterizzato da rilievi aspri, fenomeni carsici, biodiversità e soprattutto dalla presenza del marmo. Il marmo apuano ha avuto un ruolo enorme nella storia dell'arte e dell'architettura, dalle cave di Carrara ai grandi cantieri rinascimentali. Per questo le Apuane vanno raccontate come paesaggio naturale e culturale insieme: un territorio in cui geologia, lavoro umano, economia estrattiva e produzione artistica sono strettamente collegati.
 
-**Immagini consigliate:** Commons - Alpi Apuane, cave di Carrara, Monte Forato, Pania della Croce.
-**Fonti essenziali:** Parco Regionale delle Alpi Apuane; UNESCO Global Geopark materials.
-
 ---
 
 ## Piazza dei Miracoli - Pisa
+
+![Piazza dei Miracoli, Pisa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg/1280px-Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg)
+_Piazza dei Miracoli, Pisa. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg/1280px-Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg)._
 
 **Tipologia:** complesso monumentale religioso; sito UNESCO; architettura romanica pisana.
 **Epoche chiave:** XI-XIV secolo; romanico pisano; potenza marittima medievale.
@@ -178,7 +182,7 @@ La Torre è il campanile della cattedrale. È celebre per la pendenza, dovuta al
 
 Il Camposanto chiude la piazza sul lato settentrionale. Fondato nel 1277, raccoglie la dimensione funeraria e memoriale del complesso. In origine custodiva un importante ciclo di affreschi, gravemente danneggiato durante la Seconda guerra mondiale e poi oggetto di restauri. È importante perché completa la lettura simbolica della piazza come percorso cristiano dalla nascita alla morte.
 
-### Perche' e' importante
+### Perché è importante
 
 Piazza dei Miracoli è un sito ad altissima probabilità di domanda, perché è presente sia nella scheda sia nella tecnico-pratica. Devi saperla raccontare come complesso unitario, non come somma di monumenti. La risposta migliore parte dalla funzione della piazza, poi passa ai quattro edifici e conclude con il valore storico della Pisa marinara.
 
@@ -209,12 +213,12 @@ Sul lato settentrionale si trova il Camposanto monumentale, fondato nel 1277. È
 
 In conclusione, Piazza dei Miracoli va osservata come una sintesi perfetta di arte, fede, potere civico e identità marittima. Il suo valore non risiede solo nella fama della Torre, ma nell'equilibrio complessivo tra architettura, spazio e significato religioso. È un luogo in cui Pisa medievale ha trasformato la propria ricchezza e il proprio ruolo nel Mediterraneo in un'immagine monumentale destinata a durare nei secoli.
 
-**Immagini consigliate:** Commons - Piazza dei Miracoli, Cattedrale, Torre pendente, Battistero, Camposanto.
-**Fonti essenziali:** Opera della Primaziale Pisana; UNESCO World Heritage Centre.
-
 ---
 
 ## Ponte Vecchio e Palazzo Vecchio - Firenze
+
+![Ponte Vecchio, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg/1280px-Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg)
+_Ponte Vecchio, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg/1280px-Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg)._
 
 **Tipologia:** architettura civile e urbana; ponte storico; palazzo pubblico.
 **Epoche chiave:** Medioevo comunale, età medicea, Firenze capitale granducale.
@@ -234,9 +238,9 @@ La storia commerciale del ponte è importante: in origine vi erano attività ali
 
 Palazzo Vecchio, o Palazzo della Signoria, fu edificato tra la fine del XIII e l'inizio del XIV secolo per ospitare i Priori delle Arti e il Gonfaloniere di Giustizia. È quindi il palazzo del governo comunale. La massa fortificata, la merlatura e la **Torre di Arnolfo** comunicano forza, controllo e autonomia politica.
 
-Con l'età medicea il palazzo fu trasformato anche in residenza ducale. Il **Salone dei Cinquecento** è l'ambiente più spettacolare: nato come spazio politico della repubblica savonaroliana, fu poi rielaborato in chiave celebrativa sotto Cosimo I de' Medici, con l'intervento di Giorgio Vasari. Da ricordare anche i quartieri monumentali, gli apparati decorativi, le sale legate alla memoria della repubblica e il rapporto con Piazza della Signoria.
+Con l'età medicea il palazzo fu trasformato anche in residenza ducale. Il **Salone dei Cinquecento** è l'ambiente più spettacolare: nato come spazio politico della repubblica savonaroliana, fu poi rielaborato in chiave celebrativa sotto Cosimo I dè Medici, con l'intervento di Giorgio Vasari. Da ricordare anche i quartieri monumentali, gli apparati decorativi, le sale legate alla memoria della repubblica e il rapporto con Piazza della Signoria.
 
-### Perche' e' importante
+### Perché è importante
 
 Il sito permette di raccontare la Firenze politica: il Comune, le Arti, la Signoria, i Medici, l'uso dello spazio urbano come rappresentazione del potere. Ponte Vecchio, inoltre, è presente nel percorso narrativo: va considerato anche come discorso da visita guidata, con attenzione alla posizione sul fiume, alle botteghe e al Corridoio Vasariano.
 
@@ -259,7 +263,7 @@ Il ponte attraversa l'Arno nel cuore della città storica. La struttura attuale 
 
 Una delle caratteristiche più evidenti del ponte è proprio la presenza delle botteghe. Oggi sono note soprattutto come oreficerie, ma in origine il ponte ospitava attività più legate alla vita quotidiana, come macellerie e botteghe alimentari. Nel corso del tempo, soprattutto in età medicea, queste attività furono sostituite da mestieri ritenuti più decorosi e prestigiosi, come quello degli orafi. Questo passaggio è importante perché mostra come la città non sia solo un insieme di edifici, ma uno spazio organizzato anche in base al prestigio, al decoro e alla rappresentazione del potere.
 
-Sopra le botteghe corre il Corridoio Vasariano, realizzato nel 1565 da Giorgio Vasari per volontà di Cosimo I de' Medici. Il corridoio collegava Palazzo Vecchio, centro del potere politico, a Palazzo Pitti, nuova residenza granducale oltre l'Arno. La funzione era pratica ma anche simbolica: i Medici potevano attraversare la città in modo sicuro, sopraelevato e separato dalla folla. In questo modo Ponte Vecchio diventa parte di un percorso di potere che unisce governo, spazio urbano e residenza dinastica.
+Sopra le botteghe corre il Corridoio Vasariano, realizzato nel 1565 da Giorgio Vasari per volontà di Cosimo I dè Medici. Il corridoio collegava Palazzo Vecchio, centro del potere politico, a Palazzo Pitti, nuova residenza granducale oltre l'Arno. La funzione era pratica ma anche simbolica: i Medici potevano attraversare la città in modo sicuro, sopraelevato e separato dalla folla. In questo modo Ponte Vecchio diventa parte di un percorso di potere che unisce governo, spazio urbano e residenza dinastica.
 
 Dal punto di vista della visita guidata, è utile invitare il pubblico a osservare tre livelli. Il primo è quello del fiume: l'Arno, risorsa ma anche minaccia, come dimostrano le alluvioni. Il secondo è quello commerciale: le botteghe, le insegne, l'identità orafa. Il terzo è quello politico: il Corridoio Vasariano e il rapporto con Palazzo Vecchio e Palazzo Pitti. Questi tre livelli aiutano a capire perché Ponte Vecchio sia così rappresentativo della storia di Firenze.
 
@@ -267,12 +271,12 @@ Un altro elemento da sottolineare è la continuità d'uso. Molti monumenti stori
 
 In conclusione, Ponte Vecchio sintetizza la Firenze mercantile, artigianale e medicea. È ponte, mercato, punto panoramico e corridoio del potere. Raccontarlo significa spiegare come Firenze abbia trasformato un'infrastruttura necessaria in un'immagine monumentale della propria identità.
 
-**Immagini consigliate:** Commons - Ponte Vecchio, Corridoio Vasariano, Palazzo Vecchio, Salone dei Cinquecento.
-**Fonti essenziali:** Musei Civici Fiorentini; Gallerie degli Uffizi; Comune di Firenze.
-
 ---
 
 ## Riserva Naturale della Maremma - Alberese
+
+![Parco regionale della Maremma](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Panorama_dalla_torre_Torre_di_Castelmarino.jpg/1280px-Panorama_dalla_torre_Torre_di_Castelmarino.jpg)
+_Parco regionale della Maremma. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Panorama_dalla_torre_Torre_di_Castelmarino.jpg/1280px-Panorama_dalla_torre_Torre_di_Castelmarino.jpg)._
 
 **Tipologia:** parco regionale / riserva naturale; paesaggio costiero e collinare; storia ambientale.
 **Epoche chiave:** presenza preistorica; insediamenti antichi; Medioevo; bonifiche moderne; istituzione del parco nel 1975.
@@ -307,12 +311,12 @@ Un altro tema importante è la Maremma come paesaggio di bonifica, allevamento e
 
 La Riserva Naturale della Maremma, nell'area di Alberese e dei Monti dell'Uccellina, tutela un paesaggio costiero e collinare di grande varietà: foce dell'Ombrone, spiagge, pinete, macchia mediterranea, zone umide e rilievi interni. È un sito importante perché unisce valore naturalistico e memoria storica. Accanto alla biodiversità, infatti, si incontrano testimonianze come l'Abbazia di San Rabano, le torri costiere e i segni della cultura rurale maremmana. Va raccontata come esempio di paesaggio protetto in cui natura, storia e turismo sostenibile sono strettamente legati.
 
-**Immagini consigliate:** Commons - Parco della Maremma, Monti dell'Uccellina, Alberese, San Rabano, Talamone.
-**Fonti essenziali:** Parco Regionale della Maremma.
-
 ---
 
 ## Le Torri di San Gimignano - San Gimignano
+
+![Panorama di San Gimignano](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Gimignano%20panorama.jpg)
+_Panorama di San Gimignano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Gimignano%20panorama.jpg)._
 
 **Tipologia:** centro storico medievale; sito UNESCO; architettura civile.
 **Epoche chiave:** XII-XIV secolo; Medioevo comunale; Via Francigena.
@@ -336,7 +340,7 @@ Il centro ruota attorno a **Piazza della Cisterna** e **Piazza del Duomo**. Piaz
 
 Da citare anche la produzione dello zafferano e della Vernaccia, perché permettono di collegare il centro storico al territorio e alla sua economia.
 
-### Perche' e' importante
+### Perché è importante
 
 San Gimignano è presente sia nella scheda sia nel percorso narrativo come Centro storico di San Gimignano. Devi quindi preparare non solo una scheda storico-artistica, ma anche una presentazione da guida. Il filo conduttore migliore è: Via Francigena → ricchezza mercantile → famiglie patrizie → torri → conservazione UNESCO.
 
@@ -367,12 +371,12 @@ Un aspetto da non dimenticare è il rapporto con il territorio. San Gimignano è
 
 In conclusione, San Gimignano va letta come una città medievale conservata in modo eccezionale. Le torri non sono solo un panorama suggestivo, ma il risultato visibile della storia sociale, economica e politica della città. Raccontarle significa spiegare la Via Francigena, la competizione tra famiglie, il potere comunale e la relazione tra centro urbano e paesaggio toscano.
 
-**Immagini consigliate:** Commons - skyline di San Gimignano, Piazza della Cisterna, Piazza del Duomo, Torre Grossa.
-**Fonti essenziali:** UNESCO World Heritage Centre; Comune di San Gimignano.
-
 ---
 
 ## Santuario della Verna e Monastero di Camaldoli - Arezzo
+
+![Santuario della Verna](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg/1280px-Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg)
+_Santuario della Verna. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg/1280px-Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg)._
 
 **Tipologia:** complessi religiosi; paesaggio spirituale; monachesimo e francescanesimo.
 **Epoche chiave:** XI secolo per Camaldoli; XIII secolo per La Verna; Medioevo religioso.
@@ -405,12 +409,12 @@ La foresta è parte integrante del significato di Camaldoli. La gestione monasti
 
 Il Santuario della Verna e il Monastero di Camaldoli sono due grandi luoghi spirituali del Casentino. La Verna è legata a San Francesco e all'episodio delle stimmate del 1224; il santuario nasce in un paesaggio roccioso e boscoso che esprime l'ideale francescano di penitenza e contemplazione. Camaldoli, invece, è legato a San Romualdo e alla tradizione benedettino-camaldolese: il complesso unisce il Sacro Eremo, luogo di solitudine, e il Monastero, luogo di vita comunitaria. Entrambi i siti mostrano il rapporto profondo tra spiritualità, architettura e ambiente naturale.
 
-**Immagini consigliate:** Commons - Santuario della Verna, Cappella delle Stimmate, Monastero di Camaldoli, Sacro Eremo.
-**Fonti essenziali:** Santuario della Verna; Comunità di Camaldoli; Parco Nazionale Foreste Casentinesi.
-
 ---
 
 ## Area Archeologica e Museo Archeologico Nazionale di Cosa - Orbetello
+
+![Area archeologica di Cosa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cosa10.jpg/1280px-Cosa10.jpg)
+_Area archeologica di Cosa. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cosa10.jpg/1280px-Cosa10.jpg)._
 
 **Tipologia:** colonia romana; area archeologica; museo archeologico.
 **Epoche chiave:** età repubblicana romana; III secolo a.C.; romanizzazione dell'Etruria.
@@ -441,12 +445,12 @@ Il Museo Archeologico Nazionale conserva reperti provenienti dagli scavi della c
 
 L'Area Archeologica di Cosa, presso Orbetello, è un importante sito romano legato alla fondazione di una colonia latina nel III secolo a.C. Il sito conserva mura monumentali, tratti dell'impianto urbano, il foro, l'acropoli e il Capitolium. È particolarmente utile per comprendere la romanizzazione dell'Etruria e il modo in cui Roma organizzava il territorio attraverso colonie pianificate. Il Museo Archeologico Nazionale completa la visita conservando reperti provenienti dagli scavi e dal territorio cosano, utili per ricostruire la vita pubblica, religiosa e quotidiana della città.
 
-**Immagini consigliate:** Commons - Cosa colonia romana, mura di Cosa, Capitolium, Museo Archeologico di Cosa.
-**Fonti essenziali:** Direzione regionale Musei nazionali Toscana.
-
 ---
 
 ## Città etrusca di Chiusi - Siena
+
+![Museo Archeologico Nazionale di Chiusi](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg/1280px-Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg)
+_Museo Archeologico Nazionale di Chiusi. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg/1280px-Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg)._
 
 **Tipologia:** centro etrusco; museo archeologico; necropoli.
 **Epoche chiave:** età etrusca orientalizzante, arcaica e classica; romanizzazione; collezionismo ottocentesco.
@@ -477,12 +481,12 @@ Il Museo Nazionale Etrusco di Chiusi nasce nel 1871, in un contesto di tutela e 
 
 Chiusi è uno dei principali centri dell'Etruria interna e conserva una forte identità archeologica legata alla civiltà etrusca. La tradizione la collega al re Porsenna, mentre le necropoli e i reperti del territorio documentano la ricchezza delle élite locali, i riti funerari e la produzione artistica. Il Museo Nazionale Etrusco, nato nel 1871, conserva materiali fondamentali come canopi, urne, sarcofagi, ceramiche, bronzi e iscrizioni. Il sito è importante perché permette di raccontare la civiltà etrusca attraverso città, territorio e mondo funerario.
 
-**Immagini consigliate:** Commons - Chiusi, Museo Nazionale Etrusco di Chiusi, canopi etruschi, necropoli di Chiusi.
-**Fonti essenziali:** Direzione regionale Musei nazionali Toscana; Museo Nazionale Etrusco di Chiusi.
-
 ---
 
 ## Piazza del Campo e Duomo di Siena
+
+![Piazza del Campo, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Il_campo_view_from_torre.jpg/1280px-Il_campo_view_from_torre.jpg)
+_Piazza del Campo, Siena. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Il_campo_view_from_torre.jpg/1280px-Il_campo_view_from_torre.jpg)._
 
 **Tipologia:** spazio urbano medievale; cattedrale gotica; sito UNESCO.
 **Epoche chiave:** XII-XV secolo; Gotico senese; età comunale.
@@ -513,12 +517,12 @@ Il Duomo di Siena è uno dei capolavori del gotico italiano. La facciata policro
 
 Piazza del Campo e il Duomo rappresentano le due grandi dimensioni della Siena medievale: quella civile e quella religiosa. Piazza del Campo, con la sua forma a conchiglia, il Palazzo Pubblico e la Torre del Mangia, è il centro della vita politica e comunitaria della città. Il Duomo è uno dei capolavori del gotico italiano, con facciata policroma, interno a fasce, pavimento marmoreo, pulpito di Nicola Pisano e Libreria Piccolomini. Insieme, questi luoghi mostrano la forza artistica, urbanistica e identitaria della Siena comunale.
 
-**Immagini consigliate:** Commons - Piazza del Campo, Palazzo Pubblico, Torre del Mangia, Duomo di Siena, Libreria Piccolomini.
-**Fonti essenziali:** UNESCO World Heritage Centre; Opera Duomo Siena; Comune di Siena.
-
 ---
 
 ## Chianti, Pienza, Val d'Orcia e paesaggi vitivinicoli della Toscana
+
+![Val d'Orcia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Val_D_Orcia_Sunrise_%28151505625%29.jpeg/1280px-Val_D_Orcia_Sunrise_%28151505625%29.jpeg)
+_Val d'Orcia. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Val_D_Orcia_Sunrise_%28151505625%29.jpeg/1280px-Val_D_Orcia_Sunrise_%28151505625%29.jpeg)._
 
 **Tipologia:** paesaggio culturale; città ideale; viticoltura; siti UNESCO.
 **Epoche chiave:** Medioevo, Rinascimento, età moderna.
@@ -551,12 +555,12 @@ La Val d'Orcia è un paesaggio agricolo e collinare a sud di Siena, iscritto all
 
 Chianti, Pienza e Val d'Orcia rappresentano il paesaggio culturale toscano, in cui agricoltura, insediamenti, arte e identità territoriale sono strettamente legati. Il Chianti è un paesaggio vitivinicolo modellato da vigneti, oliveti, castelli e borghi. Pienza è la città ideale del Rinascimento voluta da Pio II, con uno spazio urbano ordinato secondo principi umanistici. La Val d'Orcia è un paesaggio UNESCO che riflette la gestione agricola e l'estetica rinascimentale del buon governo del territorio. Il valore del sito sta nel rapporto tra natura trasformata dall'uomo e cultura storica.
 
-**Immagini consigliate:** Commons - Val d'Orcia, Pienza, paesaggio del Chianti, cipressi, vigneti toscani.
-**Fonti essenziali:** UNESCO World Heritage Centre; Visit Tuscany.
-
 ---
 
 ## Cappelle Medicee - Firenze
+
+![Cappelle Medicee, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medicibib.jpg/1280px-Medicibib.jpg)
+_Cappelle Medicee, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medicibib.jpg/1280px-Medicibib.jpg)._
 
 **Tipologia:** museo e mausoleo dinastico; scultura e architettura rinascimentale/barocca.
 **Epoche chiave:** XVI-XVII secolo.
@@ -585,12 +589,12 @@ La Cappella dei Principi, realizzata nel secolo successivo, è il grande mausole
 
 Le Cappelle Medicee sono il mausoleo dinastico della famiglia Medici presso San Lorenzo a Firenze. Le parti principali sono la Sagrestia Nuova, progettata da Michelangelo, e la Cappella dei Principi. La Sagrestia Nuova è un capolavoro unitario di architettura e scultura, con le tombe medicee e le allegorie del Giorno, della Notte, dell'Aurora e del Crepuscolo. La Cappella dei Principi, invece, esprime la magnificenza granducale attraverso marmi e pietre dure. Il complesso mostra come i Medici usarono l'arte per costruire memoria, prestigio e legittimazione dinastica.
 
-**Immagini consigliate:** Commons - Cappelle Medicee, Sagrestia Nuova, tombe medicee di Michelangelo, Cappella dei Principi.
-**Fonti essenziali:** Musei del Bargello; Museo delle Cappelle Medicee.
-
 ---
 
 ## Galleria degli Uffizi - Firenze
+
+![Galleria degli Uffizi, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/1280px-Florence%2C_Italy_-_panoramio_%28125%29.jpg)
+_Galleria degli Uffizi, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/1280px-Florence%2C_Italy_-_panoramio_%28125%29.jpg)._
 
 **Tipologia:** museo statale; pinacoteca; collezione dinastica e pubblica.
 **Sezioni richieste dalil percorso:** Sala di Botticelli; Sala di Leonardo da Vinci; Sala di Michelangelo e dei Fiorentini; Sala di Raffaello e Andrea del Sarto; Sala di Caravaggio.
@@ -631,12 +635,12 @@ La presenza di Caravaggio agli Uffizi permette di passare dal Rinascimento al Se
 
 La Galleria degli Uffizi nasce dal collezionismo mediceo ed è uno dei musei fondamentali per la pittura italiana. Per il percorso espositivo sono centrali le sale di Botticelli, Leonardo, Michelangelo, Raffaello e Caravaggio. Botticelli rappresenta la Firenze umanistica e neoplatonica, Leonardo la ricerca sul moto e sulla natura, Michelangelo la forza plastica del disegno, Raffaello l'equilibrio compositivo e Caravaggio il naturalismo drammatico del Seicento. Una buona esposizione deve presentare gli Uffizi come percorso attraverso l'evoluzione della pittura italiana, non come semplice elenco di capolavori.
 
-**Immagini consigliate:** Commons - Galleria degli Uffizi, Primavera, Nascita di Venere, Tondo Doni, Medusa di Caravaggio.
-**Fonti essenziali:** Gallerie degli Uffizi.
-
 ---
 
 ## Galleria dell'Accademia - Firenze
+
+![David di Michelangelo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/1280px-Michelangelo%27s_David_-_right_view_2.jpg)
+_David di Michelangelo. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/1280px-Michelangelo%27s_David_-_right_view_2.jpg)._
 
 **Tipologia:** museo statale; scultura; pittura; strumenti musicali.
 **Sezioni richieste dalil percorso:** Tribuna di David; Galleria dei Prigioni; Sala del Colosseo.
@@ -669,12 +673,12 @@ La Sala del Colosseo introduce il visitatore con il grande modello in gesso del 
 
 La Galleria dell'Accademia di Firenze è nota soprattutto per il David di Michelangelo, capolavoro scolpito tra 1501 e 1504 e simbolo della virtù civica fiorentina. Il percorso richiede anche la Galleria dei Prigioni, dove le figure incompiute mostrano il rapporto michelangiolesco tra forma e materia, e la Sala del Colosseo, con il modello del Ratto delle Sabine di Giambologna e dipinti quattro-cinquecenteschi. Il museo va raccontato come percorso sulla scultura fiorentina, dal modello e dall'incompiuto fino alla perfezione monumentale del David.
 
-**Immagini consigliate:** Commons - David di Michelangelo, Galleria dei Prigioni, Sala del Colosseo, modello del Ratto delle Sabine.
-**Fonti essenziali:** Galleria dell'Accademia di Firenze.
-
 ---
 
 ## Palazzo Pitti, Giardino di Boboli e Ville medicee della Toscana
+
+![Palazzo Pitti, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/1280px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg)
+_Palazzo Pitti, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/1280px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg)._
 
 **Tipologia:** residenza dinastica; museo; giardino storico; sistema di ville.
 **Sezioni richieste dalil percorso:** Galleria Palatina; Appartamenti Reali.
@@ -711,12 +715,10 @@ Le ville medicee della Toscana, insieme ai giardini, sono iscritte all'UNESCO. C
 
 Palazzo Pitti è la grande reggia fiorentina d'Oltrarno, passata dai Pitti ai Medici, poi ai Lorena e ai Savoia. Ospita la Galleria Palatina, quadreria principesca con importanti opere di Raffaello, Tiziano, Rubens e altri maestri, e gli Appartamenti Reali, che conservano arredi e ambienti legati alla vita di corte. Il Giardino di Boboli è un modello di giardino all'italiana, organizzato come spazio scenografico del potere. Le ville medicee della Toscana completano il sistema dinastico, mostrando come la famiglia Medici controllasse e rappresentasse il territorio attraverso residenze, giardini e paesaggi agricoli.
 
-**Immagini consigliate:** Commons - Palazzo Pitti, Galleria Palatina, Appartamenti Reali, Giardino di Boboli, Ville medicee.
-**Fonti essenziali:** Gallerie degli Uffizi; UNESCO World Heritage Centre.
-
 ---
 
 ## Sintesi finale
+
 ### Domande guida
 
 ### Domande guida
@@ -750,6 +752,7 @@ Palazzo Pitti è la grande reggia fiorentina d'Oltrarno, passata dai Pitti ai Me
 ---
 
 ## Fonti principali consultate
+
 - [Opera per Santa Maria Novella](https://www.smn.it/)
 - [Opera di Santa Maria del Fiore](https://duomo.firenze.it/)
 - [Parco Regionale delle Alpi Apuane](https://www.parcapuane.toscana.it/)

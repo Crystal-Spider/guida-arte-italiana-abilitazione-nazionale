@@ -7,25 +7,27 @@ nav_order: 5
 # Emilia-Romagna
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Emilia-Romagna. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 2 | Duomo e Battistero di Parma | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 3 | Complesso monumentale della Pilotta | Sito o tema | Vedi scheda | Scheda principale |
-| 4 | Ferrara, Città del Rinascimento, Castello Estense e Delta del Po | Sito storico-artistico | Castello Estense e Delta del Po | Scheda principale |
-| 5 | Duomo e Palazzo Ducale di Modena | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 6 | Torre degli Asinelli e Torre della Garisenda | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 7 | Museo Nazionale di Ravenna | Museo | Vedi scheda | Scheda principale |
+L'Emilia-Romagna mette in relazione città d'arte, vie storiche, capitali tardoantiche e paesaggi padani. Dalla Ravenna dei mosaici alle città comunali e ducali, il patrimonio regionale mostra una forte continuità urbana.
+
+|  N. | Voce                                                              | Tipologia              | Area                            | Descrizione                                                                                                                                                 |
+| --: | ----------------------------------------------------------------- | ---------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra | Sito o tema            | Ravenna                         | Ravenna è uno dei casi più forti, in Italia, per spiegare il passaggio dall'antichità romana al mondo medievale.                                            |
+|   2 | Duomo e Battistero di Parma                                       | Sito storico-artistico | Parma                           | Il complesso del Duomo e del Battistero di Parma è uno dei nuclei più importanti dell'arte medievale emiliana.                                              |
+|   3 | Complesso monumentale della Pilotta                               | Sito o tema            | Territorio regionale            | Il Complesso monumentale della Pilotta è il grande polo culturale della Parma ducale.                                                                       |
+|   4 | Ferrara, Città del Rinascimento, Castello Estense e Delta del Po  | Sito storico-artistico | Castello Estense e Delta del Po | Ferrara è uno dei casi più importanti per parlare di città rinascimentale.                                                                                  |
+|   5 | Duomo e Palazzo Ducale di Modena                                  | Sito storico-artistico | Modena                          | Il sito modenese mette insieme due grandi polarità: il Duomo, capolavoro del romanico europeo, e il Palazzo Ducale, simbolo della Modena estense e moderna. |
+|   6 | Torre degli Asinelli e Torre della Garisenda                      | Sito o tema            | Territorio regionale            | Le Due Torri sono il simbolo più riconoscibile di Bologna.                                                                                                  |
+|   7 | Museo Nazionale di Ravenna                                        | Museo                  | Ravenna                         | Il Museo Nazionale di Ravenna è l'unico museo dell'Emilia-Romagna indicato nel percorso principale del percorso.                                            |
 
 ## Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra
 
-![Mosaico di Giustiniano nella Basilica di San Vitale](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg)
-*Mosaico di Giustiniano nella Basilica di San Vitale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg).*
+![Mosaico di Giustiniano nella Basilica di San Vitale](<https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg>)
+_Mosaico di Giustiniano nella Basilica di San Vitale. [Fonte immagine](<https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg>)._
 
 ![Domus dei tappeti di pietra](https://commons.wikimedia.org/wiki/Special:FilePath/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg)
-*Domus dei tappeti di pietra. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg).*
+_Domus dei tappeti di pietra. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg)._
+
 ### Inquadramento
 
 Ravenna è uno dei casi più forti, in Italia, per spiegare il passaggio dall'antichità romana al mondo medievale. Non va presentata come "città dei mosaici" in modo generico, ma come una capitale tardoantica e altomedievale in cui si intrecciano tre grandi livelli storici: l'ultima fase dell'Impero romano d'Occidente, il regno ostrogoto di Teodorico e la presenza bizantina in Italia.
@@ -47,6 +49,7 @@ Per la spiegazione è importante non separare la storia politica dalla storia ar
 Il Mausoleo di Galla Placidia è uno degli edifici più noti per la forza suggestiva dell'interno. All'esterno è sobrio, quasi severo; all'interno si apre invece un universo blu e dorato, in cui il cielo stellato domina la percezione dello spazio. Il contrasto tra esterno semplice e interno prezioso è un tratto utile da evidenziare nella spiegazione: il monumento funziona come passaggio simbolico dalla dimensione terrena a quella ultraterrena.
 
 Temi da ricordare:
+
 - la croce dorata nel cielo stellato;
 - il Buon Pastore;
 - il tema della salvezza;
@@ -63,6 +66,7 @@ In esposizione, conviene insistere sul rapporto tra architettura e rito: il fede
 Sant'Apollinare Nuovo è fondamentale per parlare del rapporto tra potere ostrogoto e successiva rilettura bizantina. La basilica nasce in età teodoriciana e conserva celebri processioni musive di santi e sante. L'edificio permette di trattare anche il tema della trasformazione politica delle immagini: alcune parti dell'apparato decorativo furono modificate dopo la riconquista bizantina, segno che l'arte non è mai neutra ma partecipa alla costruzione della memoria ufficiale.
 
 Punti chiave:
+
 - basilica legata alla corte di Teodorico;
 - processioni musive;
 - trasformazioni iconografiche dopo il passaggio al controllo bizantino;
@@ -89,6 +93,7 @@ I pannelli di Giustiniano e Teodora mostrano due cortei imperiali che partecipan
 #### Basilica di Sant'Apollinare in Classe
 
 Sant'Apollinare in Classe collega Ravenna al suo porto. La basilica è celebre per il mosaico absidale con Sant'Apollinare in atteggiamento orante in un paesaggio paradisiaco. È utile per parlare di:
+
 - rapporto tra città e porto;
 - figura del vescovo;
 - paesaggio simbolico;
@@ -101,6 +106,7 @@ La Domus dei tappeti di pietra si trova in un ambiente sotterraneo presso la chi
 In una risposta, la Domus può essere usata come contrappunto ai monumenti UNESCO: mentre San Vitale o Sant'Apollinare Nuovo mostrano la Ravenna del potere e della liturgia, la Domus mostra la qualità dell'abitare e la continuità della cultura musiva nella vita civile.
 
 Elementi da ricordare:
+
 - complesso di residenze stratificate;
 - pavimenti musivi e marmorei;
 - motivi geometrici, vegetali e figurativi;
@@ -142,7 +148,8 @@ Errore da evitare: confondere paleocristiano e bizantino come sinonimi. A Ravenn
 ## Duomo e Battistero di Parma
 
 ![Battistero di Parma](https://commons.wikimedia.org/wiki/Special:FilePath/Battistero_Parma.jpg)
-*Battistero di Parma. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Battistero_Parma.jpg).*
+_Battistero di Parma. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Battistero_Parma.jpg)._
+
 ### Inquadramento
 
 Il complesso del Duomo e del Battistero di Parma è uno dei nuclei più importanti dell'arte medievale emiliana. Nella spiegazione va presentato come una piazza sacra, non come due monumenti separati. La Cattedrale di Santa Maria Assunta e il Battistero di San Giovanni Battista formano infatti un insieme liturgico, urbanistico e artistico: la cattedrale è il luogo della comunità e della celebrazione episcopale; il battistero è il luogo dell'iniziazione cristiana.
@@ -218,7 +225,8 @@ Errore da evitare: parlare solo del Battistero e dimenticare il Duomo. Il percor
 ## Complesso monumentale della Pilotta
 
 ![Palazzo della Pilotta](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_della_Pilotta_-_Parma.jpg)
-*Palazzo della Pilotta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_della_Pilotta_-_Parma.jpg).*
+_Palazzo della Pilotta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_della_Pilotta_-_Parma.jpg)._
+
 ### Inquadramento
 
 Il Complesso monumentale della Pilotta è il grande polo culturale della Parma ducale. Se il Duomo e il Battistero raccontano la Parma medievale e religiosa, la Pilotta racconta la Parma del potere signorile, della corte e delle collezioni. È un edificio complesso, nato in relazione alla dinastia Farnese e poi trasformato in un contenitore museale di grande importanza.
@@ -242,6 +250,7 @@ A una guida turistica non basta dire che è "bello": bisogna spiegare che il tea
 La Galleria Nazionale di Parma conserva opere legate alla storia collezionistica della città e del ducato. Per una scheda, è utile ricordare che la galleria non è un museo casuale: nasce da raccolte storiche e da una lunga sedimentazione di committenze, acquisizioni e trasformazioni istituzionali.
 
 Nel presentarla, collega sempre le opere al territorio:
+
 - Correggio e Parmigianino per la scuola parmense;
 - la tradizione emiliana e padana;
 - il collezionismo ducale;
@@ -288,7 +297,8 @@ Questa frase ti consente di tenere insieme edificio, storia, funzioni e collezio
 ## Ferrara, Città del Rinascimento, Castello Estense e Delta del Po
 
 ![Castello Estense di Ferrara](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Estense,_Ferrara_2014_148.jpg)
-*Castello Estense di Ferrara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Estense,_Ferrara_2014_148.jpg).*
+_Castello Estense di Ferrara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Estense,_Ferrara_2014_148.jpg)._
+
 ### Inquadramento
 
 Ferrara è uno dei casi più importanti per parlare di città rinascimentale. Il percorso unisce tre elementi che devono essere presentati insieme: la città del Rinascimento, il Castello Estense e il Delta del Po. Non sono tre argomenti separati: costituiscono un unico paesaggio culturale, in cui potere signorile, urbanistica e gestione del territorio si intrecciano.
@@ -306,6 +316,7 @@ Per la spiegazione è fondamentale citare l'**Addizione Erculea**, promossa da E
 Il Castello Estense nasce nel 1385 per volontà di Niccolò II d'Este, dopo una rivolta popolare. La sua origine è dunque militare e politica: serve a difendere la famiglia signorile anche dai cittadini, non solo da nemici esterni. È un punto essenziale da ricordare perché mostra il rapporto complesso tra signoria e città.
 
 Con il tempo, la fortezza si trasforma in residenza di corte. Il castello conserva quindi due anime:
+
 - **fortezza**: torri, fossato, ponti levatoi, controllo;
 - **residenza**: sale, appartamenti, decorazioni, rappresentanza dinastica.
 
@@ -322,6 +333,7 @@ Il nome di Biagio Rossetti è indispensabile. Va presentato come architetto e ur
 Il Delta del Po introduce il tema del paesaggio culturale. Non è solo natura: è un territorio modellato dall'acqua, dalle bonifiche, dalle vie commerciali e dal controllo politico. Il rapporto tra Ferrara e il Delta mostra come la corte estense non abbia costruito solo monumenti, ma abbia gestito un sistema territoriale.
 
 Per una guida turistica, il Delta va spiegato come:
+
 - paesaggio d'acqua;
 - ambiente naturalistico e zona umida;
 - spazio economico e strategico;
@@ -363,7 +375,8 @@ Errore da evitare: parlare solo del Castello Estense. Il percorso chiede esplici
 ## Duomo e Palazzo Ducale di Modena
 
 ![Duomo di Modena](https://commons.wikimedia.org/wiki/Special:FilePath/Modena_Cathedral_Duomo_Exterior.jpg)
-*Duomo di Modena. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Modena_Cathedral_Duomo_Exterior.jpg).*
+_Duomo di Modena. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Modena_Cathedral_Duomo_Exterior.jpg)._
+
 ### Inquadramento
 
 Il sito modenese mette insieme due grandi polarità: il **Duomo**, capolavoro del romanico europeo, e il **Palazzo Ducale**, simbolo della Modena estense e moderna. Anche qui conviene non trattare i due monumenti come argomenti scollegati. Il Duomo racconta la città medievale, la fede civica e la nascita di un linguaggio romanico maturo; il Palazzo Ducale racconta la città capitale del ducato estense.
@@ -435,7 +448,8 @@ Errore da evitare: dimenticare il Palazzo Ducale o trattarlo come semplice "pala
 ## Torre degli Asinelli e Torre della Garisenda
 
 ![Torri degli Asinelli e della Garisenda](https://commons.wikimedia.org/wiki/Special:FilePath/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg)
-*Torri degli Asinelli e della Garisenda. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg).*
+_Torri degli Asinelli e della Garisenda. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg)._
+
 ### Inquadramento
 
 Le Due Torri sono il simbolo più riconoscibile di Bologna. La Torre degli Asinelli e la Torre della Garisenda non vanno però presentate solo come "monumenti panoramici": sono una chiave per leggere la Bologna medievale, comunale, mercantile e familiare.
@@ -457,6 +471,7 @@ La Garisenda permette di parlare anche della fragilità del patrimonio monumenta
 ### Bologna medievale e città delle torri
 
 Bologna tra XI e XIII secolo è un centro dinamico: comune, università, commerci, famiglie potenti, crescita urbana. Le torri si inseriscono in questa trasformazione. Avevano funzione:
+
 - difensiva;
 - di avvistamento e segnalazione;
 - di prestigio familiare;
@@ -468,6 +483,7 @@ La presenza delle torri presso l'incrocio di strade importanti rafforza la loro 
 ### Collegamento con i Portici di Bologna
 
 Anche se i Portici sono in percorso integrativo, conviene saper fare un collegamento. Torri e portici raccontano due forme diverse della Bologna storica:
+
 - le torri sono verticalità, competizione, potere familiare;
 - i portici sono orizzontalità, continuità urbana, uso pubblico dello spazio privato.
 
@@ -500,6 +516,9 @@ Errore da evitare: trasformare la risposta in una descrizione turistica "salire 
 
 ## Museo Nazionale di Ravenna
 
+![Museo Nazionale di Ravenna](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ravenna%2C_Museo_nazionale_%2803%29.jpg/1280px-Ravenna%2C_Museo_nazionale_%2803%29.jpg)
+_Museo Nazionale di Ravenna. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ravenna%2C_Museo_nazionale_%2803%29.jpg/1280px-Ravenna%2C_Museo_nazionale_%2803%29.jpg)._
+
 ### Inquadramento
 
 Il Museo Nazionale di Ravenna è l'unico museo dell'Emilia-Romagna indicato nel percorso principale del percorso. Le sezioni richieste sono: **Mosaici**, **Oggetti paleocristiani** e **Codici miniati**. Il museo ha sede nell'ex monastero di San Vitale, quindi in un contesto urbano e monumentale strettamente legato ai grandi siti paleocristiani ravennati.
@@ -511,6 +530,7 @@ La chiave per presentarlo nella spiegazione è questa: il Museo Nazionale non va
 La sezione dei mosaici va collegata immediatamente alla tradizione ravennate. Ravenna è famosa per i mosaici parietali monumentali; il museo permette invece di osservare materiali e frammenti che mostrano tecniche, motivi decorativi e contesti diversi.
 
 Nella spiegazione è utile spiegare la differenza tra:
+
 - mosaico parietale monumentale, legato allo spazio sacro e alla rappresentazione del potere;
 - mosaico pavimentale o frammentario, legato a contesti domestici, funerari, liturgici o decorativi.
 
@@ -521,6 +541,7 @@ Questo collegamento consente di richiamare anche la Domus dei tappeti di pietra,
 Gli oggetti paleocristiani sono fondamentali per passare dall'architettura alla cultura materiale. Non tutto il patrimonio paleocristiano è fatto di basiliche e mosaici absidali: esistono anche arredi, frammenti scultorei, vetri, avori, oggetti liturgici, elementi decorativi e materiali funerari.
 
 L'importanza di questi oggetti sta nel fatto che documentano:
+
 - la vita liturgica;
 - le pratiche devozionali;
 - la circolazione di forme e motivi tra Oriente e Occidente;
@@ -561,6 +582,7 @@ Non trasformare il museo in una lista di collezioni. Usa invece questa formula:
 ---
 
 ## Percorsi narrativi brevi
+
 ### Percorso narrativo breve
 
 ---
@@ -568,7 +590,8 @@ Non trasformare il museo in una lista di collezioni. Usa invece questa formula:
 ### Percorso narrativo breve
 
 ![Area archeologica di Marzabotto](https://commons.wikimedia.org/wiki/Special:FilePath/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg)
-*Area archeologica di Marzabotto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg).*
+_Area archeologica di Marzabotto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg)._
+
 > Buongiorno, iniziamo la nostra visita all'area archeologica di Marzabotto, identificata con l'antica città etrusca di Kainua. Siamo nell'Appennino bolognese, lungo la valle del Reno, in una posizione strategica che nell'antichità collegava l'Etruria tirrenica con la Pianura Padana e con l'area adriatica. Proprio questa posizione spiega la fortuna del sito: Kainua era un centro urbano inserito in una rete di traffici, scambi e relazioni culturali.
 >
 > La particolarità di Marzabotto è che non ci troviamo davanti a pochi resti isolati, ma a una città etrusca pianificata. Questo è l'aspetto più importante da cogliere: l'area archeologica permette di leggere strade, isolati, case, aree sacre, officine e necropoli. È quindi una testimonianza eccezionale dell'urbanistica etrusca. Spesso immaginiamo gli Etruschi attraverso necropoli o corredi funerari; qui invece possiamo osservare l'organizzazione concreta di una città.
@@ -586,7 +609,8 @@ Non trasformare il museo in una lista di collezioni. Usa invece questa formula:
 ### Percorso narrativo breve
 
 ![Portici di Bologna](https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_portici_via_indipendenza.jpg)
-*Portici di Bologna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_portici_via_indipendenza.jpg).*
+_Portici di Bologna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_portici_via_indipendenza.jpg)._
+
 > Buongiorno, oggi presentiamo uno degli elementi più caratteristici dell'identità urbana di Bologna: i suoi portici. I portici bolognesi sono stati riconosciuti patrimonio mondiale UNESCO nel 2021 come sito seriale, composto da diversi tratti rappresentativi della città. La loro importanza non è solo architettonica: sono un modo di abitare, attraversare e condividere lo spazio urbano.
 >
 > Il primo punto da capire è che il portico è uno spazio intermedio. Non è completamente privato, perché viene usato dai cittadini; non è completamente pubblico, perché appartiene spesso agli edifici che lo sostengono. È stato definito infatti come proprietà privata a uso pubblico. Questa caratteristica spiega bene lo spirito urbano di Bologna: una città in cui la vita sociale si svolge lungo percorsi coperti, continui e accessibili.
@@ -622,42 +646,49 @@ Non trasformare il museo in una lista di collezioni. Usa invece questa formula:
 ---
 
 ## Sintesi finale
+
 ### Ripasso finale per l'Emilia-Romagna
 
 ### Parole chiave per sito
 
-| Sito | 5 parole chiave |
-|---|---|
-| Ravenna + Domus | tardoantico; mosaico; Bisanzio; capitale; stratificazione |
-| Duomo/Battistero Parma | romanico; Antelami; battesimo; Correggio; piazza sacra |
-| Pilotta | Farnese; corte; Teatro Farnese; Galleria Nazionale; collezionismo |
-| Ferrara/Delta | Este; Rinascimento; Addizione Erculea; Castello; paesaggio culturale |
-| Modena | Lanfranco; Wiligelmo; romanico; San Geminiano; Este |
-| Torri Bologna | comune; famiglie; verticalità; difesa; identità urbana |
-| Museo Nazionale Ravenna | mosaici; paleocristiano; codici; cultura materiale; San Vitale |
-| Marzabotto | Kainua; Etruschi; urbanistica; valle del Reno; museo |
-| Portici Bologna | UNESCO; spazio pubblico; continuità; socialità; identità |
+| Sito                    | 5 parole chiave                                                      |
+| ----------------------- | -------------------------------------------------------------------- |
+| Ravenna + Domus         | tardoantico; mosaico; Bisanzio; capitale; stratificazione            |
+| Duomo/Battistero Parma  | romanico; Antelami; battesimo; Correggio; piazza sacra               |
+| Pilotta                 | Farnese; corte; Teatro Farnese; Galleria Nazionale; collezionismo    |
+| Ferrara/Delta           | Este; Rinascimento; Addizione Erculea; Castello; paesaggio culturale |
+| Modena                  | Lanfranco; Wiligelmo; romanico; San Geminiano; Este                  |
+| Torri Bologna           | comune; famiglie; verticalità; difesa; identità urbana               |
+| Museo Nazionale Ravenna | mosaici; paleocristiano; codici; cultura materiale; San Vitale       |
+| Marzabotto              | Kainua; Etruschi; urbanistica; valle del Reno; museo                 |
+| Portici Bologna         | UNESCO; spazio pubblico; continuità; socialità; identità             |
 
 ### Confronti trasversali probabili
 
 #### Ravenna vs Modena
+
 Ravenna è tardoantica e bizantina, fondata sul mosaico e sulla rappresentazione del potere imperiale e religioso. Modena è romanica e comunale, fondata sul rapporto tra architettura e scultura.
 
 #### Parma vs Modena
+
 Parma e Modena sono entrambe fondamentali per il romanico emiliano. Parma ruota attorno ad Antelami e al passaggio verso il gotico; Modena ruota attorno a Lanfranco e Wiligelmo e alla piena maturità del romanico.
 
 #### Ferrara vs Modena
+
 Entrambe sono legate agli Este. Ferrara rappresenta la capitale rinascimentale e la città ideale; Modena rappresenta la continuità del potere estense dopo la perdita di Ferrara.
 
 #### Bologna torri vs Bologna portici
+
 Le torri sono verticalità, prestigio familiare e competizione medievale. I portici sono continuità orizzontale, uso pubblico, socialità e identità urbana.
 
 #### Ravenna monumentale vs Museo Nazionale
+
 I monumenti mostrano il patrimonio in situ; il museo consente di studiare oggetti, frammenti, codici e materiali che completano la comprensione della città.
 
 ---
 
 ## Fonti principali consultate
+
 - [UNESCO World Heritage Centre, "Early Christian Monuments of Ravenna"](https://whc.unesco.org/en/list/788/)
 - [Ministero della Cultura / UNESCO Italia, "Early Christian Monuments of Ravenna"](https://unesco.cultura.gov.it/en/projects/early-christian-monuments-of-ravenna/)
 - [Turismo Ravenna, "Domus of the Stone Carpets"](https://www.turismo.ra.it/en/culture-and-history/archaeology/domus-stone-carpets/)

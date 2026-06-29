@@ -7,20 +7,22 @@ nav_order: 18
 # Provincia autonoma di Trento
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Provincia autonoma di Trento. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Piazza Duomo - Trento | Sito storico-artistico | Trento | Scheda principale |
+La Provincia autonoma di Trento lega paesaggio alpino, città storica e memoria del Concilio. Piazza Duomo concentra architettura religiosa, potere vescovile e identità urbana trentina.
+
+|  N. | Voce                  | Tipologia              | Area   | Descrizione                                                                   |
+| --: | --------------------- | ---------------------- | ------ | ----------------------------------------------------------------------------- |
+|   1 | Piazza Duomo - Trento | Sito storico-artistico | Trento | Piazza Duomo è il principale spazio monumentale del centro storico di Trento. |
 
 ## Piazza Duomo - Trento
 
 ![Piazza Duomo con Fontana del Nettuno e Cattedrale di San Vigilio](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Piazza%20del%20Duomo.jpg)
-*Piazza Duomo con Fontana del Nettuno e Cattedrale di San Vigilio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Piazza%20del%20Duomo.jpg).*
+_Piazza Duomo con Fontana del Nettuno e Cattedrale di San Vigilio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Piazza%20del%20Duomo.jpg)._
 ![Torre Civica e Palazzo Pretorio](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Torre%20Civica-Palazzo%20Pretorio.jpg)
-*Torre Civica e Palazzo Pretorio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Torre%20Civica-Palazzo%20Pretorio.jpg).*
+_Torre Civica e Palazzo Pretorio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Torre%20Civica-Palazzo%20Pretorio.jpg)._
 ![Cattedrale di San Vigilio](https://commons.wikimedia.org/wiki/Special:FilePath/Trento%2C%20cattedrale%20di%20San%20Vigilio.jpg)
-*Cattedrale di San Vigilio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento%2C%20cattedrale%20di%20San%20Vigilio.jpg).*
+_Cattedrale di San Vigilio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento%2C%20cattedrale%20di%20San%20Vigilio.jpg)._
+
 ---
 
 ### Inquadramento
@@ -144,16 +146,16 @@ Per la lettura del sito, questo punto è prezioso perché permette di collegare 
 
 ### Cronologia essenziale
 
-| Periodo | Evento / fase | Da ricordare per la spiegazione |
-|---|---|---|
-| Età romana | Trento come centro lungo gli assi alpini e la valle dell'Adige | Contesto strategico tra Italia e area alpina |
-| Fine IV secolo | Origini paleocristiane legate a San Vigilio | Memoria religiosa antica sotto la cattedrale |
-| 1212 | Ricostruzione della cattedrale in forme romanico-lombarde | Federico Vanga e maestranze campionesi |
-| Medioevo | Sviluppo di Palazzo Pretorio e Torre Civica | Poteri vescovile e comunale nello spazio urbano |
-| 1545-1563 | Concilio di Trento | Evento chiave per la Chiesa cattolica e l'Europa moderna |
-| XVI secolo | Affreschi di Casa Cazuffi-Rella | Cultura umanistica e decorazione delle facciate |
-| 1767-1769 | Costruzione della Fontana del Nettuno | Monumentalizzazione settecentesca della piazza |
-| 1903 | Fondazione del Museo Diocesano Tridentino | Conservazione e valorizzazione del patrimonio ecclesiastico |
+| Periodo        | Evento / fase                                                  | Da ricordare per la spiegazione                             |
+| -------------- | -------------------------------------------------------------- | ----------------------------------------------------------- |
+| Età romana     | Trento come centro lungo gli assi alpini e la valle dell'Adige | Contesto strategico tra Italia e area alpina                |
+| Fine IV secolo | Origini paleocristiane legate a San Vigilio                    | Memoria religiosa antica sotto la cattedrale                |
+| 1212           | Ricostruzione della cattedrale in forme romanico-lombarde      | Federico Vanga e maestranze campionesi                      |
+| Medioevo       | Sviluppo di Palazzo Pretorio e Torre Civica                    | Poteri vescovile e comunale nello spazio urbano             |
+| 1545-1563      | Concilio di Trento                                             | Evento chiave per la Chiesa cattolica e l'Europa moderna    |
+| XVI secolo     | Affreschi di Casa Cazuffi-Rella                                | Cultura umanistica e decorazione delle facciate             |
+| 1767-1769      | Costruzione della Fontana del Nettuno                          | Monumentalizzazione settecentesca della piazza              |
+| 1903           | Fondazione del Museo Diocesano Tridentino                      | Conservazione e valorizzazione del patrimonio ecclesiastico |
 
 ---
 
@@ -267,6 +269,7 @@ Piazza Duomo, quindi, è un vero palinsesto urbano. In uno spazio relativamente 
 ---
 
 ## Sintesi finale
+
 ### Errori da evitare
 
 - Parlare solo della Cattedrale, dimenticando che il sito richiesto è **Piazza Duomo**.
@@ -293,6 +296,7 @@ San Vigilio - Federico Vanga - Concilio - Torre Civica - Nettuno
 ---
 
 ## Fonti principali consultate
+
 - [Comune di Trento, "Piazza Duomo"](https://www.comune.trento.it/Vivere-il-Comune/Luoghi/Piazza-Duomo)
 - [Comune di Trento, "Cattedrale di San Vigilio"](https://www.comune.trento.it/Vivere-il-Comune/Luoghi/Cattedrale-di-San-Vigilio)
 - [Visit Trentino, "Duomo di Trento - La Cattedrale di San Vigilio"](https://www.visittrentino.info/it/guida/da-vedere/chiese-santuari/duomo-di-trento-la-cattedrale-di-san-vigilio_md_2588)

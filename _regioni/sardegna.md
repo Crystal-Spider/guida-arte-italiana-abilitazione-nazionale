@@ -7,30 +7,27 @@ nav_order: 14
 # Sardegna
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Sardegna. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Tomba dei Giganti di Coddu Vecchiu e Complesso nuragico La Prisgiona | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 2 | Domus de janas, necropoli e siti megalitici: Anghelu Ruju, Montessu e Pranu Muttedu | Paesaggio o area archeologica | Montessu e Pranu Muttedu | Scheda principale |
-| 3 | Santuari nuragici della Sardegna: Santa Cristina e Santa Vittoria | Sito o tema | Vedi scheda | Scheda principale |
-| 4 | Museo di Cabras e area dei Giganti di Monte Prama | Museo | Vedi scheda | Scheda principale |
-| 5 | Siti fenicio-punici e romani della Sardegna: Tharros, Nora e Monte Sirai | Sito o tema | Nora e Monte Sirai | Scheda principale |
-| 6 | Museo Archeologico Nazionale di Cagliari | Museo | Vedi scheda | Scheda principale |
+La Sardegna offre una lettura profonda della preistoria mediterranea, dalla fase prenuragica alla civiltà nuragica, fino ai centri fenicio-punici e romani. Paesaggio, archeologia e identità insulare sono costantemente intrecciati.
+
+|  N. | Voce                                                                                | Tipologia         | Area                     | Descrizione                                                                                                                                                           |
+| --: | ----------------------------------------------------------------------------------- | ----------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Tomba dei Giganti di Coddu Vecchiu e Complesso nuragico La Prisgiona                | Area archeologica | Territorio regionale     | La Prisgiona e Coddu Vecchiu si trovano nel territorio di Arzachena, in località Capichera, in un paesaggio fortemente caratterizzato da rilievi granitici, macchi... |
+|   2 | Domus de janas, necropoli e siti megalitici: Anghelu Ruju, Montessu e Pranu Muttedu | Area archeologica | Montessu e Pranu Muttedu | Le domus de janas sono tombe ipogeiche scavate nella roccia, diffuse in Sardegna in età prenuragica.                                                                  |
+|   3 | Santuari nuragici della Sardegna: Santa Cristina e Santa Vittoria                   | Area archeologica | Territorio regionale     | I santuari nuragici rappresentano una fase fondamentale della civiltà nuragica: non solo torri e villaggi, ma luoghi di culto, incontro e scambio.                    |
+|   4 | Museo di Cabras e area dei Giganti di Monte Prama                                   | Museo             | Territorio regionale     | Il Museo Civico Giovanni Marongiu di Cabras è un punto fondamentale per comprendere il patrimonio archeologico della Penisola del Sinis.                              |
+|   5 | Siti fenicio-punici e romani della Sardegna: Tharros, Nora e Monte Sirai            | Area archeologica | Nora e Monte Sirai       | Tharros, Nora e Monte Sirai sono fondamentali per spiegare la Sardegna come crocevia mediterraneo.                                                                    |
+|   6 | Museo Archeologico Nazionale di Cagliari                                            | Museo             | Cagliari                 | Il Museo Archeologico Nazionale di Cagliari è il principale museo archeologico della Sardegna e rappresenta una sintesi essenziale della storia antica dell'isola.    |
 
 ## Tomba dei Giganti di Coddu Vecchiu e Complesso nuragico La Prisgiona
+
+![Nuraghe La Prisgiona](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LaPrisgiona-pjt.jpg/1280px-LaPrisgiona-pjt.jpg)
+_Nuraghe La Prisgiona. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LaPrisgiona-pjt.jpg/1280px-LaPrisgiona-pjt.jpg)._
 
 **Località:** Arzachena, Gallura, Sardegna nord-orientale.
 **Tipologia:** sito nuragico composto da insediamento abitativo e area funeraria.
 **Periodo principale:** civiltà nuragica, Età del Bronzo, con fasi costruttive e d'uso differenziate.
 **Parole chiave:** Gallura nuragica, Capichera, nuraghe complesso, villaggio, capanna delle riunioni, pozzo, tomba dei giganti, stele centinata, esedra, culto funerario, paesaggio granitico.
-
-**Immagini da inserire/consultare**
-
-- [Nuraghe La Prisgiona](https://idese.cultura.gov.it/place/la-prisgiona/)
-- [Tomba dei Giganti di Coddu Vecchiu](https://idese.cultura.gov.it/place/coddu-vecchiu/)
-- [Scheda Sardegna Cultura su La Prisgiona](https://www.sardegnacultura.it/articolo/arzachena-complesso-nuragico-la-prisgiona)
-- [Scheda Sardegna Cultura su Coddu Vecchiu](https://www.sardegnacultura.it/articolo/arzachena-tomba-di-giganti-di-coddu-ecchju)
 
 ### Inquadramento
 
@@ -90,17 +87,13 @@ Non partire dalla definizione astratta di "civiltà nuragica". Parti dal paesagg
 
 ## Domus de janas, necropoli e siti megalitici: Anghelu Ruju, Montessu e Pranu Muttedu
 
+![Domus de janas nella necropoli di Monte Siseri](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Putifigari%2C_necropoli_di_Monte_Siseri_%2821%29.jpg/1280px-Putifigari%2C_necropoli_di_Monte_Siseri_%2821%29.jpg)
+_Domus de janas nella necropoli di Monte Siseri. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Putifigari%2C_necropoli_di_Monte_Siseri_%2821%29.jpg/1280px-Putifigari%2C_necropoli_di_Monte_Siseri_%2821%29.jpg)._
+
 **Località:** Alghero, Villaperuccio, Goni.
 **Tipologia:** necropoli ipogeiche e complessi megalitici prenuragici.
 **Periodo principale:** Neolitico recente, Eneolitico, Bronzo antico, con differenze tra i singoli siti.
 **Parole chiave:** domus de janas, ipogei, culto funerario, Ozieri, simboli taurini, falsa porta, menhir, megalitismo, Pranu Muttedu, Montessu, Anghelu Ruju, patrimonio UNESCO 2025.
-
-**Immagini da inserire/consultare**
-
-- [Anghelu Ruju](https://www.sardegnacultura.it/en/articles/alghero-necropoli-di-anghelu-ruju)
-- [Montessu](https://www.sardegnacultura.it/articolo/villaperuccio-necropoli-di-montessu)
-- [Pranu Muttedu](https://www.sardegnacultura.it/articolo/goni-parco-archeologico-di-pranu-muttedu)
-- [Sito UNESCO "Funerary Tradition in the Prehistory of Sardinia - The domus de janas"](https://whc.unesco.org/en/list/1730/)
 
 ### Introduzione: cosa sono le domus de janas
 
@@ -158,17 +151,13 @@ Usa una struttura comparativa: «Anghelu Ruju: quantità e complessità delle to
 
 ## Santuari nuragici della Sardegna: Santa Cristina e Santa Vittoria
 
+![Pozzo sacro di Santa Cristina](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pozzo_sacro_di_Santa_Cristina%2C_l%27ingresso._-_panoramio.jpg/1280px-Pozzo_sacro_di_Santa_Cristina%2C_l%27ingresso._-_panoramio.jpg)
+_Pozzo sacro di Santa Cristina. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pozzo_sacro_di_Santa_Cristina%2C_l%27ingresso._-_panoramio.jpg/1280px-Pozzo_sacro_di_Santa_Cristina%2C_l%27ingresso._-_panoramio.jpg)._
+
 **Località:** Santa Cristina a Paulilatino; Santa Vittoria a Serri.
 **Tipologia:** santuari nuragici, con pozzi sacri e aree rituali.
 **Periodo principale:** Bronzo recente/finale e prima Età del Ferro, con frequentazioni e riusi successivi.
 **Parole chiave:** pozzo sacro, culto delle acque, architettura nuragica, tholos, scala, temenos, recinto delle feste, pellegrinaggio, scambi mediterranei, sacralità dell'acqua.
-
-**Immagini da inserire/consultare**
-
-- [Santa Cristina](https://www.sardegnaturismo.it/it/itinerari/dove-la-luna-si-riflette-sulle-sacre-acque)
-- [Santa Vittoria](https://www.sardegnaturismo.it/it/esplora/santuario-di-santa-vittoria)
-- [Santa Vittoria, sito del gestore](https://www.acropolinuragica.it/)
-- [Santa Vittoria, Fondazione Petrass](https://www.fondazionepetrass.it/santa-vittoria/)
 
 ### Tema generale: santuario, acqua e comunità
 
@@ -216,17 +205,13 @@ Non limitarti a dire "pozzo sacro". Spiega il gesto della visita: il fedele o il
 
 ## Museo di Cabras e area dei Giganti di Monte Prama
 
+![Gigante di Mont'e Prama](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Et%C3%A0_nuragica%2C_giganti_di_monte_prama%2C_xiii-ix_secolo_ac_ca.%2C_da_cabras%2C_pugilatore_19%2C_02.jpg/1280px-Et%C3%A0_nuragica%2C_giganti_di_monte_prama%2C_xiii-ix_secolo_ac_ca.%2C_da_cabras%2C_pugilatore_19%2C_02.jpg)
+_Gigante di Mont'e Prama. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Et%C3%A0_nuragica%2C_giganti_di_monte_prama%2C_xiii-ix_secolo_ac_ca.%2C_da_cabras%2C_pugilatore_19%2C_02.jpg/1280px-Et%C3%A0_nuragica%2C_giganti_di_monte_prama%2C_xiii-ix_secolo_ac_ca.%2C_da_cabras%2C_pugilatore_19%2C_02.jpg)._
+
 **Località:** Cabras, Penisola del Sinis, provincia di Oristano.
 **Tipologia:** museo archeologico e area archeologica/contesto di provenienza delle statue.
 **Periodo principale:** civiltà nuragica, prima Età del Ferro; con contesto territoriale pluristratificato del Sinis.
 **Parole chiave:** Giganti di Monte Prama, Cabras, Sinis, statuaria nuragica, pugilatori, arcieri, guerrieri, betili, modelli di nuraghe, necropoli eroica, identità nuragica, museo Giovanni Marongiu.
-
-**Immagini da inserire/consultare**
-
-- [Fondazione Mont'e Prama, Museo di Cabras](https://monteprama.it/il-sinis/museo-civico-giovanni-marongiu-cabras/)
-- [CoopCulture, Museo Civico Giovanni Marongiu](https://www.coopculture.it/it/poi/museo-civico-giovanni-marongiu/)
-- [Monte Prama, pagina tematica](https://monteprama.it/monte-prama/scopri-il-sinis/)
-- [Metropolitan Museum, articolo sui Giganti](https://www.metmuseum.org/perspectives/sardinian-giants)
 
 ### Il Museo di Cabras
 
@@ -272,18 +257,13 @@ Apri con una frase forte ma controllata: «I Giganti di Monte Prama hanno cambia
 
 ## Siti fenicio-punici e romani della Sardegna: Tharros, Nora e Monte Sirai
 
+![Area archeologica di Tharros](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tharros_-_Sardinia_-_Italy_-_08.jpg/1280px-Tharros_-_Sardinia_-_Italy_-_08.jpg)
+_Area archeologica di Tharros. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tharros_-_Sardinia_-_Italy_-_08.jpg/1280px-Tharros_-_Sardinia_-_Italy_-_08.jpg)._
+
 **Località:** Tharros a Cabras; Nora a Pula; Monte Sirai a Carbonia.
 **Tipologia:** città e insediamenti fenicio-punici e romani.
 **Periodo principale:** età fenicia, punica e romana, con preesistenze nuragiche in alcuni contesti.
 **Parole chiave:** Fenici, Punici, Cartagine, romanizzazione, porto, commercio, tophet, necropoli, terme, strade romane, continuità insediativa, Mediterraneo.
-
-**Immagini da inserire/consultare**
-
-- [Tharros, Sardegna Cultura/Virtual Archaeology](https://virtualarchaeology.sardegnacultura.it/index.php/it/siti-archeologici/eta-fenicio-punica/area-archeologica-di-tharros)
-- [Nora, Ministero della Cultura](https://cultura.gov.it/luogo/area-archeologica-di-nora)
-- [Nora, progetto archeologico](https://nora.beniculturali.unipd.it/)
-- [Monte Sirai, scheda di approfondimento](https://www.altrasardegna.it/parco-archeologico-di-monte-sirai/)
-- [Tharros, immagine Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tharros_-_Sardinia_-_Italy_-_08.jpg/330px-Tharros_-_Sardinia_-_Italy_-_08.jpg)
 
 ### Tema generale: Sardegna e Mediterraneo
 
@@ -339,16 +319,13 @@ Usa una mappa mentale: Tharros = Sinis e stratificazione; Nora = città costiera
 
 ## Museo Archeologico Nazionale di Cagliari
 
+![Museo Archeologico Nazionale di Cagliari](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Museo_archeologico_nazionale_di_Cagliari.jpg/1280px-Museo_archeologico_nazionale_di_Cagliari.jpg)
+_Museo Archeologico Nazionale di Cagliari. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Museo_archeologico_nazionale_di_Cagliari.jpg/1280px-Museo_archeologico_nazionale_di_Cagliari.jpg)._
+
 **Località:** Cagliari, Piazza Arsenale, Cittadella dei Musei.
 **Tipologia:** museo archeologico nazionale.
 **Periodo coperto:** dalla preistoria sarda all'età medievale, con focus su culture prenuragiche, nuragiche, fenicio-puniche e romane.
 **Parole chiave:** Cagliari, collezione archeologica, bronzetti nuragici, ceramiche prenuragiche, reperti fenicio-punici, romanizzazione, Cittadella dei Musei, collezioni territoriali.
-
-**Immagini da inserire/consultare**
-
-- [Sito ufficiale Museo Archeologico Nazionale di Cagliari](https://museinazionalicagliari.cultura.gov.it/)
-- [Esplora la collezione](https://museinazionalicagliari.cultura.gov.it/__descrizione-categoria/esplora-la-collezione/)
-- [Cagliari Turismo, scheda museo](https://cagliariturismo.comune.cagliari.it/it/vivicagliari/museo-archeologico-nazionale)
 
 ### Ruolo del museo
 
@@ -393,6 +370,7 @@ Presentalo come "museo-chiave" per ordinare l'intera Sardegna archeologica. La f
 ---
 
 ## Percorsi narrativi brevi
+
 ### Percorso narrativo breve
 
 ---
@@ -400,6 +378,7 @@ Presentalo come "museo-chiave" per ordinare l'intera Sardegna archeologica. La f
 ### Percorso narrativo breve
 
 **Fonti immagini/approfondimento:**
+
 - [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/833/)
 - [Fondazione Barumini](https://www.fondazionebarumini.it/area-archeologica-su-nuraxi/)
 - [MiC/UNESCO](https://unesco.cultura.gov.it/en/projects/su-nuraxi-di-barumini/)
@@ -421,6 +400,7 @@ In conclusione, Su Nuraxi è un sito chiave perché consente di raccontare la ci
 ### Percorso narrativo breve
 
 **Fonti immagini/approfondimento:**
+
 - [Ministero della Cultura](https://cultura.gov.it/luogo/museo-delle-statue-menhir)
 - [Comune di Laconi](https://www.comune.laconi.or.it/Luoghi?ID=3791)
 - [Sardegna Turismo](https://www.sardegnaturismo.it/it/esplora/menhir-museum-museo-della-statuaria-preistorica-sardegna)
@@ -444,6 +424,7 @@ In conclusione, il Menhir Museum di Laconi è importante perché mostra una Sard
 ### Percorso narrativo breve
 
 **Fonti immagini/approfondimento:**
+
 - [Antiquarium Turritano, sito ufficiale MiC](https://antiquariumportotorres.cultura.gov.it/it/)
 - [Ministero della Cultura](https://cultura.gov.it/luogo/museo-archeologico-nazionale-antiquarium-turritano-e-area-archeologica)
 - [Italia.it](https://www.italia.it/it/sardegna/porto-torres/luoghi-della-cultura/parco-archeologico-di-turris-libisonis)
@@ -465,19 +446,20 @@ In conclusione, Turris Libisonis è una testimonianza fondamentale della Sardegn
 ---
 
 ## Sintesi finale
+
 ### Ripasso attivo per la Sardegna
 
 ### Schema di memorizzazione rapido
 
-| Tema | Siti da collegare | Formula da ricordare |
-|---|---|---|
-| Prenuragico funerario | Anghelu Ruju, Montessu | case dei morti scavate nella roccia |
-| Megalitismo | Pranu Muttedu, Laconi | pietra verticale come segno e corpo |
-| Nuragico abitativo | La Prisgiona, Su Nuraxi | nuraghe come centro territoriale |
-| Nuragico funerario | Coddu Vecchiu, Monte Prama | antenati, memoria, identità |
-| Nuragico cultuale | Santa Cristina, Santa Vittoria | acqua, santuario, raduno |
-| Fenicio-punico-romano | Tharros, Nora, Monte Sirai, Turris | Sardegna dentro il Mediterraneo |
-| Museo-sintesi | Museo Archeologico Nazionale di Cagliari, Museo di Cabras | oggetti che spiegano i siti |
+| Tema                  | Siti da collegare                                         | Formula da ricordare                |
+| --------------------- | --------------------------------------------------------- | ----------------------------------- |
+| Prenuragico funerario | Anghelu Ruju, Montessu                                    | case dei morti scavate nella roccia |
+| Megalitismo           | Pranu Muttedu, Laconi                                     | pietra verticale come segno e corpo |
+| Nuragico abitativo    | La Prisgiona, Su Nuraxi                                   | nuraghe come centro territoriale    |
+| Nuragico funerario    | Coddu Vecchiu, Monte Prama                                | antenati, memoria, identità         |
+| Nuragico cultuale     | Santa Cristina, Santa Vittoria                            | acqua, santuario, raduno            |
+| Fenicio-punico-romano | Tharros, Nora, Monte Sirai, Turris                        | Sardegna dentro il Mediterraneo     |
+| Museo-sintesi         | Museo Archeologico Nazionale di Cagliari, Museo di Cabras | oggetti che spiegano i siti         |
 
 ### Domande guida
 
@@ -499,6 +481,7 @@ In conclusione, Turris Libisonis è una testimonianza fondamentale della Sardegn
 ---
 
 ## Fonti principali consultate
+
 - [Arzachena, La Prisgiona - Sardegna Cultura](https://www.sardegnacultura.it/articolo/arzachena-complesso-nuragico-la-prisgiona)
 - [Arzachena, Coddu Vecchiu - Sardegna Cultura](https://www.sardegnacultura.it/articolo/arzachena-tomba-di-giganti-di-coddu-ecchju)
 - [La Prisgiona - IDESE/MiC](https://idese.cultura.gov.it/place/la-prisgiona/)

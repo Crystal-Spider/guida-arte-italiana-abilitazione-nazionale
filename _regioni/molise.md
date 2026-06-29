@@ -7,16 +7,18 @@ nav_order: 11
 # Molise
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Molise. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
+Il Molise conserva un patrimonio compatto ma molto leggibile, legato a viabilità antica, paesaggi appenninici e archeologia romana. Saepinum permette di osservare con chiarezza il rapporto tra città, tratturi e territorio.
+
+|  N. | Voce                                                                  | Tipologia                     | Area                 | Descrizione                                                                                                               |
+| --: | --------------------------------------------------------------------- | ----------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino | Paesaggio o area archeologica | Territorio regionale | Il Parco Archeologico di Saepinum-Altilia si trova in località Altilia, nel comune di Sepino, in provincia di Campobasso. |
 
 ## Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino
 
 ![Veduta dell'area archeologica di Altilia-Saepinum](https://commons.wikimedia.org/wiki/Special:FilePath/Altilia-Sepino.JPG)
-*Veduta dell'area archeologica di Altilia-Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Altilia-Sepino.JPG).*
+_Veduta dell'area archeologica di Altilia-Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Altilia-Sepino.JPG)._
+
 ### Dati essenziali
 
 Il Parco Archeologico di Saepinum-Altilia si trova in **località Altilia**, nel comune di **Sepino**, in provincia di **Campobasso**. È uno dei siti archeologici più significativi del Molise perché conserva in modo leggibile la struttura di una città romana di fondovalle, nata in rapporto con un precedente insediamento sannitico e con i grandi percorsi della transumanza appenninica.
@@ -26,7 +28,7 @@ Il sito è particolarmente adatto a una scheda per guida turistica perché perme
 **Coordinate culturali da memorizzare:**
 
 - **Luogo:** Sepino, località Altilia, valle del Tammaro, ai piedi del Matese.
-- **Nome antico:** Saepinum; il nome è collegato alla radice latina *saepire*, "recintare", con riferimento al mondo pastorale e alla pratica della transumanza.
+- **Nome antico:** Saepinum; il nome è collegato alla radice latina _saepire_, "recintare", con riferimento al mondo pastorale e alla pratica della transumanza.
 - **Fase preromana:** centro sannitico fortificato nell'area montana di Terravecchia.
 - **Fase romana:** città di pianura costruita dopo la conquista romana del Sannio.
 - **Evento chiave:** espugnazione del centro sannitico da parte dei Romani nel 293 a.C., durante la terza guerra sannitica.
@@ -99,7 +101,8 @@ Il caso più evidente è il **teatro romano**, sulla cui cavea furono costruite 
 ### Cosa vedere e come raccontarlo
 
 ![Porta Bojano](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20Porta%20Bojano%201.jpg)
-*Porta Bojano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20Porta%20Bojano%201.jpg).*
+_Porta Bojano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20Porta%20Bojano%201.jpg)._
+
 #### Le mura e le porte
 
 Uno dei primi elementi da raccontare sono le **mura**. Esse non sono solo una difesa, ma anche una dichiarazione urbana: segnano il passaggio da territorio aperto a città, da paesaggio pastorale a spazio civico ordinato. La cinta muraria racchiude il nucleo romano e si apre attraverso porte monumentali che corrispondono agli assi viari principali.
@@ -148,7 +151,7 @@ Nel descrizione, il macellum può essere collegato al territorio: Saepinum nasce
 #### Il teatro romano
 
 ![Teatro romano di Saepinum](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20scorcio%20del%20teatro.jpg)
-*Teatro romano di Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20scorcio%20del%20teatro.jpg).*
+_Teatro romano di Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20scorcio%20del%20teatro.jpg)._
 Il **teatro romano** è uno degli elementi più suggestivi del sito. Va raccontato su due piani.
 
 Il primo piano è quello romano: il teatro è l'edificio dello spettacolo, della socialità e della rappresentazione pubblica. In una città romana, il teatro non è solo intrattenimento: è anche luogo di identità civica e di visibilità sociale.
@@ -370,11 +373,12 @@ Per leggere Saepinum in modo efficace, non conviene memorizzare solo un elenco. 
 ---
 
 ## Percorsi narrativi brevi
-### Percorso narrativo breve
->
-Buongiorno, oggi presento il Parco Archeologico di Saepinum-Altilia, situato in località Altilia, nel comune di Sepino, in provincia di Campobasso. Si tratta di uno dei siti archeologici più importanti del Molise, perché conserva in modo particolarmente leggibile l'impianto di una città romana sorta ai piedi del Matese, nella valle del Tammaro, in un'area storicamente legata alla transumanza e ai grandi percorsi pastorali dell'Italia appenninica.
 
-Per comprendere il sito bisogna partire dal paesaggio. Saepinum non nasce in un luogo casuale: si trova in un punto di incontro tra la montagna, il fondovalle e la viabilità antica. Il nome stesso di Sepino è stato collegato al verbo latino *saepire*, cioè "recintare", con riferimento al mondo pastorale. Questo tema della pastorizia e della transumanza è fondamentale, perché nell'area passava il tratturo Pescasseroli-Candela, una delle grandi direttrici percorse stagionalmente dalle greggi.
+### Percorso narrativo breve
+
+> Buongiorno, oggi presento il Parco Archeologico di Saepinum-Altilia, situato in località Altilia, nel comune di Sepino, in provincia di Campobasso. Si tratta di uno dei siti archeologici più importanti del Molise, perché conserva in modo particolarmente leggibile l'impianto di una città romana sorta ai piedi del Matese, nella valle del Tammaro, in un'area storicamente legata alla transumanza e ai grandi percorsi pastorali dell'Italia appenninica.
+
+Per comprendere il sito bisogna partire dal paesaggio. Saepinum non nasce in un luogo casuale: si trova in un punto di incontro tra la montagna, il fondovalle e la viabilità antica. Il nome stesso di Sepino è stato collegato al verbo latino _saepire_, cioè "recintare", con riferimento al mondo pastorale. Questo tema della pastorizia e della transumanza è fondamentale, perché nell'area passava il tratturo Pescasseroli-Candela, una delle grandi direttrici percorse stagionalmente dalle greggi.
 
 Prima della città romana esisteva un centro sannitico fortificato in altura, nell'area di Terravecchia. La posizione elevata rispondeva a esigenze di controllo e difesa del territorio. Nel 293 a.C., durante la terza guerra sannitica, il centro fu espugnato dai Romani. Dopo la conquista, il baricentro dell'insediamento si spostò verso il fondovalle, dove venne costruita la città romana di Saepinum. Questo passaggio dall'altura alla pianura è molto importante: racconta il processo di romanizzazione del Sannio, cioè la trasformazione di un territorio italico in uno spazio organizzato secondo forme urbane, amministrative e monumentali romane.
 
@@ -395,6 +399,7 @@ In conclusione, Saepinum-Altilia è un sito fondamentale perché racconta contem
 ---
 
 ## Sintesi finale
+
 ### Mini-sintesi finale
 
 ### Schema da ricordare
@@ -418,6 +423,7 @@ Saepinum-Altilia è uno dei principali siti archeologici del Molise. Si trova a 
 ---
 
 ## Fonti principali consultate
+
 - [Ministero della Cultura, scheda ufficiale: **Parco archeologico di Sepino - Area archeologica di Altilia-Saepinum**](https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum)
 - [Parco Archeologico di Sepino, sito istituzionale: **Chi siamo / Competenze / Contatti**](https://www.parcosepino.it/)
 - [Direzione regionale musei nazionali Molise, scheda: **Area archeologica di Altilia-Saepinum**](https://www.musei.molise.beniculturali.it/musei/area-archeologica-di-altilia-saepinum)

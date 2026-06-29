@@ -7,21 +7,23 @@ nav_order: 10
 # Marche
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Marche. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Grotte di Frasassi - Genga, Ancona | Paesaggio o area archeologica | Genga, Ancona | Scheda principale |
-| 2 | Palazzo Ducale di Urbino - Urbino, Pesaro e Urbino | Sito storico-artistico | Urbino, Pesaro e Urbino | Scheda principale |
-| 3 | Parco Nazionale dei Monti Sibillini - province di Macerata, Fermo, Ascoli Piceno | Paesaggio o area archeologica | province di Macerata, Fermo, Ascoli Piceno | Scheda principale |
-| 4 | Centro storico di Ascoli Piceno - Ascoli Piceno | Sito o tema | Ascoli Piceno | Scheda principale |
-| 5 | Rocca di Gradara - Gradara, Pesaro e Urbino | Sito storico-artistico | Gradara, Pesaro e Urbino | Scheda principale |
-| 6 | Santuario della Santa Casa di Loreto - Loreto, Ancona | Sito storico-artistico | Loreto, Ancona | Scheda principale |
+Le Marche sono una regione policentrica, fatta di città collinari, paesaggi appenninici, grotte, borghi e corti rinascimentali. Il percorso evidenzia il dialogo tra natura, architettura e cultura urbana diffusa.
+
+|  N. | Voce                                                                             | Tipologia                     | Area                                       | Descrizione                                                                                                                                                     |
+| --: | -------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Grotte di Frasassi - Genga, Ancona                                               | Paesaggio o area archeologica | Genga, Ancona                              | Le Grotte di Frasassi si trovano nel Comune di Genga, in provincia di Ancona, all'interno del contesto naturale della Gola della Rossa e di Frasassi.           |
+|   2 | Palazzo Ducale di Urbino - Urbino, Pesaro e Urbino                               | Sito storico-artistico        | Urbino, Pesaro e Urbino                    | Il Palazzo Ducale di Urbino è il monumento più rappresentativo della città e uno dei simboli del Rinascimento italiano.                                         |
+|   3 | Parco Nazionale dei Monti Sibillini - province di Macerata, Fermo, Ascoli Piceno | Paesaggio o area archeologica | province di Macerata, Fermo, Ascoli Piceno | Il Parco Nazionale dei Monti Sibillini si estende tra Marche e Umbria e interessa, per il versante marchigiano, le province di Macerata, Fermo e Ascoli Piceno. |
+|   4 | Centro storico di Ascoli Piceno - Ascoli Piceno                                  | Sito o tema                   | Ascoli Piceno                              | Il centro storico di Ascoli Piceno è uno dei più importanti complessi urbani delle Marche.                                                                      |
+|   5 | Rocca di Gradara - Gradara, Pesaro e Urbino                                      | Sito o tema                   | Gradara, Pesaro e Urbino                   | La Rocca di Gradara si trova nel borgo di Gradara, in provincia di Pesaro e Urbino, vicino al confine storico e geografico tra Marche e Romagna.                |
+|   6 | Santuario della Santa Casa di Loreto - Loreto, Ancona                            | Sito storico-artistico        | Loreto, Ancona                             | Il Santuario della Santa Casa di Loreto si trova a Loreto, in provincia di Ancona, su un'altura non lontana dalla costa adriatica.                              |
 
 ## Grotte di Frasassi - Genga, Ancona
 
 ![Grotte di Frasassi - Sala delle Candeline](https://commons.wikimedia.org/wiki/Special:FilePath/Grotte%20di%20Frasassi%2C%20Sala%20delle%20Candeline.jpg)
-*Grotte di Frasassi - Sala delle Candeline. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Grotte%20di%20Frasassi%2C%20Sala%20delle%20Candeline.jpg).*
+_Grotte di Frasassi - Sala delle Candeline. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Grotte%20di%20Frasassi%2C%20Sala%20delle%20Candeline.jpg)._
+
 ### Dati essenziali
 
 Le Grotte di Frasassi si trovano nel Comune di **Genga**, in provincia di Ancona, all'interno del contesto naturale della **Gola della Rossa e di Frasassi**. Sono uno dei principali complessi carsici visitabili in Italia e costituiscono un sito particolarmente adatto alla scheda perché permettono di intrecciare geologia, paesaggio, turismo naturalistico, tutela dell'ambiente e gestione della fruizione.
@@ -108,7 +110,8 @@ Le Grotte di Frasassi si trovano a Genga, in provincia di Ancona, e costituiscon
 ## Palazzo Ducale di Urbino - Urbino, Pesaro e Urbino
 
 ![Palazzo Ducale di Urbino](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Ducale%2C%20Urbino%20%28Marche%29%2001.jpg)
-*Palazzo Ducale di Urbino. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Ducale%2C%20Urbino%20%28Marche%29%2001.jpg).*
+_Palazzo Ducale di Urbino. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Ducale%2C%20Urbino%20%28Marche%29%2001.jpg)._
+
 ### Dati essenziali
 
 Il Palazzo Ducale di Urbino è il monumento più rappresentativo della città e uno dei simboli del Rinascimento italiano. È legato alla figura di **Federico da Montefeltro**, duca di Urbino, condottiero, politico, collezionista e mecenate. Il palazzo è oggi sede della **Galleria Nazionale delle Marche** e si inserisce nel contesto del centro storico di Urbino, riconosciuto come patrimonio mondiale UNESCO.
@@ -188,7 +191,8 @@ Il Palazzo Ducale di Urbino è uno dei massimi esempi di architettura rinascimen
 ## Parco Nazionale dei Monti Sibillini - province di Macerata, Fermo, Ascoli Piceno
 
 ![Monti Sibillini - Monte Vettore](https://commons.wikimedia.org/wiki/Special:FilePath/MT.Vettore%20%28Parco%20nazionale%20dei%20Monti%20Sibillini%29.jpg)
-*Monti Sibillini - Monte Vettore. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/MT.Vettore%20%28Parco%20nazionale%20dei%20Monti%20Sibillini%29.jpg).*
+_Monti Sibillini - Monte Vettore. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/MT.Vettore%20%28Parco%20nazionale%20dei%20Monti%20Sibillini%29.jpg)._
+
 ### Dati essenziali
 
 Il Parco Nazionale dei Monti Sibillini si estende tra **Marche e Umbria** e interessa, per il versante marchigiano, le province di Macerata, Fermo e Ascoli Piceno. Il parco è stato istituito nel 1993 e copre circa 70.000 ettari. Per la scheda è importante presentarlo come un sito in cui natura, paesaggio, biodiversità, storia locale e immaginario mitico si intrecciano.
@@ -264,7 +268,8 @@ Il Parco Nazionale dei Monti Sibillini si estende tra Marche e Umbria e tutela u
 ## Centro storico di Ascoli Piceno - Ascoli Piceno
 
 ![Piazza del Popolo, Ascoli Piceno](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20del%20Popolo%20%28Ascoli%20Piceno%29.jpg)
-*Piazza del Popolo, Ascoli Piceno. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20del%20Popolo%20%28Ascoli%20Piceno%29.jpg).*
+_Piazza del Popolo, Ascoli Piceno. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20del%20Popolo%20%28Ascoli%20Piceno%29.jpg)._
+
 ### Dati essenziali
 
 Il centro storico di Ascoli Piceno è uno dei più importanti complessi urbani delle Marche. La città è spesso associata al travertino, pietra locale che conferisce al centro una forte unità cromatica e materica. È conosciuta anche come "città delle cento torri", per la presenza storica di numerose torri gentilizie e campanarie.
@@ -337,7 +342,8 @@ Il centro storico di Ascoli Piceno è uno dei più significativi delle Marche ed
 ## Rocca di Gradara - Gradara, Pesaro e Urbino
 
 ![Rocca di Gradara](https://commons.wikimedia.org/wiki/Special:FilePath/Rocca%20di%20Gradara%20-%20facciata.jpg)
-*Rocca di Gradara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Rocca%20di%20Gradara%20-%20facciata.jpg).*
+_Rocca di Gradara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Rocca%20di%20Gradara%20-%20facciata.jpg)._
+
 ### Dati essenziali
 
 La Rocca di Gradara si trova nel borgo di Gradara, in provincia di Pesaro e Urbino, vicino al confine storico e geografico tra Marche e Romagna. È uno dei complessi fortificati più noti dell'Italia centrale e deve gran parte della sua fama anche al legame con la vicenda di **Paolo e Francesca**, resa immortale da Dante nel V canto dell'Inferno.
@@ -418,7 +424,8 @@ La Rocca di Gradara è uno dei più noti complessi fortificati delle Marche. Sit
 ## Santuario della Santa Casa di Loreto - Loreto, Ancona
 
 ![Basilica della Santa Casa di Loreto](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Pontificia%20della%20Santa%20Casa%20di%20Loreto.jpg)
-*Basilica della Santa Casa di Loreto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Pontificia%20della%20Santa%20Casa%20di%20Loreto.jpg).*
+_Basilica della Santa Casa di Loreto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Pontificia%20della%20Santa%20Casa%20di%20Loreto.jpg)._
+
 ### Dati essenziali
 
 Il Santuario della Santa Casa di Loreto si trova a Loreto, in provincia di Ancona, su un'altura non lontana dalla costa adriatica. È uno dei principali santuari mariani del mondo cattolico. Il cuore del complesso è la **Santa Casa**, custodita all'interno della basilica, che secondo la tradizione corrisponderebbe alla casa di Maria a Nazaret.
@@ -485,7 +492,9 @@ Con rispetto per il culto e precisione storica, distinguendo la tradizione devoz
 Il Santuario della Santa Casa di Loreto è uno dei principali luoghi di culto mariano del mondo cattolico. Si trova a Loreto, in provincia di Ancona, e custodisce al suo interno la Santa Casa, che secondo la tradizione corrisponde alla casa di Maria a Nazaret. La basilica, costruita tra Quattrocento e Cinquecento, nasce per proteggere questo nucleo devozionale e accogliere i pellegrini. Il sito ha quindi un valore religioso, artistico e turistico: è santuario, complesso monumentale, meta di pellegrinaggio e luogo ancora vivo di culto. Una guida deve presentarlo con equilibrio, rispettando la dimensione spirituale e spiegando al tempo stesso l'architettura, l'arte e la storia della devozione lauretana.
 
 ## Percorsi narrativi brevi
+
 ### Percorso narrativo breve
+
 Il Parco Archeologico di Urbisaglia, noto anche come **Urbs Salvia**, si trova nel territorio di Urbisaglia, in provincia di Macerata. È uno dei più importanti complessi archeologici romani delle Marche e si sviluppa su un'area di circa quaranta ettari, ai piedi dell'attuale centro medievale. Il suo valore principale consiste nella possibilità di leggere in modo abbastanza chiaro la struttura di una città romana, distribuita su più livelli e collegata al paesaggio della valle del Fiastra.
 
 Per introdurre il sito, partirei proprio dal rapporto tra città antica e città moderna. Urbs Salvia non è un rudere isolato, ma un luogo in cui il visitatore può osservare la continuità tra l'insediamento romano, il borgo medievale di Urbisaglia e il paesaggio agricolo marchigiano. Questo rende il sito particolarmente efficace dal punto di vista della visita guidata, perché permette di spiegare non solo i monumenti, ma anche la logica urbanistica di una città romana.
@@ -501,13 +510,16 @@ Dal punto di vista storico, Urbs Salvia consente inoltre di parlare della romani
 Concluderei la presentazione sottolineando che il Parco Archeologico di Urbisaglia è particolarmente adatto a un percorso narrativo perché obbliga la guida a "far vedere" la città antica anche dove le strutture sono parziali. La competenza non sta solo nel nominare teatro, foro, tempio e anfiteatro, ma nel ricostruire per il pubblico la logica complessiva dello spazio urbano romano: dove si svolgeva la vita politica, dove quella religiosa, dove lo spettacolo, dove il transito, e come tutto questo dialogava con il territorio. In questo senso, Urbs Salvia è uno dei migliori siti marchigiani per mostrare la capacità della guida di trasformare un'area archeologica in un racconto chiaro, ordinato e comprensibile.
 
 ---
+
 ### sezione - Percorso marchigiano del percorso integrativo: Parco Archeologico di Urbisaglia / Urbs Salvia
 
 Questa sezione è inclusa perché il percorso del percorso integrativo indica per le Marche il **Parco Archeologico di Urbisaglia**. Non è una scheda approfondita della scheda, perché il sito non compare tra i sei siti marchigiani del percorso principale; tuttavia, seguendo il criterio richiesto, viene fornito un esempio di presentazione di circa 5 minuti per i siti classificati come percorso narrativo.
 
 ![Anfiteatro di Urbs Salvia](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia.jpg)
-*Anfiteatro di Urbs Salvia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia.jpg).*
+_Anfiteatro di Urbs Salvia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia.jpg)._
+
 ## Sintesi finale
+
 ### Errori da evitare
 
 - Dire che le grotte sono state "costruite" dall'uomo: sono formazioni naturali.
@@ -577,19 +589,20 @@ Questa sezione è inclusa perché il percorso del percorso integrativo indica pe
 
 ---
 
-| Sito | 8 parole chiave da memorizzare |
-|---|---|
-| Grotte di Frasassi | Genga; carsismo; acqua; stalattiti; Abisso Ancona; 1971; percorso guidato; tutela. |
+| Sito                     | 8 parole chiave da memorizzare                                                                                  |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| Grotte di Frasassi       | Genga; carsismo; acqua; stalattiti; Abisso Ancona; 1971; percorso guidato; tutela.                              |
 | Palazzo Ducale di Urbino | Federico da Montefeltro; Rinascimento; corte; torricini; Cortile d'Onore; Studiolo; Galleria Nazionale; UNESCO. |
-| Monti Sibillini | Appennino; parco nazionale; Monte Vettore; biodiversità; Sibilla; borghi; escursionismo; fragilità. |
-| Ascoli Piceno | travertino; Piazza del Popolo; Piazza Arringo; Sant'Emidio; torri; città comunale; portici; tessuto urbano. |
-| Gradara | rocca; mura; Malatesta; Paolo e Francesca; Dante; confine; signoria; immaginario. |
-| Loreto | Santa Casa; Maria; tradizione; pellegrinaggio; basilica-fortezza; reliquia; marmo; culto vivo. |
-| Urbs Salvia | Urbisaglia; città romana; teatro; foro; criptoportico; Salus Augusta; anfiteatro; romanizzazione. |
+| Monti Sibillini          | Appennino; parco nazionale; Monte Vettore; biodiversità; Sibilla; borghi; escursionismo; fragilità.             |
+| Ascoli Piceno            | travertino; Piazza del Popolo; Piazza Arringo; Sant'Emidio; torri; città comunale; portici; tessuto urbano.     |
+| Gradara                  | rocca; mura; Malatesta; Paolo e Francesca; Dante; confine; signoria; immaginario.                               |
+| Loreto                   | Santa Casa; Maria; tradizione; pellegrinaggio; basilica-fortezza; reliquia; marmo; culto vivo.                  |
+| Urbs Salvia              | Urbisaglia; città romana; teatro; foro; criptoportico; Salus Augusta; anfiteatro; romanizzazione.               |
 
 ---
 
 ## Fonti principali consultate
+
 - [Sito ufficiale Grotte di Frasassi](https://www.frasassi.com/)
 - [Pagina ufficiale sulla scoperta](https://www.frasassi.com/GrotteScoperta.aspx?l=it)
 - [Percorso turistico](https://www.frasassi.com/PercorsoTuristicoSala200.aspx?l=it)

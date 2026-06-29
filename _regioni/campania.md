@@ -7,29 +7,31 @@ nav_order: 4
 # Campania
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Campania. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Certosa di San Giacomo e Grotta Azzurra - Capri | Sito storico-artistico | Capri | Scheda principale |
-| 2 | Costiera Amalfitana: Amalfi, Positano, Ravello | Paesaggio o area archeologica | Ravello | Scheda principale |
-| 3 | Parco Archeologico di Cuma - Pozzuoli | Paesaggio o area archeologica | Pozzuoli | Scheda principale |
-| 4 | Grotte di Pertosa-Auletta - Pertosa/Auletta | Paesaggio o area archeologica | Pertosa/Auletta | Scheda principale |
-| 5 | Reggia di Caserta - Caserta | Sito o tema | Caserta | Scheda principale |
-| 6 | Parco Archeologico di Ercolano - Ercolano | Paesaggio o area archeologica | Ercolano | Scheda principale |
-| 7 | Parco Archeologico di Paestum - Capaccio Paestum | Paesaggio o area archeologica | Capaccio Paestum | Scheda principale |
-| 8 | Parco Archeologico di Pompei - Pompei | Paesaggio o area archeologica | Pompei | Scheda principale |
-| 9 | Parco Nazionale del Vesuvio - Napoli | Paesaggio o area archeologica | Napoli | Scheda principale |
-| 10 | Centro storico monumentale di Napoli | Sito o tema | Vedi scheda | Scheda principale |
-| 11 | Museo Archeologico Nazionale di Napoli - MANN | Museo | MANN | Scheda principale |
-| 12 | Museo di Capodimonte - Napoli | Museo | Napoli | Scheda principale |
+La Campania concentra paesaggi costieri, aree vesuviane, grandi siti archeologici e musei di rilievo internazionale. Il percorso attraversa isole, città storiche, ville, parchi archeologici e collezioni nate dal rapporto fra natura e storia.
+
+|  N. | Voce                                             | Tipologia                     | Area             | Descrizione                                                                                                                                                           |
+| --: | ------------------------------------------------ | ----------------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Certosa di San Giacomo e Grotta Azzurra - Capri  | Sito storico-artistico        | Capri            | La voce del percorso accosta due luoghi molto diversi ma complementari: la Certosa di San Giacomo, principale testimonianza architettonica medievale e angioina de... |
+|   2 | Costiera Amalfitana: Amalfi, Positano, Ravello   | Sito o tema                   | Ravello          | La Costiera Amalfitana è un paesaggio culturale costiero della provincia di Salerno, riconosciuto dall'UNESCO nel 1997.                                               |
+|   3 | Parco Archeologico di Cuma - Pozzuoli            | Paesaggio o area archeologica | Pozzuoli         | Il Parco Archeologico di Cuma, nell'area dei Campi Flegrei, è uno dei luoghi chiave per raccontare la più antica colonizzazione greca in Occidente.                   |
+|   4 | Grotte di Pertosa-Auletta - Pertosa/Auletta      | Paesaggio o area archeologica | Pertosa/Auletta  | Le Grotte di Pertosa-Auletta si trovano nel massiccio degli Alburni, in provincia di Salerno.                                                                         |
+|   5 | Reggia di Caserta - Caserta                      | Sito storico-artistico        | Caserta          | La Reggia di Caserta è uno dei più grandi complessi reali europei del Settecento.                                                                                     |
+|   6 | Parco Archeologico di Ercolano - Ercolano        | Paesaggio o area archeologica | Ercolano         | Ercolano è una delle città vesuviane sepolte dall'eruzione del 79 d.C.                                                                                                |
+|   7 | Parco Archeologico di Paestum - Capaccio Paestum | Paesaggio o area archeologica | Capaccio Paestum | Paestum, antica Poseidonia, è uno dei siti più importanti della Magna Grecia.                                                                                         |
+|   8 | Parco Archeologico di Pompei - Pompei            | Paesaggio o area archeologica | Pompei           | Pompei è uno dei siti archeologici più celebri al mondo.                                                                                                              |
+|   9 | Parco Nazionale del Vesuvio - Napoli             | Paesaggio o area archeologica | Napoli           | Il Parco Nazionale del Vesuvio tutela uno dei vulcani più noti e studiati al mondo, simbolo della Campania e dell'interazione tra rischio naturale, paesaggio, arc... |
+|  10 | Centro storico monumentale di Napoli             | Sito o tema                   | Napoli           | La voce del percorso comprende un insieme molto ampio: Duomo, Cappella Sansevero, Quartieri Spagnoli, Napoli sotterranea e Palazzo Reale.                             |
+|  11 | Museo Archeologico Nazionale di Napoli - MANN    | Museo                         | MANN             | Il Museo Archeologico Nazionale di Napoli è uno dei principali musei archeologici al mondo.                                                                           |
+|  12 | Museo di Capodimonte - Napoli                    | Museo                         | Napoli           | Il Museo e Real Bosco di Capodimonte è una delle principali istituzioni museali italiane.                                                                             |
 
 ## Certosa di San Giacomo e Grotta Azzurra - Capri
 
 ![Certosa di San Giacomo, Capri](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa%20di%20San%20Giacomo%2C%20Capri.jpg)
-*Certosa di San Giacomo, Capri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa%20di%20San%20Giacomo%2C%20Capri.jpg).*
+_Certosa di San Giacomo, Capri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa%20di%20San%20Giacomo%2C%20Capri.jpg)._
 ![Grotta Azzurra, Capri](https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Grotto%2C%20Capri%2C%20IT.jpg)
-*Grotta Azzurra, Capri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Grotto%2C%20Capri%2C%20IT.jpg).*
+_Grotta Azzurra, Capri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Grotto%2C%20Capri%2C%20IT.jpg)._
+
 ### Dati essenziali
 
 La voce del percorso accosta due luoghi molto diversi ma complementari: la **Certosa di San Giacomo**, principale testimonianza architettonica medievale e angioina dell'isola, e la **Grotta Azzurra**, cavità marina celebre per il fenomeno luminoso dell'acqua blu e per la sua antica funzione di ninfeo romano. Per la spiegazione è utile presentarle insieme come due modi diversi di leggere Capri: da un lato la Capri monastica, angioina, silenziosa e monumentale; dall'altro la Capri romana, imperiale, mitizzata e paesaggistica.
@@ -46,7 +48,7 @@ Nella Certosa conviene richiamare tre elementi: il **chiostro piccolo**, più ra
 
 Per la Grotta Azzurra, invece, la visita è condizionata dal mare e dalla luce. La guida deve saper spiegare il fenomeno ottico senza ridurlo a effetto turistico: la colorazione azzurra deriva dall'ingresso della luce solare attraverso aperture sommerse e dalla rifrazione nell'acqua. Nella spiegazione è importante aggiungere il valore archeologico: non è solo una grotta "bella", ma un paesaggio naturale trasformato dai Romani in luogo di rappresentazione del potere e del mito.
 
-### Perche' e' importante
+### Perché è importante
 
 Questa scheda è utile per mostrare la capacità di collegare **paesaggio, archeologia, storia medievale e turismo culturale**. Capri non va presentata solo come località balneare o mondana, ma come isola stratificata: romana, medievale, moderna, letteraria e turistica. Una buona risposta deve evitare l'effetto cartolina e usare i due siti come esempi di lunga continuità di frequentazione.
 
@@ -70,7 +72,8 @@ Apri con un contrasto efficace: "A Capri il percorso chiede di tenere insieme un
 ## Costiera Amalfitana: Amalfi, Positano, Ravello
 
 ![Costiera Amalfitana](https://commons.wikimedia.org/wiki/Special:FilePath/Amalfi%20coast%20-%20panoramio%20%281%29.jpg)
-*Costiera Amalfitana. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Amalfi%20coast%20-%20panoramio%20%281%29.jpg).*
+_Costiera Amalfitana. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Amalfi%20coast%20-%20panoramio%20%281%29.jpg)._
+
 ### Dati essenziali
 
 La Costiera Amalfitana è un paesaggio culturale costiero della provincia di Salerno, riconosciuto dall'UNESCO nel 1997. Il percorso cita in particolare **Amalfi**, **Positano** e **Ravello**, tre centri che consentono di affrontare aspetti diversi: storia marittima e religiosa ad Amalfi, paesaggio verticale e insediamento costiero a Positano, cultura aristocratica, musicale e panoramica a Ravello.
@@ -91,7 +94,7 @@ Per **Positano**, concentrati su: insediamento a terrazze, chiesa di Santa Maria
 
 Per **Ravello**, concentrati su: posizione panoramica, Villa Rufolo, Villa Cimbrone, giardini, musica, dimensione aristocratica e letteraria del paesaggio.
 
-### Perche' e' importante
+### Perché è importante
 
 La Costiera è uno dei casi più utili per dimostrare che un sito turistico non è solo un insieme di monumenti, ma un **paesaggio culturale**. È importante usare parole come "terrazzamenti", "adattamento al territorio", "rapporto uomo-natura", "rete di borghi", "continuità storica". Il rischio è rispondere con un elenco di luoghi belli; la risposta ottima spiega perché quel paesaggio ha valore storico e culturale.
 
@@ -115,7 +118,8 @@ Usa la sequenza "Amalfi = storia marittima; Positano = paesaggio verticale; Rave
 ## Parco Archeologico di Cuma - Pozzuoli
 
 ![Antro della Sibilla, Cuma](https://commons.wikimedia.org/wiki/Special:FilePath/Cuma%20-%20Antro%20della%20Sibilla.JPG)
-*Antro della Sibilla, Cuma. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cuma%20-%20Antro%20della%20Sibilla.JPG).*
+_Antro della Sibilla, Cuma. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cuma%20-%20Antro%20della%20Sibilla.JPG)._
+
 ### Dati essenziali
 
 Il Parco Archeologico di Cuma, nell'area dei Campi Flegrei, è uno dei luoghi chiave per raccontare la più antica colonizzazione greca in Occidente. Cuma è tradizionalmente ricordata come una delle più antiche colonie greche dell'Italia meridionale e come punto di irradiazione culturale verso il mondo italico e romano. Il sito unisce archeologia, mito, paesaggio vulcanico e letteratura.
@@ -132,7 +136,7 @@ Il punto più noto è l'**Antro della Sibilla**, una lunga galleria scavata nel 
 
 Altri elementi da citare sono l'**acropoli**, i resti templari, le strutture difensive e il rapporto visivo con il paesaggio flegreo. Cuma è un sito da raccontare camminando in salita: l'esperienza fisica dell'accesso all'acropoli aiuta a comprendere la scelta insediativa, la funzione difensiva e il dominio sul mare.
 
-### Perche' e' importante
+### Perché è importante
 
 Cuma è perfetta per dimostrare padronanza dei collegamenti: colonizzazione greca, Magna Grecia, mito della Sibilla, Virgilio, Campi Flegrei, Roma. Una risposta efficace non deve limitarsi all'Antro, ma usare l'Antro come ingresso a una storia più ampia.
 
@@ -156,7 +160,8 @@ Formula chiave: "Cuma è un sito in cui la storia greca dell'Italia meridionale 
 ## Grotte di Pertosa-Auletta - Pertosa/Auletta
 
 ![Grotte di Pertosa](https://commons.wikimedia.org/wiki/Special:FilePath/PERTOSA%20%28Caves-2%29.JPG)
-*Grotte di Pertosa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/PERTOSA%20%28Caves-2%29.JPG).*
+_Grotte di Pertosa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/PERTOSA%20%28Caves-2%29.JPG)._
+
 ### Dati essenziali
 
 Le Grotte di Pertosa-Auletta si trovano nel massiccio degli Alburni, in provincia di Salerno. Sono un sito speleologico e archeologico di grande interesse, noto per la presenza del fiume sotterraneo Negro e per le testimonianze di frequentazione umana antica, compresi resti di un villaggio palafitticolo dell'età del Bronzo.
@@ -177,7 +182,7 @@ La visita si presta a un racconto sensoriale: buio, acqua, roccia, temperatura, 
 
 Il fiume Negro è un elemento memorabile: consente di spiegare che non tutte le grotte visitabili sono uguali e che qui l'acqua non è solo decorativa, ma struttura l'esperienza della visita.
 
-### Perche' e' importante
+### Perché è importante
 
 Le Grotte di Pertosa-Auletta sono utili per dimostrare capacità di trattare un sito non monumentale in senso classico. Non si tratta di un palazzo o di un tempio, ma di un paesaggio sotterraneo in cui geologia, archeologia e didattica ambientale si intrecciano.
 
@@ -201,7 +206,8 @@ Non iniziare con "sono belle grotte". Inizia con: "Pertosa-Auletta è un sito in
 ## Reggia di Caserta - Caserta
 
 ![Reggia di Caserta](https://commons.wikimedia.org/wiki/Special:FilePath/Reggia%20di%20Caserta.jpg)
-*Reggia di Caserta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Reggia%20di%20Caserta.jpg).*
+_Reggia di Caserta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Reggia%20di%20Caserta.jpg)._
+
 ### Dati essenziali
 
 La Reggia di Caserta è uno dei più grandi complessi reali europei del Settecento. Fu voluta da Carlo di Borbone e progettata da Luigi Vanvitelli. Il complesso comprende il palazzo, il parco, il giardino all'italiana, il giardino inglese, il sistema delle fontane, l'Acquedotto Carolino e il collegamento con il complesso di San Leucio. È patrimonio mondiale UNESCO dal 1997 insieme al Parco, all'Acquedotto Carolino e al complesso di San Leucio.
@@ -220,7 +226,7 @@ Il **Parco Reale** è indispensabile. La lunga prospettiva delle vasche e delle 
 
 Il collegamento con **San Leucio** consente di parlare del riformismo borbonico e della produzione serica. In questo modo la Reggia si allarga da monumento a sistema territoriale.
 
-### Perche' e' importante
+### Perché è importante
 
 La Reggia di Caserta permette di dimostrare competenza su architettura, storia politica, paesaggio, urbanistica e UNESCO. Una risposta debole dice: "è una grande reggia borbonica". Una risposta forte dice: "è un progetto di capitale e di territorio, in cui il potere monarchico si esprime attraverso architettura, acqua, assialità e controllo produttivo".
 
@@ -261,7 +267,8 @@ Sequenza consigliata: **Carlo di Borbone → Vanvitelli → palazzo → parco/ac
 ## Parco Archeologico di Ercolano - Ercolano
 
 ![Ercolano](https://commons.wikimedia.org/wiki/Special:FilePath/Herculaneum%27s%20ruins%20-%20panoramio.jpg)
-*Ercolano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Herculaneum%27s%20ruins%20-%20panoramio.jpg).*
+_Ercolano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Herculaneum%27s%20ruins%20-%20panoramio.jpg)._
+
 ### Dati essenziali
 
 Ercolano è una delle città vesuviane sepolte dall'eruzione del 79 d.C. insieme a Pompei, Stabia e Oplontis. Il sito è patrimonio UNESCO all'interno del bene seriale "Aree archeologiche di Pompei, Ercolano e Torre Annunziata". Rispetto a Pompei, Ercolano è più piccola ma presenta condizioni di conservazione eccezionali, soprattutto per materiali organici, strutture lignee e piani superiori degli edifici.
@@ -278,7 +285,7 @@ Nel parco è importante spiegare l'organizzazione urbana: strade, case, botteghe
 
 Rispetto a Pompei, Ercolano deve essere presentata come sito più compatto ma più intimo. La conservazione dei materiali organici consente una narrazione quasi domestica: porte, travi, mobili e oggetti permettono di percepire la città non solo come rovina, ma come ambiente abitato.
 
-### Perche' e' importante
+### Perché è importante
 
 Ercolano è utile per confrontare metodi di seppellimento, conservazione e scavo. Una buona risposta deve evitare di dire semplicemente "è come Pompei". Ercolano va distinta: è una città più piccola, con diversa dinamica di seppellimento e con conservazione eccezionale di elementi organici.
 
@@ -302,7 +309,8 @@ Fai sempre un confronto con Pompei, ma non trasformare Ercolano in "Pompei minor
 ## Parco Archeologico di Paestum - Capaccio Paestum
 
 ![Templi di Paestum](https://commons.wikimedia.org/wiki/Special:FilePath/Templos%20Paestum.%2001.JPG)
-*Templi di Paestum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Templos%20Paestum.%2001.JPG).*
+_Templi di Paestum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Templos%20Paestum.%2001.JPG)._
+
 ### Dati essenziali
 
 Paestum, antica Poseidonia, è uno dei siti più importanti della Magna Grecia. Il parco archeologico conserva tre grandi templi dorici, mura, spazi pubblici e resti della città antica. Il sito è collegato al patrimonio UNESCO del Cilento e Vallo di Diano con Paestum, Velia e la Certosa di Padula.
@@ -319,7 +327,7 @@ Il percorso deve partire dai templi, ma non fermarsi lì. I templi permettono di
 
 Poi bisogna passare alla città: foro romano, mura, abitato, strade, necropoli e museo. Il Museo Archeologico Nazionale di Paestum è essenziale per comprendere i corredi funerari e la pittura tombale, soprattutto la celebre Tomba del Tuffatore, capolavoro della pittura greca in Italia meridionale.
 
-### Perche' e' importante
+### Perché è importante
 
 Paestum consente di collegare Magna Grecia, architettura templare, colonizzazione, romanizzazione, archeologia funeraria e paesaggio del Cilento. Una risposta forte deve mostrare che i templi non sono isolati: sono parte di una città, di un territorio agricolo, di rotte mediterranee e di una lunga storia di trasformazioni.
 
@@ -343,7 +351,8 @@ Non dire "i tre templi greci" e basta. Aggiungi sempre: "sono il punto di parten
 ## Parco Archeologico di Pompei - Pompei
 
 ![Foro di Pompei e Vesuvio](https://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20Forum%20%26%20Mt.%20Vesuvius%20%289809458366%29.jpg)
-*Foro di Pompei e Vesuvio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20Forum%20%26%20Mt.%20Vesuvius%20%289809458366%29.jpg).*
+_Foro di Pompei e Vesuvio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20Forum%20%26%20Mt.%20Vesuvius%20%289809458366%29.jpg)._
+
 ### Dati essenziali
 
 Pompei è uno dei siti archeologici più celebri al mondo. La città fu sepolta dall'eruzione del Vesuvio del 79 d.C. e conserva un'immagine eccezionale della vita urbana romana. Il Parco Archeologico di Pompei comprende un'area molto vasta, con edifici pubblici, case private, botteghe, terme, teatri, anfiteatro, necropoli, pitture, mosaici, iscrizioni e calchi delle vittime.
@@ -365,7 +374,7 @@ Il percorso di base può seguire quattro nuclei:
 
 I **calchi** sono un elemento emotivamente potente, ma vanno trattati con rigore: non sono "statue", bensì impronte lasciate dai corpi nel deposito vulcanico, riempite con gesso secondo una tecnica messa a punto nell'Ottocento. Sono strumenti di memoria, ma anche documenti archeologici.
 
-### Perche' e' importante
+### Perché è importante
 
 Pompei è un sito su cui è facile cadere nel generico. Una risposta da guida deve selezionare: urbanistica, vita quotidiana, eruzione, storia degli scavi, pittura parietale, rapporto con il MANN. È fondamentale collegare Pompei al Museo Archeologico Nazionale di Napoli, dove sono conservati molti reperti storicamente provenienti dagli scavi vesuviani.
 
@@ -389,7 +398,8 @@ Usa una struttura ordinata: **città viva → terremoto del 62 → eruzione del 
 ## Parco Nazionale del Vesuvio - Napoli
 
 ![Vesuvio](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20nazionale%20vesuvio.jpg)
-*Vesuvio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20nazionale%20vesuvio.jpg).*
+_Vesuvio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20nazionale%20vesuvio.jpg)._
+
 ### Dati essenziali
 
 Il Parco Nazionale del Vesuvio tutela uno dei vulcani più noti e studiati al mondo, simbolo della Campania e dell'interazione tra rischio naturale, paesaggio, archeologia e densità urbana. Il Vesuvio è legato in modo indissolubile alle città sepolte del 79 d.C., ma va studiato anche come ambiente naturale e geologico autonomo.
@@ -406,7 +416,7 @@ Il percorso più noto è quello del **Gran Cono**, che consente di raggiungere i
 
 Bisogna anche ricordare la biodiversità del parco: il Vesuvio non è solo cratere, ma mosaico di ambienti, pinete, macchia mediterranea, aree agricole e colate colonizzate dalla vegetazione. Il paesaggio vesuviano è culturale oltre che naturale, perché comprende viticoltura, insediamenti storici e memoria delle eruzioni.
 
-### Perche' e' importante
+### Perché è importante
 
 Il Vesuvio è un sito trasversale: collega geologia, Pompei, Ercolano, paesaggio, rischio, turismo e identità campana. Una risposta efficace deve tenere insieme scienza e cultura.
 
@@ -430,7 +440,8 @@ Evita "vulcano spento": il Vesuvio è quiescente, non estinto. Questa precisione
 ## Centro storico monumentale di Napoli
 
 ![Centro storico di Napoli](https://commons.wikimedia.org/wiki/Special:FilePath/NapoliSpaccanapoli.jpg)
-*Centro storico di Napoli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/NapoliSpaccanapoli.jpg).*
+_Centro storico di Napoli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/NapoliSpaccanapoli.jpg)._
+
 ### Dati essenziali
 
 La voce del percorso comprende un insieme molto ampio: **Duomo**, **Cappella Sansevero**, **Quartieri Spagnoli**, **Napoli sotterranea** e **Palazzo Reale**. Il centro storico di Napoli è patrimonio UNESCO e rappresenta una delle stratificazioni urbane più dense del Mediterraneo, dalla fondazione greca di Neapolis fino alla città vicereale, borbonica e contemporanea.
@@ -461,7 +472,7 @@ Napoli sotterranea permette di leggere la città sotto la città: cave di tufo d
 
 Palazzo Reale, fondato nel 1600 come palazzo destinato al re di Spagna Filippo III, rappresenta la Napoli del potere vicereale e poi borbonico. L'Appartamento di Etichetta, il Teatro di Corte, gli scaloni, le sale di rappresentanza e il rapporto con Piazza del Plebiscito permettono di collegare il palazzo alla storia politica della città.
 
-### Perche' e' importante
+### Perché è importante
 
 Questa scheda richiede capacità di sintesi. Bisogna costruire un itinerario mentale: **Napoli antica e cristiana nel Duomo; Napoli aristocratica e simbolica nella Cappella Sansevero; Napoli vicereale e popolare nei Quartieri Spagnoli; Napoli stratificata nel sottosuolo; Napoli del potere monarchico nel Palazzo Reale**.
 
@@ -486,7 +497,8 @@ Non fare un elenco. Usa la parola "stratificazione" come chiave. È la parola pi
 ## Museo Archeologico Nazionale di Napoli - MANN
 
 ![MANN, Napoli](https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20Nazionale.jpg)
-*MANN, Napoli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20Nazionale.jpg).*
+_MANN, Napoli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20Nazionale.jpg)._
+
 ### Dati essenziali
 
 Il Museo Archeologico Nazionale di Napoli è uno dei principali musei archeologici al mondo. Per la voce di riferimento interessano soprattutto quattro nuclei: **Collezione Farnese**, **Sezione Egizia**, **Sezione Magna Grecia** e **Sezione Pompeiana**. Il MANN è indispensabile per comprendere il rapporto tra scavi vesuviani, collezionismo borbonico e nascita dell'archeologia moderna.
@@ -527,7 +539,8 @@ Per il MANN usa la formula: "museo del territorio e museo del collezionismo". È
 ## Museo di Capodimonte - Napoli
 
 ![Museo di Capodimonte](https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20Palazzo%20Reale%20di%20Capodimonte.jpg)
-*Museo di Capodimonte. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20Palazzo%20Reale%20di%20Capodimonte.jpg).*
+_Museo di Capodimonte. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20Palazzo%20Reale%20di%20Capodimonte.jpg)._
+
 ### Dati essenziali
 
 Il Museo e Real Bosco di Capodimonte è una delle principali istituzioni museali italiane. Il percorso richiede in particolare: **dipinti di Tiziano, Raffaello e Caravaggio**, **Appartamenti Reali** e **Collezione d'Arte Contemporanea**. Il museo nasce in rapporto alla residenza borbonica e alla collezione Farnese, ma si sviluppa come museo di arte antica, moderna e contemporanea.
@@ -568,13 +581,16 @@ Non presentarlo come "un museo con quadri famosi". Presentalo come **reggia, pin
 ---
 
 ## Sintesi finale
+
 ### Collegamenti utili
+
 - **Vesuvio - Pompei - Ercolano - MANN**: eruzione, città sepolte, scavi, reperti musealizzati.
 - **Cuma - Napoli - MANN**: presenza greca, Campi Flegrei, colonizzazione, Magna Grecia.
 - **Paestum - Cilento - Magna Grecia**: templi dorici, paesaggio culturale, museo archeologico.
 - **Reggia di Caserta - Palazzo Reale di Napoli - Capodimonte**: residenze, potere monarchico, Borbone.
 - **Costiera Amalfitana - Capri**: paesaggio costiero, turismo culturale, Grand Tour, rapporto uomo-natura.
 - **Napoli centro storico - Napoli sotterranea**: stratificazione urbana sopra e sotto il suolo.
+
 ### Errori da evitare
 
 - Dire che il Vesuvio è spento: è quiescente, non estinto.

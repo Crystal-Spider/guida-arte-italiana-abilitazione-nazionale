@@ -7,24 +7,26 @@ nav_order: 18
 # Umbria
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Umbria. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Assisi - Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Sito storico-artistico | Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Scheda principale |
-| 2 | Perugia - Cattedrale di San Lorenzo | Sito storico-artistico | Cattedrale di San Lorenzo | Scheda principale |
-| 3 | Terni - Parco Archeologico di Carsulae | Paesaggio o area archeologica | Parco Archeologico di Carsulae | Scheda principale |
-| 4 | Orvieto - Duomo di Orvieto | Sito storico-artistico | Duomo di Orvieto | Scheda principale |
-| 5 | Terni - Cascate delle Marmore | Sito o tema | Cascate delle Marmore | Scheda principale |
+L'Umbria è una regione interna, scandita da città medievali, luoghi francescani, siti romani e paesaggi d'acqua. Le schede mettono in rapporto spiritualita', architettura, pittura e territorio appenninico.
+
+|  N. | Voce                                                                                                                  | Tipologia                     | Area                                                                                                         | Descrizione                                                                                                                                                           |
+| --: | --------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Assisi - Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Sito storico-artistico        | Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Il sito richiesto dalil percorso non coincide con una singola chiesa, ma con un sistema francescano articolato tra il centro storico di Assisi e la pianura sottos... |
+|   2 | Perugia - Cattedrale di San Lorenzo                                                                                   | Sito storico-artistico        | Cattedrale di San Lorenzo                                                                                    | La Cattedrale di San Lorenzo si trova nel cuore di Perugia, affacciata su Piazza IV Novembre, accanto ad alcuni dei principali simboli civici della città, come Pa... |
+|   3 | Terni - Parco Archeologico di Carsulae                                                                                | Paesaggio o area archeologica | Parco Archeologico di Carsulae                                                                               | Carsulae si trova nel territorio di Terni, in posizione strategica lungo il tracciato della Via Flaminia.                                                             |
+|   4 | Orvieto - Duomo di Orvieto                                                                                            | Sito storico-artistico        | Duomo di Orvieto                                                                                             | Il Duomo di Orvieto, dedicato a Santa Maria Assunta, sorge sul pianoro tufaceo della città.                                                                           |
+|   5 | Terni - Cascate delle Marmore                                                                                         | Sito o tema                   | Cascate delle Marmore                                                                                        | Le Cascate delle Marmore si trovano nel territorio di Terni, nel punto in cui il fiume Velino precipita verso il fiume Nera.                                          |
 
 ## Assisi - Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola
 
 ![Basilica di San Francesco d'Assisi](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Francesco%20Assisi.jpg)
-*Basilica di San Francesco d'Assisi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Francesco%20Assisi.jpg).*
+_Basilica di San Francesco d'Assisi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Francesco%20Assisi.jpg)._
 ![Basilica di Santa Chiara](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Chiara%20Assisi.jpg)
-*Basilica di Santa Chiara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Chiara%20Assisi.jpg).*
+_Basilica di Santa Chiara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Chiara%20Assisi.jpg)._
 ![Porziuncola](https://commons.wikimedia.org/wiki/Special:FilePath/Portiuncula.jpg)
-*Porziuncola. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Portiuncula.jpg).*
+_Porziuncola. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Portiuncula.jpg)._
+
 ### Dati essenziali
 
 Il sito richiesto dalil percorso non coincide con una singola chiesa, ma con un **sistema francescano** articolato tra il centro storico di Assisi e la pianura sottostante. I tre poli principali sono:
@@ -92,7 +94,7 @@ Santa Chiara; Clarisse; San Giorgio; San Damiano; Crocifisso; povertà; clausura
 
 La Basilica di Santa Maria degli Angeli si trova nella piana di Assisi. La sua costruzione, promossa da papa Pio V, si sviluppa tra il 1569 e il 1679, con lo scopo di custodire i luoghi più sacri della memoria francescana: la Porziuncola, la Cappella del Transito e il Roseto. Il progetto originario è legato a Galeazzo Alessi e risponde all'esigenza di accogliere un numero crescente di pellegrini.
 
-La **Porziuncola** è una piccola chiesa dedicata a Santa Maria degli Angeli. Il suo nome deriva da *portiuncula*, "piccola porzione" di terra. È fondamentale perché rappresenta il luogo in cui Francesco raccoglie la prima comunità dei frati e consolida l'identità dell'ordine. La grande basilica tardo-rinascimentale/barocca che la ingloba produce un contrasto visivo e concettuale molto efficace da spiegare: una piccola cappella povera, cuore spirituale del francescanesimo, è custodita dentro un edificio monumentale, costruito per governare il flusso del pellegrinaggio e per proteggere la memoria.
+La **Porziuncola** è una piccola chiesa dedicata a Santa Maria degli Angeli. Il suo nome deriva da _portiuncula_, "piccola porzione" di terra. È fondamentale perché rappresenta il luogo in cui Francesco raccoglie la prima comunità dei frati e consolida l'identità dell'ordine. La grande basilica tardo-rinascimentale/barocca che la ingloba produce un contrasto visivo e concettuale molto efficace da spiegare: una piccola cappella povera, cuore spirituale del francescanesimo, è custodita dentro un edificio monumentale, costruito per governare il flusso del pellegrinaggio e per proteggere la memoria.
 
 #### Cosa osservare e spiegare
 
@@ -147,14 +149,15 @@ Il complesso francescano di Assisi è uno dei luoghi fondamentali della spiritua
 
 ### Consigli specifici di lettura
 
-Per Assisi è fondamentale evitare l'elenco di chiese. Devi invece mostrare il sistema: **San Francesco = memoria e narrazione universale; Santa Chiara = spiritualità clariana e Crocifisso di San Damiano; Porziuncola = origine povera e pellegrinaggio**. Una buona risposta deve usare almeno tre parole: *pellegrinaggio*, *francescanesimo*, *narrazione visiva*.
+Per Assisi è fondamentale evitare l'elenco di chiese. Devi invece mostrare il sistema: **San Francesco = memoria e narrazione universale; Santa Chiara = spiritualità clariana e Crocifisso di San Damiano; Porziuncola = origine povera e pellegrinaggio**. Una buona risposta deve usare almeno tre parole: _pellegrinaggio_, _francescanesimo_, _narrazione visiva_.
 
 ---
 
 ## Perugia - Cattedrale di San Lorenzo
 
 ![Cattedrale di San Lorenzo, Perugia](https://commons.wikimedia.org/wiki/Special:FilePath/Perugia%20-%20Cattedrale%20di%20San%20Lorenzo.jpeg)
-*Cattedrale di San Lorenzo, Perugia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Perugia%20-%20Cattedrale%20di%20San%20Lorenzo.jpeg).*
+_Cattedrale di San Lorenzo, Perugia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Perugia%20-%20Cattedrale%20di%20San%20Lorenzo.jpeg)._
+
 ### Dati essenziali
 
 La Cattedrale di San Lorenzo si trova nel cuore di Perugia, affacciata su Piazza IV Novembre, accanto ad alcuni dei principali simboli civici della città, come Palazzo dei Priori e la Fontana Maggiore. Questo dato è essenziale per la spiegazione: la cattedrale non va letta solo come edificio religioso, ma come parte del centro politico, civile e monumentale della Perugia medievale.
@@ -196,7 +199,8 @@ Durante una risposta descrittiva o una visita, conviene strutturare la spiegazio
 ## Terni - Parco Archeologico di Carsulae
 
 ![Parco Archeologico di Carsulae](https://commons.wikimedia.org/wiki/Special:FilePath/Carsulae.jpg)
-*Parco Archeologico di Carsulae. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Carsulae.jpg).*
+_Parco Archeologico di Carsulae. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Carsulae.jpg)._
+
 ### Dati essenziali
 
 Carsulae si trova nel territorio di Terni, in posizione strategica lungo il tracciato della **Via Flaminia**. Questo è il punto da cui partire sempre: Carsulae nasce e si sviluppa in rapporto alla grande viabilità romana. Non è una città casuale, ma un centro legato ai movimenti di persone, merci, eserciti e idee tra Roma e l'Italia centro-settentrionale.
@@ -252,7 +256,8 @@ Una risposta efficace su Carsulae deve essere costruita come una visita lungo la
 ## Orvieto - Duomo di Orvieto
 
 ![Duomo di Orvieto](https://commons.wikimedia.org/wiki/Special:FilePath/Duomo%20di%20Orvieto.jpg)
-*Duomo di Orvieto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Duomo%20di%20Orvieto.jpg).*
+_Duomo di Orvieto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Duomo%20di%20Orvieto.jpg)._
+
 ### Dati essenziali
 
 Il Duomo di Orvieto, dedicato a Santa Maria Assunta, sorge sul pianoro tufaceo della città. È uno dei monumenti più celebri del gotico italiano e uno dei migliori esempi di come una cattedrale possa funzionare come macchina visiva, teologica e civica.
@@ -309,7 +314,8 @@ Una buona esposizione sul Duomo di Orvieto può seguire questo ordine:
 ## Terni - Cascate delle Marmore
 
 ![Cascata delle Marmore](https://commons.wikimedia.org/wiki/Special:FilePath/Cascata%20delle%20Marmore.jpg)
-*Cascata delle Marmore. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cascata%20delle%20Marmore.jpg).*
+_Cascata delle Marmore. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cascata%20delle%20Marmore.jpg)._
+
 ### Dati essenziali
 
 Le Cascate delle Marmore si trovano nel territorio di Terni, nel punto in cui il fiume Velino precipita verso il fiume Nera. Sono tra le cascate artificiali più alte d'Europa, con un dislivello complessivo di circa 165 metri, articolato in tre salti.
@@ -352,6 +358,7 @@ Una buona esposizione può seguire questo ordine:
 7. rapporto contemporaneo tra natura, turismo e sostenibilità.
 
 ## Sintesi finale
+
 ### Parole chiave
 
 Perugia comunale; Piazza IV Novembre; San Lorenzo; cattedrale urbana; incompiutezza; stratificazione; Santo Anello; reliquia; identità civica; gotico italiano.
@@ -463,7 +470,7 @@ Le Cascate delle Marmore si trovano nel territorio di Terni e sono formate dalla
 
 ### Consigli specifici di lettura
 
-Per Marmore devi evitare l'errore più comune: trattarla come semplice sito naturale. La chiave è **artificio**. Memorizza: *Velino, Nera, 165 metri, tre salti, 271 a.C., canale Curiano, bonifica romana, sublime*. Una risposta forte deve mostrare che sai leggere il paesaggio come prodotto storico.
+Per Marmore devi evitare l'errore più comune: trattarla come semplice sito naturale. La chiave è **artificio**. Memorizza: _Velino, Nera, 165 metri, tre salti, 271 a.C., canale Curiano, bonifica romana, sublime_. Una risposta forte deve mostrare che sai leggere il paesaggio come prodotto storico.
 
 ---
 
@@ -499,6 +506,7 @@ Per Marmore devi evitare l'errore più comune: trattarla come semplice sito natu
 ---
 
 ## Fonti principali consultate
+
 - [UNESCO Italia, "Assisi, la Basilica di San Francesco e altri siti Francescani"](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/assisi-la-basilica-di-san-francesco-e-altri-siti-francescani/)
 - [UNESCO World Heritage Centre, "Assisi, the Basilica of San Francesco and Other Franciscan Sites"](https://whc.unesco.org/en/list/990/)
 - [Basilica di San Francesco in Assisi, sito ufficiale](https://www.sanfrancescoassisi.org/)

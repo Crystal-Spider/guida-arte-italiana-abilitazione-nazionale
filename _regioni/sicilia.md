@@ -7,30 +7,32 @@ nav_order: 15
 # Sicilia
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Sicilia. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Duomo e Fontana dell'Elefante - Catania | Sito storico-artistico | Catania | Scheda principale |
-| 2 | Centro storico di Modica | Sito o tema | Vedi scheda | Scheda principale |
-| 3 | Centro storico di Noto | Sito o tema | Vedi scheda | Scheda principale |
-| 4 | Palermo arabo-normanna e Cattedrali di Cefalù e Monreale | Museo | Vedi scheda | Scheda principale |
-| 5 | Parco Archeologico della Neapolis e Necropoli - Siracusa | Paesaggio o area archeologica | Siracusa | Scheda principale |
-| 6 | Parco dell'Etna | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 7 | Tempio e Teatro di Segesta | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 8 | Parco Archeologico di Selinunte | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 9 | Teatro Greco di Taormina | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 10 | Valle dei Templi - Agrigento | Paesaggio o area archeologica | Agrigento | Scheda principale |
-| 11 | Villa Romana del Casale - Piazza Armerina | Sito o tema | Piazza Armerina | Scheda principale |
-| 12 | Museo Archeologico Regionale "Paolo Orsi" - Siracusa | Museo | Siracusa | Scheda principale |
+La Sicilia è un crocevia mediterraneo in cui mondo greco, romano, bizantino, islamico, normanno e barocco si sovrappongono. Il percorso attraversa città, templi, vulcani, ville, musei e paesaggi culturali.
+
+|  N. | Voce                                                     | Tipologia                     | Area                 | Descrizione                                                                                                                                                           |
+| --: | -------------------------------------------------------- | ----------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Duomo e Fontana dell'Elefante - Catania                  | Sito storico-artistico        | Catania              | Il sito da preparare non è soltanto un edificio religioso, ma un vero nodo urbano: Piazza del Duomo di Catania, la Cattedrale di Sant'Agata e la Fontana dell'Elef... |
+|   2 | Centro storico di Modica                                 | Sito o tema                   | Territorio regionale | Modica è uno dei centri più significativi del barocco della Sicilia sud-orientale e una componente del sito UNESCO "Città tardo barocche della Val di Noto".          |
+|   3 | Centro storico di Noto                                   | Sito o tema                   | Territorio regionale | Noto è uno dei casi più chiari e didatticamente più efficaci per spiegare il barocco siciliano.                                                                       |
+|   4 | Palermo arabo-normanna e Cattedrali di Cefalù e Monreale | Museo                         | Palermo              | Questo sito è uno dei capitoli più importanti dell'intera Sicilia perché racconta una stagione unica del Medioevo mediterraneo: il regno normanno di Sicilia, in p... |
+|   5 | Parco Archeologico della Neapolis e Necropoli - Siracusa | Paesaggio o area archeologica | Siracusa             | Il Parco archeologico della Neapolis è uno dei luoghi essenziali per comprendere Siracusa antica.                                                                     |
+|   6 | Parco dell'Etna                                          | Paesaggio o area archeologica | Territorio regionale | Il Parco dell'Etna è un sito naturale e paesaggistico di importanza eccezionale.                                                                                      |
+|   7 | Tempio e Teatro di Segesta                               | Sito o tema                   | Territorio regionale | Segesta è uno dei siti archeologici più suggestivi della Sicilia occidentale.                                                                                         |
+|   8 | Parco Archeologico di Selinunte                          | Paesaggio o area archeologica | Territorio regionale | Selinunte è uno dei più grandi e importanti siti archeologici del Mediterraneo.                                                                                       |
+|   9 | Teatro Greco di Taormina                                 | Sito o tema                   | Territorio regionale | Il Teatro antico di Taormina è uno dei monumenti più celebri della Sicilia, noto per la sua architettura e per il rapporto spettacolare con il paesaggio: dal teat... |
+|  10 | Valle dei Templi - Agrigento                             | Sito o tema                   | Agrigento            | La Valle dei Templi è il cuore dell'Area archeologica di Agrigento, patrimonio UNESCO dal 1997.                                                                       |
+|  11 | Villa Romana del Casale - Piazza Armerina                | Sito storico-artistico        | Piazza Armerina      | La Villa Romana del Casale, presso Piazza Armerina, è uno dei massimi esempi di villa tardoantica nel mondo romano ed è patrimonio UNESCO dal 1997.                   |
+|  12 | Museo Archeologico Regionale "Paolo Orsi" - Siracusa     | Museo                         | Siracusa             | Il Museo Archeologico Regionale "Paolo Orsi" di Siracusa è uno dei principali musei archeologici italiani per la conoscenza della Sicilia orientale.                  |
 
 ## Duomo e Fontana dell'Elefante - Catania
 
 ![Catania, Fontana dell'Elefante in Piazza del Duomo](https://commons.wikimedia.org/wiki/Special:FilePath/Catania-elefante_piazza_duomo.jpg)
-*Catania, Fontana dell'Elefante in Piazza del Duomo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Catania-elefante_piazza_duomo.jpg).*
+_Catania, Fontana dell'Elefante in Piazza del Duomo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Catania-elefante_piazza_duomo.jpg)._
+
 ### Inquadramento
 
-Il sito da preparare non è soltanto un edificio religioso, ma un vero nodo urbano: Piazza del Duomo di Catania, la Cattedrale di Sant'Agata e la Fontana dell'Elefante condensano tre livelli essenziali della città. Il primo è quello religioso, legato alla patrona Sant'Agata e alla cattedrale come chiesa madre della diocesi. Il secondo è quello urbano e barocco, cioè la ricostruzione di Catania dopo il terremoto del 1693, quando la città assunse l'immagine monumentale che ancora oggi caratterizza il suo centro storico. Il terzo è quello identitario: l'elefante lavico, il cosiddetto *Liotru*, è il simbolo civico della città e traduce visivamente il rapporto tra Catania e la pietra lavica dell'Etna.
+Il sito da preparare non è soltanto un edificio religioso, ma un vero nodo urbano: Piazza del Duomo di Catania, la Cattedrale di Sant'Agata e la Fontana dell'Elefante condensano tre livelli essenziali della città. Il primo è quello religioso, legato alla patrona Sant'Agata e alla cattedrale come chiesa madre della diocesi. Il secondo è quello urbano e barocco, cioè la ricostruzione di Catania dopo il terremoto del 1693, quando la città assunse l'immagine monumentale che ancora oggi caratterizza il suo centro storico. Il terzo è quello identitario: l'elefante lavico, il cosiddetto _Liotru_, è il simbolo civico della città e traduce visivamente il rapporto tra Catania e la pietra lavica dell'Etna.
 
 ### Contesto storico
 
@@ -40,7 +42,7 @@ La Cattedrale di Sant'Agata ha origini medievali, ma l'immagine che colpisce il 
 
 ### Cosa vedere e come raccontarlo
 
-La **Cattedrale** va descritta come polo liturgico, monumentale e simbolico. Va ricordato che la cattedrale è la chiesa del vescovo: il termine deriva dalla *cathedra*, cioè dalla sede episcopale. Alla lettura del sito puoi usare questa osservazione per mostrare padronanza lessicale e istituzionale: non è semplicemente "una chiesa importante", ma il centro della diocesi.
+La **Cattedrale** va descritta come polo liturgico, monumentale e simbolico. Va ricordato che la cattedrale è la chiesa del vescovo: il termine deriva dalla _cathedra_, cioè dalla sede episcopale. Alla lettura del sito puoi usare questa osservazione per mostrare padronanza lessicale e istituzionale: non è semplicemente "una chiesa importante", ma il centro della diocesi.
 
 La **Fontana dell'Elefante**, collocata al centro della piazza, fu realizzata da Giovanni Battista Vaccarini nel XVIII secolo. L'elefante in pietra lavica sostiene un obelisco egittizzante e diventa una sorta di emblema civico. È un'opera perfetta da spiegare oralmente perché unisce recupero di materiali antichi, gusto barocco, memoria urbana e leggenda. Puoi dire che la fontana funziona come "marchio visivo" di Catania: il visitatore la riconosce immediatamente e la associa alla città.
 
@@ -61,7 +63,7 @@ La **piazza** deve essere presentata come spazio scenografico. Non limitarti a e
 
 ### Sintesi narrativa
 
-Il Duomo e la Fontana dell'Elefante rappresentano il cuore monumentale e simbolico di Catania. La cattedrale, dedicata a Sant'Agata, è la chiesa madre della diocesi e conserva la memoria religiosa della città, mentre la piazza riflette il grande rinnovamento urbanistico successivo al terremoto del 1693. La Fontana dell'Elefante, opera settecentesca di Giovanni Battista Vaccarini, unisce pietra lavica, gusto barocco e identità civica: l'elefante, chiamato *Liotru*, è il simbolo di Catania. Il sito permette quindi di leggere insieme devozione, ricostruzione barocca e rapporto con il paesaggio vulcanico.
+Il Duomo e la Fontana dell'Elefante rappresentano il cuore monumentale e simbolico di Catania. La cattedrale, dedicata a Sant'Agata, è la chiesa madre della diocesi e conserva la memoria religiosa della città, mentre la piazza riflette il grande rinnovamento urbanistico successivo al terremoto del 1693. La Fontana dell'Elefante, opera settecentesca di Giovanni Battista Vaccarini, unisce pietra lavica, gusto barocco e identità civica: l'elefante, chiamato _Liotru_, è il simbolo di Catania. Il sito permette quindi di leggere insieme devozione, ricostruzione barocca e rapporto con il paesaggio vulcanico.
 
 ### Suggerimenti di esposizione
 
@@ -74,7 +76,8 @@ Inizia dalla piazza, non dalla singola opera. La sequenza più efficace è: "sia
 ## Centro storico di Modica
 
 ![Panorama del centro storico di Modica](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_di_Modica.jpg)
-*Panorama del centro storico di Modica. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_di_Modica.jpg).*
+_Panorama del centro storico di Modica. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_di_Modica.jpg)._
+
 ### Inquadramento
 
 Modica è uno dei centri più significativi del barocco della Sicilia sud-orientale e una componente del sito UNESCO "Città tardo barocche della Val di Noto". Per la spiegazione va presentata come città di ricostruzione, ma anche come città di paesaggio: non è un centro barocco "pianeggiante" e regolare come Noto, bensì una città scenografica, distesa tra cave, pendii e dislivelli. La sua forza non sta in un unico monumento isolato, ma nell'effetto complessivo tra architettura, orografia e spazio urbano.
@@ -127,7 +130,8 @@ Non iniziare dicendo solo "Modica è barocca". Parti dal terremoto del 1693, poi
 ## Centro storico di Noto
 
 ![Noto, Cattedrale di San Nicolò](https://commons.wikimedia.org/wiki/Special:FilePath/Noto_Kathedrale.jpg)
-*Noto, Cattedrale di San Nicolò. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Noto_Kathedrale.jpg).*
+_Noto, Cattedrale di San Nicolò. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Noto_Kathedrale.jpg)._
+
 ### Inquadramento
 
 Noto è uno dei casi più chiari e didatticamente più efficaci per spiegare il barocco siciliano. Dopo il terremoto del 1693, l'antica Noto fu abbandonata e la città venne ricostruita in un nuovo sito, con un impianto urbano ordinato, scenografico e coerente. Per la lettura del sito, Noto è fondamentale perché compare nella scheda come "Centro storico di Noto" e nel percorso narrativo come "Città tardo barocche della Val di Noto".
@@ -192,7 +196,8 @@ Usa tre parole chiave: **terremoto**, **ricostruzione**, **scenografia urbana**.
 ## Palermo arabo-normanna e Cattedrali di Cefalù e Monreale
 
 ![Palermo, Cappella Palatina nel Palazzo dei Normanni](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg)
-*Palermo, Cappella Palatina nel Palazzo dei Normanni. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg).*
+_Palermo, Cappella Palatina nel Palazzo dei Normanni. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg)._
+
 ### Inquadramento
 
 Questo sito è uno dei capitoli più importanti dell'intera Sicilia perché racconta una stagione unica del Medioevo mediterraneo: il regno normanno di Sicilia, in particolare tra XII e prima metà del XIII secolo, quando culture latina, bizantina e islamica si intrecciarono nella committenza reale e nell'arte monumentale. Il sito UNESCO comprende nove monumenti: due palazzi, tre chiese, una cattedrale e un ponte a Palermo, più le cattedrali di Cefalù e Monreale.
@@ -259,10 +264,11 @@ Apri con la formula "sito seriale UNESCO" e spiega subito che non è un unico ed
 ## Parco Archeologico della Neapolis e Necropoli - Siracusa
 
 ![Siracusa, Teatro greco nel Parco archeologico della Neapolis](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG)
-*Siracusa, Teatro greco nel Parco archeologico della Neapolis. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG).*
+_Siracusa, Teatro greco nel Parco archeologico della Neapolis. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG)._
+
 ### Inquadramento
 
-Il Parco archeologico della Neapolis è uno dei luoghi essenziali per comprendere Siracusa antica. Il termine *Neapolis* significa "città nuova" e indica uno dei quartieri della Siracusa greca e romana. Nel parco si concentrano alcuni dei monumenti più celebri della città: il Teatro Greco, l'Anfiteatro Romano, l'Ara di Ierone II, le latomie e l'Orecchio di Dionisio.
+Il Parco archeologico della Neapolis è uno dei luoghi essenziali per comprendere Siracusa antica. Il termine _Neapolis_ significa "città nuova" e indica uno dei quartieri della Siracusa greca e romana. Nel parco si concentrano alcuni dei monumenti più celebri della città: il Teatro Greco, l'Anfiteatro Romano, l'Ara di Ierone II, le latomie e l'Orecchio di Dionisio.
 
 ### Contesto storico
 
@@ -312,7 +318,8 @@ Organizza la risposta come una visita: ingresso → Teatro Greco → Ara di Iero
 ## Parco dell'Etna
 
 ![Monte Etna in attività eruttiva](https://commons.wikimedia.org/wiki/Special:FilePath/Etna_volcano_in_eruption.jpg)
-*Monte Etna in attività eruttiva. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Etna_volcano_in_eruption.jpg).*
+_Monte Etna in attività eruttiva. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Etna_volcano_in_eruption.jpg)._
+
 ### Inquadramento
 
 Il Parco dell'Etna è un sito naturale e paesaggistico di importanza eccezionale. Il Monte Etna è il più alto vulcano attivo d'Europa e uno dei vulcani più attivi al mondo. Dal 2013 il Monte Etna è iscritto nella Lista del Patrimonio Mondiale UNESCO come sito naturale. Per la lettura del sito va presentato non come "una montagna", ma come sistema geologico, ambientale, paesaggistico e culturale.
@@ -377,7 +384,8 @@ Usa una struttura in quattro parti: **geologia → UNESCO → ambienti → uomo 
 ## Tempio e Teatro di Segesta
 
 ![Teatro antico di Segesta](https://commons.wikimedia.org/wiki/Special:FilePath/Segesta-Theater01.JPG)
-*Teatro antico di Segesta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Segesta-Theater01.JPG).*
+_Teatro antico di Segesta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Segesta-Theater01.JPG)._
+
 ### Inquadramento
 
 Segesta è uno dei siti archeologici più suggestivi della Sicilia occidentale. È legata agli Elimi, popolazione della Sicilia antica, e mostra un rapporto particolarmente interessante tra cultura indigena, modelli greci e paesaggio. I due monumenti principali da preparare sono il tempio dorico e il teatro.
@@ -426,7 +434,8 @@ La parola chiave è **Elimi**. Usala subito: ti permette di distinguere Segesta 
 ## Parco Archeologico di Selinunte
 
 ![Selinunte, Tempio E sulla collina orientale](https://commons.wikimedia.org/wiki/Special:FilePath/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG)
-*Selinunte, Tempio E sulla collina orientale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG).*
+_Selinunte, Tempio E sulla collina orientale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG)._
+
 ### Inquadramento
 
 Selinunte è uno dei più grandi e importanti siti archeologici del Mediterraneo. Fondata da coloni greci, fu una città monumentale della Sicilia occidentale, in posizione strategica tra mondo greco e mondo punico. Il parco conserva templi, acropoli, santuari, fortificazioni e aree urbane, offrendo una lettura ampia della polis antica.
@@ -473,7 +482,8 @@ Non limitarti al Tempio E. Cita almeno tre aree: collina orientale, acropoli, Ga
 ## Teatro Greco di Taormina
 
 ![Teatro antico di Taormina](https://commons.wikimedia.org/wiki/Special:FilePath/Taormina_TheatreAntique_01.jpg)
-*Teatro antico di Taormina. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Taormina_TheatreAntique_01.jpg).*
+_Teatro antico di Taormina. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Taormina_TheatreAntique_01.jpg)._
+
 ### Inquadramento
 
 Il Teatro antico di Taormina è uno dei monumenti più celebri della Sicilia, noto per la sua architettura e per il rapporto spettacolare con il paesaggio: dal teatro si apre la vista verso il mare e l'Etna. Per la spiegazione va presentato come teatro greco-romano, non semplicemente "greco", perché il monumento visibile conserva importanti trasformazioni di età romana.
@@ -520,7 +530,8 @@ Non dire "teatro greco" senza precisare la fase romana. Una formula efficace è:
 ## Valle dei Templi - Agrigento
 
 ![Agrigento, Tempio della Concordia nella Valle dei Templi](https://commons.wikimedia.org/wiki/Special:FilePath/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg)
-*Agrigento, Tempio della Concordia nella Valle dei Templi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg).*
+_Agrigento, Tempio della Concordia nella Valle dei Templi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg)._
+
 ### Inquadramento
 
 La Valle dei Templi è il cuore dell'Area archeologica di Agrigento, patrimonio UNESCO dal 1997. Il nome tradizionale "Valle" è in parte fuorviante, perché i templi sorgono su un crinale roccioso a sud dell'antica città. Il sito conserva alcuni dei più importanti templi dorici del Mediterraneo e permette di raccontare la grandezza di Akragas, colonia greca fondata nel VI secolo a.C.
@@ -585,10 +596,11 @@ La sequenza migliore è: **Akragas → crinale sacro → Tempio della Concordia 
 ## Villa Romana del Casale - Piazza Armerina
 
 ![Villa Romana del Casale, mosaici pavimentali](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg)
-*Villa Romana del Casale, mosaici pavimentali. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg).*
+_Villa Romana del Casale, mosaici pavimentali. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg)._
+
 ### Inquadramento
 
-La Villa Romana del Casale, presso Piazza Armerina, è uno dei massimi esempi di villa tardoantica nel mondo romano ed è patrimonio UNESCO dal 1997. È celebre soprattutto per l'eccezionale ricchezza dei mosaici pavimentali, che decorano gran parte degli ambienti e costituiscono una delle più importanti testimonianze musive conservate *in situ*.
+La Villa Romana del Casale, presso Piazza Armerina, è uno dei massimi esempi di villa tardoantica nel mondo romano ed è patrimonio UNESCO dal 1997. È celebre soprattutto per l'eccezionale ricchezza dei mosaici pavimentali, che decorano gran parte degli ambienti e costituiscono una delle più importanti testimonianze musive conservate _in situ_.
 
 ### Contesto storico
 
@@ -650,7 +662,8 @@ Parti da "villa tardoantica", non da "mosaici". Poi presenta i mosaici come cons
 ## Museo Archeologico Regionale "Paolo Orsi" - Siracusa
 
 ![Siracusa, Museo Archeologico Regionale Paolo Orsi](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg)
-*Siracusa, Museo Archeologico Regionale Paolo Orsi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg).*
+_Siracusa, Museo Archeologico Regionale Paolo Orsi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg)._
+
 ### Inquadramento
 
 Il Museo Archeologico Regionale "Paolo Orsi" di Siracusa è uno dei principali musei archeologici italiani per la conoscenza della Sicilia orientale. Nella voce di riferimento sono indicate in particolare la **Sezione Preistorica** e la **Sezione Greca**. La lettura deve quindi concentrarsi su questi due nuclei, evitando di disperdersi in tutto il museo.
@@ -708,7 +721,9 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 ---
 
 ## Sintesi finale
+
 ### Domande guida
+
 1. Confronta Noto e Modica come esempi di barocco post-1693.
 2. Spiega il significato di "arabo-normanno" usando almeno tre monumenti.
 3. Confronta Segesta, Selinunte e Agrigento.
@@ -718,6 +733,7 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 7. Come collegheresti il Museo Paolo Orsi alla visita del Parco della Neapolis?
 
 ### Sintesi narrativa
+
 - **Noto:** città ricostruita dopo il terremoto del 1693; modello di urbanistica tardo barocca scenografica.
 - **Modica:** barocco adattato a un paesaggio verticale e complesso; confronto efficace con Noto.
 - **Palermo arabo-normanna:** sintesi di culture latina, bizantina e islamica sotto committenza normanna.
@@ -729,6 +745,7 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 - **Valle dei Templi:** area monumentale di Akragas; templi dorici come espressione di identità civica.
 - **Villa del Casale:** villa tardoantica aristocratica; mosaici come segno di status e cultura imperiale.
 - **Paolo Orsi:** museo chiave per Sicilia orientale, preistoria e colonizzazione greca.
+
 ### Domande guida
 
 ### Errori da evitare
@@ -743,6 +760,7 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 ---
 
 ## Fonti principali consultate
+
 - [UNESCO - Late Baroque Towns of the Val di Noto](https://whc.unesco.org/en/list/1024/)
 - [UNESCO - Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale](https://whc.unesco.org/en/list/1487/)
 - [UNESCO - Mount Etna](https://whc.unesco.org/en/list/1427/)

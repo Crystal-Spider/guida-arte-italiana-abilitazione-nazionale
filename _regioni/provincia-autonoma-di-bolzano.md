@@ -7,33 +7,35 @@ nav_order: 17
 # Provincia autonoma di Bolzano
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Provincia autonoma di Bolzano. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Dolomiti e lago di Braies | Sito o tema | Vedi scheda | Scheda principale |
+La Provincia autonoma di Bolzano è segnata dal paesaggio dolomitico, dalle valli alpine e da una forte pluralità linguistica e culturale. Il lago di Braies diventa una chiave per leggere natura, turismo e tutela.
+
+|  N. | Voce                      | Tipologia                     | Area                 | Descrizione                                                                                                                                                           |
+| --: | ------------------------- | ----------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Dolomiti e lago di Braies | Paesaggio o area archeologica | Territorio regionale | Il sito richiesto dalil percorso unisce due livelli di lettura: da un lato le Dolomiti come grande patrimonio naturale alpino, dall'altro il lago di Braies come l... |
 
 ## Dolomiti e lago di Braies
 
-| Voce | Dati essenziali |
-|---|---|
-| Denominazione nel percorso | Dolomiti e lago di Braies |
-| Località | Braies / Prags |
-| Provincia | Bolzano / Südtirol - Alto Adige |
-| Tipologia | Patrimonio naturale, paesaggio alpino, lago dolomitico, parco naturale |
-| Area di riferimento | Dolomiti settentrionali; Parco naturale Fanes-Senes-Braies; Val Pusteria |
-| Riconoscimento UNESCO | Le Dolomiti sono iscritte nella Lista del Patrimonio Mondiale dal 2009 come bene naturale seriale |
-| Parole chiave | Dolomia, paesaggio dolomitico, Croda del Becco, Fanes-Senes-Braies, Val Pusteria, turismo sostenibile, patrimonio naturale UNESCO |
-| Collegamenti utili per la spiegazione | Dolomiti UNESCO; paesaggio alpino; gestione dei flussi turistici; rapporto tra natura, turismo e identità altoatesina |
+| Voce                                  | Dati essenziali                                                                                                                   |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Denominazione nel percorso            | Dolomiti e lago di Braies                                                                                                         |
+| Località                              | Braies / Prags                                                                                                                    |
+| Provincia                             | Bolzano / Südtirol - Alto Adige                                                                                                   |
+| Tipologia                             | Patrimonio naturale, paesaggio alpino, lago dolomitico, parco naturale                                                            |
+| Area di riferimento                   | Dolomiti settentrionali; Parco naturale Fanes-Senes-Braies; Val Pusteria                                                          |
+| Riconoscimento UNESCO                 | Le Dolomiti sono iscritte nella Lista del Patrimonio Mondiale dal 2009 come bene naturale seriale                                 |
+| Parole chiave                         | Dolomia, paesaggio dolomitico, Croda del Becco, Fanes-Senes-Braies, Val Pusteria, turismo sostenibile, patrimonio naturale UNESCO |
+| Collegamenti utili per la spiegazione | Dolomiti UNESCO; paesaggio alpino; gestione dei flussi turistici; rapporto tra natura, turismo e identità altoatesina             |
 
 ### Immagini utili
 
 ![Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti%20riflesse%20nel%20lago%20di%20Braies.jpg)
-*Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti%20riflesse%20nel%20lago%20di%20Braies.jpg).*
+_Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti%20riflesse%20nel%20lago%20di%20Braies.jpg)._
 ![Parco naturale Fanes-Senes-Braies](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20Naturale%20Fanes%20-%20Sennes%20-%20Braies%20%28BZ%29.jpg)
-*Parco naturale Fanes-Senes-Braies. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20Naturale%20Fanes%20-%20Sennes%20-%20Braies%20%28BZ%29.jpg).*
+_Parco naturale Fanes-Senes-Braies. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20Naturale%20Fanes%20-%20Sennes%20-%20Braies%20%28BZ%29.jpg)._
 ![Alpe di Sennes](https://commons.wikimedia.org/wiki/Special:FilePath/Alpe%20di%20Sennes.jpg)
-*Alpe di Sennes. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alpe%20di%20Sennes.jpg).*
+_Alpe di Sennes. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alpe%20di%20Sennes.jpg)._
+
 ---
 
 ### Inquadramento
@@ -278,6 +280,7 @@ Collegamento sul concetto di paesaggio come costruzione naturale e culturale. Br
 ---
 
 ## Sintesi finale
+
 ### Errori da evitare
 
 1. **Dire "Trentino" in modo generico.**
@@ -349,6 +352,7 @@ Perché Braies è un esempio molto chiaro di luogo naturale diventato estremamen
 ---
 
 ## Fonti principali consultate
+
 - [UNESCO World Heritage Centre, "The Dolomites"](https://whc.unesco.org/en/list/1237/)
 - [UNESCO World Heritage Centre, Decision 33 COM 8B.6](https://whc.unesco.org/en/decisions/1948/)
 - [Fondazione Dolomiti UNESCO, "Outstanding Universal Value"](https://www.dolomitiunesco.info/en/the-dolomites-unesco-world-heritage-site/outstanding-universal-value)

@@ -7,19 +7,21 @@ nav_order: 2
 # Basilicata
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Basilicata. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Dolomiti Lucane | Sito o tema | Vedi scheda | Scheda principale |
-| 2 | Complesso Archeologico di Metaponto | Sito o tema | Vedi scheda | Scheda principale |
-| 3 | Parco Nazionale del Pollino | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 4 | Sassi di Matera | Sito storico-artistico | Vedi scheda | Scheda principale |
+La Basilicata alterna paesaggi interni, borghi rupestri, aree archeologiche magnogreche e montagne appenniniche. Il filo conduttore è il rapporto tra insediamenti antichi, natura aspra e continuità delle forme abitative.
+
+|  N. | Voce                                | Tipologia                     | Area                 | Descrizione                                                                                                                                                 |
+| --: | ----------------------------------- | ----------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Dolomiti Lucane                     | Paesaggio o area archeologica | Territorio regionale | Le Dolomiti Lucane si trovano nel cuore della Basilicata interna, nell'Appennino lucano, intorno ai borghi di Castelmezzano e Pietrapertosa.                |
+|   2 | Complesso Archeologico di Metaponto | Area archeologica             | Territorio regionale | Metaponto si trova sulla costa ionica della Basilicata, nel territorio comunale di Bernalda, in provincia di Matera.                                        |
+|   3 | Parco Nazionale del Pollino         | Paesaggio o area archeologica | Territorio regionale | Il Parco Nazionale del Pollino è un grande parco montano dell'Appennino meridionale, posto tra Basilicata e Calabria.                                       |
+|   4 | Sassi di Matera                     | Sito o tema                   | Matera               | I Sassi si trovano nel centro storico di Matera, sul margine della Gravina, un profondo solco naturale che caratterizza il paesaggio della Murgia materana. |
 
 ## Dolomiti Lucane
 
 ![Dolomiti Lucane viste da Castelmezzano](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti_lucane.png)
-*Dolomiti Lucane viste da Castelmezzano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti_lucane.png).*
+_Dolomiti Lucane viste da Castelmezzano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti_lucane.png)._
+
 ### Dati essenziali
 
 | Voce                         | Contenuto                                                                                                                             |
@@ -31,7 +33,7 @@ Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della r
 | Area protetta di riferimento | Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane                                                                             |
 | Periodi/temi principali      | Geomorfologia appenninica; insediamenti medievali; paesaggio rupestre; turismo lento e outdoor                                        |
 | Elementi da ricordare        | Castelmezzano, Pietrapertosa, guglie arenacee, Rabatana, castello normanno-svevo, sentieri, Volo dell'Angelo, Parco Gallipoli Cognato |
-| Status di riferimento               | scheda principale                                                                                                                                |
+| Status di riferimento        | scheda principale                                                                                                                     |
 
 ### Inquadramento
 
@@ -137,7 +139,8 @@ Frase chiave da ricordare: **"Le Dolomiti Lucane sono un paesaggio appenninico i
 ## Complesso Archeologico di Metaponto
 
 ![Tavole Palatine di Metaponto](https://commons.wikimedia.org/wiki/Special:FilePath/Metaponto_Tavole_Palatine.jpg)
-*Tavole Palatine di Metaponto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Metaponto_Tavole_Palatine.jpg).*
+_Tavole Palatine di Metaponto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Metaponto_Tavole_Palatine.jpg)._
+
 ### Dati essenziali
 
 | Voce                  | Contenuto                                                                                                                                                          |
@@ -148,7 +151,7 @@ Frase chiave da ricordare: **"Le Dolomiti Lucane sono un paesaggio appenninico i
 | Tipologia             | Area archeologica della Magna Grecia, museo e santuari extraurbani                                                                                                 |
 | Periodo principale    | Fondazione achea nella seconda metà del VII secolo a.C.; sviluppo tra VI e V secolo a.C.; fasi ellenistiche e romane                                               |
 | Elementi da ricordare | Città achea, Magna Grecia, area urbana, agorà, templi A-B-C-D, Tavole Palatine, Hera, Museo Archeologico Nazionale, necropoli, territorio agricolo del Metapontino |
-| Status di riferimento        | scheda principale                                                                                                                                                             |
+| Status di riferimento | scheda principale                                                                                                                                                  |
 
 ### Inquadramento
 
@@ -265,18 +268,19 @@ Frase chiave da ricordare: **"Metaponto è uno dei siti più efficaci per spiega
 ## Parco Nazionale del Pollino
 
 ![Pino loricato nel Parco Nazionale del Pollino](https://commons.wikimedia.org/wiki/Special:FilePath/Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg)
-*Pino loricato nel Parco Nazionale del Pollino. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg).*
+_Pino loricato nel Parco Nazionale del Pollino. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg)._
+
 ### Dati essenziali
 
-| Voce                            | Contenuto                                                                                                                                                                 |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sito                            | Parco Nazionale del Pollino                                                                                                                                               |
+| Voce                           | Contenuto                                                                                                                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sito                           | Parco Nazionale del Pollino                                                                                                                                               |
 | Località/Province nel percorso | Potenza, Matera, Cosenza                                                                                                                                                  |
-| Regioni                         | Basilicata e Calabria                                                                                                                                                     |
-| Tipologia                       | Parco nazionale, paesaggio montano, biodiversità, geoparco UNESCO                                                                                                         |
-| Superficie                      | Circa 192.565 ettari                                                                                                                                                      |
-| Elementi da ricordare           | Massiccio del Pollino, Monti dell'Orsomarso, Monte Alpi, Serra Dolcedorme, pino loricato, gole del Raganello, fiume Lao, Timpa della Murge, comunità locali, biodiversità |
-| Status di riferimento                  | scheda principale                                                                                                                                                                    |
+| Regioni                        | Basilicata e Calabria                                                                                                                                                     |
+| Tipologia                      | Parco nazionale, paesaggio montano, biodiversità, geoparco UNESCO                                                                                                         |
+| Superficie                     | Circa 192.565 ettari                                                                                                                                                      |
+| Elementi da ricordare          | Massiccio del Pollino, Monti dell'Orsomarso, Monte Alpi, Serra Dolcedorme, pino loricato, gole del Raganello, fiume Lao, Timpa della Murge, comunità locali, biodiversità |
+| Status di riferimento          | scheda principale                                                                                                                                                         |
 
 ### Inquadramento
 
@@ -397,7 +401,8 @@ Frase chiave da ricordare: **"Il Pollino è il grande paesaggio montano del Sud 
 ## Sassi di Matera
 
 ![Panorama dei Sassi di Matera](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_dei_sassi_di_Matera.jpg)
-*Panorama dei Sassi di Matera. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_dei_sassi_di_Matera.jpg).*
+_Panorama dei Sassi di Matera. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_dei_sassi_di_Matera.jpg)._
+
 ### Dati essenziali
 
 | Voce                  | Contenuto                                                                                                                                                         |
@@ -409,7 +414,7 @@ Frase chiave da ricordare: **"Il Pollino è il grande paesaggio montano del Sud 
 | Riconoscimento UNESCO | "The Sassi and the Park of the Rupestrian Churches of Matera", iscritto nel 1993                                                                                  |
 | Criteri UNESCO        | (iii), (iv), (v)                                                                                                                                                  |
 | Elementi da ricordare | Sasso Barisano, Sasso Caveoso, Civita, Piano, Gravina, Parco delle Chiese Rupestri, case-grotta, cisterne, vicinati, evacuazione anni Cinquanta, recupero e riuso |
-| Status di riferimento        | **scheda con percorso narrativo**                                                                                                                                          |
+| Status di riferimento | **scheda con percorso narrativo**                                                                                                                                 |
 
 ### Inquadramento
 
@@ -576,6 +581,7 @@ Per i Sassi devi preparare due livelli:
 Frase chiave da ricordare: **"I Sassi di Matera sono una città-paesaggio in cui architettura rupestre, gestione dell'acqua, vita comunitaria e memoria sociale si integrano nel contesto della Gravina e della Murgia."**
 
 ## Sintesi finale
+
 ### Ripasso mirato per la Basilicata
 
 ### Schema di confronto rapido
@@ -620,25 +626,22 @@ Per la Basilicata conviene ripetere spesso il contrasto tra quattro paesaggi:
 - **città rupestre UNESCO:** Matera.
 
 ## Fonti principali consultate
+
 - [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Scopri il Parco"](https://www.parcogallipolicognato.it/pagina.php?id=1)
 - [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Geomorfologia"](https://www.parcogallipolicognato.it/pagina.php?id=2)
 - [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Le Piccole Dolomiti Lucane"](https://www.parcogallipolicognato.it/pagina.php?id=3)
 - [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, scheda Pietrapertosa](https://www.parcogallipolicognato.it/comuni_dettaglio.php?id=76061)
-
 
 - [Direzione Regionale Musei Basilicata, Parco archeologico dell'area urbana e Necropoli di Crucinia](https://musei.basilicata.beniculturali.it/musei/?mid=8254&nome=parco-archeologico-dellarea-urbana-2)
 - [Museo di Metaponto, Tempio delle Tavole Palatine](https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/)
 - [Museo di Metaponto, sito ufficiale](https://museometaponto.beniculturali.it/)
 - [Direzione Regionale Musei Basilicata, elenco musei e siti](https://musei.basilicata.beniculturali.it/musei/)
 
-
 - [Parco Nazionale del Pollino, sito ufficiale](https://www.parconazionalepollino.it/)
 - [Parco Nazionale del Pollino, scheda sul pino loricato](https://parconazionalepollino.it/conoscere-il-parco/la-natura/pino-loricato)
 - [Parks.it, Parco Nazionale del Pollino](https://www.parks.it/parco.nazionale.pollino/par.php)
 - [UNESCO, Pollino UNESCO Global Geopark](https://www.unesco.org/en/iggp/pollino-unesco-global-geopark)
 
-
 - [UNESCO World Heritage Centre, "The Sassi and the Park of the Rupestrian Churches of Matera"](https://whc.unesco.org/en/list/670/)
 - [UNESCO Cultura, scheda italiana del sito UNESCO](https://unesco.cultura.gov.it/en/projects/the-sassi-and-the-park-of-the-rupestrian-churches-of-matera/)
 - [UNESCO World Heritage Centre, mappa e dati del bene](https://whc.unesco.org/en/list/670/maps/)
-

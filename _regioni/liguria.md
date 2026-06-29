@@ -7,29 +7,31 @@ nav_order: 8
 # Liguria
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Liguria. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Cattedrale di San Lorenzo - Genova | Sito storico-artistico | Genova | Scheda principale |
-| 2 | Parco delle Cinque Terre - Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso | Paesaggio o area archeologica | Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso | Scheda principale |
-| 3 | Centro storico di Genova e Strade Nuove dei Rolli | Sito o tema | Vedi scheda | Scheda principale |
-| 4 | Museo di Palazzo Reale - Genova | Museo | Genova | Scheda principale |
+La Liguria è una regione lineare e marittima, stretta tra Appennino e Mediterraneo. Le schede leggono porti, città storiche, borghi costieri e dimore aristocratiche come parti di un unico paesaggio commerciale e urbano.
+
+|  N. | Voce                                                                              | Tipologia                     | Area                                                   | Descrizione                                                                                                                                                           |
+| --: | --------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Cattedrale di San Lorenzo - Genova                                                | Sito storico-artistico        | Genova                                                 | La Cattedrale di San Lorenzo è uno dei monumenti più rappresentativi di Genova perché concentra in un solo edificio tre livelli di lettura: religioso, urbano e po... |
+|   2 | Parco delle Cinque Terre - Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso | Paesaggio o area archeologica | Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso | Le Cinque Terre sono uno dei casi più chiari, in Italia, di paesaggio culturale: non si tratta di un ambiente naturale "intatto", ma di un territorio modellato pe... |
+|   3 | Centro storico di Genova e Strade Nuove dei Rolli                                 | Sito o tema                   | Territorio regionale                                   | Il centro storico di Genova e le Strade Nuove dei Rolli permettono di raccontare due anime della città.                                                               |
+|   4 | Museo di Palazzo Reale - Genova                                                   | Museo                         | Genova                                                 | Il Museo di Palazzo Reale è fondamentale perché permette di entrare fisicamente nel mondo dei palazzi aristocratici genovesi.                                         |
 
 ## Cattedrale di San Lorenzo - Genova
 
 ![Cattedrale di San Lorenzo, Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20san%20lorenzo%20genova.jpg)
-*Cattedrale di San Lorenzo, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20san%20lorenzo%20genova.jpg).*
+_Cattedrale di San Lorenzo, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20san%20lorenzo%20genova.jpg)._
+
 ### Dati essenziali
 
-| Voce | Contenuto da ricordare |
-|---|---|
-| Località | Genova, piazza San Lorenzo, nel cuore del centro storico |
-| Tipologia | Cattedrale, edificio religioso e civico, architettura medievale con stratificazioni successive |
-| Epoche chiave | Origini altomedievali; cantiere romanico; ricostruzione gotica dopo l'incendio del 1296; interventi rinascimentali, manieristi e barocchi; restauri ottocenteschi |
-| Parole chiave | Romanico genovese, gotico, bande bianche e nere, San Giovanni Battista, Cappella del Battista, Museo del Tesoro, Sacro Catino, Repubblica marinara |
-| Collegamenti | Centro storico di Genova, Repubblica di Genova, Crociate, culto civico di San Giovanni Battista, arte medievale ligure, Museo del Tesoro |
-| Errore da evitare | Presentarla solo come "duomo gotico": l'edificio è una stratificazione di fasi romaniche, gotiche, rinascimentali e barocche. |
+| Voce              | Contenuto da ricordare                                                                                                                                            |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Località          | Genova, piazza San Lorenzo, nel cuore del centro storico                                                                                                          |
+| Tipologia         | Cattedrale, edificio religioso e civico, architettura medievale con stratificazioni successive                                                                    |
+| Epoche chiave     | Origini altomedievali; cantiere romanico; ricostruzione gotica dopo l'incendio del 1296; interventi rinascimentali, manieristi e barocchi; restauri ottocenteschi |
+| Parole chiave     | Romanico genovese, gotico, bande bianche e nere, San Giovanni Battista, Cappella del Battista, Museo del Tesoro, Sacro Catino, Repubblica marinara                |
+| Collegamenti      | Centro storico di Genova, Repubblica di Genova, Crociate, culto civico di San Giovanni Battista, arte medievale ligure, Museo del Tesoro                          |
+| Errore da evitare | Presentarla solo come "duomo gotico": l'edificio è una stratificazione di fasi romaniche, gotiche, rinascimentali e barocche.                                     |
 
 ### Perché è importante
 
@@ -98,17 +100,18 @@ Una risposta ordinata sulla Cattedrale può seguire questa sequenza:
 ## Parco delle Cinque Terre - Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso
 
 ![Vernazza, Cinque Terre](https://commons.wikimedia.org/wiki/Special:FilePath/Vernazza%20and%20the%20sea%2C%20Cinque%20Terre%2C%20Italy.jpg)
-*Vernazza, Cinque Terre. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Vernazza%20and%20the%20sea%2C%20Cinque%20Terre%2C%20Italy.jpg).*
+_Vernazza, Cinque Terre. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Vernazza%20and%20the%20sea%2C%20Cinque%20Terre%2C%20Italy.jpg)._
+
 ### Dati essenziali
 
-| Voce | Contenuto da ricordare |
-|---|---|
-| Località | Riviera ligure di Levante, provincia della Spezia |
-| Borghi | Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore |
-| Tipologia | Paesaggio culturale costiero, parco nazionale, area marina protetta, sistema di borghi, terrazzamenti e sentieri |
-| Riconoscimento | Area inserita nel patrimonio UNESCO insieme a Portovenere e alle isole Palmaria, Tino e Tinetto |
-| Parole chiave | Paesaggio culturale, terrazzamenti, muri a secco, viticoltura eroica, borghi marinari, sentieri, rapporto uomo-natura, turismo sostenibile |
-| Collegamenti | UNESCO, paesaggio antropizzato, tutela ambientale, fragilità idrogeologica, turismo di massa, identità ligure costiera |
+| Voce              | Contenuto da ricordare                                                                                                                                                              |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Località          | Riviera ligure di Levante, provincia della Spezia                                                                                                                                   |
+| Borghi            | Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore                                                                                                                              |
+| Tipologia         | Paesaggio culturale costiero, parco nazionale, area marina protetta, sistema di borghi, terrazzamenti e sentieri                                                                    |
+| Riconoscimento    | Area inserita nel patrimonio UNESCO insieme a Portovenere e alle isole Palmaria, Tino e Tinetto                                                                                     |
+| Parole chiave     | Paesaggio culturale, terrazzamenti, muri a secco, viticoltura eroica, borghi marinari, sentieri, rapporto uomo-natura, turismo sostenibile                                          |
+| Collegamenti      | UNESCO, paesaggio antropizzato, tutela ambientale, fragilità idrogeologica, turismo di massa, identità ligure costiera                                                              |
 | Errore da evitare | Descriverle solo come "cinque paesini belli": il punto di riferimento è il rapporto storico tra insediamento umano, coltivazione terrazzata, mare, sentieri e tutela del paesaggio. |
 
 ### Perché sono importanti
@@ -213,19 +216,20 @@ Sequenza consigliata:
 ## Centro storico di Genova e Strade Nuove dei Rolli
 
 ![Via Garibaldi, Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Genova%20Via%20Garibaldi.jpg)
-*Via Garibaldi, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Genova%20Via%20Garibaldi.jpg).*
+_Via Garibaldi, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Genova%20Via%20Garibaldi.jpg)._
+
 ### Dati essenziali
 
-| Voce | Contenuto da ricordare |
-|---|---|
-| Località | Genova |
-| Tipologia | Centro storico medievale + sistema urbano aristocratico rinascimentale e barocco |
-| Componenti principali | Caruggi, piazze, chiese, porto, Cattedrale, Strade Nuove, Palazzi dei Rolli |
-| Riconoscimento | "Genova, le Strade Nuove e il Sistema dei Palazzi dei Rolli", Patrimonio Mondiale UNESCO dal 2006 |
-| Cronologia chiave | Genova medievale e repubblica marinara; apogeo finanziario e marittimo tra XVI e XVII secolo; decreto dei Rolli del 1576 |
-| Parole chiave | Repubblica di Genova, caruggi, porto, Siglo de los Genoveses, Strade Nuove, Rolli, ospitalità pubblica in palazzi privati, Galeazzo Alessi, UNESCO |
-| Collegamento pratico | La percorso integrativo del percorso include "Strade Nuove e Palazzi dei Rolli": preparare una presentazione da visita guidata. |
-| Errore da evitare | Confondere "centro storico di Genova" e "sito UNESCO dei Rolli": il primo è più ampio; il secondo è una componente specifica, iscritta UNESCO. |
+| Voce                  | Contenuto da ricordare                                                                                                                             |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Località              | Genova                                                                                                                                             |
+| Tipologia             | Centro storico medievale + sistema urbano aristocratico rinascimentale e barocco                                                                   |
+| Componenti principali | Caruggi, piazze, chiese, porto, Cattedrale, Strade Nuove, Palazzi dei Rolli                                                                        |
+| Riconoscimento        | "Genova, le Strade Nuove e il Sistema dei Palazzi dei Rolli", Patrimonio Mondiale UNESCO dal 2006                                                  |
+| Cronologia chiave     | Genova medievale e repubblica marinara; apogeo finanziario e marittimo tra XVI e XVII secolo; decreto dei Rolli del 1576                           |
+| Parole chiave         | Repubblica di Genova, caruggi, porto, Siglo de los Genoveses, Strade Nuove, Rolli, ospitalità pubblica in palazzi privati, Galeazzo Alessi, UNESCO |
+| Collegamento pratico  | La percorso integrativo del percorso include "Strade Nuove e Palazzi dei Rolli": preparare una presentazione da visita guidata.                    |
+| Errore da evitare     | Confondere "centro storico di Genova" e "sito UNESCO dei Rolli": il primo è più ampio; il secondo è una componente specifica, iscritta UNESCO.     |
 
 ### Perché è importante
 
@@ -327,18 +331,19 @@ Sequenza consigliata:
 ## Museo di Palazzo Reale - Genova
 
 ![Galleria degli Specchi, Palazzo Reale di Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Reale%20%28Genoa%29%2C%20Mirror%20gallery%2001.jpg)
-*Galleria degli Specchi, Palazzo Reale di Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Reale%20%28Genoa%29%2C%20Mirror%20gallery%2001.jpg).*
+_Galleria degli Specchi, Palazzo Reale di Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Reale%20%28Genoa%29%2C%20Mirror%20gallery%2001.jpg)._
+
 ### Dati essenziali
 
-| Voce | Contenuto da ricordare |
-|---|---|
-| Località | Via Balbi 10, Genova |
-| Tipologia | Dimora aristocratica, poi residenza reale sabauda, oggi museo statale / Musei Nazionali di Genova |
-| Famiglie chiave | Balbi, Durazzo, Savoia |
-| Sezioni richieste dalil percorso | Galleria degli Specchi; Sala del Trono; Sala delle Battaglie |
-| Parole chiave | Dimora-museo, Gran Piano Nobile, arredi originali, quadreria, barocco genovese, aristocrazia, reggia sabauda, Rolli |
-| Collegamenti | Strade Nuove e Palazzi dei Rolli, via Balbi, aristocrazia genovese, trasformazione da palazzo privato a reggia e museo |
-| Errore da evitare | Trattarlo come museo "di quadri" generico: va spiegato come dimora storica conservata, dove architettura, arredi, cerimoniale e collezioni sono inseparabili. |
+| Voce                             | Contenuto da ricordare                                                                                                                                        |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Località                         | Via Balbi 10, Genova                                                                                                                                          |
+| Tipologia                        | Dimora aristocratica, poi residenza reale sabauda, oggi museo statale / Musei Nazionali di Genova                                                             |
+| Famiglie chiave                  | Balbi, Durazzo, Savoia                                                                                                                                        |
+| Sezioni richieste dalil percorso | Galleria degli Specchi; Sala del Trono; Sala delle Battaglie                                                                                                  |
+| Parole chiave                    | Dimora-museo, Gran Piano Nobile, arredi originali, quadreria, barocco genovese, aristocrazia, reggia sabauda, Rolli                                           |
+| Collegamenti                     | Strade Nuove e Palazzi dei Rolli, via Balbi, aristocrazia genovese, trasformazione da palazzo privato a reggia e museo                                        |
+| Errore da evitare                | Trattarlo come museo "di quadri" generico: va spiegato come dimora storica conservata, dove architettura, arredi, cerimoniale e collezioni sono inseparabili. |
 
 ### Perché è importante
 
@@ -421,18 +426,22 @@ Sequenza consigliata:
 ---
 
 ## Sintesi finale
+
 ### Sintesi narrativa
+
 - **Cattedrale di San Lorenzo:** cattedrale di Genova, facciata gotica a bande bianche e nere, stratificazione romanico-gotica-rinascimentale-barocca, Cappella di San Giovanni Battista, Museo del Tesoro e Sacro Catino.
 - **Cinque Terre:** paesaggio culturale costiero, cinque borghi, terrazzamenti, muri a secco, viticoltura eroica, sentieri, Parco Nazionale e Area Marina Protetta.
 - **Centro storico e Rolli:** caruggi medievali + Strade Nuove aristocratiche; Rolli come registri di palazzi per ospitare visitatori illustri; UNESCO 2006.
 - **Palazzo Reale:** dimora aristocratica e poi reggia sabauda; Balbi, Durazzo, Savoia; Galleria degli Specchi, Sala del Trono, Sala delle Battaglie.
 
 ### Collegamenti utili
+
 - **San Lorenzo ↔ Centro storico:** la cattedrale è uno dei fulcri religiosi e civici della Genova medievale.
 - **Centro storico ↔ Rolli:** dai caruggi medievali alla nuova immagine aristocratica del Cinquecento.
 - **Rolli ↔ Palazzo Reale:** Palazzo Reale è una dimora nobiliare legata al sistema dei palazzi aristocratici genovesi e alla cultura della rappresentanza.
 - **Cinque Terre ↔ Genova:** due modi diversi di leggere la Liguria: città portuale e finanziaria da un lato, paesaggio costiero terrazzato dall'altro.
 - **Cinque Terre ↔ turismo sostenibile:** sito perfetto per discutere tutela, flussi turistici, manutenzione dei sentieri e fragilità del paesaggio.
+
 ### Ripasso attivo per la Liguria
 
 ### Domande guida
@@ -455,27 +464,28 @@ Sequenza consigliata:
 
 ### Percorso narrativo breve
 
-| Tempo | Attività |
-|---:|---|
-| 10 min | Ripeti i siti e le sezioni del percorso ligure |
-| 15 min | Cattedrale di San Lorenzo: cronologia + elementi interni |
-| 15 min | Cinque Terre: cinque borghi + paesaggio culturale |
+|  Tempo | Attività                                                      |
+| -----: | ------------------------------------------------------------- |
+| 10 min | Ripeti i siti e le sezioni del percorso ligure                |
+| 15 min | Cattedrale di San Lorenzo: cronologia + elementi interni      |
+| 15 min | Cinque Terre: cinque borghi + paesaggio culturale             |
 | 15 min | Centro storico/Rolli: caruggi + Strade Nuove + Rolli + UNESCO |
-| 5 min | Palazzo Reale: tre sale richieste |
+|  5 min | Palazzo Reale: tre sale richieste                             |
 
 ### Schema di sintesi in 3 ore
 
-| Tempo | Attività |
-|---:|---|
-| 30 min | Cattedrale di San Lorenzo, con risposta da 3 minuti |
-| 45 min | Cinque Terre, con descrizione dei cinque borghi |
+|  Tempo | Attività                                                        |
+| -----: | --------------------------------------------------------------- |
+| 30 min | Cattedrale di San Lorenzo, con risposta da 3 minuti             |
+| 45 min | Cinque Terre, con descrizione dei cinque borghi                 |
 | 60 min | Centro storico di Genova e Rolli, con presentazione da 5 minuti |
-| 30 min | Palazzo Reale, concentrandosi sulle tre sale |
-| 15 min | Simulazione casuale: 5 domande miste |
+| 30 min | Palazzo Reale, concentrandosi sulle tre sale                    |
+| 15 min | Simulazione casuale: 5 domande miste                            |
 
 ---
 
 ## Fonti principali consultate
+
 - [Visit Genoa, "Cattedrale di San Lorenzo"](https://www.visitgenoa.it/it/cattedrale-di-san-lorenzo_)
 - [Musei di Genova, "Museo del Tesoro di San Lorenzo"](https://www.museidigenova.it/it/museo-del-tesoro)
 - [Musei di Genova, "Sacro Catino"](https://www.museidigenova.it/it/sacro-catino)

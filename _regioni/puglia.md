@@ -7,23 +7,26 @@ nav_order: 13
 # Puglia
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Puglia. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | I Trulli di Alberobello | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 2 | Basilica di San Nicola e Castello Normanno-Svevo-Angioino, Bari | Museo | Bari | Scheda principale |
-| 3 | Basilica di Santa Croce e Palazzo dei Celestini, Lecce | Sito storico-artistico | Lecce | Scheda principale |
-| 4 | Castel del Monte, Andria | Sito o tema | Andria | Scheda principale |
-| 5 | Castello Aragonese, Otranto | Sito storico-artistico | Otranto | Scheda principale |
-| 6 | Cattedrale di Trani | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 7 | Santuario di San Michele Arcangelo, Monte Sant'Angelo | Sito storico-artistico | Monte Sant'Angelo | Scheda principale |
-| 8 | Santuario di San Pio da Pietrelcina, San Giovanni Rotondo | Sito storico-artistico | San Giovanni Rotondo | Scheda principale |
-| 9 | Museo Archeologico Nazionale di Taranto, MArTA | Museo | MArTA | Scheda principale |
+La Puglia è una regione lunga e plurale, con città portuali, architetture romaniche, paesaggi rurali, santuari e siti UNESCO. Le schede seguono il dialogo tra Adriatico, entroterra, fede, castelli e archeologia.
+
+|  N. | Voce                                                            | Tipologia              | Area                 | Descrizione                                                                                                                                                          |
+| --: | --------------------------------------------------------------- | ---------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | I Trulli di Alberobello                                         | Sito o tema            | Territorio regionale | Alberobello si trova nella Valle d'Itria, nell'area interna della Puglia centrale, oggi in provincia di Bari.                                                        |
+|   2 | Basilica di San Nicola e Castello Normanno-Svevo-Angioino, Bari | Museo                  | Bari                 | Il sito del percorso unisce due poli fondamentali di Bari vecchia: la Basilica di San Nicola, grande santuario romanico e luogo di pellegrinaggio internazionale,... |
+|   3 | Basilica di Santa Croce e Palazzo dei Celestini, Lecce          | Sito storico-artistico | Lecce                | La Basilica di Santa Croce e l'adiacente Palazzo dei Celestini costituiscono uno dei nuclei più rappresentativi del barocco leccese.                                 |
+|   4 | Castel del Monte, Andria                                        | Sito o tema            | Andria               | Castel del Monte si trova nel territorio di Andria, nell'Alta Murgia, in posizione isolata e dominante.                                                              |
+|   5 | Castello Aragonese, Otranto                                     | Sito storico-artistico | Otranto              | Il Castello Aragonese si trova nel centro storico di Otranto, città salentina affacciata sull'Adriatico e storicamente proiettata verso l'Oriente.                   |
+|   6 | Cattedrale di Trani                                             | Sito storico-artistico | Territorio regionale | La Cattedrale di Trani, dedicata a San Nicola Pellegrino e a Maria Santissima Assunta, sorge in posizione spettacolare sul mare.                                     |
+|   7 | Santuario di San Michele Arcangelo, Monte Sant'Angelo           | Sito storico-artistico | Monte Sant'Angelo    | Il Santuario di San Michele Arcangelo si trova a Monte Sant'Angelo, sul Gargano, in provincia di Foggia.                                                             |
+|   8 | Santuario di San Pio da Pietrelcina, San Giovanni Rotondo       | Sito storico-artistico | San Giovanni Rotondo | Il Santuario di San Pio da Pietrelcina si trova a San Giovanni Rotondo, sul Gargano, in provincia di Foggia.                                                         |
+|   9 | Museo Archeologico Nazionale di Taranto, MArTA                  | Museo                  | MArTA                | Il Museo Archeologico Nazionale di Taranto, noto come MArTA, è uno dei musei archeologici più importanti d'Italia.                                                   |
 
 ## I Trulli di Alberobello
+
 ![Trulli del Rione Monti, Alberobello](https://commons.wikimedia.org/wiki/Special:FilePath/Alberobello%20-%20Trulli%20del%20Rione%20Monti%20-%2006.jpg)
-*Trulli del Rione Monti, Alberobello. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alberobello%20-%20Trulli%20del%20Rione%20Monti%20-%2006.jpg).*
+_Trulli del Rione Monti, Alberobello. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alberobello%20-%20Trulli%20del%20Rione%20Monti%20-%2006.jpg)._
+
 ### Dati essenziali
 
 Alberobello si trova nella Valle d'Itria, nell'area interna della Puglia centrale, oggi in provincia di Bari. Il sito è universalmente noto per la concentrazione di **trulli**, costruzioni in pietra calcarea a secco, caratterizzate da pareti bianche e coperture coniche realizzate con lastre calcaree sovrapposte. La particolarità non è la presenza del singolo trullo, diffuso in varie zone della Murgia e della Valle d'Itria, ma la densità urbana di Alberobello: i rioni storici **Monti** e **Aia Piccola** conservano un insieme compatto e leggibile di questa architettura tradizionale.
@@ -91,10 +94,12 @@ Per concludere, Alberobello va presentata come un luogo in cui la forma architet
 ---
 
 ## Basilica di San Nicola e Castello Normanno-Svevo-Angioino, Bari
+
 ![Basilica di San Nicola, Bari](https://commons.wikimedia.org/wiki/Special:FilePath/Bari%20-%20basilica%20di%20San%20Nicola%20-%20202209171552.jpg)
-*Basilica di San Nicola, Bari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Bari%20-%20basilica%20di%20San%20Nicola%20-%20202209171552.jpg).*
+_Basilica di San Nicola, Bari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Bari%20-%20basilica%20di%20San%20Nicola%20-%20202209171552.jpg)._
 ![Castello Normanno-Svevo di Bari](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20normanno-svevo%20%28Bari%29%202017.jpg)
-*Castello Normanno-Svevo di Bari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20normanno-svevo%20%28Bari%29%202017.jpg).*
+_Castello Normanno-Svevo di Bari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20normanno-svevo%20%28Bari%29%202017.jpg)._
+
 ### Dati essenziali
 
 Il sito del percorso unisce due poli fondamentali di Bari vecchia: la **Basilica di San Nicola**, grande santuario romanico e luogo di pellegrinaggio internazionale, e il **Castello Normanno-Svevo**, fortezza urbana posta ai margini del nucleo storico. La risposta di riferimento deve valorizzare il binomio: da un lato la Bari religiosa e mediterranea, legata alle reliquie di San Nicola; dall'altro la Bari politica e militare, segnata dalla presenza normanna, sveva, angioina e aragonese.
@@ -158,8 +163,10 @@ La Basilica di San Nicola e il Castello Normanno-Svevo raccontano due aspetti co
 ---
 
 ## Basilica di Santa Croce e Palazzo dei Celestini, Lecce
+
 ![Basilica di Santa Croce e Palazzo dei Celestini, Lecce](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Croce%20und%20Palazzo%20dei%20Celestini%20in%20Lecce.jpg)
-*Basilica di Santa Croce e Palazzo dei Celestini, Lecce. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Croce%20und%20Palazzo%20dei%20Celestini%20in%20Lecce.jpg).*
+_Basilica di Santa Croce e Palazzo dei Celestini, Lecce. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Croce%20und%20Palazzo%20dei%20Celestini%20in%20Lecce.jpg)._
+
 ### Dati essenziali
 
 La Basilica di Santa Croce e l'adiacente Palazzo dei Celestini costituiscono uno dei nuclei più rappresentativi del **barocco leccese**. Il sito si trova nel centro storico di Lecce e deve essere presentato come il massimo esempio della capacità decorativa della pietra locale, la **pietra leccese**, tenera da lavorare e adatta a un linguaggio ornamentale ricchissimo.
@@ -215,8 +222,10 @@ La Basilica di Santa Croce e il Palazzo dei Celestini rappresentano uno dei comp
 ---
 
 ## Castel del Monte, Andria
+
 ![Castel del Monte, Andria](https://commons.wikimedia.org/wiki/Special:FilePath/Castel%20del%20Monte%20-%20Andria.jpg)
-*Castel del Monte, Andria. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castel%20del%20Monte%20-%20Andria.jpg).*
+_Castel del Monte, Andria. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castel%20del%20Monte%20-%20Andria.jpg)._
+
 ### Dati essenziali
 
 Castel del Monte si trova nel territorio di Andria, nell'Alta Murgia, in posizione isolata e dominante. È uno dei monumenti più celebri dell'Italia medievale e uno dei simboli della Puglia. Fu fatto costruire da **Federico II di Svevia** nel XIII secolo e dal 1996 è iscritto nella Lista del Patrimonio Mondiale UNESCO.
@@ -291,8 +300,10 @@ In conclusione, Castel del Monte va spiegato come un edificio in cui ogni elemen
 ---
 
 ## Castello Aragonese, Otranto
+
 ![Castello Aragonese di Otranto](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20Aragonese%20Otranto.jpg)
-*Castello Aragonese di Otranto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20Aragonese%20Otranto.jpg).*
+_Castello Aragonese di Otranto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20Aragonese%20Otranto.jpg)._
+
 ### Dati essenziali
 
 Il Castello Aragonese si trova nel centro storico di Otranto, città salentina affacciata sull'Adriatico e storicamente proiettata verso l'Oriente. Il sito deve essere presentato come un'opera militare strettamente legata alla posizione strategica della città. Otranto è stata per secoli una porta marittima del Mezzogiorno: punto di contatto, scambio e conflitto tra mondo latino, bizantino, balcanico e ottomano.
@@ -334,8 +345,10 @@ Il Castello Aragonese di Otranto è una fortezza legata alla posizione strategic
 ---
 
 ## Cattedrale di Trani
+
 ![Cattedrale di Trani vista dal mare](https://commons.wikimedia.org/wiki/Special:FilePath/CATTEDRALE%20DI%20TRANI%20VISTA%20DAL%20MARE.jpg)
-*Cattedrale di Trani vista dal mare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/CATTEDRALE%20DI%20TRANI%20VISTA%20DAL%20MARE.jpg).*
+_Cattedrale di Trani vista dal mare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/CATTEDRALE%20DI%20TRANI%20VISTA%20DAL%20MARE.jpg)._
+
 ### Dati essenziali
 
 La Cattedrale di Trani, dedicata a San Nicola Pellegrino e a Maria Santissima Assunta, sorge in posizione spettacolare sul mare. È uno degli esempi più celebri del **romanico pugliese** e uno dei monumenti più efficaci da raccontare in una scheda, perché unisce architettura, paesaggio, devozione e identità urbana.
@@ -391,8 +404,10 @@ La Cattedrale di Trani è uno dei massimi esempi del romanico pugliese. Sorge in
 ---
 
 ## Santuario di San Michele Arcangelo, Monte Sant'Angelo
+
 ![Santuario di San Michele Arcangelo, Monte Sant'Angelo](https://commons.wikimedia.org/wiki/Special:FilePath/Santuario%20san%20michele%20arcangelo.jpg)
-*Santuario di San Michele Arcangelo, Monte Sant'Angelo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santuario%20san%20michele%20arcangelo.jpg).*
+_Santuario di San Michele Arcangelo, Monte Sant'Angelo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santuario%20san%20michele%20arcangelo.jpg)._
+
 ### Dati essenziali
 
 Il Santuario di San Michele Arcangelo si trova a Monte Sant'Angelo, sul Gargano, in provincia di Foggia. È uno dei luoghi di pellegrinaggio più importanti dell'Europa medievale ed è parte del sito seriale UNESCO **Longobardi in Italia. I luoghi del potere (568-774 d.C.)**.
@@ -443,8 +458,10 @@ Il Santuario di San Michele Arcangelo a Monte Sant'Angelo è uno dei più import
 ---
 
 ## Santuario di San Pio da Pietrelcina, San Giovanni Rotondo
+
 ![Santuario e Chiesa di San Pio, San Giovanni Rotondo](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Giovanni%20rotondo%20Santuario%20e%20Chiesa%20San%20Pio.jpg)
-*Santuario e Chiesa di San Pio, San Giovanni Rotondo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Giovanni%20rotondo%20Santuario%20e%20Chiesa%20San%20Pio.jpg).*
+_Santuario e Chiesa di San Pio, San Giovanni Rotondo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Giovanni%20rotondo%20Santuario%20e%20Chiesa%20San%20Pio.jpg)._
+
 ### Dati essenziali
 
 Il Santuario di San Pio da Pietrelcina si trova a San Giovanni Rotondo, sul Gargano, in provincia di Foggia. È uno dei principali luoghi di pellegrinaggio religioso contemporaneo in Italia. Il sito comprende il convento dei Cappuccini, la chiesa antica, la chiesa di Santa Maria delle Grazie e la grande chiesa moderna progettata da **Renzo Piano**.
@@ -505,8 +522,10 @@ Il Santuario di San Pio da Pietrelcina a San Giovanni Rotondo è uno dei princip
 ---
 
 ## Museo Archeologico Nazionale di Taranto, MArTA
+
 ![Ori di Canosa al MArTA](https://commons.wikimedia.org/wiki/Special:FilePath/I%20reperti%20della%20Tomba%20degli%20Ori%20di%20Canosa%20-FG.jpg)
-*Reperti della Tomba degli Ori di Canosa, MArTA. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/I%20reperti%20della%20Tomba%20degli%20Ori%20di%20Canosa%20-FG.jpg).*
+_Reperti della Tomba degli Ori di Canosa, MArTA. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/I%20reperti%20della%20Tomba%20degli%20Ori%20di%20Canosa%20-FG.jpg)._
+
 ### Inquadramento
 
 Il Museo Archeologico Nazionale di Taranto, noto come **MArTA**, è uno dei musei archeologici più importanti d'Italia. Fu istituito nel 1887 e occupa l'ex convento dei Frati Alcantarini. È fondamentale per comprendere la storia della Puglia antica e in particolare della città greca di **Taras**, fondata dagli Spartani e divenuta uno dei principali centri della Magna Grecia.
@@ -567,7 +586,9 @@ Il MArTA, Museo Archeologico Nazionale di Taranto, è uno dei più importanti mu
 ---
 
 ## Sintesi finale
+
 ### Domande guida
+
 1. Confronta **Trulli di Alberobello** e **Castel del Monte** come siti UNESCO pugliesi.
 2. Spiega le differenze tra **romanico pugliese** e **barocco leccese** usando Trani/Bari e Lecce.
 3. Quali siti pugliesi del percorso sono legati al pellegrinaggio?
@@ -578,6 +599,7 @@ Il MArTA, Museo Archeologico Nazionale di Taranto, è uno dei più importanti mu
 8. Come collegheresti il MArTA agli altri siti archeologici del Sud Italia?
 
 ### Sintesi narrativa
+
 - **Puglia romanica:** Bari e Trani; pietra chiara, forme compatte, rapporto con il pellegrinaggio e il mare.
 - **Puglia federiciana:** Castello di Bari e Castel del Monte; potere svevo, architettura militare e rappresentazione imperiale.
 - **Puglia barocca:** Lecce; pietra leccese, decorazione, teatralità, complessi religiosi e conventuali.
@@ -586,6 +608,7 @@ Il MArTA, Museo Archeologico Nazionale di Taranto, è uno dei più importanti mu
 - **Puglia archeologica:** MArTA; Taranto/Taras e Magna Grecia.
 
 ---
+
 ### Domande guida
 
 ### Errori da evitare
@@ -601,21 +624,22 @@ Il MArTA, Museo Archeologico Nazionale di Taranto, è uno dei più importanti mu
 ---
 
 ## Fonti principali consultate
-- [UNESCO World Heritage Centre, *The Trulli of Alberobello*](https://whc.unesco.org/en/list/787/)
-- [UNESCO World Heritage Centre, *Castel del Monte*](https://whc.unesco.org/en/list/398/)
-- [Commissione Nazionale Italiana UNESCO, *Trulli di Alberobello*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/trulli-di-alberobello/)
-- [Commissione Nazionale Italiana UNESCO, *Castel del Monte*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/castel-del-monte/)
-- [UNESCO Cultura / Ministero della Cultura, *Castel del Monte*](https://unesco.cultura.gov.it/en/projects/castel-del-monte/)
-- [Direzione regionale Musei Puglia, *Castel del Monte*](https://museipuglia.cultura.gov.it/musei-puglia/castel-del-monte/)
-- [Direzione regionale Musei Puglia, *Castello Svevo di Bari*](https://museipuglia.cultura.gov.it/musei/castello-svevo-di-bari/)
-- [Ministero della Cultura, *Castello di Otranto*](https://cultura.gov.it/luogo/castello-di-otranto)
+
+- [UNESCO World Heritage Centre, _The Trulli of Alberobello_](https://whc.unesco.org/en/list/787/)
+- [UNESCO World Heritage Centre, _Castel del Monte_](https://whc.unesco.org/en/list/398/)
+- [Commissione Nazionale Italiana UNESCO, _Trulli di Alberobello_](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/trulli-di-alberobello/)
+- [Commissione Nazionale Italiana UNESCO, _Castel del Monte_](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/castel-del-monte/)
+- [UNESCO Cultura / Ministero della Cultura, _Castel del Monte_](https://unesco.cultura.gov.it/en/projects/castel-del-monte/)
+- [Direzione regionale Musei Puglia, _Castel del Monte_](https://museipuglia.cultura.gov.it/musei-puglia/castel-del-monte/)
+- [Direzione regionale Musei Puglia, _Castello Svevo di Bari_](https://museipuglia.cultura.gov.it/musei/castello-svevo-di-bari/)
+- [Ministero della Cultura, _Castello di Otranto_](https://cultura.gov.it/luogo/castello-di-otranto)
 - [Basilica Pontificia di San Nicola, Bari](https://www.basilicasannicola.it/)
 - [Basilica di Santa Croce, Lecce](https://basilicasantacrocelecce.it/)
-- [LeccEcclesiae, *Basilica di Santa Croce*](https://www.chieselecce.it/santa-croce/)
-- [CartApulia, *Cattedrale di San Nicola Pellegrino*](https://www.cartapulia.it/)
+- [LeccEcclesiae, _Basilica di Santa Croce_](https://www.chieselecce.it/santa-croce/)
+- [CartApulia, _Cattedrale di San Nicola Pellegrino_](https://www.cartapulia.it/)
 - [Cattedrale di Trani](https://www.cattedraletrani.it/)
-- [Longobardi in Italia, *Sanctuary Complex of San Michele Arcangelo*](https://longobardinitalia.it/en/sanctuary-complex-of-san-michele-arcangelo/)
+- [Longobardi in Italia, _Sanctuary Complex of San Michele Arcangelo_](https://longobardinitalia.it/en/sanctuary-complex-of-san-michele-arcangelo/)
 - [Convento Santuario di San Pio da Pietrelcina](https://www.conventosantuariopadrepio.it/)
-- [Atlante Architettura Contemporanea / MiC, *Chiesa di Padre Pio*](https://atlantearchitetturacontemporanea.cultura.gov.it/chiesa-di-padre-pio/)
-- [Museo Archeologico Nazionale di Taranto - MArTA, *Percorsi e collezioni*](https://museotaranto.cultura.gov.it/it/percorsi-e-collezioni/)
-- [MArTA, *Storia del museo*](https://museotaranto.cultura.gov.it/it/storia-museo-nazionale-taranto/)
+- [Atlante Architettura Contemporanea / MiC, _Chiesa di Padre Pio_](https://atlantearchitetturacontemporanea.cultura.gov.it/chiesa-di-padre-pio/)
+- [Museo Archeologico Nazionale di Taranto - MArTA, _Percorsi e collezioni_](https://museotaranto.cultura.gov.it/it/percorsi-e-collezioni/)
+- [MArTA, _Storia del museo_](https://museotaranto.cultura.gov.it/it/storia-museo-nazionale-taranto/)

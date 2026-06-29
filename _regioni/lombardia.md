@@ -7,25 +7,27 @@ nav_order: 9
 # Lombardia
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Lombardia. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Piazza Vecchia e Santa Maria Maggiore - Bergamo | Sito o tema | Bergamo | Scheda principale |
-| 2 | Duomo di Milano | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 3 | Certosa e Castello Visconteo di Pavia | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 4 | Castello Scaligero - Sirmione | Sito storico-artistico | Sirmione | Scheda principale |
-| 5 | Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 6 | Teatro alla Scala - Milano | Sito storico-artistico | Milano | Scheda principale |
-| 7 | Parco Archeologico di Santa Giulia - Brixia, Brescia | Paesaggio o area archeologica | Brixia, Brescia | Scheda principale |
-| 8 | Lago di Como, Lago d'Iseo e Franciacorta | Sito o tema | Lago d'Iseo e Franciacorta | Scheda principale |
-| 9 | Pinacoteca di Brera - Milano | Museo | Milano | Scheda principale |
-| 10 | Cenacolo Vinciano - Milano | Sito o tema | Milano | Scheda principale |
+La Lombardia combina grandi centri urbani, laghi, pianure, città rinascimentali e musei di forte rilievo. Il patrimonio regionale si comprende attraverso il rapporto tra potere civico, committenza religiosa, collezioni e paesaggio.
+
+|  N. | Voce                                                               | Tipologia                     | Area                       | Descrizione                                                                                                                                                           |
+| --: | ------------------------------------------------------------------ | ----------------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Piazza Vecchia e Santa Maria Maggiore - Bergamo                    | Sito storico-artistico        | Bergamo                    | Il sito da preparare non coincide con un singolo monumento isolato, ma con il nucleo monumentale di Bergamo Alta, in particolare Piazza Vecchia e la vicina Basili... |
+|   2 | Duomo di Milano                                                    | Sito storico-artistico        | Milano                     | Il Duomo di Milano, dedicato a Santa Maria Nascente, è il principale monumento religioso della città e uno dei simboli più riconoscibili dell'Italia.                 |
+|   3 | Certosa e Castello Visconteo di Pavia                              | Sito storico-artistico        | Territorio regionale       | Il sito del percorso unisce due luoghi diversi ma collegati dalla storia viscontea e dalla centralità di Pavia nel sistema politico e culturale lombardo: la Certo... |
+|   4 | Castello Scaligero - Sirmione                                      | Sito storico-artistico        | Sirmione                   | Il Castello Scaligero di Sirmione si trova all'ingresso del centro storico di Sirmione, sulla penisola che si protende nel basso Lago di Garda.                       |
+|   5 | Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale | Sito storico-artistico        | Territorio regionale       | Il sito del percorso comprende due città: Mantova e Sabbioneta, entrambe legate alla dinastia dei Gonzaga e iscritte nella Lista del Patrimonio Mondiale UNESCO.      |
+|   6 | Teatro alla Scala - Milano                                         | Sito o tema                   | Milano                     | Il Teatro alla Scala è uno dei luoghi simbolo della musica, dell'opera e della cultura teatrale italiana.                                                             |
+|   7 | Parco Archeologico di Santa Giulia - Brixia, Brescia               | Paesaggio o area archeologica | Brixia, Brescia            | Il sito del percorso indica Parco Archeologico di Santa Giulia-Brixia, cioè il sistema archeologico e museale che racconta Brescia romana e la lunga continuità st... |
+|   8 | Lago di Como, Lago d'Iseo e Franciacorta                           | Sito o tema                   | Lago d'Iseo e Franciacorta | Questo sito è diverso dagli altri perché non riguarda un singolo monumento, ma un sistema paesaggistico e turistico: Lago di Como, Lago d'Iseo e Franciacorta.        |
+|   9 | Pinacoteca di Brera - Milano                                       | Museo                         | Milano                     | La Pinacoteca di Brera si trova a Milano, all'interno di Palazzo Brera.                                                                                               |
+|  10 | Cenacolo Vinciano - Milano                                         | Sito o tema                   | Milano                     | Il Cenacolo Vinciano è il museo che conserva l'Ultima Cena di Leonardo da Vinci, dipinta sulla parete del refettorio del convento domenicano di Santa Maria delle...  |
 
 ## Piazza Vecchia e Santa Maria Maggiore - Bergamo
 
 ![Piazza Vecchia, Bergamo](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_Vecchia_Bergamo.jpg)
-*Piazza Vecchia, Bergamo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_Vecchia_Bergamo.jpg).*
+_Piazza Vecchia, Bergamo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_Vecchia_Bergamo.jpg)._
+
 ### Dati essenziali
 
 Il sito da preparare non coincide con un singolo monumento isolato, ma con il nucleo monumentale di **Bergamo Alta**, in particolare **Piazza Vecchia** e la vicina **Basilica di Santa Maria Maggiore**. È importante non confondere i due spazi: Piazza Vecchia è il centro civile e politico della città storica; Santa Maria Maggiore appartiene invece al sistema religioso di **Piazza Duomo**, immediatamente adiacente. Per la spiegazione conviene presentarli insieme come due poli complementari: il potere civico e il potere religioso nella città medievale e rinascimentale.
@@ -46,7 +48,7 @@ La Basilica di Santa Maria Maggiore richiede invece una lettura per contrasti. L
 
 Uno dei punti più forti per la spiegazione è il coro ligneo con le tarsie disegnate da **Lorenzo Lotto** e realizzate da **Giovan Francesco Capoferri**. È un dettaglio perfetto per dimostrare padronanza: non limitarsi a dire che la basilica è romanica, ma spiegare come nel tempo il monumento si sia arricchito di stratificazioni artistiche.
 
-### Perche' e' importante
+### Perché è importante
 
 Il sito permette di collegare urbanistica, architettura e storia civica. Una buona lettura evita l'elenco disordinato dei monumenti. L'ordine più efficace è: Bergamo Alta → Piazza Vecchia come centro civile → passaggio a Piazza Duomo → Santa Maria Maggiore come centro religioso e artistico → elementi di pregio interni.
 
@@ -74,7 +76,8 @@ Apri con l'immagine della città alta sul colle. Poi fai muovere idealmente l'as
 ## Duomo di Milano
 
 ![Duomo di Milano](https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cathedral_from_Piazza_del_Duomo.jpg)
-*Duomo di Milano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cathedral_from_Piazza_del_Duomo.jpg).*
+_Duomo di Milano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cathedral_from_Piazza_del_Duomo.jpg)._
+
 ### Dati essenziali
 
 Il **Duomo di Milano**, dedicato a **Santa Maria Nascente**, è il principale monumento religioso della città e uno dei simboli più riconoscibili dell'Italia. Si trova nel cuore del centro storico, in Piazza del Duomo, e costituisce il fulcro visivo, urbanistico e identitario di Milano. Per una guida turistica, non basta presentarlo come grande cattedrale gotica: bisogna spiegare come il Duomo sia il risultato di una costruzione plurisecolare, di un cantiere continuo e di una forte relazione tra potere religioso, potere politico e identità cittadina.
@@ -121,7 +124,8 @@ Inizia sempre dalla piazza: "Siamo nel centro simbolico di Milano". Poi passa al
 ## Certosa e Castello Visconteo di Pavia
 
 ![Certosa di Pavia](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa_di_Pavia_facade.jpg)
-*Certosa di Pavia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa_di_Pavia_facade.jpg).*
+_Certosa di Pavia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa_di_Pavia_facade.jpg)._
+
 ### Dati essenziali
 
 Il sito del percorso unisce due luoghi diversi ma collegati dalla storia viscontea e dalla centralità di Pavia nel sistema politico e culturale lombardo: la **Certosa di Pavia**, poco fuori dalla città, e il **Castello Visconteo**, nel centro urbano. Per la spiegazione conviene costruire una risposta doppia ma coerente: la Certosa come grande complesso monastico-dinastico e il Castello come residenza signorile e sede di potere dei Visconti.
@@ -170,7 +174,8 @@ Non trattare i due luoghi come schede separate senza legame. Usa sempre una fras
 ## Castello Scaligero - Sirmione
 
 ![Castello Scaligero di Sirmione](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Scaligero_Sirmione.jpg)
-*Castello Scaligero di Sirmione. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Scaligero_Sirmione.jpg).*
+_Castello Scaligero di Sirmione. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Scaligero_Sirmione.jpg)._
+
 ### Dati essenziali
 
 Il **Castello Scaligero di Sirmione** si trova all'ingresso del centro storico di Sirmione, sulla penisola che si protende nel basso Lago di Garda. È uno dei monumenti più riconoscibili della Lombardia lacustre e un esempio particolarmente efficace di fortificazione medievale inserita in un paesaggio d'acqua.
@@ -217,7 +222,8 @@ La risposta deve partire dal paesaggio. Non dire subito "castello medievale", ma
 ## Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale
 
 ![Mantova, Palazzo Ducale](https://commons.wikimedia.org/wiki/Special:FilePath/Mantova_Palazzo_Ducale.jpg)
-*Mantova, Palazzo Ducale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mantova_Palazzo_Ducale.jpg).*
+_Mantova, Palazzo Ducale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mantova_Palazzo_Ducale.jpg)._
+
 ### Dati essenziali
 
 Il sito del percorso comprende due città: **Mantova** e **Sabbioneta**, entrambe legate alla dinastia dei **Gonzaga** e iscritte nella Lista del Patrimonio Mondiale UNESCO. Per la spiegazione bisogna evitare di parlare solo di Mantova o solo di Palazzo Ducale: il titolo del percorso chiede di tenere insieme **Palazzo Ducale** e **città ideale rinascimentale**. Il tema centrale è quindi il Rinascimento urbano e di corte.
@@ -262,14 +268,15 @@ Usa il confronto come struttura: "Mantova è la città trasformata; Sabbioneta �
 ## Teatro alla Scala - Milano
 
 ![Teatro alla Scala](https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_alla_Scala_Milan.jpg)
-*Teatro alla Scala. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_alla_Scala_Milan.jpg).*
+_Teatro alla Scala. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_alla_Scala_Milan.jpg)._
+
 ### Dati essenziali
 
 Il **Teatro alla Scala** è uno dei luoghi simbolo della musica, dell'opera e della cultura teatrale italiana. Si trova nel centro di Milano, in Piazza della Scala, in dialogo urbano con Palazzo Marino e con il sistema monumentale che collega la piazza alla Galleria Vittorio Emanuele II e al Duomo. Per la spiegazione va presentato non solo come edificio, ma come istituzione culturale.
 
 ### Contesto storico
 
-Secondo il sito ufficiale del Teatro alla Scala, il teatro fu costruito sulle ceneri del Teatro Ducale nel **1776** per volontà dell'imperatrice **Maria Teresa d'Austria** e inaugurato nel **1778** con *Europa riconosciuta* di Antonio Salieri. Il progetto è dell'architetto neoclassico **Giuseppe Piermarini**. Il nome deriva dalla chiesa di **Santa Maria alla Scala**, sul cui sito venne edificato il teatro.
+Secondo il sito ufficiale del Teatro alla Scala, il teatro fu costruito sulle ceneri del Teatro Ducale nel **1776** per volontà dell'imperatrice **Maria Teresa d'Austria** e inaugurato nel **1778** con _Europa riconosciuta_ di Antonio Salieri. Il progetto è dell'architetto neoclassico **Giuseppe Piermarini**. Il nome deriva dalla chiesa di **Santa Maria alla Scala**, sul cui sito venne edificato il teatro.
 
 Questi dati sono essenziali: 1776, Maria Teresa, Piermarini, 1778, Salieri. Una risposta solida deve contenerli, ma senza trasformarsi in cronologia sterile.
 
@@ -298,7 +305,7 @@ Un punto forte per la spiegazione è la ricostruzione dopo i bombardamenti del 1
 
 ### Sintesi narrativa
 
-Il Teatro alla Scala di Milano fu costruito a partire dal 1776 per volontà di Maria Teresa d'Austria, su progetto di Giuseppe Piermarini, e inaugurato nel 1778 con *Europa riconosciuta* di Antonio Salieri. Il nome deriva dalla chiesa di Santa Maria alla Scala, sul cui sito fu edificato. È uno dei teatri d'opera più importanti al mondo e un simbolo della cultura musicale italiana. La sua storia è legata ai grandi protagonisti dell'opera, al Museo Teatrale e alla ricostruzione dopo i bombardamenti del 1943, culminata nella riapertura del 1946 diretta da Arturo Toscanini.
+Il Teatro alla Scala di Milano fu costruito a partire dal 1776 per volontà di Maria Teresa d'Austria, su progetto di Giuseppe Piermarini, e inaugurato nel 1778 con _Europa riconosciuta_ di Antonio Salieri. Il nome deriva dalla chiesa di Santa Maria alla Scala, sul cui sito fu edificato. È uno dei teatri d'opera più importanti al mondo e un simbolo della cultura musicale italiana. La sua storia è legata ai grandi protagonisti dell'opera, al Museo Teatrale e alla ricostruzione dopo i bombardamenti del 1943, culminata nella riapertura del 1946 diretta da Arturo Toscanini.
 
 ### Suggerimenti di esposizione
 
@@ -309,7 +316,8 @@ Evita di parlare solo della stagione lirica. Il sito va letto unendo architettur
 ## Parco Archeologico di Santa Giulia - Brixia, Brescia
 
 ![Capitolium di Brescia](https://commons.wikimedia.org/wiki/Special:FilePath/Brescia_Capitolium.jpg)
-*Capitolium di Brescia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Brescia_Capitolium.jpg).*
+_Capitolium di Brescia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Brescia_Capitolium.jpg)._
+
 ### Dati essenziali
 
 Il sito del percorso indica **Parco Archeologico di Santa Giulia-Brixia**, cioè il sistema archeologico e museale che racconta Brescia romana e la lunga continuità storica della città. Il nucleo principale è **Brixia. Parco archeologico di Brescia romana**, con Capitolium, santuario repubblicano, teatro romano e collegamento con il complesso di Santa Giulia.
@@ -335,7 +343,7 @@ Gli elementi chiave sono:
 
 Secondo il Comune di Brescia, il parco comprende Capitolium, santuario repubblicano, teatro romano e Corridoio UNESCO, una passeggiata monumentale di circa un chilometro attraverso 2500 anni di storia.
 
-### Perche' e' importante
+### Perché è importante
 
 Questo sito è ideale per dimostrare capacità diacronica. Non bisogna limitarsi a "qui ci sono resti romani", ma spiegare come Brescia conservi livelli storici sovrapposti: città romana, memoria longobarda, museo moderno, valorizzazione contemporanea.
 
@@ -363,7 +371,8 @@ Usa la parola "continuità" come filo conduttore: dalla città romana alla citt�
 ## Lago di Como, Lago d'Iseo e Franciacorta
 
 ![Lago di Como](https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Varenna.jpg)
-*Lago di Como. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Varenna.jpg).*
+_Lago di Como. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Varenna.jpg)._
+
 ### Dati essenziali
 
 Questo sito è diverso dagli altri perché non riguarda un singolo monumento, ma un sistema paesaggistico e turistico: **Lago di Como**, **Lago d'Iseo** e **Franciacorta**. Per la spiegazione bisogna evitare una descrizione da dépliant e costruire invece una lettura culturale del paesaggio lombardo: acqua, montagne, borghi, ville, mobilità, turismo storico, viticoltura e identità territoriale.
@@ -407,7 +416,8 @@ Non elencare località a caso. Usa tre parole chiave: **ville** per Como, **isol
 ## Pinacoteca di Brera - Milano
 
 ![Pinacoteca di Brera](https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca_di_Brera,_Milan.jpg)
-*Pinacoteca di Brera. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca_di_Brera,_Milan.jpg).*
+_Pinacoteca di Brera. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca_di_Brera,_Milan.jpg)._
+
 ### Dati essenziali
 
 La **Pinacoteca di Brera** si trova a Milano, all'interno di Palazzo Brera. È uno dei principali musei d'arte italiani e un luogo fondamentale per comprendere la pittura italiana dal Medioevo all'età moderna. Secondo il sito ufficiale, la Pinacoteca fu aperta al pubblico nel 1809 e si trova in un palazzo che ospita anche altre istituzioni culturali, tra cui Biblioteca Braidense, Osservatorio Astronomico, Orto Botanico e Accademia di Belle Arti.
@@ -446,9 +456,9 @@ La pittura lombarda richiede attenzione al rapporto con Milano, con gli Sforza e
 
 Tre nomi fondamentali:
 
-- **Piero della Francesca**: a Brera è centrale la *Pala Montefeltro* o *Pala di Brera*, capolavoro di equilibrio prospettico, luce e monumentalità sacra;
+- **Piero della Francesca**: a Brera è centrale la _Pala Montefeltro_ o _Pala di Brera_, capolavoro di equilibrio prospettico, luce e monumentalità sacra;
 - **Bramante**: importante per comprendere il rapporto tra pittura prospettica, architettura dipinta e cultura rinascimentale lombarda;
-- **Raffaello**: lo *Sposalizio della Vergine*, datato 1504, è uno dei capolavori della Pinacoteca. Secondo il sito ufficiale di Brera, l'opera giunse al museo nel 1805 e mostra Raffaello in dialogo con il modello di Perugino, ma con un risultato di straordinaria perfezione compositiva.
+- **Raffaello**: lo _Sposalizio della Vergine_, datato 1504, è uno dei capolavori della Pinacoteca. Secondo il sito ufficiale di Brera, l'opera giunse al museo nel 1805 e mostra Raffaello in dialogo con il modello di Perugino, ma con un risultato di straordinaria perfezione compositiva.
 
 ### Domande guida
 
@@ -472,7 +482,8 @@ Per Brera, non impostare la risposta come lista di quadri. Usa le sezioni richie
 ## Cenacolo Vinciano - Milano
 
 ![Cenacolo Vinciano](https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg)
-*Cenacolo Vinciano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg).*
+_Cenacolo Vinciano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg)._
+
 ### Dati essenziali
 
 Il **Cenacolo Vinciano** è il museo che conserva l'**Ultima Cena** di Leonardo da Vinci, dipinta sulla parete del refettorio del convento domenicano di **Santa Maria delle Grazie** a Milano. È uno dei capolavori più celebri del Rinascimento e fa parte del sito UNESCO "Chiesa e convento domenicano di Santa Maria delle Grazie con l'Ultima Cena di Leonardo da Vinci".
@@ -517,7 +528,9 @@ La frase chiave è: "Il Cenacolo non va spiegato solo come immagine, ma come esp
 ---
 
 ## Percorsi narrativi brevi
+
 ### Percorso narrativo breve
+
 Buongiorno, oggi vi presento uno dei siti più importanti per la preistoria europea e per il patrimonio culturale italiano: l'**Arte rupestre della Val Camonica**, in provincia di Brescia.
 
 La Val Camonica è una valle alpina della Lombardia orientale, attraversata dal fiume Oglio e posta a nord del Lago d'Iseo. È conosciuta a livello mondiale per l'enorme quantità di incisioni rupestri conservate sulle superfici rocciose. Il sito è particolarmente importante perché nel 1979 è stato il **primo sito italiano iscritto nella Lista del Patrimonio Mondiale UNESCO**.
@@ -537,6 +550,7 @@ Concludendo, l'Arte rupestre della Val Camonica è fondamentale perché ci perme
 ---
 
 ### Percorso narrativo breve
+
 Buongiorno, oggi vi accompagno alla scoperta delle **Grotte di Catullo**, uno dei siti archeologici più importanti del Lago di Garda e dell'Italia settentrionale romana.
 
 Il sito si trova a **Sirmione**, in provincia di Brescia, all'estremità della penisola che si protende nel basso Lago di Garda. La posizione è spettacolare: i resti della villa dominano il lago dall'alto e permettono di capire immediatamente perché questo luogo fosse privilegiato già in età romana.
@@ -560,20 +574,21 @@ Concludendo, le Grotte di Catullo sono un sito fondamentale perché uniscono arc
 ---
 
 ## Sintesi finale
+
 ### Parole chiave per sito
 
-| Sito | 5 parole chiave |
-|---|---|
-| Piazza Vecchia e Santa Maria Maggiore | città alta; potere civico; romanico lombardo; Lorenzo Lotto; Donizetti |
-| Duomo di Milano | 1386; gotico; Veneranda Fabbrica; marmo di Candoglia; Madonnina |
-| Certosa e Castello Visconteo | Visconti; monastero; dinastia; residenza signorile; gotico-rinascimento |
-| Castello Scaligero | Della Scala; Garda; difesa; darsena; Sirmione |
-| Mantova e Sabbioneta | Gonzaga; Rinascimento; Palazzo Ducale; città ideale; UNESCO |
-| Teatro alla Scala | Piermarini; Maria Teresa; 1778; opera; Toscanini |
-| Brixia-Santa Giulia | Brescia romana; Capitolium; teatro; Vittoria Alata; continuità |
-| Laghi e Franciacorta | paesaggio culturale; ville; borghi; Monte Isola; viticoltura |
-| Pinacoteca di Brera | 1809; scuole pittoriche; Piero; Raffaello; pittura lombarda/veneta |
-| Cenacolo Vinciano | Leonardo; refettorio; prospettiva; tecnica fragile; UNESCO |
+| Sito                                  | 5 parole chiave                                                         |
+| ------------------------------------- | ----------------------------------------------------------------------- |
+| Piazza Vecchia e Santa Maria Maggiore | città alta; potere civico; romanico lombardo; Lorenzo Lotto; Donizetti  |
+| Duomo di Milano                       | 1386; gotico; Veneranda Fabbrica; marmo di Candoglia; Madonnina         |
+| Certosa e Castello Visconteo          | Visconti; monastero; dinastia; residenza signorile; gotico-rinascimento |
+| Castello Scaligero                    | Della Scala; Garda; difesa; darsena; Sirmione                           |
+| Mantova e Sabbioneta                  | Gonzaga; Rinascimento; Palazzo Ducale; città ideale; UNESCO             |
+| Teatro alla Scala                     | Piermarini; Maria Teresa; 1778; opera; Toscanini                        |
+| Brixia-Santa Giulia                   | Brescia romana; Capitolium; teatro; Vittoria Alata; continuità          |
+| Laghi e Franciacorta                  | paesaggio culturale; ville; borghi; Monte Isola; viticoltura            |
+| Pinacoteca di Brera                   | 1809; scuole pittoriche; Piero; Raffaello; pittura lombarda/veneta      |
+| Cenacolo Vinciano                     | Leonardo; refettorio; prospettiva; tecnica fragile; UNESCO              |
 
 ### Errori da evitare
 
@@ -587,6 +602,7 @@ Concludendo, le Grotte di Catullo sono un sito fondamentale perché uniscono arc
 ---
 
 ## Fonti principali consultate
+
 - [Fondazione MIA, Basilica di Santa Maria Maggiore - Storia](https://www.fondazionemia.it/it/basilica/storia)
 - [Visit Bergamo, Piazza Vecchia](https://www.visitbergamo.net/oggetto/piazza-vecchia/)
 - [Visit Bergamo, Basilica di Santa Maria Maggiore](https://www.visitbergamo.net/en/oggetto/santa-maria-maggiore-basilica/)

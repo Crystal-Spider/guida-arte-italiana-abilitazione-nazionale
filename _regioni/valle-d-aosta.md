@@ -7,30 +7,32 @@ nav_order: 19
 # Valle d'Aosta
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Valle d'Aosta. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Parco Nazionale del Gran Paradiso | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 2 | Castello di Quart | Sito storico-artistico | Vedi scheda | Scheda principale |
+La Valle d'Aosta è una regione alpina di passi, castelli, parchi e paesaggi d'alta quota. Il patrimonio si legge attraverso la relazione tra ambiente montano, difesa, viabilità e conservazione.
+
+|  N. | Voce                              | Tipologia                     | Area                 | Descrizione                                                                                                                 |
+| --: | --------------------------------- | ----------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Parco Nazionale del Gran Paradiso | Paesaggio o area archeologica | Territorio regionale | Il Parco Nazionale del Gran Paradiso è uno dei siti fondamentali per capire l'evoluzione della tutela ambientale in Italia. |
+|   2 | Castello di Quart                 | Sito storico-artistico        | Territorio regionale | Il Castello di Quart è uno dei complessi fortificati più significativi della Valle d'Aosta.                                 |
 
 ## Parco Nazionale del Gran Paradiso
 
 ![Gran Paradiso visto dal Giardino alpino Paradisia](https://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Paradiso%20visto%20dal%20Giardino%20alpino%20Paradisia.JPG)
-*Gran Paradiso visto dal Giardino alpino Paradisia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Paradiso%20visto%20dal%20Giardino%20alpino%20Paradisia.JPG).*
+_Gran Paradiso visto dal Giardino alpino Paradisia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Paradiso%20visto%20dal%20Giardino%20alpino%20Paradisia.JPG)._
+
 ### Dati essenziali
 
-| Voce | Informazione da ricordare |
-|---|---|
-| Nome | Parco Nazionale del Gran Paradiso |
-| Regione | Valle d'Aosta e Piemonte |
-| Area valdostana | soprattutto valli di Cogne, Valsavarenche e Rhêmes |
-| Data di istituzione | 3 dicembre 1922 |
-| Primato | primo parco nazionale italiano |
-| Superficie | oltre 70.000 ettari |
-| Quota | circa 800 m nei fondovalle; 4.061 m vetta del Gran Paradiso |
-| Elemento simbolo | stambecco alpino |
-| Tema centrale | conservazione della fauna alpina, biodiversità, paesaggio d'alta montagna, turismo sostenibile |
+| Voce                | Informazione da ricordare                                                                      |
+| ------------------- | ---------------------------------------------------------------------------------------------- |
+| Nome                | Parco Nazionale del Gran Paradiso                                                              |
+| Regione             | Valle d'Aosta e Piemonte                                                                       |
+| Area valdostana     | soprattutto valli di Cogne, Valsavarenche e Rhêmes                                             |
+| Data di istituzione | 3 dicembre 1922                                                                                |
+| Primato             | primo parco nazionale italiano                                                                 |
+| Superficie          | oltre 70.000 ettari                                                                            |
+| Quota               | circa 800 m nei fondovalle; 4.061 m vetta del Gran Paradiso                                    |
+| Elemento simbolo    | stambecco alpino                                                                               |
+| Tema centrale       | conservazione della fauna alpina, biodiversità, paesaggio d'alta montagna, turismo sostenibile |
 
 ### Perché è importante
 
@@ -122,6 +124,7 @@ In un'esposizione puoi costruire idealmente la visita così:
 Questo ordine funziona perché parte da ciò che il pubblico vede, passa alla storia e arriva al messaggio contemporaneo di tutela.
 
 ### Domande guida
+
 #### Contesto storico
 
 **Risposta modello:**
@@ -138,6 +141,7 @@ Gli elementi più significativi sono il massiccio del Gran Paradiso, con la vett
 Lo racconterei partendo dal paesaggio: un territorio di alta montagna in cui la natura cambia con la quota, dai boschi ai ghiacciai. Poi introdurrei la storia del parco, spiegando che nasce da una riserva reale di caccia e diventa nel 1922 il primo parco nazionale italiano. Userei lo stambecco come filo narrativo, perché permette di parlare di rischio di estinzione, tutela, ricerca scientifica e conservazione. Infine collegherei il parco al presente: turismo sostenibile, regole di comportamento, sentieri, centri visita e rapporto con le comunità locali.
 
 ### Suggerimenti di esposizione
+
 Una risposta efficace può iniziare così:
 
 > "Il Parco Nazionale del Gran Paradiso è uno dei luoghi fondamentali per comprendere la nascita della tutela ambientale in Italia. Istituito nel 1922, è il primo parco nazionale italiano e nasce dalla trasformazione della Riserva Reale di Caccia dei Savoia in un'area protetta. Il suo simbolo è lo stambecco alpino, la cui sopravvivenza è strettamente legata a queste montagne."
@@ -149,20 +153,21 @@ Da qui puoi sviluppare tre blocchi: **storia**, **paesaggio**, **valorizzazione 
 ## Castello di Quart
 
 ![Castello di Quart](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Quart%20%28AO%29.jpg)
-*Castello di Quart. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Quart%20%28AO%29.jpg).*
+_Castello di Quart. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Quart%20%28AO%29.jpg)._
+
 ### Dati essenziali
 
-| Voce | Informazione da ricordare |
-|---|---|
-| Nome | Castello di Quart |
-| Comune | Quart |
-| Regione | Valle d'Aosta |
-| Tipologia | castello medievale fortificato, complesso stratificato |
-| Posizione | alta balza rocciosa, presso Quart, a est di Aosta |
-| Nucleo originario | torrione e cinta muraria, fine XI secolo |
-| Committenza principale | Signori di Quart; poi ampliamenti in età sabauda |
-| Elementi da ricordare | torrione/donjon, cinta fortificata, cappella, Magna Aula, affreschi, restauri |
-| Tema centrale | potere signorile, architettura fortificata, stratificazione medievale e moderna |
+| Voce                   | Informazione da ricordare                                                       |
+| ---------------------- | ------------------------------------------------------------------------------- |
+| Nome                   | Castello di Quart                                                               |
+| Comune                 | Quart                                                                           |
+| Regione                | Valle d'Aosta                                                                   |
+| Tipologia              | castello medievale fortificato, complesso stratificato                          |
+| Posizione              | alta balza rocciosa, presso Quart, a est di Aosta                               |
+| Nucleo originario      | torrione e cinta muraria, fine XI secolo                                        |
+| Committenza principale | Signori di Quart; poi ampliamenti in età sabauda                                |
+| Elementi da ricordare  | torrione/donjon, cinta fortificata, cappella, Magna Aula, affreschi, restauri   |
+| Tema centrale          | potere signorile, architettura fortificata, stratificazione medievale e moderna |
 
 ### Perché è importante
 
@@ -258,7 +263,8 @@ Per rafforzare la risposta, puoi collegare Quart ad altri castelli valdostani:
 Questo confronto non deve diventare troppo lungo, ma può essere utile se si vuole contestualizzare il sito nella regione.
 
 ### Domande guida
-#### Perche' e' importante
+
+#### Perché è importante
 
 **Risposta modello:**
 Il Castello di Quart è importante perché rappresenta un complesso fortificato medievale stratificato, cresciuto nel corso dei secoli intorno a un nucleo originario costituito da un torrione e da una cinta muraria. La sua posizione su una balza rocciosa evidenzia la funzione difensiva e simbolica del castello. Nel tempo i Signori di Quart aggiunsero ambienti di rappresentanza e di culto, come la cappella e la Magna Aula, mentre in età sabauda furono realizzati ampliamenti residenziali. Il castello è significativo anche per le decorazioni pittoriche e per i restauri, che lo rendono un caso di studio sulla conservazione dei beni culturali.
@@ -274,6 +280,7 @@ Gli elementi principali sono il torrione, la cinta muraria, la cappella e la Mag
 Il restauro del Castello di Quart è importante perché il sito è formato da molte fasi storiche sovrapposte. Non si tratta di riportarlo arbitrariamente a un'unica immagine originaria, ma di conservare e rendere leggibili le sue diverse trasformazioni. I criteri del restauro privilegiano minimo intervento, compatibilità tra antico e nuovo, riconoscibilità e valorizzazione delle fasi cronologiche. Il castello diventa così un "museo di se stesso", nel quale il visitatore può comprendere la storia dell'edificio attraverso murature, ambienti, decorazioni e percorsi.
 
 ### Suggerimenti di esposizione
+
 Una risposta efficace può iniziare così:
 
 > "Il Castello di Quart è uno dei complessi fortificati più interessanti della Valle d'Aosta perché permette di leggere la lunga stratificazione del potere signorile valdostano. Sorge su una balza rocciosa, in posizione dominante, e nasce da un nucleo fortificato con torrione e cinta muraria, databile alla fine dell'XI secolo. Nel corso dei secoli si arricchisce di ambienti religiosi, residenziali e di rappresentanza, come la cappella e la Magna Aula."
@@ -283,7 +290,9 @@ Poi sviluppa la risposta in tre blocchi: **posizione e funzione**, **fasi archit
 ---
 
 ## Sintesi finale
+
 ### Domande guida
+
 1. **Come si collega la geografia alpina alla storia della Valle d'Aosta?**
    La geografia alpina condiziona vie di comunicazione, insediamenti, difesa, economia pastorale e turismo. Il Gran Paradiso mostra il rapporto tra ambiente e tutela; Quart mostra come la posizione dominante sia essenziale nel sistema dei castelli.
 
@@ -294,6 +303,7 @@ Poi sviluppa la risposta in tre blocchi: **posizione e funzione**, **fasi archit
    Deve tradurre dati specialistici in un racconto chiaro: per il parco, spiegare biodiversità e conservazione senza fare una lezione di biologia; per il castello, spiegare architettura e restauro senza perdersi in tecnicismi.
 
 ---
+
 ### Parole chiave da memorizzare
 
 - primo parco nazionale italiano;
@@ -337,16 +347,17 @@ Poi sviluppa la risposta in tre blocchi: **posizione e funzione**, **fasi archit
 
 ### Mini-sintesi comparativa della Valle d'Aosta
 
-| Tema | Parco Nazionale del Gran Paradiso | Castello di Quart |
-|---|---|---|
-| Tipologia | paesaggio naturale protetto | architettura fortificata medievale |
-| Periodo chiave | 1856 riserva reale; 1922 parco nazionale | fine XI secolo e sviluppi successivi |
-| Parola chiave | conservazione | stratificazione |
-| Elemento simbolo | stambecco | donjon / Magna Aula |
-| Cosa dimostra | nascita della tutela ambientale italiana | potere signorile e trasformazioni del castello |
+| Tema                   | Parco Nazionale del Gran Paradiso          | Castello di Quart                              |
+| ---------------------- | ------------------------------------------ | ---------------------------------------------- |
+| Tipologia              | paesaggio naturale protetto                | architettura fortificata medievale             |
+| Periodo chiave         | 1856 riserva reale; 1922 parco nazionale   | fine XI secolo e sviluppi successivi           |
+| Parola chiave          | conservazione                              | stratificazione                                |
+| Elemento simbolo       | stambecco                                  | donjon / Magna Aula                            |
+| Cosa dimostra          | nascita della tutela ambientale italiana   | potere signorile e trasformazioni del castello |
 | Collegamento turistico | turismo sostenibile, educazione ambientale | restauro, musealizzazione, castelli valdostani |
 
 ## Fonti principali consultate
+
 - [Parco Nazionale Gran Paradiso, "Conoscere il Parco"](https://www.pngp.it/visita-il-parco)
 - [Parco Nazionale Gran Paradiso, "Il primo parco nazionale italiano"](https://www.pngp.it/visita-il-parco/storia)
 - [Parco Nazionale Gran Paradiso, "Lo stambecco"](https://www.pngp.it/natura-e-ricerca/fauna/praterie-e-ambienti-rocciosi/lo-stambecco)

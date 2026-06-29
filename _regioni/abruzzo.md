@@ -7,18 +7,20 @@ nav_order: 1
 # Abruzzo
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Abruzzo. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Alba Fucens | Sito o tema | Vedi scheda | Scheda principale |
-| 2 | Parco Nazionale del Gran Sasso e Monti della Laga | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 3 | Costa dei Trabocchi | Sito o tema | Vedi scheda | Scheda principale |
+L'Abruzzo unisce costa adriatica, borghi appenninici e grandi parchi montani. La regione si legge attraverso il rapporto tra archeologia romana, paesaggi d'altura e cultura marittima dei trabocchi.
+
+|  N. | Voce                                              | Tipologia                     | Area                 | Descrizione                                                                                                            |
+| --: | ------------------------------------------------- | ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+|   1 | Alba Fucens                                       | Area archeologica             | Territorio regionale | Alba Fucens si trova presso Massa d'Albe, ai piedi del Monte Velino e in prossimità dell'area dell'antico lago Fucino. |
+|   2 | Parco Nazionale del Gran Sasso e Monti della Laga | Paesaggio o area archeologica | Territorio regionale | Il Parco Nazionale del Gran Sasso e Monti della Laga è uno dei più importanti paesaggi montani dell'Italia centrale.   |
+|   3 | Costa dei Trabocchi                               | Paesaggio o area archeologica | Territorio regionale | La Costa dei Trabocchi è uno dei paesaggi identitari dell'Abruzzo adriatico.                                           |
 
 ## Alba Fucens
 
 ![Anfiteatro romano di Alba Fucens](https://commons.wikimedia.org/wiki/Special:FilePath/100819%20Alba%20Fucens%20Anfiteatro.jpg)
-*Anfiteatro romano di Alba Fucens. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/100819%20Alba%20Fucens%20Anfiteatro.jpg).*
+_Anfiteatro romano di Alba Fucens. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/100819%20Alba%20Fucens%20Anfiteatro.jpg)._
+
 ### Dati essenziali
 
 | Voce                  | Contenuto                                                                                                                                 |
@@ -30,7 +32,7 @@ Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della r
 | Popoli/contesto       | Equi, Marsi, Roma repubblicana, mondo italico centro-appenninico                                                                          |
 | Funzione storica      | Colonia latina e presidio strategico romano nell'Italia centrale                                                                          |
 | Elementi da ricordare | Cinta muraria, porte urbiche, foro, basilica, diribitorium, macellum, terme, Santuario di Ercole, tempio di Apollo/San Pietro, anfiteatro |
-| Status di riferimento        | **scheda con percorso narrativo**                                                                                                                  |
+| Status di riferimento | **scheda con percorso narrativo**                                                                                                         |
 
 ### Inquadramento
 
@@ -182,18 +184,19 @@ La frase chiave da ricordare è: **"Alba Fucens è una colonia latina che permet
 ## Parco Nazionale del Gran Sasso e Monti della Laga
 
 ![Campo Imperatore e Corno Grande](https://commons.wikimedia.org/wiki/Special:FilePath/Corno%20grande%20da%20campo%20imperatore.jpg)
-*Campo Imperatore e Corno Grande. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Corno%20grande%20da%20campo%20imperatore.jpg).*
+_Campo Imperatore e Corno Grande. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Corno%20grande%20da%20campo%20imperatore.jpg)._
+
 ### Dati essenziali
 
-| Voce                   | Contenuto                                                                                                                   |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Sito                   | Parco del Gran Sasso                                                                                                        |
+| Voce                   | Contenuto                                                                                                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Sito                   | Parco del Gran Sasso                                                                                                            |
 | Località               | Province di L'Aquila, Teramo e Pescara nella voce di riferimento; il Parco si estende anche oltre i confini regionali abruzzesi |
-| Tipologia              | Parco nazionale, paesaggio montano, area naturalistica e storico-culturale                                                  |
-| Istituzione            | Parco istituito nel 1991; Ente Parco istituito nel 1995; operativo dal 1996                                                 |
-| Elementi geografici    | Gran Sasso d'Italia, Monti della Laga, Monti Gemelli, Campo Imperatore, Corno Grande, Ghiacciaio del Calderone              |
-| Elementi naturalistici | Biodiversità vegetale, fauna appenninica, alte quote, foreste, pascoli, ambienti carsici                                    |
-| Status di riferimento         | scheda principale                                                                                                                      |
+| Tipologia              | Parco nazionale, paesaggio montano, area naturalistica e storico-culturale                                                      |
+| Istituzione            | Parco istituito nel 1991; Ente Parco istituito nel 1995; operativo dal 1996                                                     |
+| Elementi geografici    | Gran Sasso d'Italia, Monti della Laga, Monti Gemelli, Campo Imperatore, Corno Grande, Ghiacciaio del Calderone                  |
+| Elementi naturalistici | Biodiversità vegetale, fauna appenninica, alte quote, foreste, pascoli, ambienti carsici                                        |
+| Status di riferimento  | scheda principale                                                                                                               |
 
 ### Identità del sito
 
@@ -306,17 +309,18 @@ Frase chiave: **"Il Parco del Gran Sasso e Monti della Laga è un laboratorio di
 ## Costa dei Trabocchi
 
 ![Trabocco lungo la costa abruzzese](https://commons.wikimedia.org/wiki/Special:FilePath/Trabocco0001.jpg)
-*Trabocco lungo la costa abruzzese. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trabocco0001.jpg).*
+_Trabocco lungo la costa abruzzese. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trabocco0001.jpg)._
+
 ### Dati essenziali
 
-| Voce                 | Contenuto                                                                                                      |
-| -------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Sito                 | Costa dei Trabocchi                                                                                            |
-| Località             | Tratto costiero Ortona-Vasto, provincia di Chieti                                                              |
-| Tipologia            | Paesaggio costiero, patrimonio marinaro, itinerario culturale e naturalistico                                  |
-| Elemento identitario | Trabocchi, antiche macchine da pesca su palafitte in legno                                                     |
-| Ambiti da collegare  | Mare Adriatico, cultura della pesca, borghi costieri, riserve naturali, letteratura dannunziana, turismo lento |
-| Status di riferimento       | scheda principale                                                                                                         |
+| Voce                  | Contenuto                                                                                                      |
+| --------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Sito                  | Costa dei Trabocchi                                                                                            |
+| Località              | Tratto costiero Ortona-Vasto, provincia di Chieti                                                              |
+| Tipologia             | Paesaggio costiero, patrimonio marinaro, itinerario culturale e naturalistico                                  |
+| Elemento identitario  | Trabocchi, antiche macchine da pesca su palafitte in legno                                                     |
+| Ambiti da collegare   | Mare Adriatico, cultura della pesca, borghi costieri, riserve naturali, letteratura dannunziana, turismo lento |
+| Status di riferimento | scheda principale                                                                                              |
 
 ### Identità del sito
 
@@ -434,11 +438,12 @@ Frase chiave: **"La Costa dei Trabocchi è un paesaggio culturale marittimo: i t
 ---
 
 ## Sintesi finale
+
 ### Ripasso finale per l'Abruzzo
 
 ### Schema comparativo
 
-| Sito                 | Categoria                         | Tema forte                             | Frase da usare nella spiegazione                                                                                     |
+| Sito                 | Categoria                         | Tema forte                             | Frase da usare nella spiegazione                                                                             |
 | -------------------- | --------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Alba Fucens          | Archeologia romana                | Romanizzazione dell'Appennino centrale | "Una colonia latina in posizione strategica, leggibile attraverso mura, foro, terme, santuari e anfiteatro." |
 | Parco del Gran Sasso | Paesaggio montano e area protetta | Biodiversità + paesaggio umano         | "Un laboratorio del paesaggio appenninico, dove alte quote, borghi e cultura pastorale si intrecciano."      |

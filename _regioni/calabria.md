@@ -7,23 +7,25 @@ nav_order: 3
 # Calabria
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Calabria. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Centro storico di Gerace | Sito o tema | Vedi scheda | Scheda principale |
-| 2 | Museo e Parco Archeologico di Locri Epizefiri | Museo | Vedi scheda | Scheda principale |
-| 3 | Cattolica di Stilo | Sito o tema | Vedi scheda | Scheda principale |
-| 4 | Parco Archeologico di Sibari | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 5 | Museo e Parco Archeologico Nazionale di Capo Colonna | Museo | Vedi scheda | Scheda principale |
-| 6 | Le Castella, Isola di Capo Rizzuto | Sito o tema | Isola di Capo Rizzuto | Scheda principale |
-| 7 | Parco Nazionale della Sila | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 8 | Museo Archeologico Nazionale di Reggio Calabria | Museo | Vedi scheda | Scheda principale |
+La Calabria è una regione di coste, altipiani e città antiche, segnata dall'incontro tra mondo greco, tradizione bizantina, età normanna e paesaggi naturali. Le schede seguono questa stratificazione tra archeologia, architettura e territorio.
+
+|  N. | Voce                                                 | Tipologia                     | Area                  | Descrizione                                                                                                                                                          |
+| --: | ---------------------------------------------------- | ----------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Centro storico di Gerace                             | Sito o tema                   | Territorio regionale  | Gerace si trova nella città metropolitana di Reggio Calabria, in posizione dominante rispetto alla Locride ionica e all'area di Locri.                               |
+|   2 | Museo e Parco Archeologico di Locri Epizefiri        | Museo                         | Territorio regionale  | Il Museo e Parco Archeologico di Locri Epizefiri si trova a Locri, lungo la costa ionica reggina, in contrada Marasà.                                                |
+|   3 | Cattolica di Stilo                                   | Sito o tema                   | Territorio regionale  | La Cattolica di Stilo si trova a Stilo, in provincia di Reggio Calabria, sulle pendici del Monte Consolino.                                                          |
+|   4 | Parco Archeologico di Sibari                         | Paesaggio o area archeologica | Bari                  | Il Parco Archeologico di Sibari si trova nella frazione Sibari del comune di Cassano all'Ionio, in provincia di Cosenza, nella piana alluvionale attraversata dai... |
+|   5 | Museo e Parco Archeologico Nazionale di Capo Colonna | Museo                         | Territorio regionale  | Capo Colonna si trova presso Crotone, lungo il promontorio lacinio, a circa 10 km dalla città.                                                                       |
+|   6 | Le Castella, Isola di Capo Rizzuto                   | Sito o tema                   | Isola di Capo Rizzuto | Le Castella si trova nel comune di Isola di Capo Rizzuto, in provincia di Crotone, lungo la costa ionica calabrese.                                                  |
+|   7 | Parco Nazionale della Sila                           | Paesaggio o area archeologica | Territorio regionale  | Il Parco Nazionale della Sila interessa le province di Cosenza, Catanzaro e Crotone e si sviluppa nell'altopiano silano, parte dell'Appennino meridionale.           |
+|   8 | Museo Archeologico Nazionale di Reggio Calabria      | Museo                         | Territorio regionale  | Il Museo Archeologico Nazionale di Reggio Calabria, spesso indicato come MArRC, è uno dei principali musei archeologici italiani dedicati alla Magna Grecia.         |
 
 ## Centro storico di Gerace
 
 ![Cattedrale di Gerace](https://commons.wikimedia.org/wiki/Special:FilePath/Gerace_Cattedrale.jpg)
-*Cattedrale di Gerace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gerace_Cattedrale.jpg).*
+_Cattedrale di Gerace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gerace_Cattedrale.jpg)._
+
 ### Inquadramento
 
 Gerace si trova nella città metropolitana di Reggio Calabria, in posizione dominante rispetto alla Locride ionica e all'area di Locri. È un centro storico d'altura: questa caratteristica è fondamentale per capirne la storia, perché la posizione interna e rialzata risponde a esigenze difensive, di controllo del territorio e di protezione rispetto alla costa. Per la lettura del sito conviene presentarla non solo come "borgo medievale", ma come il risultato di una lunga continuità tra mondo greco, bizantino, normanno, svevo, angioino e aragonese.
@@ -106,7 +108,8 @@ Il monumento centrale è la Cattedrale di Santa Maria Assunta, che esprime la fa
 ## Museo e Parco Archeologico di Locri Epizefiri
 
 ![Scavi di Locri Epizefiri](https://commons.wikimedia.org/wiki/Special:FilePath/Scavi_di_locri_epizefiri%2C_03.jpg)
-*Scavi di Locri Epizefiri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Scavi_di_locri_epizefiri%2C_03.jpg).*
+_Scavi di Locri Epizefiri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Scavi_di_locri_epizefiri%2C_03.jpg)._
+
 ### Inquadramento
 
 Il Museo e Parco Archeologico di Locri Epizefiri si trova a Locri, lungo la costa ionica reggina, in contrada Marasà. È uno dei siti fondamentali per comprendere la Magna Grecia in Calabria. Va presentato come sistema integrato: non solo museo e non solo area archeologica, ma insieme di spazi urbani, santuari, necropoli, reperti e testimonianze della vita quotidiana dell'antica polis.
@@ -192,7 +195,8 @@ Il museo completa la lettura del sito conservando reperti provenienti dagli scav
 ## Cattolica di Stilo
 
 ![Cattolica di Stilo](https://commons.wikimedia.org/wiki/Special:FilePath/Cattolica-di-Stilo.jpg)
-*Cattolica di Stilo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattolica-di-Stilo.jpg).*
+_Cattolica di Stilo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattolica-di-Stilo.jpg)._
+
 ### Inquadramento
 
 La Cattolica di Stilo si trova a Stilo, in provincia di Reggio Calabria, sulle pendici del Monte Consolino. È uno dei monumenti più noti della Calabria bizantina e uno dei siti più efficaci da presentare nella spiegazione perché unisce architettura, paesaggio, storia religiosa e identità culturale.
@@ -270,7 +274,8 @@ Il monumento va collocato tra X e XI secolo, in un periodo in cui la Calabria è
 ## Parco Archeologico di Sibari
 
 ![Parco archeologico di Sibari](https://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg)
-*Parco archeologico di Sibari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg).*
+_Parco archeologico di Sibari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg)._
+
 ### Inquadramento
 
 Il Parco Archeologico di Sibari si trova nella frazione Sibari del comune di Cassano all'Ionio, in provincia di Cosenza, nella piana alluvionale attraversata dai fiumi Crati e Coscile. È uno dei siti archeologici più importanti della Calabria e della Magna Grecia perché conserva le tracce stratificate di tre città sovrapposte: **Sybaris**, **Thurii** e **Copia**.
@@ -307,7 +312,7 @@ Il teatro e le strutture di età romana permettono di parlare della fase di Copi
 
 Anche se il percorso cita il Parco Archeologico di Sibari, è opportuno richiamare il Museo Archeologico Nazionale della Sibaritide, perché conserva reperti che permettono di comprendere le fasi Sybaris-Thurii-Copia. Il museo aiuta a dare corpo materiale a una città che nel parco è spesso leggibile per stratigrafie e strutture.
 
-### Perche' e' importante
+### Perché è importante
 
 1. **La stratificazione urbana**: tre città sovrapposte.
 2. **La Magna Grecia achea**: Sybaris come centro ricco e potente.
@@ -354,7 +359,8 @@ Il parco archeologico permette di leggere questa stratificazione attraverso rest
 ## Museo e Parco Archeologico Nazionale di Capo Colonna
 
 ![Capo Colonna](https://commons.wikimedia.org/wiki/Special:FilePath/Capo_Colonna.png)
-*Capo Colonna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Capo_Colonna.png).*
+_Capo Colonna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Capo_Colonna.png)._
+
 ### Inquadramento
 
 Capo Colonna si trova presso Crotone, lungo il promontorio lacinio, a circa 10 km dalla città. È uno dei siti più simbolici della Magna Grecia calabrese perché conserva l'area del santuario di **Hera Lacinia**, legato all'antica Kroton. Il sito è particolarmente efficace per la spiegazione perché unisce archeologia, paesaggio costiero, religione greca, identità civica e memoria storica.
@@ -450,7 +456,8 @@ In conclusione, Capo Colonna è importante non solo perché conserva una delle i
 ## Le Castella, Isola di Capo Rizzuto
 
 ![Castello Aragonese di Le Castella](https://commons.wikimedia.org/wiki/Special:FilePath/CastelloAragonese_LeCastelle.jpg)
-*Castello Aragonese di Le Castella. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/CastelloAragonese_LeCastelle.jpg).*
+_Castello Aragonese di Le Castella. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/CastelloAragonese_LeCastelle.jpg)._
+
 ### Inquadramento
 
 Le Castella si trova nel comune di Isola di Capo Rizzuto, in provincia di Crotone, lungo la costa ionica calabrese. Il sito è celebre per la fortezza aragonese, posta su un piccolo promontorio collegato alla terraferma. È un luogo in cui il paesaggio marino è inseparabile dalla funzione militare: la fortezza nasce e si sviluppa come presidio di controllo costiero.
@@ -510,7 +517,8 @@ La fase più visibile è quella aragonese e moderna, legata alla necessità di d
 ## Parco Nazionale della Sila
 
 ![Parco Nazionale della Sila, Lago Arvo](https://commons.wikimedia.org/wiki/Special:FilePath/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg)
-*Parco Nazionale della Sila, Lago Arvo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg).*
+_Parco Nazionale della Sila, Lago Arvo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg)._
+
 ### Inquadramento
 
 Il Parco Nazionale della Sila interessa le province di Cosenza, Catanzaro e Crotone e si sviluppa nell'altopiano silano, parte dell'Appennino meridionale. È un sito diverso dagli altri della Calabria perché non è principalmente archeologico o monumentale, ma naturalistico, paesaggistico e ambientale.
@@ -585,7 +593,8 @@ Per una guida, la Sila va raccontata come paesaggio naturale e culturale. Le for
 ## Museo Archeologico Nazionale di Reggio Calabria
 
 ![Bronzi di Riace](https://commons.wikimedia.org/wiki/Special:FilePath/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg)
-*Bronzi di Riace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg).*
+_Bronzi di Riace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg)._
+
 ### Inquadramento
 
 Il Museo Archeologico Nazionale di Reggio Calabria, spesso indicato come MArRC, è uno dei principali musei archeologici italiani dedicati alla Magna Grecia. La scheda si concentra su tre sezioni: **Bronzi di Riace**, **Sezione Preistorica** e **Sezione Romana**.
@@ -671,18 +680,23 @@ Tuttavia, il museo non va ridotto ai Bronzi. La sezione preistorica documenta la
 ---
 
 ## Percorsi narrativi brevi
-### Perche' e' importante
+
+### Perché è importante
+
 Scolacium permette di parlare della Calabria romana e tardoantica, spesso meno nota rispetto alla Calabria greca e bizantina. È un sito eccellente per un percorso narrativo perché offre un percorso leggibile: ingresso nel paesaggio dell'uliveto, resti romani, teatro, anfiteatro, basilica medievale, museo. Consente quindi di costruire una visita guidata ordinata e narrativa.
 
 ### Inquadramento
+
 Il Museo e Parco Archeologico Nazionale di Scolacium si trova a Roccelletta di Borgia, in provincia di Catanzaro, affacciato sull'area del golfo di Squillace. È un sito di forte stratificazione storica: racconta la città greca di Skylletion, la colonia romana di Scolacium, la fase tardoantica e medievale e il paesaggio agrario moderno legato agli uliveti.
 
 #### Contesto storico
+
 Il sito è tradizionalmente collegato alla città greca di Skylletion. La fase meglio leggibile è però quella romana, quando la città diventa colonia con il nome di Scolacium. In età romana il centro assume un impianto monumentale, con foro, teatro, anfiteatro e strutture pubbliche. La presenza di un anfiteatro è particolarmente significativa perché costituisce una testimonianza rilevante della romanizzazione della Calabria.
 
 Il sito ha anche una fase tardoantica e medievale. La grande basilica normanna di Santa Maria della Roccella, incompiuta o comunque legata a un progetto monumentale, è uno degli elementi più suggestivi del parco. A Scolacium si lega inoltre la memoria di Cassiodoro, figura fondamentale della cultura tardoantica, nato nell'area e associato alla fondazione del Vivarium, centro di studio e conservazione del sapere.
 
 #### Cosa vedere e come raccontarlo
+
 - foro romano;
 - teatro;
 - anfiteatro;
@@ -690,7 +704,9 @@ Il sito ha anche una fase tardoantica e medievale. La grande basilica normanna d
 - museo con reperti archeologici;
 - basilica di Santa Maria della Roccella;
 - uliveto storico e paesaggio agrario.
+
 ### Percorso narrativo breve
+
 Buongiorno, ci troviamo idealmente nel Parco archeologico di Scolacium, a Roccelletta di Borgia, in provincia di Catanzaro. Questo sito è particolarmente interessante perché non racconta una sola epoca, ma una lunga stratificazione della storia calabrese: dalla città greca di Skylletion alla colonia romana di Scolacium, fino alla fase tardoantica e medievale.
 
 Il primo elemento da sottolineare è il paesaggio. Il parco è immerso in un grande uliveto, e questo non è solo uno sfondo piacevole: ci ricorda che il sito archeologico è anche parte di un paesaggio agrario, trasformato nel tempo dall'uomo. Entrare a Scolacium significa quindi attraversare insieme archeologia e natura coltivata.
@@ -704,14 +720,18 @@ Un altro collegamento importante è quello con Cassiodoro, figura centrale della
 In conclusione, Scolacium è un luogo ideale per raccontare la Calabria non solo come terra di Magna Grecia, ma anche come territorio romano, tardoantico e medievale. La visita può essere costruita seguendo un filo chiaro: paesaggio dell'uliveto, città romana, edifici per la vita pubblica, basilica medievale e memoria culturale di Cassiodoro. È proprio questa continuità, più che un singolo monumento, a rendere Scolacium un sito fondamentale.
 
 ---
+
 ### percorso integrativo - Parco archeologico di Scolacium
 
 > Nota di perimetro: Scolacium non compare nel percorso principale della Calabria, ma compare nel percorso integrativo, quindi viene incluso qui solo perché è un sito trattato come percorso narrativo del percorso e richiede una presentazione sintetica.
 
 ![Parco archeologico di Scolacium](https://commons.wikimedia.org/wiki/Special:FilePath/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG)
-*Parco archeologico di Scolacium. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG).*
+_Parco archeologico di Scolacium. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG)._
+
 ## Sintesi finale
+
 ### Collegamenti utili
+
 | Se ti chiedono...  | Collega a...                                  | Perché                                        |
 | ------------------ | --------------------------------------------- | --------------------------------------------- |
 | Magna Grecia       | Locri, Sibari, Capo Colonna, MArRC            | Quadro completo: città, santuario, museo      |
@@ -719,12 +739,15 @@ In conclusione, Scolacium è un luogo ideale per raccontare la Calabria non solo
 | Romanizzazione     | Sibari-Copia, Scolacium, MArRC sezione romana | Trasformazione delle città greche             |
 | Paesaggio costiero | Capo Colonna, Le Castella                     | Sacro greco vs difesa militare                |
 | Paesaggio interno  | Sila, Gerace, Stilo                           | Montagna, borghi, identità territoriale       |
+
 ### Mappa mentale essenziale
+
 - **Magna Grecia**: Locri Epizefiri, Sibari, Capo Colonna, Museo di Reggio Calabria.
 - **Calabria bizantina e medievale**: Cattolica di Stilo, Gerace, Scolacium tardoantica/medievale.
 - **Paesaggio costiero e difesa**: Le Castella, Capo Colonna.
 - **Paesaggio naturale interno**: Parco Nazionale della Sila.
 - **Museo come sintesi regionale**: Museo Archeologico Nazionale di Reggio Calabria.
+
 ### Domande guida
 
 1. Confronta Locri e Sibari come città della Magna Grecia.
@@ -750,6 +773,7 @@ In conclusione, Scolacium è un luogo ideale per raccontare la Calabria non solo
 ---
 
 ## Fonti principali consultate
+
 - [Comune di Gerace, "Gerace e la sua storia"](https://www.comune.gerace.rc.it/vivere_il_comune/luoghi/luogo_3.html)
 - [Comune di Gerace, territorio e struttura urbana](https://www.comune.gerace.rc.it/vivere_il_comune/territorio/territorio_3.html)
 - [Turismo Reggio Calabria, Parco archeologico di Locri Epizefiri](https://turismo.reggiocal.it/cultura/archeologia-e-storia/parco-archeologico-di-locri-epizefiri)

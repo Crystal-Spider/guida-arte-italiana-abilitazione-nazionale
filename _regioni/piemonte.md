@@ -7,23 +7,25 @@ nav_order: 12
 # Piemonte
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Piemonte. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Mole Antonelliana | Sito o tema | Vedi scheda | Scheda principale |
-| 2 | Riserva / Parco naturale delle Alpi Marittime | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 3 | Valle di Susa, anfiteatro e mura romane della città | Paesaggio o area archeologica | anfiteatro e mura romane della città | Scheda principale |
-| 4 | La Venaria Reale | Sito o tema | Vedi scheda | Scheda principale |
-| 5 | Langhe-Roero e Monferrato | Sito o tema | Vedi scheda | Scheda principale |
-| 6 | Sacra di San Michele | Sito o tema | Vedi scheda | Scheda principale |
-| 7 | Museo Egizio | Museo | Vedi scheda | Scheda principale |
-| 8 | Musei Reali | Museo | Vedi scheda | Scheda principale |
+Il Piemonte alterna capitale sabauda, valli alpine, paesaggi vitivinicoli e grandi musei. Il percorso mette in relazione Torino, le residenze dinastiche, le vie montane e i paesaggi culturali del territorio.
+
+|  N. | Voce                                                | Tipologia                     | Area                                 | Descrizione                                                                                                                                                           |
+| --: | --------------------------------------------------- | ----------------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Mole Antonelliana                                   | Sito o tema                   | Territorio regionale                 | La Mole Antonelliana è il monumento-simbolo di Torino.                                                                                                                |
+|   2 | Riserva / Parco naturale delle Alpi Marittime       | Paesaggio o area archeologica | Territorio regionale                 | Il percorso indica la Riserva Naturale delle Alpi Marittime, con riferimento alle località di Entracque e Valdieri, in provincia di Cuneo.                            |
+|   3 | Valle di Susa, anfiteatro e mura romane della città | Sito o tema                   | anfiteatro e mura romane della città | Il percorso riunisce sotto un'unica voce la Valle di Susa e due elementi archeologici della città di Susa: l'anfiteatro romano e le mura romane.                      |
+|   4 | La Venaria Reale                                    | Sito o tema                   | Territorio regionale                 | La Venaria Reale è una delle principali residenze sabaude del Piemonte.                                                                                               |
+|   5 | Langhe-Roero e Monferrato                           | Paesaggio o area archeologica | Territorio regionale                 | Langhe-Roero e Monferrato indicano un vasto paesaggio culturale del Piemonte meridionale, distribuito tra le province di Cuneo, Asti e Alessandria.                   |
+|   6 | Sacra di San Michele                                | Sito o tema                   | Territorio regionale                 | La Sacra di San Michele si trova sul Monte Pirchiriano, nel territorio di Sant'Ambrogio di Torino, all'ingresso della Val di Susa.                                    |
+|   7 | Museo Egizio                                        | Museo                         | Territorio regionale                 | Il Museo Egizio di Torino è uno dei più importanti musei al mondo dedicati alla civiltà egizia.                                                                       |
+|   8 | Musei Reali                                         | Sito o tema                   | Territorio regionale                 | I Musei Reali di Torino costituiscono un complesso museale nel cuore della città, legato alla storia della dinastia sabauda e alla trasformazione di Torino in cap... |
 
 ## Mole Antonelliana
 
 ![Mole Antonelliana](https://commons.wikimedia.org/wiki/Special:FilePath/Mole%20Antonelliana%20-%20Torino.jpg)
-*Mole Antonelliana. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mole%20Antonelliana%20-%20Torino.jpg).*
+_Mole Antonelliana. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mole%20Antonelliana%20-%20Torino.jpg)._
+
 ### Dati essenziali
 
 La **Mole Antonelliana** è il monumento-simbolo di Torino. Si trova in via Montebello, nel centro storico, e costituisce uno dei punti più riconoscibili dello skyline cittadino. È un edificio ottocentesco di straordinaria importanza architettonica, nato da un progetto religioso e divenuto poi monumento civico, simbolo urbano e sede del **Museo Nazionale del Cinema**.
@@ -93,7 +95,8 @@ Per la Mole evita di limitarti all'altezza. L'altezza è importante, ma alla let
 ## Riserva / Parco naturale delle Alpi Marittime
 
 ![Alpi Marittime](https://commons.wikimedia.org/wiki/Special:FilePath/Alpi%20Marittime-Gias%20della%20Casa%203.jpg)
-*Alpi Marittime. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alpi%20Marittime-Gias%20della%20Casa%203.jpg).*
+_Alpi Marittime. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alpi%20Marittime-Gias%20della%20Casa%203.jpg)._
+
 ### Dati essenziali
 
 Il percorso indica la **Riserva Naturale delle Alpi Marittime**, con riferimento alle località di **Entracque** e **Valdieri**, in provincia di Cuneo. Nella lettura conviene trattare il sito come parte del sistema delle **Aree Protette Alpi Marittime**, con particolare attenzione al Parco naturale delle Alpi Marittime, collocato nelle Alpi sud-occidentali piemontesi.
@@ -162,7 +165,8 @@ Non impostare la risposta come una lista di animali. Parti dal paesaggio: montag
 ## Valle di Susa, anfiteatro e mura romane della città
 
 ![Anfiteatro romano di Susa](https://commons.wikimedia.org/wiki/Special:FilePath/Susa%20anfiteatro.jpg)
-*Anfiteatro romano di Susa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Susa%20anfiteatro.jpg).*
+_Anfiteatro romano di Susa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Susa%20anfiteatro.jpg)._
+
 ### Dati essenziali
 
 Il percorso riunisce sotto un'unica voce la **Valle di Susa** e due elementi archeologici della città di **Susa**: l'**anfiteatro romano** e le **mura romane**. Include anche Avigliana e l'area della Val di Susa, quindi la scheda va impostata come lettura integrata di territorio, archeologia e paesaggio.
@@ -230,7 +234,8 @@ Non parlare solo dell'anfiteatro: il titolo del percorso è più ampio. Devi mos
 ## La Venaria Reale
 
 ![Galleria Grande, Venaria Reale](https://commons.wikimedia.org/wiki/Special:FilePath/Venaria%20Reale%20Reggia%20di%20Venaria%20Reale%20Interno%20Galleria%20Grande%2004.jpg)
-*Galleria Grande, Venaria Reale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Venaria%20Reale%20Reggia%20di%20Venaria%20Reale%20Interno%20Galleria%20Grande%2004.jpg).*
+_Galleria Grande, Venaria Reale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Venaria%20Reale%20Reggia%20di%20Venaria%20Reale%20Interno%20Galleria%20Grande%2004.jpg)._
+
 ### Dati essenziali
 
 La **Venaria Reale** è una delle principali residenze sabaude del Piemonte. Si trova nel comune di Venaria Reale, nell'area metropolitana torinese, e fa parte del sistema delle **Residenze Sabaude**, iscritte nella Lista del Patrimonio Mondiale UNESCO.
@@ -303,7 +308,8 @@ Per Venaria usa tre parole chiave: **caccia, corte, barocco**. Parti dalla funzi
 ## Langhe-Roero e Monferrato
 
 ![Langhe](https://commons.wikimedia.org/wiki/Special:FilePath/Langhe.jpg)
-*Langhe. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Langhe.jpg).*
+_Langhe. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Langhe.jpg)._
+
 ### Dati essenziali
 
 **Langhe-Roero e Monferrato** indicano un vasto paesaggio culturale del Piemonte meridionale, distribuito tra le province di Cuneo, Asti e Alessandria. Il sito è legato ai paesaggi vitivinicoli piemontesi ed è riconosciuto dall'UNESCO come patrimonio mondiale.
@@ -369,7 +375,8 @@ Non trasformare la risposta in una degustazione. Puoi citare i vini, ma il centr
 ## Sacra di San Michele
 
 ![Sacra di San Michele](https://commons.wikimedia.org/wiki/Special:FilePath/Sacra%20di%20san%20michele%2001.JPG)
-*Sacra di San Michele. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sacra%20di%20san%20michele%2001.JPG).*
+_Sacra di San Michele. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sacra%20di%20san%20michele%2001.JPG)._
+
 ### Dati essenziali
 
 La **Sacra di San Michele** si trova sul Monte Pirchiriano, nel territorio di **Sant'Ambrogio di Torino**, all'ingresso della Val di Susa. È uno dei monumenti religiosi più noti del Piemonte e uno dei simboli regionali. La sua posizione è parte essenziale del suo significato: domina la valle e appare come architettura fusa con la roccia.
@@ -441,7 +448,8 @@ La Sacra va raccontata "in salita": prima la valle, poi il monte, poi l'abbazia,
 ## Museo Egizio
 
 ![Museo Egizio](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%2C%20Museo%20egizio%20%28274%29.jpg)
-*Museo Egizio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%2C%20Museo%20egizio%20%28274%29.jpg).*
+_Museo Egizio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%2C%20Museo%20egizio%20%28274%29.jpg)._
+
 ### Dati essenziali
 
 Il **Museo Egizio** di Torino è uno dei più importanti musei al mondo dedicati alla civiltà egizia. Si trova in via Accademia delle Scienze, nel centro di Torino. Per la voce di riferimento, le sezioni da preparare sono:
@@ -533,7 +541,8 @@ Non cercare di raccontare tutto l'Egitto antico. Parti dal museo e dalle sezioni
 ## Musei Reali
 
 ![Cappella della Sacra Sindone](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%20Palazzo%20Reale%20Interno%20Cappella%20della%20Sindone%20Cupola%203.jpg)
-*Cappella della Sacra Sindone. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%20Palazzo%20Reale%20Interno%20Cappella%20della%20Sindone%20Cupola%203.jpg).*
+_Cappella della Sacra Sindone. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%20Palazzo%20Reale%20Interno%20Cappella%20della%20Sindone%20Cupola%203.jpg)._
+
 ### Dati essenziali
 
 I **Musei Reali di Torino** costituiscono un complesso museale nel cuore della città, legato alla storia della dinastia sabauda e alla trasformazione di Torino in capitale politica e culturale. La voce di riferimento indica tre sezioni principali:
@@ -605,7 +614,9 @@ Per i Musei Reali devi usare la parola **sistema**. Non sono tre luoghi separati
 ---
 
 ## Percorsi narrativi brevi
+
 ### Percorso narrativo breve
+
 La Mole Antonelliana è il simbolo architettonico di Torino e uno degli edifici più riconoscibili dell'Italia contemporanea. La sua importanza non dipende soltanto dall'altezza o dall'impatto visivo, ma dalla sua capacità di raccontare diverse fasi della storia torinese: la Torino ottocentesca, la comunità ebraica, la città postunitaria e infine la Torino culturale del Museo Nazionale del Cinema.
 
 L'edificio nasce nella seconda metà dell'Ottocento su progetto di Alessandro Antonelli. La destinazione originaria era quella di sinagoga, commissionata dalla comunità ebraica torinese. Antonelli, però, concepì un'opera sempre più ambiziosa e verticale, con un'altezza eccezionale per l'epoca. A causa dei costi e delle difficoltà del progetto, la committenza originaria venne meno e il Comune di Torino rilevò il cantiere. La Mole fu completata nel 1889, diventando non più edificio religioso, ma monumento civico.
@@ -621,8 +632,9 @@ In conclusione, la Mole Antonelliana è importante perché unisce architettura, 
 ---
 
 ### Percorso narrativo breve
+
 ![Castello di Racconigi](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Racconigi.jpg)
-*Castello di Racconigi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Racconigi.jpg).*
+_Castello di Racconigi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Racconigi.jpg)._
 Il Castello di Racconigi si trova a Racconigi, in provincia di Cuneo, ed è una delle residenze sabaude più importanti del Piemonte. Fa parte del sistema delle Residenze Sabaude, riconosciuto dall'UNESCO, e rappresenta un esempio significativo di trasformazione di una dimora nobiliare in residenza reale e luogo di villeggiatura dinastica.
 
 La storia del castello è lunga e stratificata. Le origini sono medievali, ma l'aspetto attuale è il risultato di numerosi interventi e rimaneggiamenti. A partire dall'età moderna, il castello divenne proprietà e residenza del ramo dei Savoia-Carignano. Nel tempo venne trasformato secondo il gusto e le esigenze della corte, fino a diventare una delle sedi preferite per i soggiorni estivi e autunnali della famiglia reale.
@@ -636,6 +648,7 @@ Un altro punto importante è la funzione del castello come testimonianza storica
 In conclusione, il Castello di Racconigi è importante perché completa il quadro delle residenze sabaude piemontesi. È una dimora di lunga durata storica, trasformata nel tempo, legata ai Savoia-Carignano e poi alla monarchia italiana. Il suo valore non è solo architettonico, ma anche paesaggistico e storico-dinastico. Una buona presentazione deve far emergere tre idee: residenza sabauda, parco paesaggistico e memoria della vita di corte.
 
 ---
+
 Questa sezione segue il criterio già adottato nel capitolo Abruzzo: includere l'esempio di presentazione estesa solo per i siti che compaiono anche nel percorso integrativo. Per il Piemonte risultano:
 
 - **Mole Antonelliana**: presente nella scheda e nel percorso narrativo;
@@ -644,6 +657,7 @@ Questa sezione segue il criterio già adottato nel capitolo Abruzzo: includere l
 ---
 
 ## Fonti principali consultate
+
 - [Museo Nazionale del Cinema, "Mole Antonelliana"](https://www.museocinema.it/it/museo-e-fondazione-ma-prolo/mole-antonelliana)
 - [Città di Torino, "Mole Antonelliana"](https://www.comune.torino.it/vivere-comune/luoghi/mole-antonelliana)
 - [Aree Protette Alpi Marittime, "Conosci il Parco"](https://www.parcoalpimarittime.it/conosci-il-parco)

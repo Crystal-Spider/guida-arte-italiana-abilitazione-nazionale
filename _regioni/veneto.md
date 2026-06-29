@@ -7,23 +7,25 @@ nav_order: 20
 # Veneto
 
 ## Perimetro e orientamento
-Questa pagina presenta un percorso ragionato di luoghi, opere e paesaggi della regione Veneto. Le schede privilegiano contesto, lettura dei siti e collegamenti tra territorio, storia e patrimonio.
 
-| N. | Voce | Tipologia | Area | Note |
-|---:|---|---|---|---|
-| 1 | Duomo, Criptoportico di Vicenza e Basilica Palladiana | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 2 | Arena, Basilica di San Zeno e Arche Scaligere - Verona | Sito storico-artistico | Verona | Scheda principale |
-| 3 | Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni - Padova | Paesaggio o area archeologica | Padova | Scheda principale |
-| 4 | Sistema monumentale di Piazza San Marco - Basilica di San Marco e Palazzo Ducale | Sito storico-artistico | Basilica di San Marco e Palazzo Ducale | Scheda principale |
-| 5 | Laguna di Venezia, Canal Grande, Murano, Burano e Torcello | Paesaggio o area archeologica | Burano e Torcello | Scheda principale |
-| 6 | Colline del Prosecco di Conegliano e Valdobbiadene | Paesaggio o area archeologica | Vedi scheda | Scheda principale |
-| 7 | Ville palladiane del Veneto | Sito storico-artistico | Vedi scheda | Scheda principale |
-| 8 | Gallerie dell'Accademia di Venezia - Pittura del Cinquecento; pittura del Seicento e Settecento | Sito o tema | Pittura del Cinquecento; pittura del Seicento e Settecento | Scheda principale |
+Il Veneto attraversa laguna, città murate, ville, paesaggi vitivinicoli, Dolomiti e grandi musei. Il percorso collega Venezia, Palladio, città storiche e paesaggi culturali in una regione fortemente stratificata.
+
+|  N. | Voce                                                                                            | Tipologia                     | Area                                                       | Descrizione                                                                                                                                                           |
+| --: | ----------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Duomo, Criptoportico di Vicenza e Basilica Palladiana                                           | Sito storico-artistico        | Vicenza                                                    | Questa scheda può essere letta come un piccolo itinerario nel centro storico di Vicenza, costruito intorno a tre livelli cronologici: la città romana, la città me... |
+|   2 | Arena, Basilica di San Zeno e Arche Scaligere - Verona                                          | Sito storico-artistico        | Verona                                                     | Questa scheda richiede una lettura di Verona attraverso tre grandi fasi: la Verona romana, la Verona romanica e comunale, e la Verona scaligera.                      |
+|   3 | Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni - Padova                 | Sito storico-artistico        | Padova                                                     | La scheda su Padova va costruita intorno a tre poli: fede, spazio urbano e pittura del Trecento.                                                                      |
+|   4 | Sistema monumentale di Piazza San Marco - Basilica di San Marco e Palazzo Ducale                | Sito storico-artistico        | Basilica di San Marco e Palazzo Ducale                     | Piazza San Marco è il cuore politico, religioso e simbolico di Venezia.                                                                                               |
+|   5 | Laguna di Venezia, Canal Grande, Murano, Burano e Torcello                                      | Paesaggio o area archeologica | Burano e Torcello                                          | Questa scheda è molto diversa dalle altre perché non riguarda un singolo monumento, ma un paesaggio storico, urbano e ambientale.                                     |
+|   6 | Colline del Prosecco di Conegliano e Valdobbiadene                                              | Sito o tema                   | Territorio regionale                                       | Le Colline del Prosecco di Conegliano e Valdobbiadene sono un paesaggio culturale.                                                                                    |
+|   7 | Ville palladiane del Veneto                                                                     | Sito o tema                   | Territorio regionale                                       | Le Ville palladiane del Veneto sono parte del sito UNESCO "Città di Vicenza e le Ville del Palladio nel Veneto".                                                      |
+|   8 | Gallerie dell'Accademia di Venezia - Pittura del Cinquecento; pittura del Seicento e Settecento | Museo                         | Pittura del Cinquecento; pittura del Seicento e Settecento | Le Gallerie dell'Accademia conservano una delle più importanti raccolte di pittura veneziana e veneta.                                                                |
 
 ## Duomo, Criptoportico di Vicenza e Basilica Palladiana
 
 ![Basilica Palladiana, Vicenza](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Palladiana%20Vicenza.jpg)
-*Basilica Palladiana, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Palladiana%20Vicenza.jpg).*
+_Basilica Palladiana, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Palladiana%20Vicenza.jpg)._
+
 ### Inquadramento
 
 Questa scheda può essere letta come un piccolo itinerario nel centro storico di Vicenza, costruito intorno a tre livelli cronologici: la città romana, la città medievale e comunale, e la città rinascimentale trasformata da Andrea Palladio. Il percorso accosta infatti tre elementi che non sono casuali: il **Duomo**, il **Criptoportico romano** e la **Basilica Palladiana**. Nella descrizione conviene presentarli come tre strati sovrapposti della storia urbana.
@@ -86,7 +88,8 @@ Non iniziare subito da Palladio. Parti da Vicenza come città stratificata: cos�
 ## Arena, Basilica di San Zeno e Arche Scaligere - Verona
 
 ![Arena di Verona](https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20%28Arena%20di%20Verona%29.jpg)
-*Arena di Verona. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20%28Arena%20di%20Verona%29.jpg).*
+_Arena di Verona. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20%28Arena%20di%20Verona%29.jpg)._
+
 ### Inquadramento
 
 Questa scheda richiede una lettura di Verona attraverso tre grandi fasi: la Verona romana, la Verona romanica e comunale, e la Verona scaligera. I tre monumenti indicati dalil percorso - Arena, Basilica di San Zeno e Arche Scaligere - permettono di costruire una risposta molto solida perché coprono funzioni diverse: spettacolo pubblico, culto religioso, memoria dinastica.
@@ -149,7 +152,8 @@ Questi tre monumenti consentono di leggere Verona come una città di lunga durat
 ## Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni - Padova
 
 ![Cappella degli Scrovegni, Padova](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20degli%20Scrovegni.jpg)
-*Cappella degli Scrovegni, Padova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20degli%20Scrovegni.jpg).*
+_Cappella degli Scrovegni, Padova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20degli%20Scrovegni.jpg)._
+
 ### Inquadramento
 
 La scheda su Padova va costruita intorno a tre poli: fede, spazio urbano e pittura del Trecento. La Basilica di Sant'Antonio rappresenta il grande centro devozionale; Prato della Valle rappresenta la dimensione urbana e monumentale della piazza; la Cappella degli Scrovegni rappresenta uno dei vertici della pittura occidentale.
@@ -209,7 +213,8 @@ Costruisci la risposta su tre parole: **santuario, piazza, affresco**. Così evi
 ## Sistema monumentale di Piazza San Marco - Basilica di San Marco e Palazzo Ducale
 
 ![Piazza San Marco](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20San%20Marco%20in%20Venice.jpg)
-*Piazza San Marco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20San%20Marco%20in%20Venice.jpg).*
+_Piazza San Marco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20San%20Marco%20in%20Venice.jpg)._
+
 ### Inquadramento
 
 Piazza San Marco è il cuore politico, religioso e simbolico di Venezia. La scheda può essere letta come un racconto del potere veneziano: da un lato la Basilica di San Marco, legata alla religione, alla memoria dell'evangelista e all'identità spirituale della Repubblica; dall'altro Palazzo Ducale, sede del doge e delle istituzioni politiche.
@@ -258,7 +263,8 @@ Non limitarti alla descrizione artistica. Usa le parole **Repubblica, Oriente, p
 ## Laguna di Venezia, Canal Grande, Murano, Burano e Torcello
 
 ![Canal Grande, Venezia](https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20Grande%20Venezia.jpg)
-*Canal Grande, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20Grande%20Venezia.jpg).*
+_Canal Grande, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20Grande%20Venezia.jpg)._
+
 ### Inquadramento
 
 Questa scheda è molto diversa dalle altre perché non riguarda un singolo monumento, ma un paesaggio storico, urbano e ambientale. La Laguna di Venezia è il contesto fisico che ha reso possibile la nascita della città. Senza la laguna non si capisce Venezia: la città non è semplicemente "costruita sull'acqua", ma nasce da un rapporto complesso tra insediamento umano, difesa, commercio, idraulica, navigazione e fragilità ambientale.
@@ -323,7 +329,8 @@ Un buon modo per concludere è sottolineare che il Ponte di Rialto unisce due di
 ## Colline del Prosecco di Conegliano e Valdobbiadene
 
 ![Colline del Prosecco](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg)
-*Colline del Prosecco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg).*
+_Colline del Prosecco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg)._
+
 ### Inquadramento
 
 Le Colline del Prosecco di Conegliano e Valdobbiadene sono un paesaggio culturale. Questa definizione è centrale: non si tratta semplicemente di un'area agricola o di una zona di produzione vinicola, ma di un territorio plasmato nel tempo dall'interazione tra uomo e natura. Il sito è stato iscritto nella Lista UNESCO nel 2019.
@@ -345,6 +352,7 @@ Questa scheda è utile anche per mostrare competenza sul turismo enogastronomico
 ### Temi di valorizzazione
 
 Le Colline del Prosecco permettono di parlare di:
+
 - paesaggio agrario storico;
 - viticoltura eroica o comunque complessa per la pendenza;
 - rapporto tra economia e tutela;
@@ -374,7 +382,8 @@ Usa l'espressione **paesaggio culturale** entro i primi 20 secondi. È la chiave
 ## Ville palladiane del Veneto
 
 ![Villa La Rotonda, Vicenza](https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Rotonda%20%28Vicenza%29.jpg)
-*Villa La Rotonda, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Rotonda%20%28Vicenza%29.jpg).*
+_Villa La Rotonda, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Rotonda%20%28Vicenza%29.jpg)._
+
 ### Inquadramento
 
 Le Ville palladiane del Veneto sono parte del sito UNESCO "Città di Vicenza e le Ville del Palladio nel Veneto". Il riconoscimento riguarda non solo alcuni edifici urbani di Vicenza, ma anche un sistema di ville distribuite nel territorio veneto. La fonte italiana UNESCO ricorda che il sito comprende 23 palazzi a Vicenza e 24 ville nel territorio circostante.
@@ -421,7 +430,8 @@ La parola chiave è **terraferma**. Le ville palladiane vanno spiegate come arch
 ## Gallerie dell'Accademia di Venezia - Pittura del Cinquecento; pittura del Seicento e Settecento
 
 ![Gallerie dell'Accademia, Venezia](https://commons.wikimedia.org/wiki/Special:FilePath/Gallerie%20dell%27Accademia%20%28Venice%29.jpg)
-*Gallerie dell'Accademia, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gallerie%20dell%27Accademia%20%28Venice%29.jpg).*
+_Gallerie dell'Accademia, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gallerie%20dell%27Accademia%20%28Venice%29.jpg)._
+
 ### Inquadramento
 
 Le Gallerie dell'Accademia conservano una delle più importanti raccolte di pittura veneziana e veneta. Il sito ufficiale le presenta come la più importante collezione di pittura veneziana e veneta al mondo. Per la lettura del sito, il percorso chiede due sezioni: **pittura del Cinquecento** e **pittura del Seicento e Settecento**.
@@ -445,6 +455,7 @@ Il Cinquecento è il secolo d'oro della pittura veneziana. Gli artisti chiave so
 Il Seicento veneziano è spesso meno noto del Cinquecento, ma va presentato come fase di trasformazione. La pittura risente del clima barocco, della teatralità, della devozione e dei nuovi rapporti con il mercato artistico.
 
 Il Settecento è invece un nuovo momento di grande riconoscibilità, con artisti come **Giambattista Tiepolo**, **Canaletto**, **Guardi**, **Piazzetta** e **Rosalba Carriera**. Qui i temi principali sono:
+
 - grande decorazione e pittura di soffitto;
 - vedutismo;
 - mercato del Grand Tour;
@@ -458,6 +469,7 @@ Il Settecento è invece un nuovo momento di grande riconoscibilità, con artisti
 ### Come visitare idealmente il museo
 
 Per la spiegazione, puoi immaginare un percorso in tre passaggi:
+
 1. Origini e maturazione della scuola veneziana.
 2. Culmine cinquecentesco con Giorgione, Tiziano, Tintoretto e Veronese.
 3. Trasformazione barocca e settecentesca con vedutismo e Tiepolo.
@@ -482,10 +494,11 @@ Prepara una risposta su tre coppie: **Tiziano/colore**, **Tintoretto/dramma**, *
 ---
 
 ## Percorsi narrativi brevi
+
 ### Percorso narrativo breve
 
 ![Dolomiti](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Tofana%20di%20Rozes.jpg)
-*Dolomiti. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Tofana%20di%20Rozes.jpg).*
+_Dolomiti. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Tofana%20di%20Rozes.jpg)._
 "Le Dolomiti venete, con riferimento all'area di Cortina e al Bellunese, fanno parte di uno dei paesaggi montani più celebri d'Europa. Anche se nel percorso principale veneto non compaiono come scheda autonoma, ma sono presenti nel percorso narrativo e vanno quindi considerate almeno come presentazione.
 
 Il primo elemento da spiegare è il valore paesaggistico e geologico. Le Dolomiti prendono il nome dalla dolomia, roccia carbonatica studiata da Déodat de Dolomieu. Le pareti chiare, le torri, i massicci isolati e il fenomeno dell'enrosadira, cioè la colorazione rosata delle cime al tramonto e all'alba, rendono il paesaggio dolomitico immediatamente riconoscibile.
@@ -501,6 +514,7 @@ Concluderei dicendo che le Dolomiti venete vanno raccontate come paesaggio total
 ---
 
 ## Sintesi finale
+
 ### Domande guida
 
 1. Spiega Vicenza come città stratificata tra età romana, Medioevo e Rinascimento palladiano.
@@ -523,32 +537,33 @@ Concluderei dicendo che le Dolomiti venete vanno raccontate come paesaggio total
 
 ### Ripasso rapido: parole chiave
 
-| Sito | 5 parole chiave |
-|---|---|
-| Vicenza | Palladio; criptoportico; Duomo; serliana; città stratificata |
-| Verona | Arena; romanico; Scaligeri; gotico funerario; UNESCO |
-| Padova | Sant'Antonio; Prato della Valle; Giotto; affresco; pellegrinaggio |
-| Piazza San Marco | basilica; doge; Repubblica; Bisanzio; cerimonia |
-| Laguna di Venezia | acqua; isole; Canal Grande; artigianato; Torcello |
-| Colline del Prosecco | paesaggio culturale; ciglioni; viticoltura; borghi; sostenibilità |
-| Ville palladiane | Palladio; terraferma; barchesse; classicismo; villa-fattoria |
-| Gallerie dell'Accademia | Tiziano; Tintoretto; Veronese; Tiepolo; vedutismo |
+| Sito                    | 5 parole chiave                                                   |
+| ----------------------- | ----------------------------------------------------------------- |
+| Vicenza                 | Palladio; criptoportico; Duomo; serliana; città stratificata      |
+| Verona                  | Arena; romanico; Scaligeri; gotico funerario; UNESCO              |
+| Padova                  | Sant'Antonio; Prato della Valle; Giotto; affresco; pellegrinaggio |
+| Piazza San Marco        | basilica; doge; Repubblica; Bisanzio; cerimonia                   |
+| Laguna di Venezia       | acqua; isole; Canal Grande; artigianato; Torcello                 |
+| Colline del Prosecco    | paesaggio culturale; ciglioni; viticoltura; borghi; sostenibilità |
+| Ville palladiane        | Palladio; terraferma; barchesse; classicismo; villa-fattoria      |
+| Gallerie dell'Accademia | Tiziano; Tintoretto; Veronese; Tiepolo; vedutismo                 |
 
 ---
 
 ## Fonti principali consultate
-- [UNESCO World Heritage Centre, *City of Vicenza and the Palladian Villas of the Veneto*](https://whc.unesco.org/en/list/712/)
-- [Commissione Nazionale Italiana per l'UNESCO, *Città di Vicenza e le Ville del Palladio nel Veneto*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-vicenza-e-le-ville-del-palladio-nel-veneto/)
-- [Ministero della Cultura, *Criptoportico romano di Vicenza*](https://cultura.gov.it/luogo/criptoportico-romano-di-vicenza)
-- [Commissione Nazionale Italiana per l'UNESCO, *Città di Verona*](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-verona/)
-- [Visit Verona, *Arche Scaligere*](https://www.visitverona.it/it/luoghi/arche-scaligere)
-- [UNESCO World Heritage Centre, *Padua's fourteenth-century fresco cycles*](https://whc.unesco.org/en/list/1623/)
-- [Cappella degli Scrovegni / Musei Civici di Padova, *La storia*](https://cappellascrovegni.padovamusei.it/it/cappella-giotto/storia)
+
+- [UNESCO World Heritage Centre, _City of Vicenza and the Palladian Villas of the Veneto_](https://whc.unesco.org/en/list/712/)
+- [Commissione Nazionale Italiana per l'UNESCO, _Città di Vicenza e le Ville del Palladio nel Veneto_](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-vicenza-e-le-ville-del-palladio-nel-veneto/)
+- [Ministero della Cultura, _Criptoportico romano di Vicenza_](https://cultura.gov.it/luogo/criptoportico-romano-di-vicenza)
+- [Commissione Nazionale Italiana per l'UNESCO, _Città di Verona_](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-verona/)
+- [Visit Verona, _Arche Scaligere_](https://www.visitverona.it/it/luoghi/arche-scaligere)
+- [UNESCO World Heritage Centre, _Padua's fourteenth-century fresco cycles_](https://whc.unesco.org/en/list/1623/)
+- [Cappella degli Scrovegni / Musei Civici di Padova, _La storia_](https://cappellascrovegni.padovamusei.it/it/cappella-giotto/storia)
 - [Basilica di Sant'Antonio di Padova](https://www.santantonio.org/it/basilica)
-- [UNESCO World Heritage Centre, *Venice and its Lagoon*](https://whc.unesco.org/en/list/394/)
-- [Palazzo Ducale / Fondazione Musei Civici di Venezia, *Building and history*](https://palazzoducale.visitmuve.it/en/building-and-history/)
-- [Venezia Unica, *Le isole veneziane da scoprire*](https://www.veneziaunica.it/it/cosa-fare-a-venezia/il-territorio-di-venezia/isole)
-- [UNESCO World Heritage Centre, *The Prosecco Hills of Conegliano and Valdobbiadene*](https://whc.unesco.org/en/list/1571/)
+- [UNESCO World Heritage Centre, _Venice and its Lagoon_](https://whc.unesco.org/en/list/394/)
+- [Palazzo Ducale / Fondazione Musei Civici di Venezia, _Building and history_](https://palazzoducale.visitmuve.it/en/building-and-history/)
+- [Venezia Unica, _Le isole veneziane da scoprire_](https://www.veneziaunica.it/it/cosa-fare-a-venezia/il-territorio-di-venezia/isole)
+- [UNESCO World Heritage Centre, _The Prosecco Hills of Conegliano and Valdobbiadene_](https://whc.unesco.org/en/list/1571/)
 - [Sito ufficiale Colline del Prosecco Conegliano e Valdobbiadene](https://collineconeglianovaldobbiadene.it/)
-- [Villa La Rotonda, *Patrimonio UNESCO*](https://www.villalarotonda.it/)
+- [Villa La Rotonda, _Patrimonio UNESCO_](https://www.villalarotonda.it/)
 - [Gallerie dell'Accademia di Venezia](https://www.gallerieaccademia.it/)
