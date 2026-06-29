@@ -16,12 +16,12 @@ La Provincia autonoma di Trento lega paesaggio alpino, città storica e memoria 
 
 ## Piazza Duomo - Trento
 
-![Piazza Duomo con Fontana del Nettuno e Cattedrale di San Vigilio](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Piazza%20del%20Duomo.jpg)
-_Piazza Duomo con Fontana del Nettuno e Cattedrale di San Vigilio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Piazza%20del%20Duomo.jpg)._
-![Torre Civica e Palazzo Pretorio](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Torre%20Civica-Palazzo%20Pretorio.jpg)
-_Torre Civica e Palazzo Pretorio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento-Torre%20Civica-Palazzo%20Pretorio.jpg)._
-![Cattedrale di San Vigilio](https://commons.wikimedia.org/wiki/Special:FilePath/Trento%2C%20cattedrale%20di%20San%20Vigilio.jpg)
-_Cattedrale di San Vigilio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trento%2C%20cattedrale%20di%20San%20Vigilio.jpg)._
+![Piazza Duomo con Fontana del Nettuno e Cattedrale di San Vigilio](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Trento-Piazza_del_Duomo.jpg/1280px-Trento-Piazza_del_Duomo.jpg>)
+_Piazza Duomo con Fontana del Nettuno e Cattedrale di San Vigilio. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Trento-Piazza_del_Duomo.jpg>)._
+![Torre Civica e Palazzo Pretorio](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Trento-Torre_Civica-Palazzo_Pretorio.jpg/1280px-Trento-Torre_Civica-Palazzo_Pretorio.jpg>)
+_Torre Civica e Palazzo Pretorio. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Trento-Torre_Civica-Palazzo_Pretorio.jpg>)._
+![Cattedrale di San Vigilio](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Trento%2C_cattedrale_di_San_Vigilio.jpg/1280px-Trento%2C_cattedrale_di_San_Vigilio.jpg>)
+_Cattedrale di San Vigilio. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Trento,_cattedrale_di_San_Vigilio.jpg>)._
 
 ---
 
@@ -295,7 +295,7 @@ San Vigilio - Federico Vanga - Concilio - Torre Civica - Nettuno
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Comune di Trento, "Piazza Duomo"](https://www.comune.trento.it/Vivere-il-Comune/Luoghi/Piazza-Duomo)
 - [Comune di Trento, "Cattedrale di San Vigilio"](https://www.comune.trento.it/Vivere-il-Comune/Luoghi/Cattedrale-di-San-Vigilio)

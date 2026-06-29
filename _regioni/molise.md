@@ -16,8 +16,8 @@ Il Molise conserva un patrimonio compatto ma molto leggibile, legato a viabilit�
 
 ## Parco Archeologico di Saepinum-Altilia / Parco Archeologico di Sepino
 
-![Veduta dell'area archeologica di Altilia-Saepinum](https://commons.wikimedia.org/wiki/Special:FilePath/Altilia-Sepino.JPG)
-_Veduta dell'area archeologica di Altilia-Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Altilia-Sepino.JPG)._
+![Veduta dell'area archeologica di Altilia-Saepinum](<https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Altilia-Sepino.JPG/1280px-Altilia-Sepino.JPG>)
+_Veduta dell'area archeologica di Altilia-Saepinum. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Altilia-Sepino.JPG>)._
 
 ### Dati essenziali
 
@@ -100,8 +100,8 @@ Il caso più evidente è il **teatro romano**, sulla cui cavea furono costruite 
 
 ### Cosa vedere e come raccontarlo
 
-![Porta Bojano](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20Porta%20Bojano%201.jpg)
-_Porta Bojano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20Porta%20Bojano%201.jpg)._
+![Porta Bojano](<https://upload.wikimedia.org/wikipedia/commons/2/23/Saepinum_-_Porta_Bojano_1.jpg>)
+_Porta Bojano. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Saepinum_-_Porta_Bojano_1.jpg>)._
 
 #### Le mura e le porte
 
@@ -150,8 +150,8 @@ Nel descrizione, il macellum può essere collegato al territorio: Saepinum nasce
 
 #### Il teatro romano
 
-![Teatro romano di Saepinum](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20scorcio%20del%20teatro.jpg)
-_Teatro romano di Saepinum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Saepinum%20-%20scorcio%20del%20teatro.jpg)._
+![Teatro romano di Saepinum](<https://upload.wikimedia.org/wikipedia/commons/0/03/Saepinum_-_scorcio_del_teatro.jpg>)
+_Teatro romano di Saepinum. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Saepinum_-_scorcio_del_teatro.jpg>)._
 Il **teatro romano** è uno degli elementi più suggestivi del sito. Va raccontato su due piani.
 
 Il primo piano è quello romano: il teatro è l'edificio dello spettacolo, della socialità e della rappresentazione pubblica. In una città romana, il teatro non è solo intrattenimento: è anche luogo di identità civica e di visibilità sociale.
@@ -422,7 +422,7 @@ Saepinum-Altilia è uno dei principali siti archeologici del Molise. Si trova a 
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Ministero della Cultura, scheda ufficiale: **Parco archeologico di Sepino - Area archeologica di Altilia-Saepinum**](https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum)
 - [Parco Archeologico di Sepino, sito istituzionale: **Chi siamo / Competenze / Contatti**](https://www.parcosepino.it/)

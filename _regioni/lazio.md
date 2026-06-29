@@ -12,34 +12,32 @@ Il Lazio ruota attorno a Roma ma comprende anche abbazie, vie consolari, aree ar
 
 |  N. | Voce                                                                                   | Tipologia                     | Area                             | Descrizione                                                                                                                                         |
 | --: | -------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Basilica di San Giovanni in Laterano                                                   | Sito storico-artistico        | Territorio regionale             | Immagine consigliata: facciata principale, interno con navata borrominiana, chiostro cosmatesco, battistero lateranense.                            |
-|   2 | Cattedrale di Anagni                                                                   | Sito storico-artistico        | Territorio regionale             | Immagine consigliata: facciata e campanile, interno romanico, cripta di San Magno, pavimento cosmatesco.                                            |
-|   3 | Circo Massimo e Terme di Caracalla                                                     | Sito o tema                   | Territorio regionale             | Fonti principali: Sovrintendenza Capitolina per il Circo Massimo; Ministero della Cultura e Soprintendenza Speciale Roma per le Terme di Caracalla. |
-|   4 | Civita di Bagnoregio                                                                   | Sito o tema                   | Territorio regionale             | Immagine consigliata: veduta della rupe tufacea e del ponte pedonale; scorci del borgo; paesaggio dei calanchi.                                     |
-|   5 | Parco Archeologico del Colosseo                                                        | Paesaggio o area archeologica | Territorio regionale             | Fonti principali: Parco archeologico del Colosseo; Ministero della Cultura.                                                                         |
-|   6 | Necropoli di Tarquinia                                                                 | Area archeologica             | Territorio regionale             | Immagine consigliata: Tomba dei Leopardi, Tomba della Caccia e Pesca, Tomba degli Auguri, camera funeraria dipinta.                                 |
-|   7 | Necropoli di Cerveteri                                                                 | Area archeologica             | Territorio regionale             | Immagine consigliata: tumuli della Banditaccia, interno di una tomba, via sepolcrale.                                                               |
-|   8 | Parco Archeologico di Ostia Antica                                                     | Paesaggio o area archeologica | Territorio regionale             | Fonti principali: Parco archeologico di Ostia Antica; Ministero della Cultura.                                                                      |
-|   9 | Pantheon                                                                               | Sito o tema                   | Territorio regionale             | Fonti principali: Direzione Musei nazionali della città di Roma - Pantheon e Castel Sant'Angelo; Ministero della Cultura.                           |
-|  10 | Fori Imperiali                                                                         | Sito o tema                   | Territorio regionale             | Fonti principali: Sovrintendenza Capitolina; Turismo Roma; Mercati di Traiano.                                                                      |
-|  11 | Basilica di San Pietro                                                                 | Sito storico-artistico        | Territorio regionale             | Fonti principali: sito ufficiale della Basilica di San Pietro; Vatican.va.                                                                          |
-|  12 | Parco Archeologico dell'Appia Antica                                                   | Paesaggio o area archeologica | Territorio regionale             | Fonti principali: Parco Archeologico dell'Appia Antica.                                                                                             |
-|  13 | Roma barocca monumentale: Fontana di Trevi, Piazza Navona, Vittoriano e Piazza Venezia | Sito storico-artistico        | Vittoriano e Piazza Venezia      | Fonti principali: Turismo Roma; VIVE - Vittoriano e Palazzo Venezia; Sovrintendenza Capitolina.                                                     |
-|  14 | Musei Vaticani                                                                         | Sito o tema                   | Territorio regionale             | Fonti principali: sito ufficiale dei Musei Vaticani.                                                                                                |
-|  15 | Galleria Borghese                                                                      | Museo                         | Territorio regionale             | Fonti principali: Galleria Borghese - sito ufficiale; catalogo digitale della collezione.                                                           |
-|  16 | Castel Sant'Angelo                                                                     | Sito o tema                   | Territorio regionale             | Fonti principali: Museo Nazionale di Castel Sant'Angelo; Direzione Musei nazionali della città di Roma; sito ufficiale Castel Sant'Angelo.          |
-|  17 | Galleria Nazionale d'Arte Moderna e Contemporanea                                      | Museo                         | Territorio regionale             | Fonti principali: sito ufficiale della Galleria Nazionale d'Arte Moderna e Contemporanea.                                                           |
-|  18 | Museo Nazionale Romano                                                                 | Museo                         | Roma                             | Fonti principali: Museo Nazionale Romano; Turismo Roma; Ministero della Cultura.                                                                    |
-|  19 | Museo Nazionale Etrusco di Villa Giulia                                                | Museo                         | Territorio regionale             | Fonti principali: ETRU - Museo Nazionale Etrusco di Villa Giulia.                                                                                   |
-|  20 | Musei Capitolini                                                                       | Sito o tema                   | Territorio regionale             | Fonti principali: Musei Capitolini - sito ufficiale.                                                                                                |
-|  21 | Palazzo Barberini e Palazzo Corsini - Gallerie Nazionali d'Arte Antica                 | Sito storico-artistico        | Gallerie Nazionali d'Arte Antica | Nucleo trattato: Gallerie Nazionali d'Arte Antica.                                                                                                  |
+|   1 | Basilica di San Giovanni in Laterano                                                   | Sito storico-artistico        | Territorio regionale             | Cattedrale di Roma e basilica papale, fondamentale per leggere il cristianesimo costantiniano, il medioevo romano e il rinnovamento barocco. |
+|   2 | Cattedrale di Anagni                                                                   | Sito storico-artistico        | Territorio regionale             | Monumento romanico legato alla storia del papato medievale, celebre soprattutto per la cripta di San Magno e il pavimento cosmatesco. |
+|   3 | Circo Massimo e Terme di Caracalla                                                     | Sito o tema                   | Territorio regionale             | Due grandi complessi della Roma imperiale che raccontano spettacolo pubblico, vita urbana, infrastrutture e monumentalità del potere. |
+|   4 | Civita di Bagnoregio                                                                   | Sito o tema                   | Territorio regionale             | Borgo storico su rupe tufacea, utile per spiegare il rapporto tra insediamento, fragilità geologica e paesaggio dei calanchi. |
+|   5 | Parco Archeologico del Colosseo                                                        | Paesaggio o area archeologica | Territorio regionale             | Sistema archeologico centrale di Roma antica, con Colosseo, Foro Romano, Palatino e monumenti legati a spettacolo, potere e memoria urbana. |
+|   6 | Necropoli di Tarquinia                                                                 | Area archeologica             | Territorio regionale             | Sito etrusco di eccezionale valore per le tombe dipinte, indispensabile per comprendere società, ritualità e immaginario funerario dell'Etruria. |
+|   7 | Necropoli di Cerveteri                                                                 | Area archeologica             | Territorio regionale             | Necropoli monumentale etrusca organizzata come paesaggio funerario, con tumuli, vie sepolcrali e tombe a camera. |
+|   8 | Parco Archeologico di Ostia Antica                                                     | Paesaggio o area archeologica | Territorio regionale             | Antica città portuale di Roma, fondamentale per raccontare commercio, vita quotidiana, urbanistica e società romana. |
+|   9 | Pantheon                                                                               | Sito o tema                   | Territorio regionale             | Capolavoro dell'architettura romana, celebre per pronao, rotonda e cupola, poi trasformato in chiesa cristiana. |
+|  10 | Fori Imperiali                                                                         | Sito o tema                   | Territorio regionale             | Sequenza di piazze monumentali imperiali che mostra l'evoluzione del centro politico, celebrativo e amministrativo di Roma. |
+|  11 | Basilica di San Pietro                                                                 | Sito storico-artistico        | Territorio regionale             | Grande basilica vaticana costruita sul luogo della memoria dell'apostolo Pietro, sintesi di architettura rinascimentale e scenografia barocca. |
+|  12 | Parco Archeologico dell'Appia Antica                                                   | Paesaggio o area archeologica | Territorio regionale             | Paesaggio storico lungo la via consolare, con basolato, sepolcri, ville, catacombe e continuità tra città antica e campagna romana. |
+|  13 | Roma barocca monumentale: Fontana di Trevi, Piazza Navona, Vittoriano e Piazza Venezia | Sito storico-artistico        | Vittoriano e Piazza Venezia      | Percorso urbano tra fontane, piazze e monumenti rappresentativi, utile per leggere Roma come teatro della committenza papale e civile. |
+|  14 | Musei Vaticani                                                                         | Sito o tema                   | Territorio regionale             | Complesso museale nato dalle collezioni pontificie, con nuclei fondamentali come Cappella Sistina, Stanze di Raffaello e Museo Pio-Clementino. |
+|  15 | Galleria Borghese                                                                      | Museo                         | Territorio regionale             | Museo legato al collezionismo di Scipione Borghese, centrale per Bernini, Caravaggio, Raffaello, Canova e la cultura figurativa barocca. |
+|  16 | Castel Sant'Angelo                                                                     | Sito o tema                   | Territorio regionale             | Monumento stratificato nato come mausoleo di Adriano e trasformato in fortezza, residenza papale, carcere e museo. |
+|  17 | Galleria Nazionale d'Arte Moderna e Contemporanea                                      | Museo                         | Territorio regionale             | Museo statale dedicato all'arte italiana e internazionale tra Ottocento, Novecento e contemporaneità, con sede a Valle Giulia. |
+|  18 | Museo Nazionale Romano                                                                 | Museo                         | Roma                             | Sistema museale archeologico articolato in più sedi, fondamentale per scultura, pittura, epigrafia e cultura materiale della Roma antica. |
+|  19 | Museo Nazionale Etrusco di Villa Giulia                                                | Museo                         | Territorio regionale             | Principale museo italiano dedicato alla civiltà etrusca, ospitato nella villa rinascimentale di papa Giulio III. |
+|  20 | Musei Capitolini                                                                       | Sito o tema                   | Territorio regionale             | Museo civico storico di Roma, con collezioni archeologiche e artistiche legate al Campidoglio e alla memoria della città. |
+|  21 | Palazzo Barberini e Palazzo Corsini - Gallerie Nazionali d'Arte Antica                 | Sito storico-artistico        | Gallerie Nazionali d'Arte Antica | Sedi delle Gallerie Nazionali di Arte Antica, importanti per pittura, collezionismo romano e grandi cantieri barocchi. |
 
 ## Basilica di San Giovanni in Laterano
 
-![San Giovanni in Laterano - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/San_Giovanni_in_Laterano_-_Rome.jpg)
-_San Giovanni in Laterano - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/San_Giovanni_in_Laterano_-_Rome.jpg)._
-**Immagine consigliata:** facciata principale, interno con navata borrominiana, chiostro cosmatesco, battistero lateranense.
-**Fonti principali:** sito ufficiale della Basilica di San Giovanni in Laterano; portale del Giubileo; schede storico-artistiche del Vaticano.
+![San Giovanni in Laterano](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/San_Giovanni_in_Laterano_-_Rome.jpg/1280px-San_Giovanni_in_Laterano_-_Rome.jpg>)
+_San Giovanni in Laterano, basilica cattedrale di Roma; nella visita sono centrali facciata principale, interno con navata borrominiana, chiostro cosmatesco e battistero lateranense. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:San_Giovanni_in_Laterano_-_Rome.jpg>)._
 
 ### Inquadramento
 
@@ -73,10 +71,8 @@ La Basilica di San Giovanni in Laterano è la cattedrale di Roma e quindi la sed
 
 ## Cattedrale di Anagni
 
-![Cattedrale di Anagni - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Anagni_Cathedral.jpg)
-_Cattedrale di Anagni - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Anagni_Cathedral.jpg)._
-**Immagine consigliata:** facciata e campanile, interno romanico, cripta di San Magno, pavimento cosmatesco.
-**Fonti principali:** Cattedrale e Museo di Anagni; MuCA - Museo della Cattedrale di Anagni.
+![Cattedrale di Anagni](<https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cattedrale_di_Santa_Maria_%28Anagni%29_con_campanile.JPG/1280px-Cattedrale_di_Santa_Maria_%28Anagni%29_con_campanile.JPG>)
+_Cattedrale di Anagni, con facciata e campanile romanici; il percorso comprende interno, cripta di San Magno e pavimento cosmatesco. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_(Anagni)_con_campanile.JPG>)._
 
 ### Inquadramento
 
@@ -110,9 +106,8 @@ La Cattedrale di Anagni è uno dei più importanti monumenti medievali del Lazio
 
 ## Circo Massimo e Terme di Caracalla
 
-![Circo Massimo - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Circus_Maximus_Rome.jpg)
-_Circo Massimo - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Circus_Maximus_Rome.jpg)._
-**Fonti principali:** Sovrintendenza Capitolina per il Circo Massimo; Ministero della Cultura e Soprintendenza Speciale Roma per le Terme di Caracalla.
+![Circo Massimo](<https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Circus_Maximus_Rome.jpg/1280px-Circus_Maximus_Rome.jpg>)
+_Circo Massimo, area dell'antico circo romano nella valle tra Palatino e Aventino. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Circus_Maximus_Rome.jpg>)._
 
 ### Inquadramento
 
@@ -150,10 +145,8 @@ Circo Massimo e Terme di Caracalla rappresentano due aspetti centrali della vita
 
 ## Civita di Bagnoregio
 
-![Civita di Bagnoregio - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Civita_di_Bagnoregio.jpg)
-_Civita di Bagnoregio - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Civita_di_Bagnoregio.jpg)._
-**Immagine consigliata:** veduta della rupe tufacea e del ponte pedonale; scorci del borgo; paesaggio dei calanchi.
-**Fonti principali:** Direzione regionale Musei/Lazio cultura; materiali ufficiali sul paesaggio culturale di Civita.
+![Civita di Bagnoregio](<https://upload.wikimedia.org/wikipedia/commons/2/2e/Civita_di_Bagnoregio.jpg>)
+_Civita di Bagnoregio, veduta della rupe tufacea con ponte pedonale e paesaggio dei calanchi. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Civita_di_Bagnoregio.jpg>)._
 
 ### Inquadramento
 
@@ -185,9 +178,8 @@ Civita di Bagnoregio è un borgo storico del Viterbese posto su una rupe tufacea
 
 ## Parco Archeologico del Colosseo
 
-![Colosseo - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum_in_Rome,_Italy_-_April_2007.jpg)
-_Colosseo - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Colosseum_in_Rome,_Italy_-_April_2007.jpg)._
-**Fonti principali:** Parco archeologico del Colosseo; Ministero della Cultura.
+![Colosseo](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg/1280px-Colosseum_in_Rome%2C_Italy_-_April_2007.jpg>)
+_Anfiteatro Flavio, il Colosseo, nel Parco Archeologico del Colosseo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg>)._
 
 ### Inquadramento
 
@@ -223,10 +215,8 @@ Il Parco Archeologico del Colosseo non comprende solo l'Anfiteatro Flavio, ma un
 
 ## Necropoli di Tarquinia
 
-![Tarquinia - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Tarquinia_Tomba_dei_Leopardi.jpg)
-_Tarquinia - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Tarquinia_Tomba_dei_Leopardi.jpg)._
-**Immagine consigliata:** Tomba dei Leopardi, Tomba della Caccia e Pesca, Tomba degli Auguri, camera funeraria dipinta.
-**Fonti principali:** UNESCO - Necropoli etrusche di Cerveteri e Tarquinia; Parco archeologico / MiC.
+![Necropoli di Tarquinia, Tomba dei Leopardi](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monterozzi_necropolis_%E2%80%94_Tomb_of_the_Leopards.jpg/1280px-Monterozzi_necropolis_%E2%80%94_Tomb_of_the_Leopards.jpg>)
+_Necropoli di Tarquinia, Tomba dei Leopardi, camera funeraria dipinta etrusca; il percorso comprende anche la Tomba della Caccia e Pesca e la Tomba degli Auguri. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Monterozzi_necropolis_%E2%80%94_Tomb_of_the_Leopards.jpg>)._
 
 ### Inquadramento
 
@@ -258,10 +248,8 @@ La necropoli di Tarquinia è uno dei principali siti etruschi del Lazio e, con C
 
 ## Necropoli di Cerveteri
 
-![Cerveteri - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Cerveteri_Banditaccia.jpg)
-_Cerveteri - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cerveteri_Banditaccia.jpg)._
-**Immagine consigliata:** tumuli della Banditaccia, interno di una tomba, via sepolcrale.
-**Fonti principali:** UNESCO; Ministero della Cultura; Parco archeologico di Cerveteri e Tarquinia.
+![Necropoli di Cerveteri, Banditaccia](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cerveteri%2C_necropoli_della_banditaccia%2C_via_sepolcrale_principale%2C_01.jpg/1280px-Cerveteri%2C_necropoli_della_banditaccia%2C_via_sepolcrale_principale%2C_01.jpg>)
+_Necropoli della Banditaccia a Cerveteri, con tumuli e percorsi sepolcrali etruschi. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cerveteri,_necropoli_della_banditaccia,_via_sepolcrale_principale,_01.jpg>)._
 
 ### Inquadramento
 
@@ -293,9 +281,8 @@ La Necropoli della Banditaccia di Cerveteri è uno dei più importanti siti fune
 
 ## Parco Archeologico di Ostia Antica
 
-![Ostia Antica - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Ostia_antica_theatre.jpg)
-_Ostia Antica - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Ostia_antica_theatre.jpg)._
-**Fonti principali:** Parco archeologico di Ostia Antica; Ministero della Cultura.
+![Teatro di Ostia Antica](<https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Panoramica_Teatro_di_Ostia.jpg/1280px-Panoramica_Teatro_di_Ostia.jpg>)
+_Parco archeologico di Ostia Antica, teatro romano dell'antica colonia portuale. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Panoramica_Teatro_di_Ostia.jpg>)._
 
 ### Inquadramento
 
@@ -329,9 +316,8 @@ Ostia Antica fu la città portuale di Roma e uno dei principali centri commercia
 
 ## Pantheon
 
-![Pantheon - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon_Rome_2005.jpg)
-_Pantheon - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon_Rome_2005.jpg)._
-**Fonti principali:** Direzione Musei nazionali della città di Roma - Pantheon e Castel Sant'Angelo; Ministero della Cultura.
+![Pantheon](<https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/1280px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg>)
+_Pantheon di Roma, fronte del tempio con il grande pronao monumentale. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg>)._
 
 ### Inquadramento
 
@@ -365,9 +351,8 @@ Il Pantheon è uno dei massimi capolavori dell'architettura romana. Il primo edi
 
 ## Fori Imperiali
 
-![Fori Imperiali - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Fori_Imperiali_Rome.jpg)
-_Fori Imperiali - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Fori_Imperiali_Rome.jpg)._
-**Fonti principali:** Sovrintendenza Capitolina; Turismo Roma; Mercati di Traiano.
+![Fori Imperiali](<https://upload.wikimedia.org/wikipedia/commons/6/6d/Fori_Imperiali_Roma_Italia_%2893949881%29.jpeg>)
+_Fori Imperiali, veduta dell'area archeologica dei complessi forensi di Roma. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Fori_Imperiali_Roma_Italia_(93949881).jpeg>)._
 
 ### Inquadramento
 
@@ -399,9 +384,8 @@ I Fori Imperiali sono una serie di piazze monumentali realizzate tra la fine del
 
 ## Basilica di San Pietro
 
-![Basilica di San Pietro - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/St_Peter%27s_Basilica_facade,_Rome,_Italy.jpg)
-_Basilica di San Pietro - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/St_Peter%27s_Basilica_facade,_Rome,_Italy.jpg)._
-**Fonti principali:** sito ufficiale della Basilica di San Pietro; Vatican.va.
+![Basilica di San Pietro](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg>)
+_Basilica di San Pietro in Vaticano, facciata principale su piazza San Pietro. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg>)._
 
 ### Inquadramento
 
@@ -435,9 +419,8 @@ La Basilica di San Pietro è uno dei principali monumenti della cristianità e d
 
 ## Parco Archeologico dell'Appia Antica
 
-![Appia Antica - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Appian_Way_Rome.jpg)
-_Appia Antica - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Appian_Way_Rome.jpg)._
-**Fonti principali:** Parco Archeologico dell'Appia Antica.
+![Via Appia Antica](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Paesaggio_dell%27Appia_antica.jpg/1280px-Paesaggio_dell%27Appia_antica.jpg>)
+_Via Appia Antica, basolato romano nel Parco Archeologico dell'Appia Antica. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Paesaggio_dell%27Appia_antica.jpg>)._
 
 ### Inquadramento
 
@@ -469,9 +452,8 @@ Il Parco Archeologico dell'Appia Antica conserva uno dei paesaggi storici più i
 
 ## Roma barocca monumentale: Fontana di Trevi, Piazza Navona, Vittoriano e Piazza Venezia
 
-![Fontana di Trevi - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg)
-_Fontana di Trevi - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg)._
-**Fonti principali:** Turismo Roma; VIVE - Vittoriano e Palazzo Venezia; Sovrintendenza Capitolina.
+![Fontana di Trevi](<https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/1280px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg>)
+_Fontana di Trevi, prospetto monumentale della fontana barocca. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg>)._
 
 ### Inquadramento
 
@@ -509,14 +491,12 @@ La Roma barocca monumentale si esprime attraverso piazze e fontane che trasforma
 
 ## Musei Vaticani
 
-![Musei Vaticani - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Sistine_Chapel_ceiling.jpg)
-_Musei Vaticani - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sistine_Chapel_ceiling.jpg)._
-**Sezioni richieste dalil percorso:** Cappella Sistina, Stanze di Raffaello, Galleria delle Carte Geografiche, Museo Pio-Clementino.
-**Fonti principali:** sito ufficiale dei Musei Vaticani.
+![Cappella Sistina, Musei Vaticani](<https://upload.wikimedia.org/wikipedia/commons/c/c8/Sistine_Chapel_ceiling.jpg>)
+_Musei Vaticani, volta della Cappella Sistina con il ciclo michelangiolesco. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Sistine_Chapel_ceiling.jpg>)._
 
 ### Inquadramento
 
-I Musei Vaticani custodiscono le collezioni raccolte dai pontefici a partire dal XVI secolo e costituiscono uno dei maggiori complessi museali al mondo. Per la spiegazione non serve raccontare "tutti i Musei Vaticani", ma concentrarsi sulle sezioni indicate dalil percorso.
+I Musei Vaticani custodiscono le collezioni raccolte dai pontefici a partire dal XVI secolo e costituiscono uno dei maggiori complessi museali al mondo. Per la spiegazione non serve raccontare "tutti i Musei Vaticani", ma concentrarsi sulle sezioni indicate dal percorso.
 
 ### Cappella Sistina
 
@@ -550,10 +530,8 @@ I Musei Vaticani sono il grande complesso museale nato dalle collezioni pontific
 
 ## Galleria Borghese
 
-![Galleria Borghese - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Borghese,_Rome.jpg)
-_Galleria Borghese - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Borghese,_Rome.jpg)._
-**Sezioni richieste dalil percorso:** opere di Bernini, Caravaggio, Raffaello e Canova.
-**Fonti principali:** Galleria Borghese - sito ufficiale; catalogo digitale della collezione.
+![Galleria Borghese](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Facade_-_Galleria_Borghese_-_Rome_-_Italy_2015.JPG/1280px-Facade_-_Galleria_Borghese_-_Rome_-_Italy_2015.JPG>)
+_Galleria Borghese, facciata della villa nel parco di Villa Borghese. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Facade_-_Galleria_Borghese_-_Rome_-_Italy_2015.JPG>)._
 
 ### Inquadramento
 
@@ -585,10 +563,8 @@ La Galleria Borghese nasce dal collezionismo del cardinale Scipione Borghese e c
 
 ## Castel Sant'Angelo
 
-![Castel Sant'Angelo - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Castel_Sant%27Angelo,_Rome,_Italy_-_April_2007.jpg)
-_Castel Sant'Angelo - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castel_Sant%27Angelo,_Rome,_Italy_-_April_2007.jpg)._
-**Sezioni richieste dalil percorso:** Mausoleo di Adriano, Appartamenti Papali, Cortile dell'Angelo, Prigioni Storiche, Passetto di Borgo.
-**Fonti principali:** Museo Nazionale di Castel Sant'Angelo; Direzione Musei nazionali della città di Roma; sito ufficiale Castel Sant'Angelo.
+![Castel Sant'Angelo](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Castel_Sant%27Angelo_at_Night.jpg/1280px-Castel_Sant%27Angelo_at_Night.jpg>)
+_Castel Sant'Angelo, veduta esterna del mausoleo di Adriano trasformato in fortezza papale. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castel_Sant%27Angelo_at_Night.jpg>)._
 
 ### Inquadramento
 
@@ -636,10 +612,8 @@ In conclusione, Castel Sant'Angelo è un monumento chiave perché permette di ra
 
 ## Galleria Nazionale d'Arte Moderna e Contemporanea
 
-![GNAM - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Nazionale_d%27Arte_Moderna_Roma.jpg)
-_GNAM - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Galleria_Nazionale_d%27Arte_Moderna_Roma.jpg)._
-**Sezioni richieste dalil percorso:** XIX secolo, XX secolo, collezione d'arte contemporanea.
-**Fonti principali:** sito ufficiale della Galleria Nazionale d'Arte Moderna e Contemporanea.
+![Galleria Nazionale d'Arte Moderna e Contemporanea](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Roma_-_Palazzo_delle_Belle_Arti_-_2023-12-08_23-44-55_006.jpg/1280px-Roma_-_Palazzo_delle_Belle_Arti_-_2023-12-08_23-44-55_006.jpg>)
+_Galleria Nazionale d'Arte Moderna e Contemporanea, sede di Valle Giulia a Roma. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Roma_-_Palazzo_delle_Belle_Arti_-_2023-12-08_23-44-55_006.jpg>)._
 
 ### Inquadramento
 
@@ -671,10 +645,8 @@ La Galleria Nazionale d'Arte Moderna e Contemporanea è il principale museo stat
 
 ## Museo Nazionale Romano
 
-![Museo Nazionale Romano - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Massimo_alle_Terme_Rome.jpg)
-_Museo Nazionale Romano - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Massimo_alle_Terme_Rome.jpg)._
-**Sezioni richieste dalil percorso:** Palazzo Massimo, Terme di Diocleziano, Crypta Balbi, Palazzo Altemps.
-**Fonti principali:** Museo Nazionale Romano; Turismo Roma; Ministero della Cultura.
+![Museo Nazionale Romano, Palazzo Massimo alle Terme](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Palais_Massimo_Thermes_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg/1280px-Palais_Massimo_Thermes_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg>)
+_Museo Nazionale Romano, Palazzo Massimo alle Terme, una delle sedi principali del museo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Palais_Massimo_Thermes_-_Rome_(IT62)_-_2021-08-25_-_1.jpg>)._
 
 ### Inquadramento
 
@@ -712,9 +684,8 @@ Il Museo Nazionale Romano è il principale museo archeologico dedicato alla stor
 
 ## Museo Nazionale Etrusco di Villa Giulia
 
-![Villa Giulia - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Giulia_Roma.jpg)
-_Villa Giulia - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Giulia_Roma.jpg)._
-**Fonti principali:** ETRU - Museo Nazionale Etrusco di Villa Giulia.
+![Museo Nazionale Etrusco di Villa Giulia](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Villa_Giulia_%28Roma%29_2.jpg/1280px-Villa_Giulia_%28Roma%29_2.jpg>)
+_Museo Nazionale Etrusco di Villa Giulia, facciata della villa rinascimentale a Roma. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Villa_Giulia_(Roma)_2.jpg>)._
 
 ### Inquadramento
 
@@ -746,10 +717,8 @@ Il Museo Nazionale Etrusco di Villa Giulia è il principale museo italiano dedic
 
 ## Musei Capitolini
 
-![Musei Capitolini - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_del_Campidoglio_Rome.jpg)
-_Musei Capitolini - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_del_Campidoglio_Rome.jpg)._
-**Sezioni richieste dalil percorso:** Palazzo dei Conservatori, Palazzo Nuovo, Pinacoteca Capitolina, Tabularium.
-**Fonti principali:** Musei Capitolini - sito ufficiale.
+![Musei Capitolini, Piazza del Campidoglio](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Piazza_del_Campidoglio_2015.jpg/1280px-Piazza_del_Campidoglio_2015.jpg>)
+_Musei Capitolini, Piazza del Campidoglio e accesso al complesso museale capitolino. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Piazza_del_Campidoglio_2015.jpg>)._
 
 ### Inquadramento
 
@@ -787,10 +756,8 @@ I Musei Capitolini sono il grande museo civico di Roma e hanno origine nella don
 
 ## Palazzo Barberini e Palazzo Corsini - Gallerie Nazionali d'Arte Antica
 
-![Palazzo Barberini - immagine indicativa](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Barberini_Roma.jpg)
-_Palazzo Barberini - immagine indicativa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Barberini_Roma.jpg)._
-**Nucleo trattato:** Gallerie Nazionali d'Arte Antica.
-**Fonti principali:** Gallerie Nazionali Barberini Corsini - sito ufficiale.
+![Palazzo Barberini](<https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Palazzo_Barberini_-_esterno.jpg/1280px-Palazzo_Barberini_-_esterno.jpg>)
+_Palazzo Barberini, sede delle Gallerie Nazionali di Arte Antica a Roma. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Palazzo_Barberini_-_esterno.jpg>)._
 
 ### Inquadramento
 
@@ -888,9 +855,7 @@ In conclusione, Villa dei Quintili e Santa Maria Nova sono un esempio perfetto d
 
 ---
 
----
-
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Basilica di San Giovanni in Laterano, sito ufficiale](https://www.basilicasangiovanni.va/)
 - [Cattedrale e Museo di Anagni](https://www.cattedraledianagni.it/)

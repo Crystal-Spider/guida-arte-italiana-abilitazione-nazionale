@@ -17,8 +17,8 @@ La Valle d'Aosta è una regione alpina di passi, castelli, parchi e paesaggi d'a
 
 ## Parco Nazionale del Gran Paradiso
 
-![Gran Paradiso visto dal Giardino alpino Paradisia](https://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Paradiso%20visto%20dal%20Giardino%20alpino%20Paradisia.JPG)
-_Gran Paradiso visto dal Giardino alpino Paradisia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Paradiso%20visto%20dal%20Giardino%20alpino%20Paradisia.JPG)._
+![Gran Paradiso visto dal Giardino alpino Paradisia](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gran_Paradiso_visto_dal_Giardino_alpino_Paradisia.JPG/1280px-Gran_Paradiso_visto_dal_Giardino_alpino_Paradisia.JPG>)
+_Gran Paradiso visto dal Giardino alpino Paradisia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Gran_Paradiso_visto_dal_Giardino_alpino_Paradisia.JPG>)._
 
 ### Dati essenziali
 
@@ -152,8 +152,8 @@ Da qui puoi sviluppare tre blocchi: **storia**, **paesaggio**, **valorizzazione 
 
 ## Castello di Quart
 
-![Castello di Quart](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Quart%20%28AO%29.jpg)
-_Castello di Quart. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Quart%20%28AO%29.jpg)._
+![Castello di Quart](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Castello_di_Quart_%28AO%29.jpg/1280px-Castello_di_Quart_%28AO%29.jpg>)
+_Castello di Quart. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castello_di_Quart_(AO).jpg>)._
 
 ### Dati essenziali
 
@@ -356,7 +356,7 @@ Poi sviluppa la risposta in tre blocchi: **posizione e funzione**, **fasi archit
 | Cosa dimostra          | nascita della tutela ambientale italiana   | potere signorile e trasformazioni del castello |
 | Collegamento turistico | turismo sostenibile, educazione ambientale | restauro, musealizzazione, castelli valdostani |
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Parco Nazionale Gran Paradiso, "Conoscere il Parco"](https://www.pngp.it/visita-il-parco)
 - [Parco Nazionale Gran Paradiso, "Il primo parco nazionale italiano"](https://www.pngp.it/visita-il-parco/storia)

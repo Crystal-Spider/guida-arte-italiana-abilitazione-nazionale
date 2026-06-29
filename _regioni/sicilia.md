@@ -27,8 +27,8 @@ La Sicilia è un crocevia mediterraneo in cui mondo greco, romano, bizantino, is
 
 ## Duomo e Fontana dell'Elefante - Catania
 
-![Catania, Fontana dell'Elefante in Piazza del Duomo](https://commons.wikimedia.org/wiki/Special:FilePath/Catania-elefante_piazza_duomo.jpg)
-_Catania, Fontana dell'Elefante in Piazza del Duomo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Catania-elefante_piazza_duomo.jpg)._
+![Catania, Fontana dell'Elefante in Piazza del Duomo](<https://upload.wikimedia.org/wikipedia/commons/e/e9/Catania-elefante_piazza_duomo.jpg>)
+_Catania, Fontana dell'Elefante in Piazza del Duomo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Catania-elefante_piazza_duomo.jpg>)._
 
 ### Inquadramento
 
@@ -69,14 +69,13 @@ Il Duomo e la Fontana dell'Elefante rappresentano il cuore monumentale e simboli
 
 Inizia dalla piazza, non dalla singola opera. La sequenza più efficace è: "siamo nel cuore di Catania" → terremoto del 1693 → ricostruzione barocca → cattedrale e Sant'Agata → fontana e Liotru → rapporto con l'Etna. Evita di trasformare la risposta in una lista di date: l'esaminatore deve percepire che sai guidare una visita, non solo ripetere una scheda.
 
-**Fonti principali:** sito ufficiale della Cattedrale di Catania; Visit Sicily; FAI/Fontana dell'Elefante; UNESCO Val di Noto per il contesto barocco.
 
 ---
 
 ## Centro storico di Modica
 
-![Panorama del centro storico di Modica](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_di_Modica.jpg)
-_Panorama del centro storico di Modica. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_di_Modica.jpg)._
+![Panorama del centro storico di Modica](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Panorama_di_Modica.jpg/1280px-Panorama_di_Modica.jpg>)
+_Panorama del centro storico di Modica. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Panorama_di_Modica.jpg>)._
 
 ### Inquadramento
 
@@ -123,14 +122,13 @@ Modica è uno dei centri tardo barocchi della Sicilia sud-orientale, ricostruito
 
 Non iniziare dicendo solo "Modica è barocca". Parti dal terremoto del 1693, poi sottolinea subito la particolarità morfologica della città. La frase chiave può essere: "Modica è un barocco che non si limita alle facciate, ma costruisce un rapporto continuo tra architettura e paesaggio".
 
-**Fonti principali:** UNESCO Val di Noto; portali turistici regionali e comunali; schede sul barocco siciliano.
 
 ---
 
 ## Centro storico di Noto
 
-![Noto, Cattedrale di San Nicolò](https://commons.wikimedia.org/wiki/Special:FilePath/Noto_Kathedrale.jpg)
-_Noto, Cattedrale di San Nicolò. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Noto_Kathedrale.jpg)._
+![Noto, Cattedrale di San Nicolò](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Noto_Kathedrale.jpg/1280px-Noto_Kathedrale.jpg>)
+_Noto, Cattedrale di San Nicolò. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Noto_Kathedrale.jpg>)._
 
 ### Inquadramento
 
@@ -189,14 +187,13 @@ Per concludere, Noto è importante perché dimostra come il barocco siciliano no
 
 Usa tre parole chiave: **terremoto**, **ricostruzione**, **scenografia urbana**. Non disperderti negli elenchi di chiese. Se l'esaminatore chiede un itinerario, parti da Porta Reale, prosegui lungo Corso Vittorio Emanuele, ferma l'attenzione sulla Cattedrale e Palazzo Ducezio, poi chiudi sul valore UNESCO.
 
-**Fonti principali:** UNESCO Val di Noto; portali ufficiali UNESCO/MiC; materiale regionale sul barocco siciliano.
 
 ---
 
 ## Palermo arabo-normanna e Cattedrali di Cefalù e Monreale
 
-![Palermo, Cappella Palatina nel Palazzo dei Normanni](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg)
-_Palermo, Cappella Palatina nel Palazzo dei Normanni. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg)._
+![Palermo, Cappella Palatina nel Palazzo dei Normanni](<https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg/1280px-Cappella_Palatina_Palazzo_dei_Normanni_%28Palermo%29.jpg>)
+_Palermo, Cappella Palatina nel Palazzo dei Normanni. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cappella_Palatina_Palazzo_dei_Normanni_(Palermo).jpg>)._
 
 ### Inquadramento
 
@@ -257,14 +254,13 @@ In conclusione, questo sito è fondamentale perché rende visibile la complessit
 
 Apri con la formula "sito seriale UNESCO" e spiega subito che non è un unico edificio. Poi usa la Cappella Palatina come esempio centrale. Non dimenticare Cefalù e Monreale: spesso si tende a parlare solo di Palermo, ma il percorso cita esplicitamente anche le due cattedrali.
 
-**Fonti principali:** UNESCO World Heritage Centre; UNESCO Italia; schede sui monumenti arabo-normanni.
 
 ---
 
 ## Parco Archeologico della Neapolis e Necropoli - Siracusa
 
-![Siracusa, Teatro greco nel Parco archeologico della Neapolis](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG)
-_Siracusa, Teatro greco nel Parco archeologico della Neapolis. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG)._
+![Siracusa, Teatro greco nel Parco archeologico della Neapolis](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Siracusa%2C_neapolis%2C_teatro_greco_01.JPG/1280px-Siracusa%2C_neapolis%2C_teatro_greco_01.JPG>)
+_Siracusa, Teatro greco nel Parco archeologico della Neapolis. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Siracusa,_neapolis,_teatro_greco_01.JPG>)._
 
 ### Inquadramento
 
@@ -311,14 +307,13 @@ Il Parco archeologico della Neapolis raccoglie alcuni dei monumenti più importa
 
 Organizza la risposta come una visita: ingresso → Teatro Greco → Ara di Ierone → Anfiteatro → latomie. Inserisci una distinzione chiara tra Grecia ed età romana. Se vuoi fare bella figura, spiega l'Orecchio di Dionisio non solo come curiosità acustica, ma come parte del sistema delle latomie.
 
-**Fonti principali:** Parco archeologico di Siracusa, Eloro, Villa del Tellaro e Akrai; UNESCO Siracusa e Pantalica; Comune di Siracusa.
 
 ---
 
 ## Parco dell'Etna
 
-![Monte Etna in attività eruttiva](https://commons.wikimedia.org/wiki/Special:FilePath/Etna_volcano_in_eruption.jpg)
-_Monte Etna in attività eruttiva. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Etna_volcano_in_eruption.jpg)._
+![Monte Etna in attività eruttiva](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Etna_volcano_in_eruption.jpg/1280px-Etna_volcano_in_eruption.jpg>)
+_Monte Etna in attività eruttiva. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Etna_volcano_in_eruption.jpg>)._
 
 ### Inquadramento
 
@@ -377,14 +372,13 @@ Per concludere, l'Etna è importante perché unisce natura, scienza e cultura. �
 
 Usa una struttura in quattro parti: **geologia → UNESCO → ambienti → uomo e vulcano**. Evita una risposta da catalogo naturalistico; la lettura del sito è per guide turistiche, quindi devi sempre tradurre il dato scientifico in racconto del territorio.
 
-**Fonti principali:** UNESCO World Heritage Centre; sito UNESCO Monte Etna; Ente Parco dell'Etna; Regione Siciliana.
 
 ---
 
 ## Tempio e Teatro di Segesta
 
-![Teatro antico di Segesta](https://commons.wikimedia.org/wiki/Special:FilePath/Segesta-Theater01.JPG)
-_Teatro antico di Segesta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Segesta-Theater01.JPG)._
+![Teatro antico di Segesta](<https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Segesta-Theater01.JPG/1280px-Segesta-Theater01.JPG>)
+_Teatro antico di Segesta. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Segesta-Theater01.JPG>)._
 
 ### Inquadramento
 
@@ -427,14 +421,13 @@ Segesta fu un importante centro elimo della Sicilia occidentale, noto soprattutt
 
 La parola chiave è **Elimi**. Usala subito: ti permette di distinguere Segesta da Selinunte e Agrigento. Evita di dire semplicemente "tempio greco": più preciso è "tempio dorico in un centro elimo fortemente ellenizzato".
 
-**Fonti principali:** Parco archeologico di Segesta; schede regionali del patrimonio siciliano; materiale archeologico sul sito.
 
 ---
 
 ## Parco Archeologico di Selinunte
 
-![Selinunte, Tempio E sulla collina orientale](https://commons.wikimedia.org/wiki/Special:FilePath/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG)
-_Selinunte, Tempio E sulla collina orientale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG)._
+![Selinunte, Tempio E sulla collina orientale](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG/1280px-Selinunte_-_Templi_Orientali_%28Temple_E%29_18.JPG>)
+_Selinunte, Tempio E sulla collina orientale. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Selinunte_-_Templi_Orientali_(Temple_E)_18.JPG>)._
 
 ### Inquadramento
 
@@ -475,14 +468,13 @@ Selinunte fu una grande colonia greca della Sicilia occidentale, fondata nel VII
 
 Non limitarti al Tempio E. Cita almeno tre aree: collina orientale, acropoli, Gaggera. Se vuoi alzare il livello, inserisci Cave di Cusa come spiegazione del processo costruttivo dei templi.
 
-**Fonti principali:** Parco archeologico di Selinunte, Cave di Cusa e Pantelleria; CoopCulture; portali territoriali della Sicilia occidentale.
 
 ---
 
 ## Teatro Greco di Taormina
 
-![Teatro antico di Taormina](https://commons.wikimedia.org/wiki/Special:FilePath/Taormina_TheatreAntique_01.jpg)
-_Teatro antico di Taormina. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Taormina_TheatreAntique_01.jpg)._
+![Teatro antico di Taormina](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Taormina_TheatreAntique_01.jpg/1280px-Taormina_TheatreAntique_01.jpg>)
+_Teatro antico di Taormina. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taormina_TheatreAntique_01.jpg>)._
 
 ### Inquadramento
 
@@ -523,14 +515,13 @@ Il Teatro antico di Taormina è uno dei più celebri monumenti della Sicilia. Na
 
 Non dire "teatro greco" senza precisare la fase romana. Una formula efficace è: "Il Teatro antico di Taormina è un monumento greco-romano, perché nasce in un contesto greco ma deve gran parte dell'aspetto attuale alle trasformazioni romane".
 
-**Fonti principali:** Parco archeologico Naxos Taormina; Visit Sicily; schede regionali sul Teatro antico.
 
 ---
 
 ## Valle dei Templi - Agrigento
 
-![Agrigento, Tempio della Concordia nella Valle dei Templi](https://commons.wikimedia.org/wiki/Special:FilePath/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg)
-_Agrigento, Tempio della Concordia nella Valle dei Templi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg)._
+![Agrigento, Tempio della Concordia nella Valle dei Templi](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg/1280px-Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg>)
+_Agrigento, Tempio della Concordia nella Valle dei Templi. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Agrigento_-_Valle_dei_Templi_-_Temple_of_Concordia_-_3.jpg>)._
 
 ### Inquadramento
 
@@ -589,14 +580,13 @@ In conclusione, visitare la Valle dei Templi significa leggere il rapporto tra a
 
 La sequenza migliore è: **Akragas → crinale sacro → Tempio della Concordia → Tempio di Zeus e telamoni → valore UNESCO**. Evita di dire solo "templi greci": devi spiegare che i templi esprimono identità civica e potere della polis.
 
-**Fonti principali:** UNESCO World Heritage Centre; Parco archeologico della Valle dei Templi; schede archeologiche regionali.
 
 ---
 
 ## Villa Romana del Casale - Piazza Armerina
 
-![Villa Romana del Casale, mosaici pavimentali](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg)
-_Villa Romana del Casale, mosaici pavimentali. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg)._
+![Villa Romana del Casale, mosaici pavimentali](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg/1280px-Mosaic_in_Villa_Romana_del_Casale%2C_by_Jerzy_Strzelecki%2C_01.jpg>)
+_Villa Romana del Casale, mosaici pavimentali. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Mosaic_in_Villa_Romana_del_Casale,_by_Jerzy_Strzelecki,_01.jpg>)._
 
 ### Inquadramento
 
@@ -655,14 +645,13 @@ In conclusione, la Villa Romana del Casale è un monumento fondamentale perché 
 
 Parti da "villa tardoantica", non da "mosaici". Poi presenta i mosaici come conseguenza del lusso aristocratico. La frase da evitare è: "è famosa per le ragazze in bikini" detta come informazione principale. La frase efficace è: "il mosaico più noto va inserito in un ciclo decorativo molto più ampio, legato alla rappresentazione dello status del proprietario".
 
-**Fonti principali:** UNESCO World Heritage Centre; sito ufficiale Villa Romana del Casale; schede regionali del sito.
 
 ---
 
 ## Museo Archeologico Regionale "Paolo Orsi" - Siracusa
 
-![Siracusa, Museo Archeologico Regionale Paolo Orsi](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg)
-_Siracusa, Museo Archeologico Regionale Paolo Orsi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg)._
+![Siracusa, Museo Archeologico Regionale Paolo Orsi](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg/1280px-Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg>)
+_Siracusa, Museo Archeologico Regionale Paolo Orsi. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Siracusa,_Museo_Archeologico_Regionale_Paolo_Orsi.jpg>)._
 
 ### Inquadramento
 
@@ -703,7 +692,7 @@ Il Paolo Orsi è importante perché consente di passare dalla visita del sito ar
 
 ### Domande guida
 
-1. Quali sezioni del Museo Paolo Orsi sono richieste dalil percorso?
+1. Quali sezioni del Museo Paolo Orsi sono richieste dal percorso?
 2. Perché la sezione preistorica è importante?
 3. Che rapporto c'è tra museo e Parco della Neapolis?
 4. Come spiegheresti il museo a un visitatore non specialista?
@@ -716,7 +705,6 @@ Il Museo Archeologico Regionale Paolo Orsi di Siracusa è uno dei principali mus
 
 Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Orsi → Sicilia orientale → preistoria → colonizzazione greca → collegamento con Neapolis**. È molto più efficace e dimostra capacità di guida.
 
-**Fonti principali:** Museo Archeologico Regionale Paolo Orsi; Parco archeologico di Siracusa; MiC.
 
 ---
 
@@ -759,7 +747,7 @@ Non impostare la risposta come elenco di sale. Usa questa struttura: **Paolo Ors
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [UNESCO - Late Baroque Towns of the Val di Noto](https://whc.unesco.org/en/list/1024/)
 - [UNESCO - Arab-Norman Palermo and the Cathedral Churches of Cefalù and Monreale](https://whc.unesco.org/en/list/1487/)

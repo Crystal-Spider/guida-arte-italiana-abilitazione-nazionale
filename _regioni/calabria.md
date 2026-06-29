@@ -23,8 +23,8 @@ La Calabria è una regione di coste, altipiani e città antiche, segnata dall'in
 
 ## Centro storico di Gerace
 
-![Cattedrale di Gerace](https://commons.wikimedia.org/wiki/Special:FilePath/Gerace_Cattedrale.jpg)
-_Cattedrale di Gerace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gerace_Cattedrale.jpg)._
+![Cattedrale di Gerace](<https://upload.wikimedia.org/wikipedia/commons/9/97/Gerace_Cattedrale.jpg>)
+_Cattedrale di Gerace. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Gerace_Cattedrale.jpg>)._
 
 ### Inquadramento
 
@@ -107,8 +107,8 @@ Il monumento centrale è la Cattedrale di Santa Maria Assunta, che esprime la fa
 
 ## Museo e Parco Archeologico di Locri Epizefiri
 
-![Scavi di Locri Epizefiri](https://commons.wikimedia.org/wiki/Special:FilePath/Scavi_di_locri_epizefiri%2C_03.jpg)
-_Scavi di Locri Epizefiri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Scavi_di_locri_epizefiri%2C_03.jpg)._
+![Scavi di Locri Epizefiri](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Scavi_di_locri_epizefiri%2C_03.jpg/1280px-Scavi_di_locri_epizefiri%2C_03.jpg>)
+_Scavi di Locri Epizefiri. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Scavi_di_locri_epizefiri,_03.jpg>)._
 
 ### Inquadramento
 
@@ -194,8 +194,8 @@ Il museo completa la lettura del sito conservando reperti provenienti dagli scav
 
 ## Cattolica di Stilo
 
-![Cattolica di Stilo](https://commons.wikimedia.org/wiki/Special:FilePath/Cattolica-di-Stilo.jpg)
-_Cattolica di Stilo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattolica-di-Stilo.jpg)._
+![Cattolica di Stilo](<https://upload.wikimedia.org/wikipedia/commons/9/92/Cattolica-di-Stilo.jpg>)
+_Cattolica di Stilo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cattolica-di-Stilo.jpg>)._
 
 ### Inquadramento
 
@@ -273,8 +273,8 @@ Il monumento va collocato tra X e XI secolo, in un periodo in cui la Calabria è
 
 ## Parco Archeologico di Sibari
 
-![Parco archeologico di Sibari](https://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg)
-_Parco archeologico di Sibari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg)._
+![Parco archeologico di Sibari](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sibari-scavi-teatro.jpg/1280px-Sibari-scavi-teatro.jpg>)
+_Parco archeologico di Sibari. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Sibari-scavi-teatro.jpg>)._
 
 ### Inquadramento
 
@@ -358,8 +358,8 @@ Il parco archeologico permette di leggere questa stratificazione attraverso rest
 
 ## Museo e Parco Archeologico Nazionale di Capo Colonna
 
-![Capo Colonna](https://commons.wikimedia.org/wiki/Special:FilePath/Capo_Colonna.png)
-_Capo Colonna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Capo_Colonna.png)._
+![Capo Colonna](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Capo_Colonna.png/1280px-Capo_Colonna.png>)
+_Capo Colonna. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Capo_Colonna.png>)._
 
 ### Inquadramento
 
@@ -455,8 +455,8 @@ In conclusione, Capo Colonna è importante non solo perché conserva una delle i
 
 ## Le Castella, Isola di Capo Rizzuto
 
-![Castello Aragonese di Le Castella](https://commons.wikimedia.org/wiki/Special:FilePath/CastelloAragonese_LeCastelle.jpg)
-_Castello Aragonese di Le Castella. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/CastelloAragonese_LeCastelle.jpg)._
+![Castello Aragonese di Le Castella](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/CastelloAragonese_LeCastelle.jpg/1280px-CastelloAragonese_LeCastelle.jpg>)
+_Castello Aragonese di Le Castella. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:CastelloAragonese_LeCastelle.jpg>)._
 
 ### Inquadramento
 
@@ -516,8 +516,8 @@ La fase più visibile è quella aragonese e moderna, legata alla necessità di d
 
 ## Parco Nazionale della Sila
 
-![Parco Nazionale della Sila, Lago Arvo](https://commons.wikimedia.org/wiki/Special:FilePath/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg)
-_Parco Nazionale della Sila, Lago Arvo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg)._
+![Parco Nazionale della Sila, Lago Arvo](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg/1280px-Parco_Nazionale_della_Sila%2C_Lago_Arvo.jpg>)
+_Parco Nazionale della Sila, Lago Arvo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Parco_Nazionale_della_Sila,_Lago_Arvo.jpg>)._
 
 ### Inquadramento
 
@@ -592,8 +592,8 @@ Per una guida, la Sila va raccontata come paesaggio naturale e culturale. Le for
 
 ## Museo Archeologico Nazionale di Reggio Calabria
 
-![Bronzi di Riace](https://commons.wikimedia.org/wiki/Special:FilePath/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg)
-_Bronzi di Riace. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg)._
+![Bronzi di Riace](<https://upload.wikimedia.org/wikipedia/commons/9/96/Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg>)
+_Bronzi di Riace. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Reggio_calabria_museo_nazionale_bronzi_di_riace.jpg>)._
 
 ### Inquadramento
 
@@ -725,8 +725,8 @@ In conclusione, Scolacium è un luogo ideale per raccontare la Calabria non solo
 
 > Nota di perimetro: Scolacium non compare nel percorso principale della Calabria, ma compare nel percorso integrativo, quindi viene incluso qui solo perché è un sito trattato come percorso narrativo del percorso e richiede una presentazione sintetica.
 
-![Parco archeologico di Scolacium](https://commons.wikimedia.org/wiki/Special:FilePath/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG)
-_Parco archeologico di Scolacium. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG)._
+![Parco archeologico di Scolacium](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG/1280px-Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG>)
+_Parco archeologico di Scolacium. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Borgia_-_Museo_e_Parco_archeologico_nazionale_di_Scolacium_-_2025-09-30_23-01-53_001.JPG>)._
 
 ## Sintesi finale
 
@@ -772,7 +772,7 @@ _Parco archeologico di Scolacium. [Fonte immagine](https://commons.wikimedia.org
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Comune di Gerace, "Gerace e la sua storia"](https://www.comune.gerace.rc.it/vivere_il_comune/luoghi/luogo_3.html)
 - [Comune di Gerace, territorio e struttura urbana](https://www.comune.gerace.rc.it/vivere_il_comune/territorio/territorio_3.html)

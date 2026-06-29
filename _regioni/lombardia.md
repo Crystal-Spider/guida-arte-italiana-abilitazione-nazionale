@@ -25,8 +25,8 @@ La Lombardia combina grandi centri urbani, laghi, pianure, città rinascimentali
 
 ## Piazza Vecchia e Santa Maria Maggiore - Bergamo
 
-![Piazza Vecchia, Bergamo](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_Vecchia_Bergamo.jpg)
-_Piazza Vecchia, Bergamo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza_Vecchia_Bergamo.jpg)._
+![Piazza Vecchia, Bergamo](<https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bergamo%2C_Piazza_Vecchia%2C_2016-06_CN-01.jpg/1280px-Bergamo%2C_Piazza_Vecchia%2C_2016-06_CN-01.jpg>)
+_Piazza Vecchia, Bergamo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Bergamo,_Piazza_Vecchia,_2016-06_CN-01.jpg>)._
 
 ### Dati essenziali
 
@@ -75,8 +75,8 @@ Apri con l'immagine della città alta sul colle. Poi fai muovere idealmente l'as
 
 ## Duomo di Milano
 
-![Duomo di Milano](https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cathedral_from_Piazza_del_Duomo.jpg)
-_Duomo di Milano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cathedral_from_Piazza_del_Duomo.jpg)._
+![Duomo di Milano](<https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/1280px-Milan_Cathedral_from_Piazza_del_Duomo.jpg>)
+_Duomo di Milano. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Milan_Cathedral_from_Piazza_del_Duomo.jpg>)._
 
 ### Dati essenziali
 
@@ -123,8 +123,8 @@ Inizia sempre dalla piazza: "Siamo nel centro simbolico di Milano". Poi passa al
 
 ## Certosa e Castello Visconteo di Pavia
 
-![Certosa di Pavia](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa_di_Pavia_facade.jpg)
-_Certosa di Pavia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa_di_Pavia_facade.jpg)._
+![Certosa di Pavia](<https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2014-01-01-Pavia_Certosa.jpg/1280px-2014-01-01-Pavia_Certosa.jpg>)
+_Certosa di Pavia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:2014-01-01-Pavia_Certosa.jpg>)._
 
 ### Dati essenziali
 
@@ -173,8 +173,8 @@ Non trattare i due luoghi come schede separate senza legame. Usa sempre una fras
 
 ## Castello Scaligero - Sirmione
 
-![Castello Scaligero di Sirmione](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Scaligero_Sirmione.jpg)
-_Castello Scaligero di Sirmione. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Scaligero_Sirmione.jpg)._
+![Castello Scaligero di Sirmione](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Castello_Scaligero_Sirmione.jpg/1280px-Castello_Scaligero_Sirmione.jpg>)
+_Castello Scaligero di Sirmione. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castello_Scaligero_Sirmione.jpg>)._
 
 ### Dati essenziali
 
@@ -221,8 +221,8 @@ La risposta deve partire dal paesaggio. Non dire subito "castello medievale", ma
 
 ## Mantova e Sabbioneta: Palazzo Ducale e città ideale rinascimentale
 
-![Mantova, Palazzo Ducale](https://commons.wikimedia.org/wiki/Special:FilePath/Mantova_Palazzo_Ducale.jpg)
-_Mantova, Palazzo Ducale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mantova_Palazzo_Ducale.jpg)._
+![Mantova, Palazzo Ducale](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mantova_Palazzo_Ducale.jpg/1280px-Mantova_Palazzo_Ducale.jpg>)
+_Mantova, Palazzo Ducale. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Mantova_Palazzo_Ducale.jpg>)._
 
 ### Dati essenziali
 
@@ -267,8 +267,8 @@ Usa il confronto come struttura: "Mantova è la città trasformata; Sabbioneta �
 
 ## Teatro alla Scala - Milano
 
-![Teatro alla Scala](https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_alla_Scala_Milan.jpg)
-_Teatro alla Scala. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Teatro_alla_Scala_Milan.jpg)._
+![Teatro alla Scala](<https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Exterior_Teatro_Alla_Scala_high_quality_01.jpg/1280px-Exterior_Teatro_Alla_Scala_high_quality_01.jpg>)
+_Teatro alla Scala. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Exterior_Teatro_Alla_Scala_high_quality_01.jpg>)._
 
 ### Dati essenziali
 
@@ -315,8 +315,8 @@ Evita di parlare solo della stagione lirica. Il sito va letto unendo architettur
 
 ## Parco Archeologico di Santa Giulia - Brixia, Brescia
 
-![Capitolium di Brescia](https://commons.wikimedia.org/wiki/Special:FilePath/Brescia_Capitolium.jpg)
-_Capitolium di Brescia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Brescia_Capitolium.jpg)._
+![Capitolium di Brescia](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tempio_Capitolino_Piazza_del_Foro_visitatori_Brescia.jpg/1280px-Tempio_Capitolino_Piazza_del_Foro_visitatori_Brescia.jpg>)
+_Capitolium di Brescia, tempio capitolino nell'area archeologica romana. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Tempio_Capitolino_Piazza_del_Foro_visitatori_Brescia.jpg>)._
 
 ### Dati essenziali
 
@@ -370,8 +370,8 @@ Usa la parola "continuità" come filo conduttore: dalla città romana alla citt�
 
 ## Lago di Como, Lago d'Iseo e Franciacorta
 
-![Lago di Como](https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Varenna.jpg)
-_Lago di Como. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Como_Varenna.jpg)._
+![Lago di Como](<https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lake_Como_Varenna.jpg/1280px-Lake_Como_Varenna.jpg>)
+_Lago di Como. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Lake_Como_Varenna.jpg>)._
 
 ### Dati essenziali
 
@@ -415,8 +415,8 @@ Non elencare località a caso. Usa tre parole chiave: **ville** per Como, **isol
 
 ## Pinacoteca di Brera - Milano
 
-![Pinacoteca di Brera](https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca_di_Brera,_Milan.jpg)
-_Pinacoteca di Brera. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pinacoteca_di_Brera,_Milan.jpg)._
+![Pinacoteca di Brera](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg/1280px-Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg>)
+_Pinacoteca di Brera. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Milan_-_Pinacoth%C3%A8que_de_Brera_-_Cour_int%C3%A9rieure.jpg>)._
 
 ### Dati essenziali
 
@@ -424,7 +424,7 @@ La **Pinacoteca di Brera** si trova a Milano, all'interno di Palazzo Brera. È u
 
 Per la spiegazione bisogna presentare Brera come museo nato in rapporto alla storia culturale e politica di Milano, soprattutto in età napoleonica, e come raccolta ordinata per scuole, aree e periodi.
 
-### Sezioni richieste dalil percorso
+### Sezioni richieste dal percorso
 
 Il percorso chiede attenzione a:
 
@@ -464,7 +464,7 @@ Tre nomi fondamentali:
 
 - Quando fu aperta la Pinacoteca di Brera?
 - Perché Brera è importante nella storia culturale di Milano?
-- Quali sezioni sono richieste dalil percorso?
+- Quali sezioni sono richieste dal percorso?
 - Che differenza c'è tra pittura veneta e pittura lombarda?
 - Quali opere citeresti di Piero della Francesca e Raffaello?
 - Come spiegheresti la funzione di una pinacoteca a un visitatore?
@@ -475,14 +475,14 @@ La Pinacoteca di Brera è uno dei principali musei d'arte italiani, aperto al pu
 
 ### Suggerimenti di esposizione
 
-Per Brera, non impostare la risposta come lista di quadri. Usa le sezioni richieste dalil percorso come struttura e inserisci 2-3 capolavori come esempi.
+Per Brera, non impostare la risposta come lista di quadri. Usa le sezioni richieste dal percorso come struttura e inserisci 2-3 capolavori come esempi.
 
 ---
 
 ## Cenacolo Vinciano - Milano
 
-![Cenacolo Vinciano](https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg)
-_Cenacolo Vinciano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg)._
+![Cenacolo Vinciano](<https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg/1280px-Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg>)
+_Cenacolo Vinciano. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_The_Last_Supper_high_res.jpg>)._
 
 ### Dati essenziali
 
@@ -597,11 +597,11 @@ Concludendo, le Grotte di Catullo sono un sito fondamentale perché uniscono arc
 - Presentare il Castello Scaligero e le Grotte di Catullo come lo stesso sito.
 - Parlare di Mantova senza Sabbioneta, o viceversa.
 - Ridurre la Franciacorta al vino senza parlare di paesaggio culturale.
-- Elencare quadri di Brera senza spiegare le sezioni richieste dalil percorso.
+- Elencare quadri di Brera senza spiegare le sezioni richieste dal percorso.
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Fondazione MIA, Basilica di Santa Maria Maggiore - Storia](https://www.fondazionemia.it/it/basilica/storia)
 - [Visit Bergamo, Piazza Vecchia](https://www.visitbergamo.net/oggetto/piazza-vecchia/)

@@ -23,8 +23,8 @@ Il Piemonte alterna capitale sabauda, valli alpine, paesaggi vitivinicoli e gran
 
 ## Mole Antonelliana
 
-![Mole Antonelliana](https://commons.wikimedia.org/wiki/Special:FilePath/Mole%20Antonelliana%20-%20Torino.jpg)
-_Mole Antonelliana. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Mole%20Antonelliana%20-%20Torino.jpg)._
+![Mole Antonelliana](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mole_Antonelliana_-_Torino.jpg/1280px-Mole_Antonelliana_-_Torino.jpg>)
+_Mole Antonelliana. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_-_Torino.jpg>)._
 
 ### Dati essenziali
 
@@ -94,8 +94,8 @@ Per la Mole evita di limitarti all'altezza. L'altezza è importante, ma alla let
 
 ## Riserva / Parco naturale delle Alpi Marittime
 
-![Alpi Marittime](https://commons.wikimedia.org/wiki/Special:FilePath/Alpi%20Marittime-Gias%20della%20Casa%203.jpg)
-_Alpi Marittime. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alpi%20Marittime-Gias%20della%20Casa%203.jpg)._
+![Alpi Marittime](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alpi_Marittime-Gias_della_Casa_3.jpg/1280px-Alpi_Marittime-Gias_della_Casa_3.jpg>)
+_Alpi Marittime. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Alpi_Marittime-Gias_della_Casa_3.jpg>)._
 
 ### Dati essenziali
 
@@ -164,8 +164,8 @@ Non impostare la risposta come una lista di animali. Parti dal paesaggio: montag
 
 ## Valle di Susa, anfiteatro e mura romane della città
 
-![Anfiteatro romano di Susa](https://commons.wikimedia.org/wiki/Special:FilePath/Susa%20anfiteatro.jpg)
-_Anfiteatro romano di Susa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Susa%20anfiteatro.jpg)._
+![Anfiteatro romano di Susa](<https://upload.wikimedia.org/wikipedia/commons/b/be/Susa_anfiteatro.jpg>)
+_Anfiteatro romano di Susa. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Susa_anfiteatro.jpg>)._
 
 ### Dati essenziali
 
@@ -233,8 +233,8 @@ Non parlare solo dell'anfiteatro: il titolo del percorso è più ampio. Devi mos
 
 ## La Venaria Reale
 
-![Galleria Grande, Venaria Reale](https://commons.wikimedia.org/wiki/Special:FilePath/Venaria%20Reale%20Reggia%20di%20Venaria%20Reale%20Interno%20Galleria%20Grande%2004.jpg)
-_Galleria Grande, Venaria Reale. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Venaria%20Reale%20Reggia%20di%20Venaria%20Reale%20Interno%20Galleria%20Grande%2004.jpg)._
+![Galleria Grande, Venaria Reale](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Venaria_Reale_Reggia_di_Venaria_Reale_Interno_Galleria_Grande_04.jpg/1280px-Venaria_Reale_Reggia_di_Venaria_Reale_Interno_Galleria_Grande_04.jpg>)
+_Galleria Grande, Venaria Reale. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Venaria_Reale_Reggia_di_Venaria_Reale_Interno_Galleria_Grande_04.jpg>)._
 
 ### Dati essenziali
 
@@ -307,8 +307,8 @@ Per Venaria usa tre parole chiave: **caccia, corte, barocco**. Parti dalla funzi
 
 ## Langhe-Roero e Monferrato
 
-![Langhe](https://commons.wikimedia.org/wiki/Special:FilePath/Langhe.jpg)
-_Langhe. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Langhe.jpg)._
+![Langhe](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Langhe.jpg/1280px-Langhe.jpg>)
+_Langhe. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Langhe.jpg>)._
 
 ### Dati essenziali
 
@@ -374,8 +374,8 @@ Non trasformare la risposta in una degustazione. Puoi citare i vini, ma il centr
 
 ## Sacra di San Michele
 
-![Sacra di San Michele](https://commons.wikimedia.org/wiki/Special:FilePath/Sacra%20di%20san%20michele%2001.JPG)
-_Sacra di San Michele. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sacra%20di%20san%20michele%2001.JPG)._
+![Sacra di San Michele](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sacra_di_san_michele_01.JPG/1280px-Sacra_di_san_michele_01.JPG>)
+_Sacra di San Michele. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Sacra_di_san_michele_01.JPG>)._
 
 ### Dati essenziali
 
@@ -447,8 +447,8 @@ La Sacra va raccontata "in salita": prima la valle, poi il monte, poi l'abbazia,
 
 ## Museo Egizio
 
-![Museo Egizio](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%2C%20Museo%20egizio%20%28274%29.jpg)
-_Museo Egizio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%2C%20Museo%20egizio%20%28274%29.jpg)._
+![Museo Egizio](<https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Torino%2C_Museo_egizio_%28274%29.jpg/1280px-Torino%2C_Museo_egizio_%28274%29.jpg>)
+_Museo Egizio. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Torino,_Museo_egizio_(274).jpg>)._
 
 ### Dati essenziali
 
@@ -464,7 +464,7 @@ Per la spiegazione conviene presentare il Museo Egizio come museo archeologico, 
 
 ### Profilo del museo
 
-Il museo racconta migliaia di anni di storia egizia attraverso reperti archeologici, statue, sarcofagi, papiri, oggetti quotidiani, corredi funerari e architetture trasferite. È fondamentale evitare un'esposizione generica sull'Egitto. Bisogna invece partire dai nuclei indicati dalil percorso e mostrare come ciascuno consenta di raccontare un aspetto diverso della civiltà egizia.
+Il museo racconta migliaia di anni di storia egizia attraverso reperti archeologici, statue, sarcofagi, papiri, oggetti quotidiani, corredi funerari e architetture trasferite. È fondamentale evitare un'esposizione generica sull'Egitto. Bisogna invece partire dai nuclei indicati dal percorso e mostrare come ciascuno consenta di raccontare un aspetto diverso della civiltà egizia.
 
 ### La Tomba di Kha e Merit
 
@@ -540,8 +540,8 @@ Non cercare di raccontare tutto l'Egitto antico. Parti dal museo e dalle sezioni
 
 ## Musei Reali
 
-![Cappella della Sacra Sindone](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%20Palazzo%20Reale%20Interno%20Cappella%20della%20Sindone%20Cupola%203.jpg)
-_Cappella della Sacra Sindone. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Torino%20Palazzo%20Reale%20Interno%20Cappella%20della%20Sindone%20Cupola%203.jpg)._
+![Cappella della Sacra Sindone](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Torino_Palazzo_Reale_Interno_Cappella_della_Sindone_Cupola_3.jpg/1280px-Torino_Palazzo_Reale_Interno_Cappella_della_Sindone_Cupola_3.jpg>)
+_Cappella della Sacra Sindone. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Torino_Palazzo_Reale_Interno_Cappella_della_Sindone_Cupola_3.jpg>)._
 
 ### Dati essenziali
 
@@ -633,8 +633,8 @@ In conclusione, la Mole Antonelliana è importante perché unisce architettura, 
 
 ### Percorso narrativo breve
 
-![Castello di Racconigi](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Racconigi.jpg)
-_Castello di Racconigi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Racconigi.jpg)._
+![Castello di Racconigi](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Castello_di_Racconigi.jpg/1280px-Castello_di_Racconigi.jpg>)
+_Castello di Racconigi. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castello_di_Racconigi.jpg>)._
 Il Castello di Racconigi si trova a Racconigi, in provincia di Cuneo, ed è una delle residenze sabaude più importanti del Piemonte. Fa parte del sistema delle Residenze Sabaude, riconosciuto dall'UNESCO, e rappresenta un esempio significativo di trasformazione di una dimora nobiliare in residenza reale e luogo di villeggiatura dinastica.
 
 La storia del castello è lunga e stratificata. Le origini sono medievali, ma l'aspetto attuale è il risultato di numerosi interventi e rimaneggiamenti. A partire dall'età moderna, il castello divenne proprietà e residenza del ramo dei Savoia-Carignano. Nel tempo venne trasformato secondo il gusto e le esigenze della corte, fino a diventare una delle sedi preferite per i soggiorni estivi e autunnali della famiglia reale.
@@ -656,7 +656,7 @@ Questa sezione segue il criterio già adottato nel capitolo Abruzzo: includere l
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Museo Nazionale del Cinema, "Mole Antonelliana"](https://www.museocinema.it/it/museo-e-fondazione-ma-prolo/mole-antonelliana)
 - [Città di Torino, "Mole Antonelliana"](https://www.comune.torino.it/vivere-comune/luoghi/mole-antonelliana)

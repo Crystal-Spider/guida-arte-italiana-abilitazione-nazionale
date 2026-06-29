@@ -12,7 +12,7 @@ L'Umbria è una regione interna, scandita da città medievali, luoghi francescan
 
 |  N. | Voce                                                                                                                  | Tipologia                     | Area                                                                                                         | Descrizione                                                                                                                                                           |
 | --: | --------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Assisi - Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Sito storico-artistico        | Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Il sito richiesto dalil percorso non coincide con una singola chiesa, ma con un sistema francescano articolato tra il centro storico di Assisi e la pianura sottos... |
+|   1 | Assisi - Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Sito storico-artistico        | Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola | Il sito richiesto dal percorso non coincide con una singola chiesa, ma con un sistema francescano articolato tra il centro storico di Assisi e la pianura sottos... |
 |   2 | Perugia - Cattedrale di San Lorenzo                                                                                   | Sito storico-artistico        | Cattedrale di San Lorenzo                                                                                    | La Cattedrale di San Lorenzo si trova nel cuore di Perugia, affacciata su Piazza IV Novembre, accanto ad alcuni dei principali simboli civici della città, come Pa... |
 |   3 | Terni - Parco Archeologico di Carsulae                                                                                | Paesaggio o area archeologica | Parco Archeologico di Carsulae                                                                               | Carsulae si trova nel territorio di Terni, in posizione strategica lungo il tracciato della Via Flaminia.                                                             |
 |   4 | Orvieto - Duomo di Orvieto                                                                                            | Sito storico-artistico        | Duomo di Orvieto                                                                                             | Il Duomo di Orvieto, dedicato a Santa Maria Assunta, sorge sul pianoro tufaceo della città.                                                                           |
@@ -20,16 +20,16 @@ L'Umbria è una regione interna, scandita da città medievali, luoghi francescan
 
 ## Assisi - Basilica di San Francesco, Basilica di Santa Chiara, Basilica di Santa Maria degli Angeli con la Porziuncola
 
-![Basilica di San Francesco d'Assisi](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Francesco%20Assisi.jpg)
-_Basilica di San Francesco d'Assisi. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20di%20San%20Francesco%20Assisi.jpg)._
-![Basilica di Santa Chiara](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Chiara%20Assisi.jpg)
-_Basilica di Santa Chiara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Chiara%20Assisi.jpg)._
-![Porziuncola](https://commons.wikimedia.org/wiki/Special:FilePath/Portiuncula.jpg)
-_Porziuncola. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Portiuncula.jpg)._
+![Basilica di San Francesco d'Assisi](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Basilica_di_San_Francesco_Assisi.jpg/1280px-Basilica_di_San_Francesco_Assisi.jpg>)
+_Basilica di San Francesco d'Assisi. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Basilica_di_San_Francesco_Assisi.jpg>)._
+![Basilica di Santa Chiara](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Santa_Chiara_Assisi.jpg/1280px-Santa_Chiara_Assisi.jpg>)
+_Basilica di Santa Chiara. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Santa_Chiara_Assisi.jpg>)._
+![Porziuncola](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Portiuncula.jpg/1280px-Portiuncula.jpg>)
+_Porziuncola. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Portiuncula.jpg>)._
 
 ### Dati essenziali
 
-Il sito richiesto dalil percorso non coincide con una singola chiesa, ma con un **sistema francescano** articolato tra il centro storico di Assisi e la pianura sottostante. I tre poli principali sono:
+Il sito richiesto dal percorso non coincide con una singola chiesa, ma con un **sistema francescano** articolato tra il centro storico di Assisi e la pianura sottostante. I tre poli principali sono:
 
 1. **Basilica di San Francesco**, sul versante occidentale della città, collegata alla tomba del santo e alla costruzione dell'immagine universale del francescanesimo;
 2. **Basilica di Santa Chiara**, all'interno del tessuto urbano assisano, legata alla figura di Chiara d'Assisi, all'ordine delle Clarisse e al Crocifisso di San Damiano;
@@ -155,8 +155,8 @@ Per Assisi è fondamentale evitare l'elenco di chiese. Devi invece mostrare il s
 
 ## Perugia - Cattedrale di San Lorenzo
 
-![Cattedrale di San Lorenzo, Perugia](https://commons.wikimedia.org/wiki/Special:FilePath/Perugia%20-%20Cattedrale%20di%20San%20Lorenzo.jpeg)
-_Cattedrale di San Lorenzo, Perugia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Perugia%20-%20Cattedrale%20di%20San%20Lorenzo.jpeg)._
+![Cattedrale di San Lorenzo, Perugia](<https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Perugia_-_Cattedrale_di_San_Lorenzo.jpeg/1280px-Perugia_-_Cattedrale_di_San_Lorenzo.jpeg>)
+_Cattedrale di San Lorenzo, Perugia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Perugia_-_Cattedrale_di_San_Lorenzo.jpeg>)._
 
 ### Dati essenziali
 
@@ -198,8 +198,8 @@ Durante una risposta descrittiva o una visita, conviene strutturare la spiegazio
 
 ## Terni - Parco Archeologico di Carsulae
 
-![Parco Archeologico di Carsulae](https://commons.wikimedia.org/wiki/Special:FilePath/Carsulae.jpg)
-_Parco Archeologico di Carsulae. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Carsulae.jpg)._
+![Parco Archeologico di Carsulae](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Carsulae.jpg/1280px-Carsulae.jpg>)
+_Parco Archeologico di Carsulae. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Carsulae.jpg>)._
 
 ### Dati essenziali
 
@@ -255,8 +255,8 @@ Una risposta efficace su Carsulae deve essere costruita come una visita lungo la
 
 ## Orvieto - Duomo di Orvieto
 
-![Duomo di Orvieto](https://commons.wikimedia.org/wiki/Special:FilePath/Duomo%20di%20Orvieto.jpg)
-_Duomo di Orvieto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Duomo%20di%20Orvieto.jpg)._
+![Duomo di Orvieto](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Duomo_di_Orvieto.jpg/1280px-Duomo_di_Orvieto.jpg>)
+_Duomo di Orvieto. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Duomo_di_Orvieto.jpg>)._
 
 ### Dati essenziali
 
@@ -313,8 +313,8 @@ Una buona esposizione sul Duomo di Orvieto può seguire questo ordine:
 
 ## Terni - Cascate delle Marmore
 
-![Cascata delle Marmore](https://commons.wikimedia.org/wiki/Special:FilePath/Cascata%20delle%20Marmore.jpg)
-_Cascata delle Marmore. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cascata%20delle%20Marmore.jpg)._
+![Cascata delle Marmore](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cascata_delle_Marmore.jpg/1280px-Cascata_delle_Marmore.jpg>)
+_Cascata delle Marmore. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cascata_delle_Marmore.jpg>)._
 
 ### Dati essenziali
 
@@ -505,7 +505,7 @@ Per Marmore devi evitare l'errore più comune: trattarla come semplice sito natu
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [UNESCO Italia, "Assisi, la Basilica di San Francesco e altri siti Francescani"](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/assisi-la-basilica-di-san-francesco-e-altri-siti-francescani/)
 - [UNESCO World Heritage Centre, "Assisi, the Basilica of San Francesco and Other Franciscan Sites"](https://whc.unesco.org/en/list/990/)

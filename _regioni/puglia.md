@@ -24,8 +24,8 @@ La Puglia è una regione lunga e plurale, con città portuali, architetture roma
 
 ## I Trulli di Alberobello
 
-![Trulli del Rione Monti, Alberobello](https://commons.wikimedia.org/wiki/Special:FilePath/Alberobello%20-%20Trulli%20del%20Rione%20Monti%20-%2006.jpg)
-_Trulli del Rione Monti, Alberobello. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alberobello%20-%20Trulli%20del%20Rione%20Monti%20-%2006.jpg)._
+![Trulli del Rione Monti, Alberobello](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alberobello_-_Trulli_del_Rione_Monti_-_06.jpg/1280px-Alberobello_-_Trulli_del_Rione_Monti_-_06.jpg>)
+_Trulli del Rione Monti, Alberobello. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Alberobello_-_Trulli_del_Rione_Monti_-_06.jpg>)._
 
 ### Dati essenziali
 
@@ -95,10 +95,10 @@ Per concludere, Alberobello va presentata come un luogo in cui la forma architet
 
 ## Basilica di San Nicola e Castello Normanno-Svevo-Angioino, Bari
 
-![Basilica di San Nicola, Bari](https://commons.wikimedia.org/wiki/Special:FilePath/Bari%20-%20basilica%20di%20San%20Nicola%20-%20202209171552.jpg)
-_Basilica di San Nicola, Bari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Bari%20-%20basilica%20di%20San%20Nicola%20-%20202209171552.jpg)._
-![Castello Normanno-Svevo di Bari](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20normanno-svevo%20%28Bari%29%202017.jpg)
-_Castello Normanno-Svevo di Bari. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20normanno-svevo%20%28Bari%29%202017.jpg)._
+![Basilica di San Nicola, Bari](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bari_-_basilica_di_San_Nicola_-_202209171552.jpg/1280px-Bari_-_basilica_di_San_Nicola_-_202209171552.jpg>)
+_Basilica di San Nicola, Bari. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Bari_-_basilica_di_San_Nicola_-_202209171552.jpg>)._
+![Castello Normanno-Svevo di Bari](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Castello_normanno-svevo_%28Bari%29_2017.jpg/1280px-Castello_normanno-svevo_%28Bari%29_2017.jpg>)
+_Castello Normanno-Svevo di Bari. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castello_normanno-svevo_(Bari)_2017.jpg>)._
 
 ### Dati essenziali
 
@@ -164,8 +164,8 @@ La Basilica di San Nicola e il Castello Normanno-Svevo raccontano due aspetti co
 
 ## Basilica di Santa Croce e Palazzo dei Celestini, Lecce
 
-![Basilica di Santa Croce e Palazzo dei Celestini, Lecce](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Croce%20und%20Palazzo%20dei%20Celestini%20in%20Lecce.jpg)
-_Basilica di Santa Croce e Palazzo dei Celestini, Lecce. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Croce%20und%20Palazzo%20dei%20Celestini%20in%20Lecce.jpg)._
+![Basilica di Santa Croce e Palazzo dei Celestini, Lecce](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Santa_Croce_und_Palazzo_dei_Celestini_in_Lecce.jpg/1280px-Santa_Croce_und_Palazzo_dei_Celestini_in_Lecce.jpg>)
+_Basilica di Santa Croce e Palazzo dei Celestini, Lecce. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Santa_Croce_und_Palazzo_dei_Celestini_in_Lecce.jpg>)._
 
 ### Dati essenziali
 
@@ -223,8 +223,8 @@ La Basilica di Santa Croce e il Palazzo dei Celestini rappresentano uno dei comp
 
 ## Castel del Monte, Andria
 
-![Castel del Monte, Andria](https://commons.wikimedia.org/wiki/Special:FilePath/Castel%20del%20Monte%20-%20Andria.jpg)
-_Castel del Monte, Andria. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castel%20del%20Monte%20-%20Andria.jpg)._
+![Castel del Monte, Andria](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Castel_del_Monte_-_Andria.jpg/1280px-Castel_del_Monte_-_Andria.jpg>)
+_Castel del Monte, Andria. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castel_del_Monte_-_Andria.jpg>)._
 
 ### Dati essenziali
 
@@ -301,8 +301,8 @@ In conclusione, Castel del Monte va spiegato come un edificio in cui ogni elemen
 
 ## Castello Aragonese, Otranto
 
-![Castello Aragonese di Otranto](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20Aragonese%20Otranto.jpg)
-_Castello Aragonese di Otranto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20Aragonese%20Otranto.jpg)._
+![Castello Aragonese di Otranto](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Castello_Aragonese_Otranto.jpg/1280px-Castello_Aragonese_Otranto.jpg>)
+_Castello Aragonese di Otranto. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castello_Aragonese_Otranto.jpg>)._
 
 ### Dati essenziali
 
@@ -346,8 +346,8 @@ Il Castello Aragonese di Otranto è una fortezza legata alla posizione strategic
 
 ## Cattedrale di Trani
 
-![Cattedrale di Trani vista dal mare](https://commons.wikimedia.org/wiki/Special:FilePath/CATTEDRALE%20DI%20TRANI%20VISTA%20DAL%20MARE.jpg)
-_Cattedrale di Trani vista dal mare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/CATTEDRALE%20DI%20TRANI%20VISTA%20DAL%20MARE.jpg)._
+![Cattedrale di Trani vista dal mare](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CATTEDRALE_DI_TRANI_VISTA_DAL_MARE.jpg/1280px-CATTEDRALE_DI_TRANI_VISTA_DAL_MARE.jpg>)
+_Cattedrale di Trani vista dal mare. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:CATTEDRALE_DI_TRANI_VISTA_DAL_MARE.jpg>)._
 
 ### Dati essenziali
 
@@ -405,8 +405,8 @@ La Cattedrale di Trani è uno dei massimi esempi del romanico pugliese. Sorge in
 
 ## Santuario di San Michele Arcangelo, Monte Sant'Angelo
 
-![Santuario di San Michele Arcangelo, Monte Sant'Angelo](https://commons.wikimedia.org/wiki/Special:FilePath/Santuario%20san%20michele%20arcangelo.jpg)
-_Santuario di San Michele Arcangelo, Monte Sant'Angelo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Santuario%20san%20michele%20arcangelo.jpg)._
+![Santuario di San Michele Arcangelo, Monte Sant'Angelo](<https://upload.wikimedia.org/wikipedia/commons/2/2b/Santuario_san_michele_arcangelo.jpg>)
+_Santuario di San Michele Arcangelo, Monte Sant'Angelo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Santuario_san_michele_arcangelo.jpg>)._
 
 ### Dati essenziali
 
@@ -459,8 +459,8 @@ Il Santuario di San Michele Arcangelo a Monte Sant'Angelo è uno dei più import
 
 ## Santuario di San Pio da Pietrelcina, San Giovanni Rotondo
 
-![Santuario e Chiesa di San Pio, San Giovanni Rotondo](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Giovanni%20rotondo%20Santuario%20e%20Chiesa%20San%20Pio.jpg)
-_Santuario e Chiesa di San Pio, San Giovanni Rotondo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Giovanni%20rotondo%20Santuario%20e%20Chiesa%20San%20Pio.jpg)._
+![Santuario e Chiesa di San Pio, San Giovanni Rotondo](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/San_Giovanni_rotondo_Santuario_e_Chiesa_San_Pio.jpg/1280px-San_Giovanni_rotondo_Santuario_e_Chiesa_San_Pio.jpg>)
+_Santuario e Chiesa di San Pio, San Giovanni Rotondo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:San_Giovanni_rotondo_Santuario_e_Chiesa_San_Pio.jpg>)._
 
 ### Dati essenziali
 
@@ -523,8 +523,8 @@ Il Santuario di San Pio da Pietrelcina a San Giovanni Rotondo è uno dei princip
 
 ## Museo Archeologico Nazionale di Taranto, MArTA
 
-![Ori di Canosa al MArTA](https://commons.wikimedia.org/wiki/Special:FilePath/I%20reperti%20della%20Tomba%20degli%20Ori%20di%20Canosa%20-FG.jpg)
-_Reperti della Tomba degli Ori di Canosa, MArTA. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/I%20reperti%20della%20Tomba%20degli%20Ori%20di%20Canosa%20-FG.jpg)._
+![Ori di Canosa al MArTA](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/I_reperti_della_Tomba_degli_Ori_di_Canosa_-FG.jpg/1280px-I_reperti_della_Tomba_degli_Ori_di_Canosa_-FG.jpg>)
+_Reperti della Tomba degli Ori di Canosa, MArTA. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:I_reperti_della_Tomba_degli_Ori_di_Canosa_-FG.jpg>)._
 
 ### Inquadramento
 
@@ -623,7 +623,7 @@ Il MArTA, Museo Archeologico Nazionale di Taranto, è uno dei più importanti mu
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [UNESCO World Heritage Centre, _The Trulli of Alberobello_](https://whc.unesco.org/en/list/787/)
 - [UNESCO World Heritage Centre, _Castel del Monte_](https://whc.unesco.org/en/list/398/)

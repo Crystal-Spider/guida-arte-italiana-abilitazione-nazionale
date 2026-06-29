@@ -19,8 +19,8 @@ La Liguria è una regione lineare e marittima, stretta tra Appennino e Mediterra
 
 ## Cattedrale di San Lorenzo - Genova
 
-![Cattedrale di San Lorenzo, Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20san%20lorenzo%20genova.jpg)
-_Cattedrale di San Lorenzo, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cattedrale%20san%20lorenzo%20genova.jpg)._
+![Cattedrale di San Lorenzo, Genova](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cattedrale_san_lorenzo_genova.jpg/1280px-Cattedrale_san_lorenzo_genova.jpg>)
+_Cattedrale di San Lorenzo, Genova. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cattedrale_san_lorenzo_genova.jpg>)._
 
 ### Dati essenziali
 
@@ -99,8 +99,8 @@ Una risposta ordinata sulla Cattedrale può seguire questa sequenza:
 
 ## Parco delle Cinque Terre - Riomaggiore, Manarola, Corniglia, Vernazza, Monterosso
 
-![Vernazza, Cinque Terre](https://commons.wikimedia.org/wiki/Special:FilePath/Vernazza%20and%20the%20sea%2C%20Cinque%20Terre%2C%20Italy.jpg)
-_Vernazza, Cinque Terre. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Vernazza%20and%20the%20sea%2C%20Cinque%20Terre%2C%20Italy.jpg)._
+![Vernazza, Cinque Terre](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vernazza_and_the_sea%2C_Cinque_Terre%2C_Italy.jpg/1280px-Vernazza_and_the_sea%2C_Cinque_Terre%2C_Italy.jpg>)
+_Vernazza, Cinque Terre. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Vernazza_and_the_sea,_Cinque_Terre,_Italy.jpg>)._
 
 ### Dati essenziali
 
@@ -215,8 +215,8 @@ Sequenza consigliata:
 
 ## Centro storico di Genova e Strade Nuove dei Rolli
 
-![Via Garibaldi, Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Genova%20Via%20Garibaldi.jpg)
-_Via Garibaldi, Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Genova%20Via%20Garibaldi.jpg)._
+![Via Garibaldi, Genova](<https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Genova_Via_Garibaldi.jpg/1280px-Genova_Via_Garibaldi.jpg>)
+_Via Garibaldi, Genova. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Genova_Via_Garibaldi.jpg>)._
 
 ### Dati essenziali
 
@@ -330,8 +330,8 @@ Sequenza consigliata:
 
 ## Museo di Palazzo Reale - Genova
 
-![Galleria degli Specchi, Palazzo Reale di Genova](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Reale%20%28Genoa%29%2C%20Mirror%20gallery%2001.jpg)
-_Galleria degli Specchi, Palazzo Reale di Genova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Reale%20%28Genoa%29%2C%20Mirror%20gallery%2001.jpg)._
+![Galleria degli Specchi, Palazzo Reale di Genova](<https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Palazzo_Reale_%28Genoa%29%2C_Mirror_gallery_01.jpg/1280px-Palazzo_Reale_%28Genoa%29%2C_Mirror_gallery_01.jpg>)
+_Galleria degli Specchi, Palazzo Reale di Genova. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Palazzo_Reale_(Genoa),_Mirror_gallery_01.jpg>)._
 
 ### Dati essenziali
 
@@ -340,7 +340,7 @@ _Galleria degli Specchi, Palazzo Reale di Genova. [Fonte immagine](https://commo
 | Località                         | Via Balbi 10, Genova                                                                                                                                          |
 | Tipologia                        | Dimora aristocratica, poi residenza reale sabauda, oggi museo statale / Musei Nazionali di Genova                                                             |
 | Famiglie chiave                  | Balbi, Durazzo, Savoia                                                                                                                                        |
-| Sezioni richieste dalil percorso | Galleria degli Specchi; Sala del Trono; Sala delle Battaglie                                                                                                  |
+| Sezioni richieste dal percorso | Galleria degli Specchi; Sala del Trono; Sala delle Battaglie                                                                                                  |
 | Parole chiave                    | Dimora-museo, Gran Piano Nobile, arredi originali, quadreria, barocco genovese, aristocrazia, reggia sabauda, Rolli                                           |
 | Collegamenti                     | Strade Nuove e Palazzi dei Rolli, via Balbi, aristocrazia genovese, trasformazione da palazzo privato a reggia e museo                                        |
 | Errore da evitare                | Trattarlo come museo "di quadri" generico: va spiegato come dimora storica conservata, dove architettura, arredi, cerimoniale e collezioni sono inseparabili. |
@@ -379,7 +379,7 @@ Nella spiegazione conviene spiegare che la Sala del Trono non è importante solo
 
 ### Sala delle Battaglie
 
-La Sala delle Battaglie rientra tra gli ambienti richiesti dalil percorso e va interpretata in rapporto alla celebrazione del prestigio familiare e politico. Il tema bellico, nelle dimore aristocratiche, non è semplice decorazione: serve a rappresentare virtù, forza, memoria storica, eroismo e legittimazione del potere.
+La Sala delle Battaglie rientra tra gli ambienti richiesti dal percorso e va interpretata in rapporto alla celebrazione del prestigio familiare e politico. Il tema bellico, nelle dimore aristocratiche, non è semplice decorazione: serve a rappresentare virtù, forza, memoria storica, eroismo e legittimazione del potere.
 
 In una risposta, questa sala può essere collegata al modo in cui le famiglie nobili costruivano la propria immagine attraverso programmi iconografici. Le battaglie dipinte o evocate non sono solo episodi militari, ma strumenti narrativi: comunicano il valore della casata, la partecipazione alla storia e la capacità di governare o proteggere.
 
@@ -484,7 +484,7 @@ Sequenza consigliata:
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Visit Genoa, "Cattedrale di San Lorenzo"](https://www.visitgenoa.it/it/cattedrale-di-san-lorenzo_)
 - [Musei di Genova, "Museo del Tesoro di San Lorenzo"](https://www.museidigenova.it/it/museo-del-tesoro)

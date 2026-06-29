@@ -26,17 +26,14 @@ La Toscana unisce città comunali, paesaggi rurali, luoghi francescani, musei e 
 |  12 | Chianti, Pienza, Val d'Orcia e paesaggi vitivinicoli della Toscana   | Paesaggio o area archeologica | Territorio regionale | Questa voce del percorso è ampia e richiede di saper raccontare non un singolo monumento, ma un sistema di paesaggi.                                                  |
 |  13 | Cappelle Medicee - Firenze                                           | Sito storico-artistico        | Firenze              | Le Cappelle Medicee fanno parte del complesso di San Lorenzo e costituiscono il grande mausoleo della famiglia Medici.                                                |
 |  14 | Galleria degli Uffizi - Firenze                                      | Museo                         | Firenze              | Gli Uffizi sono uno dei musei più importanti al mondo per la pittura italiana, soprattutto dal Medioevo al Rinascimento e oltre.                                      |
-|  15 | Galleria dell'Accademia - Firenze                                    | Museo                         | Firenze              | La Galleria dell'Accademia è universalmente nota per il David di Michelangelo, ma il percorso richiesto dalil percorso include anche la Galleria dei Prigioni e la... |
+|  15 | Galleria dell'Accademia - Firenze                                    | Museo                         | Firenze              | La Galleria dell'Accademia è universalmente nota per il David di Michelangelo, ma il percorso richiesto dal percorso include anche la Galleria dei Prigioni e la... |
 |  16 | Palazzo Pitti, Giardino di Boboli e Ville medicee della Toscana      | Sito storico-artistico        | Territorio regionale | Palazzo Pitti è la grande reggia fiorentina d'Oltrarno.                                                                                                               |
 
 ## Basilica di Santa Maria Novella - Firenze
 
-![Basilica di Santa Maria Novella, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1280px-Santa_Maria_Novella_%28Florence%29.jpg)
-_Basilica di Santa Maria Novella, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1280px-Santa_Maria_Novella_%28Florence%29.jpg)._
+![Basilica di Santa Maria Novella, Firenze](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Santa_Maria_Novella_%28Florence%29.jpg/1280px-Santa_Maria_Novella_%28Florence%29.jpg>)
+_Basilica di Santa Maria Novella, Firenze. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Santa_Maria_Novella_(Florence).jpg>)._
 
-**Tipologia:** basilica domenicana, complesso conventuale, museo monumentale.
-**Epoche chiave:** Medioevo comunale, Gotico fiorentino, primo Rinascimento, pieno Quattrocento.
-**Parole chiave:** Domenicani, prospettiva, Masaccio, Giotto, Brunelleschi, Alberti, Ghirlandaio, chiostri.
 
 ### Inquadramento
 
@@ -73,12 +70,9 @@ Santa Maria Novella è il grande complesso domenicano di Firenze e rappresenta u
 
 ## Duomo e Battistero - Firenze
 
-![Cattedrale di Santa Maria del Fiore, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg/1280px-Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg)
-_Cattedrale di Santa Maria del Fiore, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg/1280px-Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg)._
+![Cattedrale di Santa Maria del Fiore, Firenze](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg/1280px-Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg>)
+_Cattedrale di Santa Maria del Fiore, Firenze. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Firenze_-_Cattedrale_di_Santa_Maria_del_Fiore_-_2023-09-21_20-43-59_001.jpg>)._
 
-**Tipologia:** complesso cattedrale-battistero; architettura religiosa; scultura e arti decorative.
-**Epoche chiave:** romanico fiorentino, gotico, Rinascimento.
-**Parole chiave:** Santa Maria del Fiore, Arnolfo di Cambio, Talenti, Brunelleschi, Cupola, Battistero, Ghiberti, Porta del Paradiso.
 
 ### Inquadramento
 
@@ -117,12 +111,9 @@ Il Duomo e il Battistero di Firenze formano il cuore religioso e simbolico della
 
 ## Parco Naturale Regionale delle Alpi Apuane
 
-![Alpi Apuane al tramonto](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG/1280px-Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG)
-_Alpi Apuane al tramonto. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG/1280px-Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG)._
+![Alpi Apuane al tramonto](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG/1280px-Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG>)
+_Alpi Apuane al tramonto. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Veduta_panoramica_delle_Alpi_Apuane_al_tramonto.JPG>)._
 
-**Tipologia:** parco naturale regionale; paesaggio montano; geologia; cultura del marmo.
-**Epoche chiave:** storia geologica antica; insediamento storico; attività estrattiva romana, medievale e moderna.
-**Parole chiave:** marmo, carsismo, biodiversità, cave, paesaggio culturale, Garfagnana, Versilia, Lunigiana.
 
 ### Inquadramento
 
@@ -155,12 +146,9 @@ Il Parco Naturale Regionale delle Alpi Apuane tutela un paesaggio montano unico 
 
 ## Piazza dei Miracoli - Pisa
 
-![Piazza dei Miracoli, Pisa](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg/1280px-Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg)
-_Piazza dei Miracoli, Pisa. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg/1280px-Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg)._
+![Piazza dei Miracoli, Pisa](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg/1280px-Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg>)
+_Piazza dei Miracoli, Pisa. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg>)._
 
-**Tipologia:** complesso monumentale religioso; sito UNESCO; architettura romanica pisana.
-**Epoche chiave:** XI-XIV secolo; romanico pisano; potenza marittima medievale.
-**Parole chiave:** Cattedrale, Battistero, Torre pendente, Camposanto, Romanico pisano, repubblica marinara, marmo bianco.
 
 ### Inquadramento
 
@@ -217,12 +205,9 @@ In conclusione, Piazza dei Miracoli va osservata come una sintesi perfetta di ar
 
 ## Ponte Vecchio e Palazzo Vecchio - Firenze
 
-![Ponte Vecchio, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg/1280px-Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg)
-_Ponte Vecchio, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg/1280px-Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg)._
+![Ponte Vecchio, Firenze](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg/1280px-Firenze_aka_Florence%2C_Italy_%2842195674311%29.jpg>)
+_Ponte Vecchio, Firenze. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Firenze_aka_Florence,_Italy_(42195674311).jpg>)._
 
-**Tipologia:** architettura civile e urbana; ponte storico; palazzo pubblico.
-**Epoche chiave:** Medioevo comunale, età medicea, Firenze capitale granducale.
-**Parole chiave:** Arno, botteghe orafe, Corridoio Vasariano, Palazzo della Signoria, Torre di Arnolfo, Salone dei Cinquecento, potere civile.
 
 ### Inquadramento
 
@@ -275,12 +260,9 @@ In conclusione, Ponte Vecchio sintetizza la Firenze mercantile, artigianale e me
 
 ## Riserva Naturale della Maremma - Alberese
 
-![Parco regionale della Maremma](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Panorama_dalla_torre_Torre_di_Castelmarino.jpg/1280px-Panorama_dalla_torre_Torre_di_Castelmarino.jpg)
-_Parco regionale della Maremma. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Panorama_dalla_torre_Torre_di_Castelmarino.jpg/1280px-Panorama_dalla_torre_Torre_di_Castelmarino.jpg)._
+![Parco regionale della Maremma](<https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Panorama_dalla_torre_Torre_di_Castelmarino.jpg/1280px-Panorama_dalla_torre_Torre_di_Castelmarino.jpg>)
+_Parco regionale della Maremma. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Panorama_dalla_torre_Torre_di_Castelmarino.jpg>)._
 
-**Tipologia:** parco regionale / riserva naturale; paesaggio costiero e collinare; storia ambientale.
-**Epoche chiave:** presenza preistorica; insediamenti antichi; Medioevo; bonifiche moderne; istituzione del parco nel 1975.
-**Parole chiave:** Uccellina, Alberese, Ombrone, Talamone, macchia mediterranea, torri costiere, San Rabano, butteri.
 
 ### Inquadramento
 
@@ -315,12 +297,9 @@ La Riserva Naturale della Maremma, nell'area di Alberese e dei Monti dell'Uccell
 
 ## Le Torri di San Gimignano - San Gimignano
 
-![Panorama di San Gimignano](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Gimignano%20panorama.jpg)
-_Panorama di San Gimignano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/San%20Gimignano%20panorama.jpg)._
+![Panorama di San Gimignano](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/San_Gimignano_panorama.jpg/1280px-San_Gimignano_panorama.jpg>)
+_Panorama di San Gimignano. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:San_Gimignano_panorama.jpg>)._
 
-**Tipologia:** centro storico medievale; sito UNESCO; architettura civile.
-**Epoche chiave:** XII-XIV secolo; Medioevo comunale; Via Francigena.
-**Parole chiave:** torri, famiglie patrizie, Via Francigena, città murata, urbanistica medievale, UNESCO.
 
 ### Inquadramento
 
@@ -375,12 +354,9 @@ In conclusione, San Gimignano va letta come una città medievale conservata in m
 
 ## Santuario della Verna e Monastero di Camaldoli - Arezzo
 
-![Santuario della Verna](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg/1280px-Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg)
-_Santuario della Verna. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg/1280px-Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg)._
+![Santuario della Verna](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg/1280px-Via_Ghibellina%2C_Chiusi_della_Verna%2C_Santuario_della_Verna_07.jpg>)
+_Santuario della Verna. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Via_Ghibellina,_Chiusi_della_Verna,_Santuario_della_Verna_07.jpg>)._
 
-**Tipologia:** complessi religiosi; paesaggio spirituale; monachesimo e francescanesimo.
-**Epoche chiave:** XI secolo per Camaldoli; XIII secolo per La Verna; Medioevo religioso.
-**Parole chiave:** San Francesco, stimmate, San Romualdo, eremo, monastero, Casentino, foresta, spiritualità.
 
 ### Inquadramento
 
@@ -413,12 +389,9 @@ Il Santuario della Verna e il Monastero di Camaldoli sono due grandi luoghi spir
 
 ## Area Archeologica e Museo Archeologico Nazionale di Cosa - Orbetello
 
-![Area archeologica di Cosa](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cosa10.jpg/1280px-Cosa10.jpg)
-_Area archeologica di Cosa. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cosa10.jpg/1280px-Cosa10.jpg)._
+![Area archeologica di Cosa](<https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cosa10.jpg/1280px-Cosa10.jpg>)
+_Area archeologica di Cosa. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cosa10.jpg>)._
 
-**Tipologia:** colonia romana; area archeologica; museo archeologico.
-**Epoche chiave:** età repubblicana romana; III secolo a.C.; romanizzazione dell'Etruria.
-**Parole chiave:** colonia latina, mura poligonali, foro, acropoli, Capitolium, urbanistica romana, territorio cosano.
 
 ### Inquadramento
 
@@ -449,12 +422,9 @@ L'Area Archeologica di Cosa, presso Orbetello, è un importante sito romano lega
 
 ## Città etrusca di Chiusi - Siena
 
-![Museo Archeologico Nazionale di Chiusi](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg/1280px-Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg)
-_Museo Archeologico Nazionale di Chiusi. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg/1280px-Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg)._
+![Museo Archeologico Nazionale di Chiusi](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg/1280px-Chiusi%2C_museo_archeologico_nazionale%2C_esterno_01.jpg>)
+_Museo Archeologico Nazionale di Chiusi. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chiusi,_museo_archeologico_nazionale,_esterno_01.jpg>)._
 
-**Tipologia:** centro etrusco; museo archeologico; necropoli.
-**Epoche chiave:** età etrusca orientalizzante, arcaica e classica; romanizzazione; collezionismo ottocentesco.
-**Parole chiave:** Porsenna, lucumonia, canopi, necropoli, epigrafia, Museo Nazionale Etrusco, Valdichiana.
 
 ### Inquadramento
 
@@ -485,12 +455,9 @@ Chiusi è uno dei principali centri dell'Etruria interna e conserva una forte id
 
 ## Piazza del Campo e Duomo di Siena
 
-![Piazza del Campo, Siena](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Il_campo_view_from_torre.jpg/1280px-Il_campo_view_from_torre.jpg)
-_Piazza del Campo, Siena. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Il_campo_view_from_torre.jpg/1280px-Il_campo_view_from_torre.jpg)._
+![Piazza del Campo, Siena](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Il_campo_view_from_torre.jpg/1280px-Il_campo_view_from_torre.jpg>)
+_Piazza del Campo, Siena. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Il_campo_view_from_torre.jpg>)._
 
-**Tipologia:** spazio urbano medievale; cattedrale gotica; sito UNESCO.
-**Epoche chiave:** XII-XV secolo; Gotico senese; età comunale.
-**Parole chiave:** Piazza del Campo, Palazzo Pubblico, Torre del Mangia, Palio, Duomo, pavimento, Libreria Piccolomini, scuola senese.
 
 ### Inquadramento
 
@@ -521,12 +488,9 @@ Piazza del Campo e il Duomo rappresentano le due grandi dimensioni della Siena m
 
 ## Chianti, Pienza, Val d'Orcia e paesaggi vitivinicoli della Toscana
 
-![Val d'Orcia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Val_D_Orcia_Sunrise_%28151505625%29.jpeg/1280px-Val_D_Orcia_Sunrise_%28151505625%29.jpeg)
-_Val d'Orcia. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Val_D_Orcia_Sunrise_%28151505625%29.jpeg/1280px-Val_D_Orcia_Sunrise_%28151505625%29.jpeg)._
+![Val d'Orcia](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Val_D_Orcia_Sunrise_%28151505625%29.jpeg/1280px-Val_D_Orcia_Sunrise_%28151505625%29.jpeg>)
+_Val d'Orcia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Val_D_Orcia_Sunrise_(151505625).jpeg>)._
 
-**Tipologia:** paesaggio culturale; città ideale; viticoltura; siti UNESCO.
-**Epoche chiave:** Medioevo, Rinascimento, età moderna.
-**Parole chiave:** paesaggio culturale, viticoltura, Pienza, Val d'Orcia, Chianti, città ideale, buon governo del territorio.
 
 ### Inquadramento
 
@@ -559,12 +523,9 @@ Chianti, Pienza e Val d'Orcia rappresentano il paesaggio culturale toscano, in c
 
 ## Cappelle Medicee - Firenze
 
-![Cappelle Medicee, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medicibib.jpg/1280px-Medicibib.jpg)
-_Cappelle Medicee, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medicibib.jpg/1280px-Medicibib.jpg)._
+![Cappelle Medicee, Firenze](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medicibib.jpg/1280px-Medicibib.jpg>)
+_Cappelle Medicee, Firenze. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Medicibib.jpg>)._
 
-**Tipologia:** museo e mausoleo dinastico; scultura e architettura rinascimentale/barocca.
-**Epoche chiave:** XVI-XVII secolo.
-**Parole chiave:** Medici, Sagrestia Nuova, Michelangelo, Cappella dei Principi, pietre dure, San Lorenzo, mausoleo.
 
 ### Inquadramento
 
@@ -593,12 +554,9 @@ Le Cappelle Medicee sono il mausoleo dinastico della famiglia Medici presso San 
 
 ## Galleria degli Uffizi - Firenze
 
-![Galleria degli Uffizi, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/1280px-Florence%2C_Italy_-_panoramio_%28125%29.jpg)
-_Galleria degli Uffizi, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/1280px-Florence%2C_Italy_-_panoramio_%28125%29.jpg)._
+![Galleria degli Uffizi, Firenze](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/1280px-Florence%2C_Italy_-_panoramio_%28125%29.jpg>)
+_Galleria degli Uffizi, Firenze. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Florence,_Italy_-_panoramio_(125).jpg>)._
 
-**Tipologia:** museo statale; pinacoteca; collezione dinastica e pubblica.
-**Sezioni richieste dalil percorso:** Sala di Botticelli; Sala di Leonardo da Vinci; Sala di Michelangelo e dei Fiorentini; Sala di Raffaello e Andrea del Sarto; Sala di Caravaggio.
-**Parole chiave:** Medici, Vasari, Botticelli, Leonardo, Michelangelo, Raffaello, Manierismo, Caravaggio.
 
 ### Inquadramento
 
@@ -639,16 +597,13 @@ La Galleria degli Uffizi nasce dal collezionismo mediceo ed è uno dei musei fon
 
 ## Galleria dell'Accademia - Firenze
 
-![David di Michelangelo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/1280px-Michelangelo%27s_David_-_right_view_2.jpg)
-_David di Michelangelo. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/1280px-Michelangelo%27s_David_-_right_view_2.jpg)._
+![David di Michelangelo](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/1280px-Michelangelo%27s_David_-_right_view_2.jpg>)
+_David di Michelangelo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg>)._
 
-**Tipologia:** museo statale; scultura; pittura; strumenti musicali.
-**Sezioni richieste dalil percorso:** Tribuna di David; Galleria dei Prigioni; Sala del Colosseo.
-**Parole chiave:** Michelangelo, David, Prigioni, non-finito, Giambologna, Ratto delle Sabine, pittura quattro-cinquecentesca.
 
 ### Inquadramento
 
-La Galleria dell'Accademia è universalmente nota per il **David di Michelangelo**, ma il percorso richiesto dalil percorso include anche la Galleria dei Prigioni e la Sala del Colosseo. Per la spiegazione conviene costruire un discorso centrato sulla scultura come progressione: dal modello, all'incompiuto, al capolavoro finito.
+La Galleria dell'Accademia è universalmente nota per il **David di Michelangelo**, ma il percorso richiesto dal percorso include anche la Galleria dei Prigioni e la Sala del Colosseo. Per la spiegazione conviene costruire un discorso centrato sulla scultura come progressione: dal modello, all'incompiuto, al capolavoro finito.
 
 ### Tribuna di David
 
@@ -666,7 +621,7 @@ La Sala del Colosseo introduce il visitatore con il grande modello in gesso del 
 
 - Qual è il significato politico del David?
 - Che cosa si intende per non-finito michelangiolesco?
-- Quali sezioni dell'Accademia sono richieste dalil percorso?
+- Quali sezioni dell'Accademia sono richieste dal percorso?
 - Perché la Sala del Colosseo è importante nel percorso?
 
 ### Sintesi narrativa
@@ -677,12 +632,9 @@ La Galleria dell'Accademia di Firenze è nota soprattutto per il David di Michel
 
 ## Palazzo Pitti, Giardino di Boboli e Ville medicee della Toscana
 
-![Palazzo Pitti, Firenze](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/1280px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg)
-_Palazzo Pitti, Firenze. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/1280px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg)._
+![Palazzo Pitti, Firenze](<https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Palazzo_Pitti_nel_tardo_pomeriggio.jpg/1280px-Palazzo_Pitti_nel_tardo_pomeriggio.jpg>)
+_Palazzo Pitti, Firenze. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Palazzo_Pitti_nel_tardo_pomeriggio.jpg>)._
 
-**Tipologia:** residenza dinastica; museo; giardino storico; sistema di ville.
-**Sezioni richieste dalil percorso:** Galleria Palatina; Appartamenti Reali.
-**Parole chiave:** Medici, Pitti, Lorena, Savoia, Galleria Palatina, Appartamenti Reali, Boboli, ville medicee, UNESCO.
 
 ### Inquadramento
 
@@ -751,7 +703,7 @@ Palazzo Pitti è la grande reggia fiorentina d'Oltrarno, passata dai Pitti ai Me
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Opera per Santa Maria Novella](https://www.smn.it/)
 - [Opera di Santa Maria del Fiore](https://duomo.firenze.it/)

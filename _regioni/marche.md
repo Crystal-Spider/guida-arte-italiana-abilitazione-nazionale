@@ -21,8 +21,8 @@ Le Marche sono una regione policentrica, fatta di città collinari, paesaggi app
 
 ## Grotte di Frasassi - Genga, Ancona
 
-![Grotte di Frasassi - Sala delle Candeline](https://commons.wikimedia.org/wiki/Special:FilePath/Grotte%20di%20Frasassi%2C%20Sala%20delle%20Candeline.jpg)
-_Grotte di Frasassi - Sala delle Candeline. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Grotte%20di%20Frasassi%2C%20Sala%20delle%20Candeline.jpg)._
+![Grotte di Frasassi - Sala delle Candeline](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grotte_di_Frasassi%2C_Sala_delle_Candeline.jpg/1280px-Grotte_di_Frasassi%2C_Sala_delle_Candeline.jpg>)
+_Grotte di Frasassi - Sala delle Candeline. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Grotte_di_Frasassi,_Sala_delle_Candeline.jpg>)._
 
 ### Dati essenziali
 
@@ -109,8 +109,8 @@ Le Grotte di Frasassi si trovano a Genga, in provincia di Ancona, e costituiscon
 
 ## Palazzo Ducale di Urbino - Urbino, Pesaro e Urbino
 
-![Palazzo Ducale di Urbino](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Ducale%2C%20Urbino%20%28Marche%29%2001.jpg)
-_Palazzo Ducale di Urbino. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Ducale%2C%20Urbino%20%28Marche%29%2001.jpg)._
+![Palazzo Ducale di Urbino](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Palazzo_Ducale%2C_Urbino_%28Marche%29_01.jpg/1280px-Palazzo_Ducale%2C_Urbino_%28Marche%29_01.jpg>)
+_Palazzo Ducale di Urbino. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Palazzo_Ducale,_Urbino_(Marche)_01.jpg>)._
 
 ### Dati essenziali
 
@@ -190,8 +190,8 @@ Il Palazzo Ducale di Urbino è uno dei massimi esempi di architettura rinascimen
 
 ## Parco Nazionale dei Monti Sibillini - province di Macerata, Fermo, Ascoli Piceno
 
-![Monti Sibillini - Monte Vettore](https://commons.wikimedia.org/wiki/Special:FilePath/MT.Vettore%20%28Parco%20nazionale%20dei%20Monti%20Sibillini%29.jpg)
-_Monti Sibillini - Monte Vettore. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/MT.Vettore%20%28Parco%20nazionale%20dei%20Monti%20Sibillini%29.jpg)._
+![Monti Sibillini - Monte Vettore](<https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MT.Vettore_%28Parco_nazionale_dei_Monti_Sibillini%29.jpg/1280px-MT.Vettore_%28Parco_nazionale_dei_Monti_Sibillini%29.jpg>)
+_Monti Sibillini - Monte Vettore. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:MT.Vettore_(Parco_nazionale_dei_Monti_Sibillini).jpg>)._
 
 ### Dati essenziali
 
@@ -267,8 +267,8 @@ Il Parco Nazionale dei Monti Sibillini si estende tra Marche e Umbria e tutela u
 
 ## Centro storico di Ascoli Piceno - Ascoli Piceno
 
-![Piazza del Popolo, Ascoli Piceno](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20del%20Popolo%20%28Ascoli%20Piceno%29.jpg)
-_Piazza del Popolo, Ascoli Piceno. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20del%20Popolo%20%28Ascoli%20Piceno%29.jpg)._
+![Piazza del Popolo, Ascoli Piceno](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Piazza_del_Popolo_%28Ascoli_Piceno%29.jpg/1280px-Piazza_del_Popolo_%28Ascoli_Piceno%29.jpg>)
+_Piazza del Popolo, Ascoli Piceno. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Piazza_del_Popolo_(Ascoli_Piceno).jpg>)._
 
 ### Dati essenziali
 
@@ -341,8 +341,8 @@ Il centro storico di Ascoli Piceno è uno dei più significativi delle Marche ed
 
 ## Rocca di Gradara - Gradara, Pesaro e Urbino
 
-![Rocca di Gradara](https://commons.wikimedia.org/wiki/Special:FilePath/Rocca%20di%20Gradara%20-%20facciata.jpg)
-_Rocca di Gradara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Rocca%20di%20Gradara%20-%20facciata.jpg)._
+![Rocca di Gradara](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Rocca_di_Gradara_-_facciata.jpg/1280px-Rocca_di_Gradara_-_facciata.jpg>)
+_Rocca di Gradara. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Rocca_di_Gradara_-_facciata.jpg>)._
 
 ### Dati essenziali
 
@@ -423,8 +423,8 @@ La Rocca di Gradara è uno dei più noti complessi fortificati delle Marche. Sit
 
 ## Santuario della Santa Casa di Loreto - Loreto, Ancona
 
-![Basilica della Santa Casa di Loreto](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Pontificia%20della%20Santa%20Casa%20di%20Loreto.jpg)
-_Basilica della Santa Casa di Loreto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Pontificia%20della%20Santa%20Casa%20di%20Loreto.jpg)._
+![Basilica della Santa Casa di Loreto](<https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Basilica_Pontificia_della_Santa_Casa_di_Loreto.jpg/1280px-Basilica_Pontificia_della_Santa_Casa_di_Loreto.jpg>)
+_Basilica della Santa Casa di Loreto. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Basilica_Pontificia_della_Santa_Casa_di_Loreto.jpg>)._
 
 ### Dati essenziali
 
@@ -515,8 +515,8 @@ Concluderei la presentazione sottolineando che il Parco Archeologico di Urbisagl
 
 Questa sezione è inclusa perché il percorso del percorso integrativo indica per le Marche il **Parco Archeologico di Urbisaglia**. Non è una scheda approfondita della scheda, perché il sito non compare tra i sei siti marchigiani del percorso principale; tuttavia, seguendo il criterio richiesto, viene fornito un esempio di presentazione di circa 5 minuti per i siti classificati come percorso narrativo.
 
-![Anfiteatro di Urbs Salvia](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia.jpg)
-_Anfiteatro di Urbs Salvia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia.jpg)._
+![Anfiteatro di Urbs Salvia](<https://upload.wikimedia.org/wikipedia/commons/c/c3/Anfiteatro_Urbs_Salvia.jpg>)
+_Anfiteatro di Urbs Salvia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Anfiteatro_Urbs_Salvia.jpg>)._
 
 ## Sintesi finale
 
@@ -601,7 +601,7 @@ _Anfiteatro di Urbs Salvia. [Fonte immagine](https://commons.wikimedia.org/wiki/
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Sito ufficiale Grotte di Frasassi](https://www.frasassi.com/)
 - [Pagina ufficiale sulla scoperta](https://www.frasassi.com/GrotteScoperta.aspx?l=it)

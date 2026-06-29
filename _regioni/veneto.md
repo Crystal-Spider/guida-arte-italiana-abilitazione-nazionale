@@ -23,8 +23,8 @@ Il Veneto attraversa laguna, città murate, ville, paesaggi vitivinicoli, Dolomi
 
 ## Duomo, Criptoportico di Vicenza e Basilica Palladiana
 
-![Basilica Palladiana, Vicenza](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Palladiana%20Vicenza.jpg)
-_Basilica Palladiana, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Basilica%20Palladiana%20Vicenza.jpg)._
+![Basilica Palladiana, Vicenza](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Basilica_Palladiana_Vicenza.jpg/1280px-Basilica_Palladiana_Vicenza.jpg>)
+_Basilica Palladiana, Vicenza. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Basilica_Palladiana_Vicenza.jpg>)._
 
 ### Inquadramento
 
@@ -87,12 +87,12 @@ Non iniziare subito da Palladio. Parti da Vicenza come città stratificata: cos�
 
 ## Arena, Basilica di San Zeno e Arche Scaligere - Verona
 
-![Arena di Verona](https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20%28Arena%20di%20Verona%29.jpg)
-_Arena di Verona. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Verona%20Arena%20%28Arena%20di%20Verona%29.jpg)._
+![Arena di Verona](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Verona_Arena_%28Arena_di_Verona%29.jpg/1280px-Verona_Arena_%28Arena_di_Verona%29.jpg>)
+_Arena di Verona. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Verona_Arena_(Arena_di_Verona).jpg>)._
 
 ### Inquadramento
 
-Questa scheda richiede una lettura di Verona attraverso tre grandi fasi: la Verona romana, la Verona romanica e comunale, e la Verona scaligera. I tre monumenti indicati dalil percorso - Arena, Basilica di San Zeno e Arche Scaligere - permettono di costruire una risposta molto solida perché coprono funzioni diverse: spettacolo pubblico, culto religioso, memoria dinastica.
+Questa scheda richiede una lettura di Verona attraverso tre grandi fasi: la Verona romana, la Verona romanica e comunale, e la Verona scaligera. I tre monumenti indicati dal percorso - Arena, Basilica di San Zeno e Arche Scaligere - permettono di costruire una risposta molto solida perché coprono funzioni diverse: spettacolo pubblico, culto religioso, memoria dinastica.
 
 Verona è iscritta nella Lista del Patrimonio Mondiale UNESCO come città storica di eccezionale valore per la continuità del suo sviluppo urbano e per la conservazione di monumenti di epoche diverse. Una risposta efficace deve quindi evitare di trattare Arena, San Zeno e Arche come tre tappe separate; bisogna presentarli come parti di un unico racconto urbano.
 
@@ -151,8 +151,8 @@ Questi tre monumenti consentono di leggere Verona come una città di lunga durat
 
 ## Basilica di Sant'Antonio, Prato della Valle e Cappella degli Scrovegni - Padova
 
-![Cappella degli Scrovegni, Padova](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20degli%20Scrovegni.jpg)
-_Cappella degli Scrovegni, Padova. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cappella%20degli%20Scrovegni.jpg)._
+![Cappella degli Scrovegni, Padova](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cappella_degli_Scrovegni.jpg/1280px-Cappella_degli_Scrovegni.jpg>)
+_Cappella degli Scrovegni, Padova. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cappella_degli_Scrovegni.jpg>)._
 
 ### Inquadramento
 
@@ -212,8 +212,8 @@ Costruisci la risposta su tre parole: **santuario, piazza, affresco**. Così evi
 
 ## Sistema monumentale di Piazza San Marco - Basilica di San Marco e Palazzo Ducale
 
-![Piazza San Marco](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20San%20Marco%20in%20Venice.jpg)
-_Piazza San Marco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Piazza%20San%20Marco%20in%20Venice.jpg)._
+![Piazza San Marco](<https://upload.wikimedia.org/wikipedia/commons/9/9b/Piazza_San_Marco_in_Venice.jpg>)
+_Piazza San Marco. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Piazza_San_Marco_in_Venice.jpg>)._
 
 ### Inquadramento
 
@@ -262,8 +262,8 @@ Non limitarti alla descrizione artistica. Usa le parole **Repubblica, Oriente, p
 
 ## Laguna di Venezia, Canal Grande, Murano, Burano e Torcello
 
-![Canal Grande, Venezia](https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20Grande%20Venezia.jpg)
-_Canal Grande, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Canal%20Grande%20Venezia.jpg)._
+![Canal Grande, Venezia](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg/1280px-View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg>)
+_Canal Grande, Venezia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg>)._
 
 ### Inquadramento
 
@@ -328,8 +328,8 @@ Un buon modo per concludere è sottolineare che il Ponte di Rialto unisce due di
 
 ## Colline del Prosecco di Conegliano e Valdobbiadene
 
-![Colline del Prosecco](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg)
-_Colline del Prosecco. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Hillside%20View%20of%20Valdobbiadene.jpg)._
+![Colline del Prosecco](<https://upload.wikimedia.org/wikipedia/commons/0/01/Hillside_View_of_Valdobbiadene.jpg>)
+_Colline del Prosecco. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Hillside_View_of_Valdobbiadene.jpg>)._
 
 ### Inquadramento
 
@@ -381,8 +381,8 @@ Usa l'espressione **paesaggio culturale** entro i primi 20 secondi. È la chiave
 
 ## Ville palladiane del Veneto
 
-![Villa La Rotonda, Vicenza](https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Rotonda%20%28Vicenza%29.jpg)
-_Villa La Rotonda, Vicenza. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Villa%20Rotonda%20%28Vicenza%29.jpg)._
+![Villa La Rotonda, Vicenza](<https://upload.wikimedia.org/wikipedia/commons/d/d8/Larotonda2009.JPG>)
+_Villa La Rotonda, Vicenza. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Larotonda2009.JPG>)._
 
 ### Inquadramento
 
@@ -429,8 +429,8 @@ La parola chiave è **terraferma**. Le ville palladiane vanno spiegate come arch
 
 ## Gallerie dell'Accademia di Venezia - Pittura del Cinquecento; pittura del Seicento e Settecento
 
-![Gallerie dell'Accademia, Venezia](https://commons.wikimedia.org/wiki/Special:FilePath/Gallerie%20dell%27Accademia%20%28Venice%29.jpg)
-_Gallerie dell'Accademia, Venezia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Gallerie%20dell%27Accademia%20%28Venice%29.jpg)._
+![Gallerie dell'Accademia, Venezia](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Accademia_%28Venice%29.jpg/1280px-Accademia_%28Venice%29.jpg>)
+_Gallerie dell'Accademia, Venezia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Accademia_(Venice).jpg>)._
 
 ### Inquadramento
 
@@ -497,8 +497,8 @@ Prepara una risposta su tre coppie: **Tiziano/colore**, **Tintoretto/dramma**, *
 
 ### Percorso narrativo breve
 
-![Dolomiti](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Tofana%20di%20Rozes.jpg)
-_Dolomiti. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Tofana%20di%20Rozes.jpg)._
+![Dolomiti](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Faloria_Cortina_d%27Ampezzo_10.jpg/1280px-Faloria_Cortina_d%27Ampezzo_10.jpg>)
+_Dolomiti venete, area di Cortina d'Ampezzo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Faloria_Cortina_d%27Ampezzo_10.jpg>)._
 "Le Dolomiti venete, con riferimento all'area di Cortina e al Bellunese, fanno parte di uno dei paesaggi montani più celebri d'Europa. Anche se nel percorso principale veneto non compaiono come scheda autonoma, ma sono presenti nel percorso narrativo e vanno quindi considerate almeno come presentazione.
 
 Il primo elemento da spiegare è il valore paesaggistico e geologico. Le Dolomiti prendono il nome dalla dolomia, roccia carbonatica studiata da Déodat de Dolomieu. Le pareti chiare, le torri, i massicci isolati e il fenomeno dell'enrosadira, cioè la colorazione rosata delle cime al tramonto e all'alba, rendono il paesaggio dolomitico immediatamente riconoscibile.
@@ -550,7 +550,7 @@ Concluderei dicendo che le Dolomiti venete vanno raccontate come paesaggio total
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [UNESCO World Heritage Centre, _City of Vicenza and the Palladian Villas of the Veneto_](https://whc.unesco.org/en/list/712/)
 - [Commissione Nazionale Italiana per l'UNESCO, _Città di Vicenza e le Ville del Palladio nel Veneto_](https://www.unesco.it/it/unesco-vicino-a-te/siti-patrimonio-mondiale/citta-di-vicenza-e-le-ville-del-palladio-nel-veneto/)

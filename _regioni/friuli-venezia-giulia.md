@@ -19,10 +19,10 @@ Il Friuli-Venezia Giulia è un territorio di confine, dove mondo romano, Longoba
 
 ## Cividale del Friuli: Ponte del Diavolo, Tempietto Longobardo e Complesso Episcopale
 
-![Ponte del Diavolo a Cividale del Friuli](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20del%20Diavolo%20in%20Cividale%20del%20Friuli.jpg?width=1000)
-_Ponte del Diavolo a Cividale del Friuli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20del%20Diavolo%20in%20Cividale%20del%20Friuli.jpg?width=1000)._
-![Tempietto Longobardo](https://commons.wikimedia.org/wiki/Special:FilePath/Cividale%200904%20Tempietto%20Longobardo.jpg?width=1000)
-_Tempietto Longobardo. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cividale%200904%20Tempietto%20Longobardo.jpg?width=1000)._
+![Ponte del Diavolo a Cividale del Friuli](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ponte_del_Diavolo_in_Cividale_del_Friuli.jpg/1280px-Ponte_del_Diavolo_in_Cividale_del_Friuli.jpg>)
+_Ponte del Diavolo a Cividale del Friuli. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Ponte_del_Diavolo_in_Cividale_del_Friuli.jpg>)._
+![Tempietto Longobardo](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cividale_0904_Tempietto_Longobardo.jpg/1280px-Cividale_0904_Tempietto_Longobardo.jpg>)
+_Tempietto Longobardo. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cividale_0904_Tempietto_Longobardo.jpg>)._
 
 ### Inquadramento
 
@@ -106,11 +106,11 @@ Una buona frase di chiusura può essere: "Cividale è uno dei luoghi in cui il M
 
 ## Aquileia e Museo Archeologico Nazionale
 
-![Basilica Patriarcale di Aquileia](<https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000>)
-_Basilica Patriarcale di Aquileia. [Fonte immagine](<https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20-%20Basilica%20-%20Giona%20gettato%20sulla%20spiaggia%20(esposizione%2033).jpg?width=1000>)._
+![Basilica Patriarcale di Aquileia](<https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Aquileia_-_Basilica_-_Giona_gettato_sulla_spiaggia_%28esposizione_33%29.jpg/1280px-Aquileia_-_Basilica_-_Giona_gettato_sulla_spiaggia_%28esposizione_33%29.jpg>)
+_Basilica Patriarcale di Aquileia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Aquileia_-_Basilica_-_Giona_gettato_sulla_spiaggia_(esposizione_33).jpg>)._
 
-![Mosaico paleocristiano di Aquileia](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20Basilica%20-%20Ausgrabungen%20Mosaik%209.jpg?width=1000)
-_Mosaico paleocristiano di Aquileia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Aquileia%20Basilica%20-%20Ausgrabungen%20Mosaik%209.jpg?width=1000)._
+![Mosaico paleocristiano di Aquileia](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aquileia_Basilica_-_Ausgrabungen_Mosaik_9.jpg/1280px-Aquileia_Basilica_-_Ausgrabungen_Mosaik_9.jpg>)
+_Mosaico paleocristiano di Aquileia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Aquileia_Basilica_-_Ausgrabungen_Mosaik_9.jpg>)._
 
 ### Inquadramento
 
@@ -248,8 +248,8 @@ Errore da evitare: parlare solo della Basilica o solo del Museo. Aquileia va spi
 
 ## Sacrario di Redipuglia
 
-![Sacrario militare di Redipuglia](https://commons.wikimedia.org/wiki/Special:FilePath/Sacrario%20militare%20di%20Redipuglia%20agosto%202014.JPG?width=1000)
-_Sacrario militare di Redipuglia. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Sacrario%20militare%20di%20Redipuglia%20agosto%202014.JPG?width=1000)._
+![Sacrario militare di Redipuglia](<https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sacrario_militare_di_Redipuglia_agosto_2014.JPG/1280px-Sacrario_militare_di_Redipuglia_agosto_2014.JPG>)
+_Sacrario militare di Redipuglia. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Sacrario_militare_di_Redipuglia_agosto_2014.JPG>)._
 
 ### Inquadramento
 
@@ -341,10 +341,10 @@ Frase utile: "Redipuglia non va visitata solo come monumento, ma come paesaggio 
 
 ## Castello di Miramare
 
-![Castello di Miramare](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Miramare%20-%20Trieste.jpg?width=1000)
-_Castello di Miramare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello%20di%20Miramare%20-%20Trieste.jpg?width=1000)._
-![Castello di Miramare, veduta dal mare](https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20miramare.jpg?width=1000)
-_Castello di Miramare, veduta dal mare. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Schloss%20miramare.jpg?width=1000)._
+![Castello di Miramare](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Castello_di_Miramare_-_Trieste.jpg/1280px-Castello_di_Miramare_-_Trieste.jpg>)
+_Castello di Miramare. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castello_di_Miramare_-_Trieste.jpg>)._
+![Castello di Miramare, veduta dal mare](<https://upload.wikimedia.org/wikipedia/commons/a/ab/Schloss_miramare.jpg>)
+_Castello di Miramare, veduta dal mare. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Schloss_miramare.jpg>)._
 
 ### Inquadramento
 
@@ -464,7 +464,7 @@ Frase utile: "Miramare è un castello solo nel nome e nell'immaginario: in realt
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Italia Langobardorum, "Cividale del Friuli e i monumenti UNESCO"](https://longobardinitalia.it/scopri/cividale-del-friuli/)
 - [Tempietto Longobardo, "Cividale Longobarda"](https://www.tempiettolongobardo.it/it/cividale_longobarda)

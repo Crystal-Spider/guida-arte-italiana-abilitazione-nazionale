@@ -18,8 +18,8 @@ L'Abruzzo unisce costa adriatica, borghi appenninici e grandi parchi montani. La
 
 ## Alba Fucens
 
-![Anfiteatro romano di Alba Fucens](https://commons.wikimedia.org/wiki/Special:FilePath/100819%20Alba%20Fucens%20Anfiteatro.jpg)
-_Anfiteatro romano di Alba Fucens. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/100819%20Alba%20Fucens%20Anfiteatro.jpg)._
+![Anfiteatro romano di Alba Fucens](<https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/100819_Alba_Fucens_Anfiteatro.jpg/1280px-100819_Alba_Fucens_Anfiteatro.jpg>)
+_Anfiteatro romano di Alba Fucens. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:100819_Alba_Fucens_Anfiteatro.jpg>)._
 
 ### Dati essenziali
 
@@ -183,8 +183,8 @@ La frase chiave da ricordare è: **"Alba Fucens è una colonia latina che permet
 
 ## Parco Nazionale del Gran Sasso e Monti della Laga
 
-![Campo Imperatore e Corno Grande](https://commons.wikimedia.org/wiki/Special:FilePath/Corno%20grande%20da%20campo%20imperatore.jpg)
-_Campo Imperatore e Corno Grande. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Corno%20grande%20da%20campo%20imperatore.jpg)._
+![Campo Imperatore e Corno Grande](<https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Corno_grande_da_campo_imperatore.jpg/1280px-Corno_grande_da_campo_imperatore.jpg>)
+_Campo Imperatore e Corno Grande. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Corno_grande_da_campo_imperatore.jpg>)._
 
 ### Dati essenziali
 
@@ -308,8 +308,8 @@ Frase chiave: **"Il Parco del Gran Sasso e Monti della Laga è un laboratorio di
 
 ## Costa dei Trabocchi
 
-![Trabocco lungo la costa abruzzese](https://commons.wikimedia.org/wiki/Special:FilePath/Trabocco0001.jpg)
-_Trabocco lungo la costa abruzzese. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Trabocco0001.jpg)._
+![Trabocco lungo la costa abruzzese](<https://upload.wikimedia.org/wikipedia/commons/6/61/Trabocco0001.jpg>)
+_Trabocco lungo la costa abruzzese. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Trabocco0001.jpg>)._
 
 ### Dati essenziali
 
@@ -482,7 +482,7 @@ Risposta da costruire: localizzazione Ortona-Vasto → trabocchi → pesca tradi
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Direzione regionale musei nazionali Abruzzo / Ministero della Cultura, **Area archeologica di Alba Fucens**](https://museiabruzzo.cultura.gov.it/luoghi-della-cultura/7227-area-archeologica-di-alba-fucens/)
 - [Ministero della Cultura, **Area archeologica di Alba Fucens**](https://cultura.gov.it/luogo/area-archeologica-di-alba-fucens)

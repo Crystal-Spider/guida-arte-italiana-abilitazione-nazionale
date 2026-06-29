@@ -19,8 +19,8 @@ La Basilicata alterna paesaggi interni, borghi rupestri, aree archeologiche magn
 
 ## Dolomiti Lucane
 
-![Dolomiti Lucane viste da Castelmezzano](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti_lucane.png)
-_Dolomiti Lucane viste da Castelmezzano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti_lucane.png)._
+![Dolomiti Lucane viste da Castelmezzano](<https://upload.wikimedia.org/wikipedia/commons/a/ac/Dolomiti_lucane.png>)
+_Dolomiti Lucane viste da Castelmezzano. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Dolomiti_lucane.png>)._
 
 ### Dati essenziali
 
@@ -138,8 +138,8 @@ Frase chiave da ricordare: **"Le Dolomiti Lucane sono un paesaggio appenninico i
 
 ## Complesso Archeologico di Metaponto
 
-![Tavole Palatine di Metaponto](https://commons.wikimedia.org/wiki/Special:FilePath/Metaponto_Tavole_Palatine.jpg)
-_Tavole Palatine di Metaponto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Metaponto_Tavole_Palatine.jpg)._
+![Tavole Palatine di Metaponto](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Metaponto_Tavole_Palatine.jpg/1280px-Metaponto_Tavole_Palatine.jpg>)
+_Tavole Palatine di Metaponto. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Metaponto_Tavole_Palatine.jpg>)._
 
 ### Dati essenziali
 
@@ -267,8 +267,8 @@ Frase chiave da ricordare: **"Metaponto è uno dei siti più efficaci per spiega
 
 ## Parco Nazionale del Pollino
 
-![Pino loricato nel Parco Nazionale del Pollino](https://commons.wikimedia.org/wiki/Special:FilePath/Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg)
-_Pino loricato nel Parco Nazionale del Pollino. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg)._
+![Pino loricato nel Parco Nazionale del Pollino](<https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg/1280px-Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg>)
+_Pino loricato nel Parco Nazionale del Pollino. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Giardino_degli_Dei_-_Parco_Nazionale_del_Pollino_-.jpg>)._
 
 ### Dati essenziali
 
@@ -400,8 +400,8 @@ Frase chiave da ricordare: **"Il Pollino è il grande paesaggio montano del Sud 
 
 ## Sassi di Matera
 
-![Panorama dei Sassi di Matera](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_dei_sassi_di_Matera.jpg)
-_Panorama dei Sassi di Matera. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_dei_sassi_di_Matera.jpg)._
+![Panorama dei Sassi di Matera](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Panorama_dei_sassi_di_Matera.jpg/1280px-Panorama_dei_sassi_di_Matera.jpg>)
+_Panorama dei Sassi di Matera. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Panorama_dei_sassi_di_Matera.jpg>)._
 
 ### Dati essenziali
 
@@ -625,7 +625,7 @@ Per la Basilicata conviene ripetere spesso il contrasto tra quattro paesaggi:
 - **grande parco appenninico:** Pollino;
 - **città rupestre UNESCO:** Matera.
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Scopri il Parco"](https://www.parcogallipolicognato.it/pagina.php?id=1)
 - [Parco Regionale Gallipoli Cognato Piccole Dolomiti Lucane, "Geomorfologia"](https://www.parcogallipolicognato.it/pagina.php?id=2)

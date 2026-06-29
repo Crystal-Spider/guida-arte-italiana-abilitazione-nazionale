@@ -27,10 +27,10 @@ La Campania concentra paesaggi costieri, aree vesuviane, grandi siti archeologic
 
 ## Certosa di San Giacomo e Grotta Azzurra - Capri
 
-![Certosa di San Giacomo, Capri](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa%20di%20San%20Giacomo%2C%20Capri.jpg)
-_Certosa di San Giacomo, Capri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Certosa%20di%20San%20Giacomo%2C%20Capri.jpg)._
-![Grotta Azzurra, Capri](https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Grotto%2C%20Capri%2C%20IT.jpg)
-_Grotta Azzurra, Capri. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Grotto%2C%20Capri%2C%20IT.jpg)._
+![Certosa di San Giacomo, Capri](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Certosa_di_San_Giacomo%2C_Capri.jpg/1280px-Certosa_di_San_Giacomo%2C_Capri.jpg>)
+_Certosa di San Giacomo, Capri. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Certosa_di_San_Giacomo,_Capri.jpg>)._
+![Grotta Azzurra, Capri](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Blue_Grotto%2C_Capri%2C_IT.jpg/1280px-Blue_Grotto%2C_Capri%2C_IT.jpg>)
+_Grotta Azzurra, Capri. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Blue_Grotto,_Capri,_IT.jpg>)._
 
 ### Dati essenziali
 
@@ -71,8 +71,8 @@ Apri con un contrasto efficace: "A Capri il percorso chiede di tenere insieme un
 
 ## Costiera Amalfitana: Amalfi, Positano, Ravello
 
-![Costiera Amalfitana](https://commons.wikimedia.org/wiki/Special:FilePath/Amalfi%20coast%20-%20panoramio%20%281%29.jpg)
-_Costiera Amalfitana. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Amalfi%20coast%20-%20panoramio%20%281%29.jpg)._
+![Costiera Amalfitana](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Amalfi_coast_-_panoramio_%281%29.jpg/1280px-Amalfi_coast_-_panoramio_%281%29.jpg>)
+_Costiera Amalfitana. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Amalfi_coast_-_panoramio_(1).jpg>)._
 
 ### Dati essenziali
 
@@ -117,8 +117,8 @@ Usa la sequenza "Amalfi = storia marittima; Positano = paesaggio verticale; Rave
 
 ## Parco Archeologico di Cuma - Pozzuoli
 
-![Antro della Sibilla, Cuma](https://commons.wikimedia.org/wiki/Special:FilePath/Cuma%20-%20Antro%20della%20Sibilla.JPG)
-_Antro della Sibilla, Cuma. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Cuma%20-%20Antro%20della%20Sibilla.JPG)._
+![Antro della Sibilla, Cuma](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cuma_-_Antro_della_Sibilla.JPG/1280px-Cuma_-_Antro_della_Sibilla.JPG>)
+_Antro della Sibilla, Cuma. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Cuma_-_Antro_della_Sibilla.JPG>)._
 
 ### Dati essenziali
 
@@ -159,8 +159,8 @@ Formula chiave: "Cuma è un sito in cui la storia greca dell'Italia meridionale 
 
 ## Grotte di Pertosa-Auletta - Pertosa/Auletta
 
-![Grotte di Pertosa](https://commons.wikimedia.org/wiki/Special:FilePath/PERTOSA%20%28Caves-2%29.JPG)
-_Grotte di Pertosa. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/PERTOSA%20%28Caves-2%29.JPG)._
+![Grotte di Pertosa](<https://upload.wikimedia.org/wikipedia/commons/6/64/PERTOSA_%28Caves-2%29.JPG>)
+_Grotte di Pertosa. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:PERTOSA_(Caves-2).JPG>)._
 
 ### Dati essenziali
 
@@ -205,8 +205,8 @@ Non iniziare con "sono belle grotte". Inizia con: "Pertosa-Auletta è un sito in
 
 ## Reggia di Caserta - Caserta
 
-![Reggia di Caserta](https://commons.wikimedia.org/wiki/Special:FilePath/Reggia%20di%20Caserta.jpg)
-_Reggia di Caserta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Reggia%20di%20Caserta.jpg)._
+![Reggia di Caserta](<https://upload.wikimedia.org/wikipedia/commons/c/c9/Reggia_di_Caserta.jpg>)
+_Reggia di Caserta. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Reggia_di_Caserta.jpg>)._
 
 ### Dati essenziali
 
@@ -266,8 +266,8 @@ Sequenza consigliata: **Carlo di Borbone → Vanvitelli → palazzo → parco/ac
 
 ## Parco Archeologico di Ercolano - Ercolano
 
-![Ercolano](https://commons.wikimedia.org/wiki/Special:FilePath/Herculaneum%27s%20ruins%20-%20panoramio.jpg)
-_Ercolano. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Herculaneum%27s%20ruins%20-%20panoramio.jpg)._
+![Ercolano](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Herculaneum%27s_ruins_-_panoramio.jpg/1280px-Herculaneum%27s_ruins_-_panoramio.jpg>)
+_Ercolano. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Herculaneum%27s_ruins_-_panoramio.jpg>)._
 
 ### Dati essenziali
 
@@ -308,8 +308,8 @@ Fai sempre un confronto con Pompei, ma non trasformare Ercolano in "Pompei minor
 
 ## Parco Archeologico di Paestum - Capaccio Paestum
 
-![Templi di Paestum](https://commons.wikimedia.org/wiki/Special:FilePath/Templos%20Paestum.%2001.JPG)
-_Templi di Paestum. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Templos%20Paestum.%2001.JPG)._
+![Templi di Paestum](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Templos_Paestum._01.JPG/1280px-Templos_Paestum._01.JPG>)
+_Templi di Paestum. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Templos_Paestum._01.JPG>)._
 
 ### Dati essenziali
 
@@ -350,8 +350,8 @@ Non dire "i tre templi greci" e basta. Aggiungi sempre: "sono il punto di parten
 
 ## Parco Archeologico di Pompei - Pompei
 
-![Foro di Pompei e Vesuvio](https://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20Forum%20%26%20Mt.%20Vesuvius%20%289809458366%29.jpg)
-_Foro di Pompei e Vesuvio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Pompeii%20Forum%20%26%20Mt.%20Vesuvius%20%289809458366%29.jpg)._
+![Foro di Pompei e Vesuvio](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pompeii_Forum_%26_Mt._Vesuvius_%289809458366%29.jpg/1280px-Pompeii_Forum_%26_Mt._Vesuvius_%289809458366%29.jpg>)
+_Foro di Pompei e Vesuvio. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Pompeii_Forum_%26_Mt._Vesuvius_(9809458366).jpg>)._
 
 ### Dati essenziali
 
@@ -397,8 +397,8 @@ Usa una struttura ordinata: **città viva → terremoto del 62 → eruzione del 
 
 ## Parco Nazionale del Vesuvio - Napoli
 
-![Vesuvio](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20nazionale%20vesuvio.jpg)
-_Vesuvio. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20nazionale%20vesuvio.jpg)._
+![Vesuvio](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Parco_nazionale_vesuvio.jpg/1280px-Parco_nazionale_vesuvio.jpg>)
+_Vesuvio. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Parco_nazionale_vesuvio.jpg>)._
 
 ### Dati essenziali
 
@@ -439,8 +439,8 @@ Evita "vulcano spento": il Vesuvio è quiescente, non estinto. Questa precisione
 
 ## Centro storico monumentale di Napoli
 
-![Centro storico di Napoli](https://commons.wikimedia.org/wiki/Special:FilePath/NapoliSpaccanapoli.jpg)
-_Centro storico di Napoli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/NapoliSpaccanapoli.jpg)._
+![Centro storico di Napoli](<https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NapoliSpaccanapoli.jpg/1280px-NapoliSpaccanapoli.jpg>)
+_Centro storico di Napoli. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:NapoliSpaccanapoli.jpg>)._
 
 ### Dati essenziali
 
@@ -496,8 +496,8 @@ Non fare un elenco. Usa la parola "stratificazione" come chiave. È la parola pi
 
 ## Museo Archeologico Nazionale di Napoli - MANN
 
-![MANN, Napoli](https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20Nazionale.jpg)
-_MANN, Napoli. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Museo%20Nazionale.jpg)._
+![MANN, Napoli](<https://upload.wikimedia.org/wikipedia/commons/1/19/Museo_Nazionale.jpg>)
+_MANN, Napoli. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Museo_Nazionale.jpg>)._
 
 ### Dati essenziali
 
@@ -538,8 +538,8 @@ Per il MANN usa la formula: "museo del territorio e museo del collezionismo". È
 
 ## Museo di Capodimonte - Napoli
 
-![Museo di Capodimonte](https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20Palazzo%20Reale%20di%20Capodimonte.jpg)
-_Museo di Capodimonte. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Napoli%20Palazzo%20Reale%20di%20Capodimonte.jpg)._
+![Museo di Capodimonte](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Napoli_Palazzo_Reale_di_Capodimonte.jpg/1280px-Napoli_Palazzo_Reale_di_Capodimonte.jpg>)
+_Museo di Capodimonte. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Napoli_Palazzo_Reale_di_Capodimonte.jpg>)._
 
 ### Dati essenziali
 
@@ -619,7 +619,7 @@ Non presentarlo come "un museo con quadri famosi". Presentalo come **reggia, pin
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [Certosa di San Giacomo, MiC](https://cultura.gov.it/luogo/certosa-di-san-giacomo)
 - [Grotta Azzurra, MiC/Musei Capri](https://museicapri.cultura.gov.it/it/grotta-azzurra/)

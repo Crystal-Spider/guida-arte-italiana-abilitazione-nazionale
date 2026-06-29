@@ -12,7 +12,7 @@ La Provincia autonoma di Bolzano è segnata dal paesaggio dolomitico, dalle vall
 
 |  N. | Voce                      | Tipologia                     | Area                 | Descrizione                                                                                                                                                           |
 | --: | ------------------------- | ----------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Dolomiti e lago di Braies | Paesaggio o area archeologica | Territorio regionale | Il sito richiesto dalil percorso unisce due livelli di lettura: da un lato le Dolomiti come grande patrimonio naturale alpino, dall'altro il lago di Braies come l... |
+|   1 | Dolomiti e lago di Braies | Paesaggio o area archeologica | Territorio regionale | Il sito richiesto dal percorso unisce due livelli di lettura: da un lato le Dolomiti come grande patrimonio naturale alpino, dall'altro il lago di Braies come l... |
 
 ## Dolomiti e lago di Braies
 
@@ -29,18 +29,18 @@ La Provincia autonoma di Bolzano è segnata dal paesaggio dolomitico, dalle vall
 
 ### Immagini utili
 
-![Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti%20riflesse%20nel%20lago%20di%20Braies.jpg)
-_Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Dolomiti%20riflesse%20nel%20lago%20di%20Braies.jpg)._
-![Parco naturale Fanes-Senes-Braies](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20Naturale%20Fanes%20-%20Sennes%20-%20Braies%20%28BZ%29.jpg)
-_Parco naturale Fanes-Senes-Braies. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Parco%20Naturale%20Fanes%20-%20Sennes%20-%20Braies%20%28BZ%29.jpg)._
-![Alpe di Sennes](https://commons.wikimedia.org/wiki/Special:FilePath/Alpe%20di%20Sennes.jpg)
-_Alpe di Sennes. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Alpe%20di%20Sennes.jpg)._
+![Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dolomiti_riflesse_nel_lago_di_Braies.jpg/1280px-Dolomiti_riflesse_nel_lago_di_Braies.jpg>)
+_Lago di Braies, veduta sullo specchio d'acqua e sulle pareti dolomitiche. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Dolomiti_riflesse_nel_lago_di_Braies.jpg>)._
+![Parco naturale Fanes-Senes-Braies](<https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Parco_Naturale_Fanes_-_Sennes_-_Braies_%28BZ%29.jpg/1280px-Parco_Naturale_Fanes_-_Sennes_-_Braies_%28BZ%29.jpg>)
+_Parco naturale Fanes-Senes-Braies. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Parco_Naturale_Fanes_-_Sennes_-_Braies_(BZ).jpg>)._
+![Alpe di Sennes](<https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Alpe_di_Sennes.jpg/1280px-Alpe_di_Sennes.jpg>)
+_Alpe di Sennes. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Alpe_di_Sennes.jpg>)._
 
 ---
 
 ### Inquadramento
 
-Il sito richiesto dalil percorso unisce due livelli di lettura: da un lato le **Dolomiti** come grande patrimonio naturale alpino, dall'altro il **lago di Braies** come luogo puntuale, riconoscibile e molto frequentato, situato nella Provincia autonoma di Bolzano. La località appartiene alla Val di Braies, laterale della Val Pusteria, in un contesto montano dove il paesaggio è segnato da pareti rocciose chiare, boschi di conifere, ghiaioni, altipiani carsici e laghi alpini.
+Il sito richiesto dal percorso unisce due livelli di lettura: da un lato le **Dolomiti** come grande patrimonio naturale alpino, dall'altro il **lago di Braies** come luogo puntuale, riconoscibile e molto frequentato, situato nella Provincia autonoma di Bolzano. La località appartiene alla Val di Braies, laterale della Val Pusteria, in un contesto montano dove il paesaggio è segnato da pareti rocciose chiare, boschi di conifere, ghiaioni, altipiani carsici e laghi alpini.
 
 Per la spiegazione conviene non descrivere il lago come semplice "cartolina": è utile spiegare perché Braies è un caso emblematico di **paesaggio dolomitico**, cioè un sistema in cui geologia, forme del rilievo, vegetazione, turismo e tutela ambientale sono strettamente connessi.
 
@@ -205,7 +205,7 @@ Nella spiegazione è sufficiente mostrare consapevolezza: non serve fare una lez
 
 #### Percorso narrativo breve
 
-> Il sito "Dolomiti e lago di Braies" richiesto dalil percorso si trova nella Provincia autonoma di Bolzano, nel comune di Braies, in un'area laterale della Val Pusteria. È uno dei paesaggi più riconoscibili dell'Alto Adige: uno specchio d'acqua alpino, celebre per le tonalità verdi e azzurre, inserito in una conca dominata dalle pareti dolomitiche della Croda del Becco. La sua immagine è molto nota, ma per una guida turistica è importante andare oltre la dimensione fotografica e spiegare perché questo luogo sia significativo dal punto di vista naturale, paesaggistico, geologico e turistico.
+> Il sito "Dolomiti e lago di Braies" richiesto dal percorso si trova nella Provincia autonoma di Bolzano, nel comune di Braies, in un'area laterale della Val Pusteria. È uno dei paesaggi più riconoscibili dell'Alto Adige: uno specchio d'acqua alpino, celebre per le tonalità verdi e azzurre, inserito in una conca dominata dalle pareti dolomitiche della Croda del Becco. La sua immagine è molto nota, ma per una guida turistica è importante andare oltre la dimensione fotografica e spiegare perché questo luogo sia significativo dal punto di vista naturale, paesaggistico, geologico e turistico.
 >
 > Il primo elemento da chiarire è il rapporto con le Dolomiti. Le Dolomiti sono patrimonio naturale UNESCO dal 2009. Il riconoscimento si basa su due criteri: da un lato l'eccezionale bellezza estetica, dall'altro il valore geologico e geomorfologico. La bellezza è data da forme molto riconoscibili: pareti verticali, torri, guglie, pinnacoli, altipiani, ghiaioni e forti contrasti tra roccia chiara, prati, boschi e acqua. Il valore geologico riguarda invece la possibilità di leggere nelle rocce una storia molto antica, legata ad ambienti marini, piattaforme carbonatiche, processi tettonici, erosione, glacialismo e carsismo. Le Dolomiti sono quindi un paesaggio spettacolare, ma anche un grande documento naturale.
 >
@@ -351,7 +351,7 @@ Perché Braies è un esempio molto chiaro di luogo naturale diventato estremamen
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [UNESCO World Heritage Centre, "The Dolomites"](https://whc.unesco.org/en/list/1237/)
 - [UNESCO World Heritage Centre, Decision 33 COM 8B.6](https://whc.unesco.org/en/decisions/1948/)

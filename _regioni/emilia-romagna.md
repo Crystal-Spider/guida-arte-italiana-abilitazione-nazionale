@@ -22,11 +22,11 @@ L'Emilia-Romagna mette in relazione città d'arte, vie storiche, capitali tardoa
 
 ## Monumenti Paleocristiani di Ravenna e Domus dei tappeti di pietra
 
-![Mosaico di Giustiniano nella Basilica di San Vitale](<https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg>)
-_Mosaico di Giustiniano nella Basilica di San Vitale. [Fonte immagine](<https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg>)._
+![Mosaico di Giustiniano nella Basilica di San Vitale](<https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/1280px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg>)
+_Mosaico di Giustiniano nella Basilica di San Vitale. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_(Ravenna).jpg>)._
 
-![Domus dei tappeti di pietra](https://commons.wikimedia.org/wiki/Special:FilePath/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg)
-_Domus dei tappeti di pietra. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg)._
+![Domus dei tappeti di pietra](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/DOMUS_DEI_TAPPETI_DI_PIETRA.jpg/1280px-DOMUS_DEI_TAPPETI_DI_PIETRA.jpg>)
+_Domus dei tappeti di pietra. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:DOMUS_DEI_TAPPETI_DI_PIETRA.jpg>)._
 
 ### Inquadramento
 
@@ -147,8 +147,8 @@ Errore da evitare: confondere paleocristiano e bizantino come sinonimi. A Ravenn
 
 ## Duomo e Battistero di Parma
 
-![Battistero di Parma](https://commons.wikimedia.org/wiki/Special:FilePath/Battistero_Parma.jpg)
-_Battistero di Parma. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Battistero_Parma.jpg)._
+![Battistero di Parma](<https://upload.wikimedia.org/wikipedia/commons/b/b9/Battistero_Parma.jpg>)
+_Battistero di Parma. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Battistero_Parma.jpg>)._
 
 ### Inquadramento
 
@@ -224,8 +224,8 @@ Errore da evitare: parlare solo del Battistero e dimenticare il Duomo. Il percor
 
 ## Complesso monumentale della Pilotta
 
-![Palazzo della Pilotta](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_della_Pilotta_-_Parma.jpg)
-_Palazzo della Pilotta. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_della_Pilotta_-_Parma.jpg)._
+![Palazzo della Pilotta](<https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Palazzo_della_Pilotta_-_Parma.jpg/1280px-Palazzo_della_Pilotta_-_Parma.jpg>)
+_Palazzo della Pilotta. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Palazzo_della_Pilotta_-_Parma.jpg>)._
 
 ### Inquadramento
 
@@ -296,8 +296,8 @@ Questa frase ti consente di tenere insieme edificio, storia, funzioni e collezio
 
 ## Ferrara, Città del Rinascimento, Castello Estense e Delta del Po
 
-![Castello Estense di Ferrara](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Estense,_Ferrara_2014_148.jpg)
-_Castello Estense di Ferrara. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Castello_Estense,_Ferrara_2014_148.jpg)._
+![Castello Estense di Ferrara](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Castello_Estense%2C_Ferrara_2014_148.jpg/1280px-Castello_Estense%2C_Ferrara_2014_148.jpg>)
+_Castello Estense di Ferrara. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Castello_Estense,_Ferrara_2014_148.jpg>)._
 
 ### Inquadramento
 
@@ -374,8 +374,8 @@ Errore da evitare: parlare solo del Castello Estense. Il percorso chiede esplici
 
 ## Duomo e Palazzo Ducale di Modena
 
-![Duomo di Modena](https://commons.wikimedia.org/wiki/Special:FilePath/Modena_Cathedral_Duomo_Exterior.jpg)
-_Duomo di Modena. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Modena_Cathedral_Duomo_Exterior.jpg)._
+![Duomo di Modena](<https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Modena_Cathedral_Duomo_Exterior.jpg/1280px-Modena_Cathedral_Duomo_Exterior.jpg>)
+_Duomo di Modena. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Modena_Cathedral_Duomo_Exterior.jpg>)._
 
 ### Inquadramento
 
@@ -447,8 +447,8 @@ Errore da evitare: dimenticare il Palazzo Ducale o trattarlo come semplice "pala
 
 ## Torre degli Asinelli e Torre della Garisenda
 
-![Torri degli Asinelli e della Garisenda](https://commons.wikimedia.org/wiki/Special:FilePath/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg)
-_Torri degli Asinelli e della Garisenda. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg)._
+![Torri degli Asinelli e della Garisenda](<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg/1280px-Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg>)
+_Torri degli Asinelli e della Garisenda. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Asinelli_Tower_and_Garisenda_Tower_Bologna_Italy.jpg>)._
 
 ### Inquadramento
 
@@ -516,8 +516,8 @@ Errore da evitare: trasformare la risposta in una descrizione turistica "salire 
 
 ## Museo Nazionale di Ravenna
 
-![Museo Nazionale di Ravenna](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ravenna%2C_Museo_nazionale_%2803%29.jpg/1280px-Ravenna%2C_Museo_nazionale_%2803%29.jpg)
-_Museo Nazionale di Ravenna. [Fonte immagine](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ravenna%2C_Museo_nazionale_%2803%29.jpg/1280px-Ravenna%2C_Museo_nazionale_%2803%29.jpg)._
+![Museo Nazionale di Ravenna](<https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ravenna%2C_Museo_nazionale_%2803%29.jpg/1280px-Ravenna%2C_Museo_nazionale_%2803%29.jpg>)
+_Museo Nazionale di Ravenna. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Ravenna,_Museo_nazionale_(03).jpg>)._
 
 ### Inquadramento
 
@@ -589,8 +589,8 @@ Non trasformare il museo in una lista di collezioni. Usa invece questa formula:
 
 ### Percorso narrativo breve
 
-![Area archeologica di Marzabotto](https://commons.wikimedia.org/wiki/Special:FilePath/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg)
-_Area archeologica di Marzabotto. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg)._
+![Area archeologica di Marzabotto](<https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg/1280px-Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg>)
+_Area archeologica di Marzabotto. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Marzabotto_citt%C3%A0_etrusca_casa_nr_6.jpg>)._
 
 > Buongiorno, iniziamo la nostra visita all'area archeologica di Marzabotto, identificata con l'antica città etrusca di Kainua. Siamo nell'Appennino bolognese, lungo la valle del Reno, in una posizione strategica che nell'antichità collegava l'Etruria tirrenica con la Pianura Padana e con l'area adriatica. Proprio questa posizione spiega la fortuna del sito: Kainua era un centro urbano inserito in una rete di traffici, scambi e relazioni culturali.
 >
@@ -608,8 +608,8 @@ _Area archeologica di Marzabotto. [Fonte immagine](https://commons.wikimedia.org
 
 ### Percorso narrativo breve
 
-![Portici di Bologna](https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_portici_via_indipendenza.jpg)
-_Portici di Bologna. [Fonte immagine](https://commons.wikimedia.org/wiki/Special:FilePath/Bologna_portici_via_indipendenza.jpg)._
+![Portici di Bologna](<https://upload.wikimedia.org/wikipedia/commons/a/a5/Bologna_portici_via_indipendenza.jpg>)
+_Portici di Bologna. [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Bologna_portici_via_indipendenza.jpg>)._
 
 > Buongiorno, oggi presentiamo uno degli elementi più caratteristici dell'identità urbana di Bologna: i suoi portici. I portici bolognesi sono stati riconosciuti patrimonio mondiale UNESCO nel 2021 come sito seriale, composto da diversi tratti rappresentativi della città. La loro importanza non è solo architettonica: sono un modo di abitare, attraversare e condividere lo spazio urbano.
 >
@@ -687,7 +687,7 @@ I monumenti mostrano il patrimonio in situ; il museo consente di studiare oggett
 
 ---
 
-## Fonti principali consultate
+## Riferimenti consultati
 
 - [UNESCO World Heritage Centre, "Early Christian Monuments of Ravenna"](https://whc.unesco.org/en/list/788/)
 - [Ministero della Cultura / UNESCO Italia, "Early Christian Monuments of Ravenna"](https://unesco.cultura.gov.it/en/projects/early-christian-monuments-of-ravenna/)
